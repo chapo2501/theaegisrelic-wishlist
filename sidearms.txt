@@ -1,3 +1,4 @@
+// Sidearms - 2025-03-25T16:24:33.933Z
 dimwishlist:item=414045521&perks=776531651,2048641572#notes:Insurmountable - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=414045521&perks=776531651,1926441324#notes:Insurmountable - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=414045521&perks=2541826827,2048641572#notes:Insurmountable - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic

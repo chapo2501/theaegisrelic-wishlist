@@ -1,3 +1,4 @@
+// BGLs - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1762785663&perks=776531651,2048641572#notes:VS Velocity Baton - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1762785663&perks=776531651,1926441324#notes:VS Velocity Baton - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1762785663&perks=2541826827,2048641572#notes:VS Velocity Baton - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic

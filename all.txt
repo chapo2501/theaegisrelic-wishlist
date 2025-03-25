@@ -1,4 +1,4 @@
-// Shotguns
+// Shotguns - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1298672084&perks=777589559,2679249093#notes:Perfect Paradox - Field Prep + One-Two Punch -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1298672084&perks=777589559,788178929#notes:Perfect Paradox - Field Prep + One-Two Punch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1298672084&perks=2308090567,2679249093#notes:Perfect Paradox - Field Prep (Enhanced) + One-Two Punch -- Rank 1, Tier S by TheAegisRelic
@@ -1654,7 +1654,7 @@ dimwishlist:item=3216652511&perks=509074078,1161469972#notes:Reckless Endangerme
 dimwishlist:item=3216652511&perks=843318450,4082225868#notes:Reckless Endangerment - Steady Hands (Enhanced) + Swashbuckler -- Rank 51, Tier F by TheAegisRelic
 dimwishlist:item=3216652511&perks=843318450,1161469972#notes:Reckless Endangerment - Steady Hands (Enhanced) + Swashbuckler (Enhanced) -- Rank 51, Tier F by TheAegisRelic
 
-// Snipers
+// Snipers - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1987769101&perks=1354429876,3078487919#notes:Praedyth's Revenge (Timelost) - Fourth Time's the Charm + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1987769101&perks=1354429876,3744057135#notes:Praedyth's Revenge (Timelost) - Fourth Time's the Charm + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1987769101&perks=848860060,3078487919#notes:Praedyth's Revenge (Timelost) - Fourth Time's the Charm (Enhanced) + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
@@ -3004,7 +3004,7 @@ dimwishlist:item=2164448701&perks=1556840489,2675361166#notes:Apostate - Lead fr
 dimwishlist:item=2164448701&perks=3442762221,3592538738#notes:Apostate - Lead from Gold (Enhanced) + Wellspring -- Rank 47, Tier F by TheAegisRelic
 dimwishlist:item=2164448701&perks=3442762221,2675361166#notes:Apostate - Lead from Gold (Enhanced) + Wellspring (Enhanced) -- Rank 47, Tier F by TheAegisRelic
 
-// Fusions
+// Fusions - 2025-03-25T16:24:33.933Z
 dimwishlist:item=2558925366&perks=3643424744,2594592626#notes:Scatter Signal - Overflow + Controlled Burst -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2558925366&perks=3643424744,2037312142#notes:Scatter Signal - Overflow + Controlled Burst (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2558925366&perks=2682205016,2594592626#notes:Scatter Signal - Overflow (Enhanced) + Controlled Burst -- Rank 1, Tier S by TheAegisRelic
@@ -3822,7 +3822,7 @@ dimwishlist:item=3512349612&perks=2010801679,859780267#notes:Coriolis Force - Am
 dimwishlist:item=3512349612&perks=3797647183,4049631843#notes:Coriolis Force - Ambitious Assassin (Enhanced) + One for All -- Rank 35, Tier F by TheAegisRelic
 dimwishlist:item=3512349612&perks=3797647183,859780267#notes:Coriolis Force - Ambitious Assassin (Enhanced) + One for All (Enhanced) -- Rank 35, Tier F by TheAegisRelic
 
-// BGLs
+// BGLs - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1762785663&perks=776531651,2048641572#notes:VS Velocity Baton - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1762785663&perks=776531651,1926441324#notes:VS Velocity Baton - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1762785663&perks=2541826827,2048641572#notes:VS Velocity Baton - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
@@ -4948,7 +4948,7 @@ dimwishlist:item=3252697558&perks=1631667848,2541826827#notes:Truthteller - Grav
 dimwishlist:item=3252697558&perks=402033656,776531651#notes:Truthteller - Grave Robber (Enhanced) + Repulsor Brace -- Rank 25, Tier F by TheAegisRelic
 dimwishlist:item=3252697558&perks=402033656,2541826827#notes:Truthteller - Grave Robber (Enhanced) + Repulsor Brace (Enhanced) -- Rank 25, Tier F by TheAegisRelic
 
-// Glaives
+// Glaives - 2025-03-25T16:24:33.933Z
 dimwishlist:item=2298039571&perks=3643424744,2978966579#notes:Rake Angle - Overflow + Chill Clip -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2298039571&perks=3643424744,344235611#notes:Rake Angle - Overflow + Chill Clip (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2298039571&perks=2682205016,2978966579#notes:Rake Angle - Overflow (Enhanced) + Chill Clip -- Rank 1, Tier S by TheAegisRelic
@@ -5494,7 +5494,7 @@ dimwishlist:item=2534546147&perks=2172504645,3102670337#notes:Lubrae's Ruin - Sl
 dimwishlist:item=2534546147&perks=1172098417,2224838837#notes:Lubrae's Ruin - Sleight of Hand (Enhanced) + Unstoppable Force -- Rank 12, Tier C by TheAegisRelic
 dimwishlist:item=2534546147&perks=1172098417,3102670337#notes:Lubrae's Ruin - Sleight of Hand (Enhanced) + Unstoppable Force (Enhanced) -- Rank 12, Tier C by TheAegisRelic
 
-// Traces
+// Traces - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1886840007&perks=3700496672,2048641572#notes:Chronophage - Shoot to Loot + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1886840007&perks=3700496672,1926441324#notes:Chronophage - Shoot to Loot + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1886840007&perks=2840833776,2048641572#notes:Chronophage - Shoot to Loot (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
@@ -5720,7 +5720,7 @@ dimwishlist:item=4248997900&perks=923806249,102912326#notes:Incisor - Slice + Ha
 dimwishlist:item=4248997900&perks=3422796781,831391274#notes:Incisor - Slice (Enhanced) + Hatchling -- Rank 10, Tier D by TheAegisRelic
 dimwishlist:item=4248997900&perks=3422796781,102912326#notes:Incisor - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 10, Tier D by TheAegisRelic
 
-// Rocket Sidearms
+// Rocket Sidearms - 2025-03-25T16:24:33.933Z
 dimwishlist:item=2198166292&perks=3017780555,4293542123#notes:Aberrant Action - Heal Clip + Incandescent -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2198166292&perks=3017780555,2675184851#notes:Aberrant Action - Heal Clip + Incandescent (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2198166292&perks=4223976499,4293542123#notes:Aberrant Action - Heal Clip (Enhanced) + Incandescent -- Rank 1, Tier S by TheAegisRelic
@@ -5888,7 +5888,7 @@ dimwishlist:item=3947966653&perks=3523296417,859780267#notes:The Call - Demoliti
 dimwishlist:item=3947966653&perks=1906147653,4049631843#notes:The Call - Demolitionist (Enhanced) + One for All -- Rank 5, Tier B by TheAegisRelic
 dimwishlist:item=3947966653&perks=1906147653,859780267#notes:The Call - Demolitionist (Enhanced) + One for All (Enhanced) -- Rank 5, Tier B by TheAegisRelic
 
-// LMGs
+// LMGs - 2025-03-25T16:24:33.933Z
 dimwishlist:item=4230965989&perks=1523832109,557221067#notes:Commemoration - Reconstruction + Killing Tally -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=4230965989&perks=1523832109,2896748467#notes:Commemoration - Reconstruction + Killing Tally (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=4230965989&perks=461595545,557221067#notes:Commemoration - Reconstruction (Enhanced) + Killing Tally -- Rank 1, Tier S by TheAegisRelic
@@ -7036,7 +7036,7 @@ dimwishlist:item=105306149&perks=2621346526,2939589096#notes:Eleatic Principle -
 dimwishlist:item=105306149&perks=2495011826,365154968#notes:Eleatic Principle - Ensemble (Enhanced) + Target Lock -- Rank 27, Tier F by TheAegisRelic
 dimwishlist:item=105306149&perks=2495011826,2939589096#notes:Eleatic Principle - Ensemble (Enhanced) + Target Lock (Enhanced) -- Rank 27, Tier F by TheAegisRelic
 
-// HGLs
+// HGLs - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1762785662&perks=3987942396,3078487919#notes:VS Chill Inhibitor - Envious Arsenal + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1762785662&perks=3987942396,3744057135#notes:VS Chill Inhibitor - Envious Arsenal + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1762785662&perks=2817499044,3078487919#notes:VS Chill Inhibitor - Envious Arsenal (Enhanced) + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
@@ -7616,7 +7616,7 @@ dimwishlist:item=1983332562&perks=777589559,3528046508#notes:Berenger's Memory -
 dimwishlist:item=1983332562&perks=2308090567,3300816228#notes:Berenger's Memory - Field Prep (Enhanced) + Auto-Loading Holster -- Rank 24, Tier F by TheAegisRelic
 dimwishlist:item=1983332562&perks=2308090567,3528046508#notes:Berenger's Memory - Field Prep (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 24, Tier F by TheAegisRelic
 
-// Swords
+// Swords - 2025-03-25T16:24:33.933Z
 dimwishlist:item=243425374&perks=2396489472,2077819806#notes:Falling Guillotine - Chain Reaction + Eager Edge -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=243425374&perks=2396489472,1618208178#notes:Falling Guillotine - Chain Reaction + Eager Edge (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=243425374&perks=598607952,2077819806#notes:Falling Guillotine - Chain Reaction (Enhanced) + Eager Edge -- Rank 1, Tier S by TheAegisRelic
@@ -8294,7 +8294,7 @@ dimwishlist:item=4066778670&perks=1749209109,4290541820#notes:Thin Precipice - R
 dimwishlist:item=4066778670&perks=4085959009,2610012052#notes:Thin Precipice - Relentless Strikes (Enhanced) + Golden Tricorn -- Rank 34, Tier F by TheAegisRelic
 dimwishlist:item=4066778670&perks=4085959009,4290541820#notes:Thin Precipice - Relentless Strikes (Enhanced) + Golden Tricorn (Enhanced) -- Rank 34, Tier F by TheAegisRelic
 
-// Rockets
+// Rockets - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1921159786&perks=3987942396,3078487919#notes:Hezen Vengeance (Timelost) - Envious Arsenal + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1921159786&perks=3987942396,3744057135#notes:Hezen Vengeance (Timelost) - Envious Arsenal + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1921159786&perks=2817499044,3078487919#notes:Hezen Vengeance (Timelost) - Envious Arsenal (Enhanced) + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
@@ -9224,7 +9224,7 @@ dimwishlist:item=42351395&perks=2010801679,1906147653#notes:Subzero Salvo - Ambi
 dimwishlist:item=42351395&perks=3797647183,3523296417#notes:Subzero Salvo - Ambitious Assassin (Enhanced) + Demolitionist -- Rank 26, Tier E by TheAegisRelic
 dimwishlist:item=42351395&perks=3797647183,1906147653#notes:Subzero Salvo - Ambitious Assassin (Enhanced) + Demolitionist (Enhanced) -- Rank 26, Tier E by TheAegisRelic
 
-// LFRs
+// LFRs - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1492522228&perks=2578928832,3078487919#notes:Scintillation (Adept) - Rewind Rounds + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1492522228&perks=2578928832,3744057135#notes:Scintillation (Adept) - Rewind Rounds + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1492522228&perks=1563455254,3078487919#notes:Scintillation (Adept) - Rewind Rounds (Enhanced) + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
@@ -9454,7 +9454,7 @@ dimwishlist:item=2714022207&perks=588594999,2002547233#notes:Corsair's Wrath - M
 dimwishlist:item=2714022207&perks=2717805783,2213355989#notes:Corsair's Wrath - Moving Target (Enhanced) + High-Impact Reserves -- Rank 17, Tier E by TheAegisRelic
 dimwishlist:item=2714022207&perks=2717805783,2002547233#notes:Corsair's Wrath - Moving Target (Enhanced) + High-Impact Reserves (Enhanced) -- Rank 17, Tier E by TheAegisRelic
 
-// Autos
+// Autos - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1801007332&perks=2980589453,4293542123#notes:No Hesitation - Physic + Incandescent -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1801007332&perks=2980589453,2675184851#notes:No Hesitation - Physic + Incandescent (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1801007332&perks=4063561849,4293542123#notes:No Hesitation - Physic (Enhanced) + Incandescent -- Rank 1, Tier S by TheAegisRelic
@@ -10744,7 +10744,7 @@ dimwishlist:item=3762467078&perks=1820235745,2422968039#notes:Scathelocke - Subs
 dimwishlist:item=3762467078&perks=4245865861,11612903#notes:Scathelocke - Subsistence (Enhanced) + Adrenaline Junkie -- Rank 45, Tier F by TheAegisRelic
 dimwishlist:item=3762467078&perks=4245865861,2422968039#notes:Scathelocke - Subsistence (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 45, Tier F by TheAegisRelic
 
-// Bows
+// Bows - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1039915310&perks=2848615171,2173046394#notes:Non-Denouement (Adept) - Dragonfly + Voltshot -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1039915310&perks=2848615171,1720528630#notes:Non-Denouement (Adept) - Dragonfly + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1039915310&perks=169755979,2173046394#notes:Non-Denouement (Adept) - Dragonfly (Enhanced) + Voltshot -- Rank 1, Tier S by TheAegisRelic
@@ -11430,7 +11430,7 @@ dimwishlist:item=2848549302&perks=691659142,3418165135#notes:Neoptolemus II - Pu
 dimwishlist:item=2848549302&perks=536173722,1546637391#notes:Neoptolemus II - Pugilist (Enhanced) + Vorpal Weapon -- Rank 23, Tier E by TheAegisRelic
 dimwishlist:item=2848549302&perks=536173722,3418165135#notes:Neoptolemus II - Pugilist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 23, Tier E by TheAegisRelic
 
-// HCs
+// HCs - 2025-03-25T16:24:33.933Z
 dimwishlist:item=120706239&perks=776531651,2048641572#notes:Word of Crota - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=120706239&perks=776531651,1926441324#notes:Word of Crota - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=120706239&perks=2541826827,2048641572#notes:Word of Crota - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
@@ -12848,7 +12848,7 @@ dimwishlist:item=1875512595&perks=1119449540,2562668800#notes:Kept Confidence - 
 dimwishlist:item=1875512595&perks=561986700,3324494224#notes:Kept Confidence - Loose Change (Enhanced) + Collective Action -- Rank 52, Tier F by TheAegisRelic
 dimwishlist:item=1875512595&perks=561986700,2562668800#notes:Kept Confidence - Loose Change (Enhanced) + Collective Action (Enhanced) -- Rank 52, Tier F by TheAegisRelic
 
-// Pulses
+// Pulses - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1621558458&perks=776531651,2048641572#notes:Gridskipper - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1621558458&perks=776531651,1926441324#notes:Gridskipper - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1621558458&perks=2541826827,2048641572#notes:Gridskipper - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
@@ -13786,7 +13786,7 @@ dimwishlist:item=2870169846&perks=1168162263,1906147653#notes:Hailing Confusion 
 dimwishlist:item=2870169846&perks=1347741687,3523296417#notes:Hailing Confusion - Outlaw (Enhanced) + Demolitionist -- Rank 51, Tier F by TheAegisRelic
 dimwishlist:item=2870169846&perks=1347741687,1906147653#notes:Hailing Confusion - Outlaw (Enhanced) + Demolitionist (Enhanced) -- Rank 51, Tier F by TheAegisRelic
 
-// Scouts
+// Scouts - 2025-03-25T16:24:33.933Z
 dimwishlist:item=2226158470&perks=1561789734,2173046394#notes:Unworthy - Firefly + Voltshot -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2226158470&perks=1561789734,1720528630#notes:Unworthy - Firefly + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2226158470&perks=1183436451,2173046394#notes:Unworthy - Firefly (Enhanced) + Voltshot -- Rank 1, Tier S by TheAegisRelic
@@ -14992,7 +14992,7 @@ dimwishlist:item=2478792241&perks=2039302152,3418165135#notes:The Scholar - Slid
 dimwishlist:item=2478792241&perks=2396422520,1546637391#notes:The Scholar - Slideways (Enhanced) + Vorpal Weapon -- Rank 39, Tier F by TheAegisRelic
 dimwishlist:item=2478792241&perks=2396422520,3418165135#notes:The Scholar - Slideways (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 39, Tier F by TheAegisRelic
 
-// Sidearms
+// Sidearms - 2025-03-25T16:24:33.933Z
 dimwishlist:item=414045521&perks=776531651,2048641572#notes:Insurmountable - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=414045521&perks=776531651,1926441324#notes:Insurmountable - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=414045521&perks=2541826827,2048641572#notes:Insurmountable - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
@@ -15758,7 +15758,7 @@ dimwishlist:item=1197486957&perks=4071163871,1906147653#notes:High Albedo - Thre
 dimwishlist:item=1197486957&perks=494941759,3523296417#notes:High Albedo - Threat Detector (Enhanced) + Demolitionist -- Rank 32, Tier F by TheAegisRelic
 dimwishlist:item=1197486957&perks=494941759,1906147653#notes:High Albedo - Threat Detector (Enhanced) + Demolitionist (Enhanced) -- Rank 32, Tier F by TheAegisRelic
 
-// SMGs
+// SMGs - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1050806815&perks=776531651,2048641572#notes:The Recluse - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1050806815&perks=776531651,1926441324#notes:The Recluse - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1050806815&perks=2541826827,2048641572#notes:The Recluse - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic

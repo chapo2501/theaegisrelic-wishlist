@@ -1,3 +1,4 @@
+// Bows - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1039915310&perks=2848615171,2173046394#notes:Non-Denouement (Adept) - Dragonfly + Voltshot -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1039915310&perks=2848615171,1720528630#notes:Non-Denouement (Adept) - Dragonfly + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1039915310&perks=169755979,2173046394#notes:Non-Denouement (Adept) - Dragonfly (Enhanced) + Voltshot -- Rank 1, Tier S by TheAegisRelic

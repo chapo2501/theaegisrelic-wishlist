@@ -1,3 +1,4 @@
+// Glaives - 2025-03-25T16:24:33.933Z
 dimwishlist:item=2298039571&perks=3643424744,2978966579#notes:Rake Angle - Overflow + Chill Clip -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2298039571&perks=3643424744,344235611#notes:Rake Angle - Overflow + Chill Clip (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2298039571&perks=2682205016,2978966579#notes:Rake Angle - Overflow (Enhanced) + Chill Clip -- Rank 1, Tier S by TheAegisRelic

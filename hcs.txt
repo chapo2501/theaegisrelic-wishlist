@@ -1,3 +1,4 @@
+// HCs - 2025-03-25T16:24:33.933Z
 dimwishlist:item=120706239&perks=776531651,2048641572#notes:Word of Crota - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=120706239&perks=776531651,1926441324#notes:Word of Crota - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=120706239&perks=2541826827,2048641572#notes:Word of Crota - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic

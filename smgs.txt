@@ -1,3 +1,4 @@
+// SMGs - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1050806815&perks=776531651,2048641572#notes:The Recluse - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1050806815&perks=776531651,1926441324#notes:The Recluse - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1050806815&perks=2541826827,2048641572#notes:The Recluse - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic

@@ -1,3 +1,4 @@
+// Rocket Sidearms - 2025-03-25T16:24:33.933Z
 dimwishlist:item=2198166292&perks=3017780555,4293542123#notes:Aberrant Action - Heal Clip + Incandescent -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2198166292&perks=3017780555,2675184851#notes:Aberrant Action - Heal Clip + Incandescent (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=2198166292&perks=4223976499,4293542123#notes:Aberrant Action - Heal Clip (Enhanced) + Incandescent -- Rank 1, Tier S by TheAegisRelic

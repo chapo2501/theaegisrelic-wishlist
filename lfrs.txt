@@ -1,3 +1,4 @@
+// LFRs - 2025-03-25T16:24:33.933Z
 dimwishlist:item=1492522228&perks=2578928832,3078487919#notes:Scintillation (Adept) - Rewind Rounds + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1492522228&perks=2578928832,3744057135#notes:Scintillation (Adept) - Rewind Rounds + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
 dimwishlist:item=1492522228&perks=1563455254,3078487919#notes:Scintillation (Adept) - Rewind Rounds (Enhanced) + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
