@@ -1,0 +1,1124 @@
+dimwishlist:item=1762785663&perks=776531651,2048641572#notes:VS Velocity Baton - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=776531651,1926441324#notes:VS Velocity Baton - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=2541826827,2048641572#notes:VS Velocity Baton - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=2541826827,1926441324#notes:VS Velocity Baton - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=776531651,243981275#notes:VS Velocity Baton - Repulsor Brace + Attrition Orbs -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=776531651,984655331#notes:VS Velocity Baton - Repulsor Brace + Attrition Orbs (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=2541826827,243981275#notes:VS Velocity Baton - Repulsor Brace (Enhanced) + Attrition Orbs -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=2541826827,984655331#notes:VS Velocity Baton - Repulsor Brace (Enhanced) + Attrition Orbs (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=3523296417,2048641572#notes:VS Velocity Baton - Demolitionist + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=3523296417,1926441324#notes:VS Velocity Baton - Demolitionist + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=1906147653,2048641572#notes:VS Velocity Baton - Demolitionist (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=1906147653,1926441324#notes:VS Velocity Baton - Demolitionist (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=3523296417,243981275#notes:VS Velocity Baton - Demolitionist + Attrition Orbs -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=3523296417,984655331#notes:VS Velocity Baton - Demolitionist + Attrition Orbs (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=1906147653,243981275#notes:VS Velocity Baton - Demolitionist (Enhanced) + Attrition Orbs -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1762785663&perks=1906147653,984655331#notes:VS Velocity Baton - Demolitionist (Enhanced) + Attrition Orbs (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3300816228,4104185692#notes:The Mountaintop - Auto-Loading Holster + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3300816228,3007133316#notes:The Mountaintop - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3528046508,4104185692#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3528046508,3007133316#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3300816228,469285294#notes:The Mountaintop - Auto-Loading Holster + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3300816228,3335686050#notes:The Mountaintop - Auto-Loading Holster + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3528046508,469285294#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3528046508,3335686050#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3300816228,1546637391#notes:The Mountaintop - Auto-Loading Holster + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3300816228,3418165135#notes:The Mountaintop - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3528046508,1546637391#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3528046508,3418165135#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3643424744,4104185692#notes:The Mountaintop - Overflow + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3643424744,3007133316#notes:The Mountaintop - Overflow + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=2682205016,4104185692#notes:The Mountaintop - Overflow (Enhanced) + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=2682205016,3007133316#notes:The Mountaintop - Overflow (Enhanced) + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3643424744,469285294#notes:The Mountaintop - Overflow + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3643424744,3335686050#notes:The Mountaintop - Overflow + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=2682205016,469285294#notes:The Mountaintop - Overflow (Enhanced) + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=2682205016,3335686050#notes:The Mountaintop - Overflow (Enhanced) + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3643424744,1546637391#notes:The Mountaintop - Overflow + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3643424744,3418165135#notes:The Mountaintop - Overflow + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=2682205016,1546637391#notes:The Mountaintop - Overflow (Enhanced) + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=2682205016,3418165135#notes:The Mountaintop - Overflow (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=951095735,4104185692#notes:The Mountaintop - Impulse Amplifier + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=951095735,3007133316#notes:The Mountaintop - Impulse Amplifier + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3878366039,4104185692#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3878366039,3007133316#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=951095735,469285294#notes:The Mountaintop - Impulse Amplifier + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=951095735,3335686050#notes:The Mountaintop - Impulse Amplifier + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3878366039,469285294#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3878366039,3335686050#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=951095735,1546637391#notes:The Mountaintop - Impulse Amplifier + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=951095735,3418165135#notes:The Mountaintop - Impulse Amplifier + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3878366039,1546637391#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=568611922&perks=3878366039,3418165135#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3300816228,4104185692#notes:The Mountaintop - Auto-Loading Holster + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3300816228,3007133316#notes:The Mountaintop - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3528046508,4104185692#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3528046508,3007133316#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3300816228,469285294#notes:The Mountaintop - Auto-Loading Holster + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3300816228,3335686050#notes:The Mountaintop - Auto-Loading Holster + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3528046508,469285294#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3528046508,3335686050#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3300816228,1546637391#notes:The Mountaintop - Auto-Loading Holster + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3300816228,3418165135#notes:The Mountaintop - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3528046508,1546637391#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3528046508,3418165135#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3643424744,4104185692#notes:The Mountaintop - Overflow + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3643424744,3007133316#notes:The Mountaintop - Overflow + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=2682205016,4104185692#notes:The Mountaintop - Overflow (Enhanced) + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=2682205016,3007133316#notes:The Mountaintop - Overflow (Enhanced) + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3643424744,469285294#notes:The Mountaintop - Overflow + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3643424744,3335686050#notes:The Mountaintop - Overflow + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=2682205016,469285294#notes:The Mountaintop - Overflow (Enhanced) + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=2682205016,3335686050#notes:The Mountaintop - Overflow (Enhanced) + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3643424744,1546637391#notes:The Mountaintop - Overflow + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3643424744,3418165135#notes:The Mountaintop - Overflow + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=2682205016,1546637391#notes:The Mountaintop - Overflow (Enhanced) + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=2682205016,3418165135#notes:The Mountaintop - Overflow (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=951095735,4104185692#notes:The Mountaintop - Impulse Amplifier + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=951095735,3007133316#notes:The Mountaintop - Impulse Amplifier + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3878366039,4104185692#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3878366039,3007133316#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=951095735,469285294#notes:The Mountaintop - Impulse Amplifier + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=951095735,3335686050#notes:The Mountaintop - Impulse Amplifier + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3878366039,469285294#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3878366039,3335686050#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=951095735,1546637391#notes:The Mountaintop - Impulse Amplifier + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=951095735,3418165135#notes:The Mountaintop - Impulse Amplifier + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3878366039,1546637391#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3993415705&perks=3878366039,3418165135#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3300816228,4104185692#notes:The Mountaintop - Auto-Loading Holster + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3300816228,3007133316#notes:The Mountaintop - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3528046508,4104185692#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3528046508,3007133316#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3300816228,469285294#notes:The Mountaintop - Auto-Loading Holster + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3300816228,3335686050#notes:The Mountaintop - Auto-Loading Holster + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3528046508,469285294#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3528046508,3335686050#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3300816228,1546637391#notes:The Mountaintop - Auto-Loading Holster + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3300816228,3418165135#notes:The Mountaintop - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3528046508,1546637391#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3528046508,3418165135#notes:The Mountaintop - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3643424744,4104185692#notes:The Mountaintop - Overflow + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3643424744,3007133316#notes:The Mountaintop - Overflow + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=2682205016,4104185692#notes:The Mountaintop - Overflow (Enhanced) + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=2682205016,3007133316#notes:The Mountaintop - Overflow (Enhanced) + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3643424744,469285294#notes:The Mountaintop - Overflow + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3643424744,3335686050#notes:The Mountaintop - Overflow + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=2682205016,469285294#notes:The Mountaintop - Overflow (Enhanced) + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=2682205016,3335686050#notes:The Mountaintop - Overflow (Enhanced) + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3643424744,1546637391#notes:The Mountaintop - Overflow + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3643424744,3418165135#notes:The Mountaintop - Overflow + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=2682205016,1546637391#notes:The Mountaintop - Overflow (Enhanced) + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=2682205016,3418165135#notes:The Mountaintop - Overflow (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=951095735,4104185692#notes:The Mountaintop - Impulse Amplifier + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=951095735,3007133316#notes:The Mountaintop - Impulse Amplifier + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3878366039,4104185692#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Frenzy -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3878366039,3007133316#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Frenzy (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=951095735,469285294#notes:The Mountaintop - Impulse Amplifier + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=951095735,3335686050#notes:The Mountaintop - Impulse Amplifier + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3878366039,469285294#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Recombination -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3878366039,3335686050#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Recombination (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=951095735,1546637391#notes:The Mountaintop - Impulse Amplifier + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=951095735,3418165135#notes:The Mountaintop - Impulse Amplifier + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3878366039,1546637391#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Vorpal Weapon -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=4043921923&perks=3878366039,3418165135#notes:The Mountaintop - Impulse Amplifier (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3987942396,1089671869#notes:Psychopomp (Adept) - Envious Arsenal + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3987942396,496047945#notes:Psychopomp (Adept) - Envious Arsenal + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2817499044,1089671869#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2817499044,496047945#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3987942396,4104185692#notes:Psychopomp (Adept) - Envious Arsenal + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3987942396,3007133316#notes:Psychopomp (Adept) - Envious Arsenal + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2817499044,4104185692#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2817499044,3007133316#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3987942396,3218042543#notes:Psychopomp (Adept) - Envious Arsenal + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3987942396,2633604463#notes:Psychopomp (Adept) - Envious Arsenal + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2817499044,3218042543#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2817499044,2633604463#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2010801679,1089671869#notes:Psychopomp (Adept) - Ambitious Assassin + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2010801679,496047945#notes:Psychopomp (Adept) - Ambitious Assassin + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3797647183,1089671869#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3797647183,496047945#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2010801679,4104185692#notes:Psychopomp (Adept) - Ambitious Assassin + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2010801679,3007133316#notes:Psychopomp (Adept) - Ambitious Assassin + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3797647183,4104185692#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3797647183,3007133316#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2010801679,3218042543#notes:Psychopomp (Adept) - Ambitious Assassin + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=2010801679,2633604463#notes:Psychopomp (Adept) - Ambitious Assassin + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3797647183,3218042543#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=3797647183,2633604463#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=691659142,1089671869#notes:Psychopomp (Adept) - Pugilist + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=691659142,496047945#notes:Psychopomp (Adept) - Pugilist + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=536173722,1089671869#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=536173722,496047945#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=691659142,4104185692#notes:Psychopomp (Adept) - Pugilist + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=691659142,3007133316#notes:Psychopomp (Adept) - Pugilist + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=536173722,4104185692#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=536173722,3007133316#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=691659142,3218042543#notes:Psychopomp (Adept) - Pugilist + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=691659142,2633604463#notes:Psychopomp (Adept) - Pugilist + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=536173722,3218042543#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=704410186&perks=536173722,2633604463#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3987942396,1089671869#notes:Psychopomp (Adept) - Envious Arsenal + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3987942396,496047945#notes:Psychopomp (Adept) - Envious Arsenal + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2817499044,1089671869#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2817499044,496047945#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3987942396,4104185692#notes:Psychopomp (Adept) - Envious Arsenal + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3987942396,3007133316#notes:Psychopomp (Adept) - Envious Arsenal + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2817499044,4104185692#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2817499044,3007133316#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3987942396,3218042543#notes:Psychopomp (Adept) - Envious Arsenal + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3987942396,2633604463#notes:Psychopomp (Adept) - Envious Arsenal + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2817499044,3218042543#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2817499044,2633604463#notes:Psychopomp (Adept) - Envious Arsenal (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2010801679,1089671869#notes:Psychopomp (Adept) - Ambitious Assassin + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2010801679,496047945#notes:Psychopomp (Adept) - Ambitious Assassin + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3797647183,1089671869#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3797647183,496047945#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2010801679,4104185692#notes:Psychopomp (Adept) - Ambitious Assassin + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2010801679,3007133316#notes:Psychopomp (Adept) - Ambitious Assassin + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3797647183,4104185692#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3797647183,3007133316#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2010801679,3218042543#notes:Psychopomp (Adept) - Ambitious Assassin + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=2010801679,2633604463#notes:Psychopomp (Adept) - Ambitious Assassin + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3797647183,3218042543#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=3797647183,2633604463#notes:Psychopomp (Adept) - Ambitious Assassin (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=691659142,1089671869#notes:Psychopomp (Adept) - Pugilist + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=691659142,496047945#notes:Psychopomp (Adept) - Pugilist + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=536173722,1089671869#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=536173722,496047945#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=691659142,4104185692#notes:Psychopomp (Adept) - Pugilist + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=691659142,3007133316#notes:Psychopomp (Adept) - Pugilist + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=536173722,4104185692#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=536173722,3007133316#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=691659142,3218042543#notes:Psychopomp (Adept) - Pugilist + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=691659142,2633604463#notes:Psychopomp (Adept) - Pugilist + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=536173722,3218042543#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2553380021&perks=536173722,2633604463#notes:Psychopomp (Adept) - Pugilist (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3987942396,1089671869#notes:Psychopomp - Envious Arsenal + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3987942396,496047945#notes:Psychopomp - Envious Arsenal + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2817499044,1089671869#notes:Psychopomp - Envious Arsenal (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2817499044,496047945#notes:Psychopomp - Envious Arsenal (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3987942396,4104185692#notes:Psychopomp - Envious Arsenal + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3987942396,3007133316#notes:Psychopomp - Envious Arsenal + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2817499044,4104185692#notes:Psychopomp - Envious Arsenal (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2817499044,3007133316#notes:Psychopomp - Envious Arsenal (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3987942396,3218042543#notes:Psychopomp - Envious Arsenal + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3987942396,2633604463#notes:Psychopomp - Envious Arsenal + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2817499044,3218042543#notes:Psychopomp - Envious Arsenal (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2817499044,2633604463#notes:Psychopomp - Envious Arsenal (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2010801679,1089671869#notes:Psychopomp - Ambitious Assassin + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2010801679,496047945#notes:Psychopomp - Ambitious Assassin + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3797647183,1089671869#notes:Psychopomp - Ambitious Assassin (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3797647183,496047945#notes:Psychopomp - Ambitious Assassin (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2010801679,4104185692#notes:Psychopomp - Ambitious Assassin + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2010801679,3007133316#notes:Psychopomp - Ambitious Assassin + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3797647183,4104185692#notes:Psychopomp - Ambitious Assassin (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3797647183,3007133316#notes:Psychopomp - Ambitious Assassin (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2010801679,3218042543#notes:Psychopomp - Ambitious Assassin + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=2010801679,2633604463#notes:Psychopomp - Ambitious Assassin + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3797647183,3218042543#notes:Psychopomp - Ambitious Assassin (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=3797647183,2633604463#notes:Psychopomp - Ambitious Assassin (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=691659142,1089671869#notes:Psychopomp - Pugilist + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=691659142,496047945#notes:Psychopomp - Pugilist + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=536173722,1089671869#notes:Psychopomp - Pugilist (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=536173722,496047945#notes:Psychopomp - Pugilist (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=691659142,4104185692#notes:Psychopomp - Pugilist + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=691659142,3007133316#notes:Psychopomp - Pugilist + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=536173722,4104185692#notes:Psychopomp - Pugilist (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=536173722,3007133316#notes:Psychopomp - Pugilist (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=691659142,3218042543#notes:Psychopomp - Pugilist + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=691659142,2633604463#notes:Psychopomp - Pugilist + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=536173722,3218042543#notes:Psychopomp - Pugilist (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3840794631&perks=536173722,2633604463#notes:Psychopomp - Pugilist (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3987942396,1089671869#notes:Psychopomp - Envious Arsenal + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3987942396,496047945#notes:Psychopomp - Envious Arsenal + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2817499044,1089671869#notes:Psychopomp - Envious Arsenal (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2817499044,496047945#notes:Psychopomp - Envious Arsenal (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3987942396,4104185692#notes:Psychopomp - Envious Arsenal + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3987942396,3007133316#notes:Psychopomp - Envious Arsenal + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2817499044,4104185692#notes:Psychopomp - Envious Arsenal (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2817499044,3007133316#notes:Psychopomp - Envious Arsenal (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3987942396,3218042543#notes:Psychopomp - Envious Arsenal + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3987942396,2633604463#notes:Psychopomp - Envious Arsenal + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2817499044,3218042543#notes:Psychopomp - Envious Arsenal (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2817499044,2633604463#notes:Psychopomp - Envious Arsenal (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2010801679,1089671869#notes:Psychopomp - Ambitious Assassin + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2010801679,496047945#notes:Psychopomp - Ambitious Assassin + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3797647183,1089671869#notes:Psychopomp - Ambitious Assassin (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3797647183,496047945#notes:Psychopomp - Ambitious Assassin (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2010801679,4104185692#notes:Psychopomp - Ambitious Assassin + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2010801679,3007133316#notes:Psychopomp - Ambitious Assassin + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3797647183,4104185692#notes:Psychopomp - Ambitious Assassin (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3797647183,3007133316#notes:Psychopomp - Ambitious Assassin (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2010801679,3218042543#notes:Psychopomp - Ambitious Assassin + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=2010801679,2633604463#notes:Psychopomp - Ambitious Assassin + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3797647183,3218042543#notes:Psychopomp - Ambitious Assassin (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=3797647183,2633604463#notes:Psychopomp - Ambitious Assassin (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=691659142,1089671869#notes:Psychopomp - Pugilist + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=691659142,496047945#notes:Psychopomp - Pugilist + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=536173722,1089671869#notes:Psychopomp - Pugilist (Enhanced) + Elemental Honing -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=536173722,496047945#notes:Psychopomp - Pugilist (Enhanced) + Elemental Honing (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=691659142,4104185692#notes:Psychopomp - Pugilist + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=691659142,3007133316#notes:Psychopomp - Pugilist + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=536173722,4104185692#notes:Psychopomp - Pugilist (Enhanced) + Frenzy -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=536173722,3007133316#notes:Psychopomp - Pugilist (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=691659142,3218042543#notes:Psychopomp - Pugilist + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=691659142,2633604463#notes:Psychopomp - Pugilist + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=536173722,3218042543#notes:Psychopomp - Pugilist (Enhanced) + Rolling Storm -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=4028298892&perks=536173722,2633604463#notes:Psychopomp - Pugilist (Enhanced) + Rolling Storm (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3300816228,1546637391#notes:Lost Signal - Auto-Loading Holster + Vorpal Weapon -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3300816228,3418165135#notes:Lost Signal - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3528046508,1546637391#notes:Lost Signal - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3528046508,3418165135#notes:Lost Signal - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3300816228,3523296417#notes:Lost Signal - Auto-Loading Holster + Demolitionist -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3300816228,1906147653#notes:Lost Signal - Auto-Loading Holster + Demolitionist (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3528046508,3523296417#notes:Lost Signal - Auto-Loading Holster (Enhanced) + Demolitionist -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3528046508,1906147653#notes:Lost Signal - Auto-Loading Holster (Enhanced) + Demolitionist (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3300816228,4049631843#notes:Lost Signal - Auto-Loading Holster + One for All -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3300816228,859780267#notes:Lost Signal - Auto-Loading Holster + One for All (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3528046508,4049631843#notes:Lost Signal - Auto-Loading Holster (Enhanced) + One for All -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3528046508,859780267#notes:Lost Signal - Auto-Loading Holster (Enhanced) + One for All (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=1556840489,1546637391#notes:Lost Signal - Lead from Gold + Vorpal Weapon -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=1556840489,3418165135#notes:Lost Signal - Lead from Gold + Vorpal Weapon (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3442762221,1546637391#notes:Lost Signal - Lead from Gold (Enhanced) + Vorpal Weapon -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3442762221,3418165135#notes:Lost Signal - Lead from Gold (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=1556840489,3523296417#notes:Lost Signal - Lead from Gold + Demolitionist -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=1556840489,1906147653#notes:Lost Signal - Lead from Gold + Demolitionist (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3442762221,3523296417#notes:Lost Signal - Lead from Gold (Enhanced) + Demolitionist -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3442762221,1906147653#notes:Lost Signal - Lead from Gold (Enhanced) + Demolitionist (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=1556840489,4049631843#notes:Lost Signal - Lead from Gold + One for All -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=1556840489,859780267#notes:Lost Signal - Lead from Gold + One for All (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3442762221,4049631843#notes:Lost Signal - Lead from Gold (Enhanced) + One for All -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=1197771438&perks=3442762221,859780267#notes:Lost Signal - Lead from Gold (Enhanced) + One for All (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=2599338624&perks=2039302152,2978966579#notes:Liturgy - Slideways + Chill Clip -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2039302152,344235611#notes:Liturgy - Slideways + Chill Clip (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2396422520,2978966579#notes:Liturgy - Slideways (Enhanced) + Chill Clip -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2396422520,344235611#notes:Liturgy - Slideways (Enhanced) + Chill Clip (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2039302152,1556840489#notes:Liturgy - Slideways + Lead from Gold -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2039302152,3442762221#notes:Liturgy - Slideways + Lead from Gold (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2396422520,1556840489#notes:Liturgy - Slideways (Enhanced) + Lead from Gold -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2396422520,3442762221#notes:Liturgy - Slideways (Enhanced) + Lead from Gold (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2039302152,2396489472#notes:Liturgy - Slideways + Chain Reaction -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2039302152,598607952#notes:Liturgy - Slideways + Chain Reaction (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2396422520,2396489472#notes:Liturgy - Slideways (Enhanced) + Chain Reaction -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2396422520,598607952#notes:Liturgy - Slideways (Enhanced) + Chain Reaction (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=3987942396,2978966579#notes:Liturgy - Envious Arsenal + Chill Clip -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=3987942396,344235611#notes:Liturgy - Envious Arsenal + Chill Clip (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2817499044,2978966579#notes:Liturgy - Envious Arsenal (Enhanced) + Chill Clip -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2817499044,344235611#notes:Liturgy - Envious Arsenal (Enhanced) + Chill Clip (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=3987942396,1556840489#notes:Liturgy - Envious Arsenal + Lead from Gold -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=3987942396,3442762221#notes:Liturgy - Envious Arsenal + Lead from Gold (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2817499044,1556840489#notes:Liturgy - Envious Arsenal (Enhanced) + Lead from Gold -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2817499044,3442762221#notes:Liturgy - Envious Arsenal (Enhanced) + Lead from Gold (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=3987942396,2396489472#notes:Liturgy - Envious Arsenal + Chain Reaction -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=3987942396,598607952#notes:Liturgy - Envious Arsenal + Chain Reaction (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2817499044,2396489472#notes:Liturgy - Envious Arsenal (Enhanced) + Chain Reaction -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2599338624&perks=2817499044,598607952#notes:Liturgy - Envious Arsenal (Enhanced) + Chain Reaction (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3017780555,4293542123#notes:Martyr's Retribution - Heal Clip + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3017780555,2675184851#notes:Martyr's Retribution - Heal Clip + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=4223976499,4293542123#notes:Martyr's Retribution - Heal Clip (Enhanced) + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=4223976499,2675184851#notes:Martyr's Retribution - Heal Clip (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3017780555,1015611457#notes:Martyr's Retribution - Heal Clip + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3017780555,2923251173#notes:Martyr's Retribution - Heal Clip + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=4223976499,1015611457#notes:Martyr's Retribution - Heal Clip (Enhanced) + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=4223976499,2923251173#notes:Martyr's Retribution - Heal Clip (Enhanced) + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3017780555,2109543898#notes:Martyr's Retribution - Heal Clip + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3017780555,2799030358#notes:Martyr's Retribution - Heal Clip + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=4223976499,2109543898#notes:Martyr's Retribution - Heal Clip (Enhanced) + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=4223976499,2799030358#notes:Martyr's Retribution - Heal Clip (Enhanced) + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3523296417,4293542123#notes:Martyr's Retribution - Demolitionist + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3523296417,2675184851#notes:Martyr's Retribution - Demolitionist + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=1906147653,4293542123#notes:Martyr's Retribution - Demolitionist (Enhanced) + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=1906147653,2675184851#notes:Martyr's Retribution - Demolitionist (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3523296417,1015611457#notes:Martyr's Retribution - Demolitionist + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3523296417,2923251173#notes:Martyr's Retribution - Demolitionist + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=1906147653,1015611457#notes:Martyr's Retribution - Demolitionist (Enhanced) + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=1906147653,2923251173#notes:Martyr's Retribution - Demolitionist (Enhanced) + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3523296417,2109543898#notes:Martyr's Retribution - Demolitionist + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3523296417,2799030358#notes:Martyr's Retribution - Demolitionist + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=1906147653,2109543898#notes:Martyr's Retribution - Demolitionist (Enhanced) + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=1906147653,2799030358#notes:Martyr's Retribution - Demolitionist (Enhanced) + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3300816228,4293542123#notes:Martyr's Retribution - Auto-Loading Holster + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3300816228,2675184851#notes:Martyr's Retribution - Auto-Loading Holster + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3528046508,4293542123#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3528046508,2675184851#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3300816228,1015611457#notes:Martyr's Retribution - Auto-Loading Holster + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3300816228,2923251173#notes:Martyr's Retribution - Auto-Loading Holster + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3528046508,1015611457#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3528046508,2923251173#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3300816228,2109543898#notes:Martyr's Retribution - Auto-Loading Holster + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3300816228,2799030358#notes:Martyr's Retribution - Auto-Loading Holster + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3528046508,2109543898#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2584830733&perks=3528046508,2799030358#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3017780555,4293542123#notes:Martyr's Retribution - Heal Clip + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3017780555,2675184851#notes:Martyr's Retribution - Heal Clip + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=4223976499,4293542123#notes:Martyr's Retribution - Heal Clip (Enhanced) + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=4223976499,2675184851#notes:Martyr's Retribution - Heal Clip (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3017780555,1015611457#notes:Martyr's Retribution - Heal Clip + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3017780555,2923251173#notes:Martyr's Retribution - Heal Clip + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=4223976499,1015611457#notes:Martyr's Retribution - Heal Clip (Enhanced) + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=4223976499,2923251173#notes:Martyr's Retribution - Heal Clip (Enhanced) + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3017780555,2109543898#notes:Martyr's Retribution - Heal Clip + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3017780555,2799030358#notes:Martyr's Retribution - Heal Clip + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=4223976499,2109543898#notes:Martyr's Retribution - Heal Clip (Enhanced) + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=4223976499,2799030358#notes:Martyr's Retribution - Heal Clip (Enhanced) + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3523296417,4293542123#notes:Martyr's Retribution - Demolitionist + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3523296417,2675184851#notes:Martyr's Retribution - Demolitionist + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=1906147653,4293542123#notes:Martyr's Retribution - Demolitionist (Enhanced) + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=1906147653,2675184851#notes:Martyr's Retribution - Demolitionist (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3523296417,1015611457#notes:Martyr's Retribution - Demolitionist + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3523296417,2923251173#notes:Martyr's Retribution - Demolitionist + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=1906147653,1015611457#notes:Martyr's Retribution - Demolitionist (Enhanced) + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=1906147653,2923251173#notes:Martyr's Retribution - Demolitionist (Enhanced) + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3523296417,2109543898#notes:Martyr's Retribution - Demolitionist + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3523296417,2799030358#notes:Martyr's Retribution - Demolitionist + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=1906147653,2109543898#notes:Martyr's Retribution - Demolitionist (Enhanced) + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=1906147653,2799030358#notes:Martyr's Retribution - Demolitionist (Enhanced) + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3300816228,4293542123#notes:Martyr's Retribution - Auto-Loading Holster + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3300816228,2675184851#notes:Martyr's Retribution - Auto-Loading Holster + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3528046508,4293542123#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Incandescent -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3528046508,2675184851#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3300816228,1015611457#notes:Martyr's Retribution - Auto-Loading Holster + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3300816228,2923251173#notes:Martyr's Retribution - Auto-Loading Holster + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3528046508,1015611457#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Kill Clip -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3528046508,2923251173#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Kill Clip (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3300816228,2109543898#notes:Martyr's Retribution - Auto-Loading Holster + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3300816228,2799030358#notes:Martyr's Retribution - Auto-Loading Holster + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3528046508,2109543898#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3850168899&perks=3528046508,2799030358#notes:Martyr's Retribution - Auto-Loading Holster (Enhanced) + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=2010801679,2396489472#notes:Forbearance - Ambitious Assassin + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=2010801679,598607952#notes:Forbearance - Ambitious Assassin + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3797647183,2396489472#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3797647183,598607952#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=2010801679,3592538738#notes:Forbearance - Ambitious Assassin + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=2010801679,2675361166#notes:Forbearance - Ambitious Assassin + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3797647183,3592538738#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3797647183,2675361166#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3108830275,2396489472#notes:Forbearance - Unrelenting + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3108830275,598607952#notes:Forbearance - Unrelenting + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=855168139,2396489472#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=855168139,598607952#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3108830275,3592538738#notes:Forbearance - Unrelenting + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3108830275,2675361166#notes:Forbearance - Unrelenting + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=855168139,3592538738#notes:Forbearance - Unrelenting (Enhanced) + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=855168139,2675361166#notes:Forbearance - Unrelenting (Enhanced) + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=2010801679,2396489472#notes:Forbearance - Ambitious Assassin + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=2010801679,598607952#notes:Forbearance - Ambitious Assassin + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3797647183,2396489472#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3797647183,598607952#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=2010801679,3592538738#notes:Forbearance - Ambitious Assassin + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=2010801679,2675361166#notes:Forbearance - Ambitious Assassin + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3797647183,3592538738#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3797647183,2675361166#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3108830275,2396489472#notes:Forbearance - Unrelenting + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3108830275,598607952#notes:Forbearance - Unrelenting + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=855168139,2396489472#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=855168139,598607952#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3108830275,3592538738#notes:Forbearance - Unrelenting + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3108830275,2675361166#notes:Forbearance - Unrelenting + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=855168139,3592538738#notes:Forbearance - Unrelenting (Enhanced) + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=855168139,2675361166#notes:Forbearance - Unrelenting (Enhanced) + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=2010801679,2396489472#notes:Forbearance - Ambitious Assassin + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=2010801679,598607952#notes:Forbearance - Ambitious Assassin + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3797647183,2396489472#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3797647183,598607952#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=2010801679,3592538738#notes:Forbearance - Ambitious Assassin + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=2010801679,2675361166#notes:Forbearance - Ambitious Assassin + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3797647183,3592538738#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3797647183,2675361166#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3108830275,2396489472#notes:Forbearance - Unrelenting + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3108830275,598607952#notes:Forbearance - Unrelenting + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=855168139,2396489472#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=855168139,598607952#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3108830275,3592538738#notes:Forbearance - Unrelenting + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3108830275,2675361166#notes:Forbearance - Unrelenting + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=855168139,3592538738#notes:Forbearance - Unrelenting (Enhanced) + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=855168139,2675361166#notes:Forbearance - Unrelenting (Enhanced) + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=2010801679,2396489472#notes:Forbearance (Adept) - Ambitious Assassin + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=2010801679,598607952#notes:Forbearance (Adept) - Ambitious Assassin + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3797647183,2396489472#notes:Forbearance (Adept) - Ambitious Assassin (Enhanced) + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3797647183,598607952#notes:Forbearance (Adept) - Ambitious Assassin (Enhanced) + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=2010801679,3592538738#notes:Forbearance (Adept) - Ambitious Assassin + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=2010801679,2675361166#notes:Forbearance (Adept) - Ambitious Assassin + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3797647183,3592538738#notes:Forbearance (Adept) - Ambitious Assassin (Enhanced) + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3797647183,2675361166#notes:Forbearance (Adept) - Ambitious Assassin (Enhanced) + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3108830275,2396489472#notes:Forbearance (Adept) - Unrelenting + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3108830275,598607952#notes:Forbearance (Adept) - Unrelenting + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=855168139,2396489472#notes:Forbearance (Adept) - Unrelenting (Enhanced) + Chain Reaction -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=855168139,598607952#notes:Forbearance (Adept) - Unrelenting (Enhanced) + Chain Reaction (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3108830275,3592538738#notes:Forbearance (Adept) - Unrelenting + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3108830275,2675361166#notes:Forbearance (Adept) - Unrelenting + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=855168139,3592538738#notes:Forbearance (Adept) - Unrelenting (Enhanced) + Wellspring -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=855168139,2675361166#notes:Forbearance (Adept) - Unrelenting (Enhanced) + Wellspring (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=2010801679,2396489472#notes:Forbearance - Ambitious Assassin + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=2010801679,598607952#notes:Forbearance - Ambitious Assassin + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3797647183,2396489472#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3797647183,598607952#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=2010801679,2109543898#notes:Forbearance - Ambitious Assassin + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=2010801679,2799030358#notes:Forbearance - Ambitious Assassin + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3797647183,2109543898#notes:Forbearance - Ambitious Assassin (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3797647183,2799030358#notes:Forbearance - Ambitious Assassin (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=2010801679,3592538738#notes:Forbearance - Ambitious Assassin + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=2010801679,2675361166#notes:Forbearance - Ambitious Assassin + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3797647183,3592538738#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3797647183,2675361166#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3523296417,2396489472#notes:Forbearance - Demolitionist + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3523296417,598607952#notes:Forbearance - Demolitionist + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=1906147653,2396489472#notes:Forbearance - Demolitionist (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=1906147653,598607952#notes:Forbearance - Demolitionist (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3523296417,2109543898#notes:Forbearance - Demolitionist + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3523296417,2799030358#notes:Forbearance - Demolitionist + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=1906147653,2109543898#notes:Forbearance - Demolitionist (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=1906147653,2799030358#notes:Forbearance - Demolitionist (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3523296417,3592538738#notes:Forbearance - Demolitionist + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3523296417,2675361166#notes:Forbearance - Demolitionist + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=1906147653,3592538738#notes:Forbearance - Demolitionist (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=1906147653,2675361166#notes:Forbearance - Demolitionist (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3108830275,2396489472#notes:Forbearance - Unrelenting + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3108830275,598607952#notes:Forbearance - Unrelenting + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=855168139,2396489472#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=855168139,598607952#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3108830275,2109543898#notes:Forbearance - Unrelenting + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3108830275,2799030358#notes:Forbearance - Unrelenting + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=855168139,2109543898#notes:Forbearance - Unrelenting (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=855168139,2799030358#notes:Forbearance - Unrelenting (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3108830275,3592538738#notes:Forbearance - Unrelenting + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=3108830275,2675361166#notes:Forbearance - Unrelenting + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=855168139,3592538738#notes:Forbearance - Unrelenting (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=568611921&perks=855168139,2675361166#notes:Forbearance - Unrelenting (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=2010801679,2396489472#notes:Forbearance - Ambitious Assassin + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=2010801679,598607952#notes:Forbearance - Ambitious Assassin + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3797647183,2396489472#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3797647183,598607952#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=2010801679,2109543898#notes:Forbearance - Ambitious Assassin + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=2010801679,2799030358#notes:Forbearance - Ambitious Assassin + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3797647183,2109543898#notes:Forbearance - Ambitious Assassin (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3797647183,2799030358#notes:Forbearance - Ambitious Assassin (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=2010801679,3592538738#notes:Forbearance - Ambitious Assassin + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=2010801679,2675361166#notes:Forbearance - Ambitious Assassin + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3797647183,3592538738#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3797647183,2675361166#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3523296417,2396489472#notes:Forbearance - Demolitionist + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3523296417,598607952#notes:Forbearance - Demolitionist + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=1906147653,2396489472#notes:Forbearance - Demolitionist (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=1906147653,598607952#notes:Forbearance - Demolitionist (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3523296417,2109543898#notes:Forbearance - Demolitionist + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3523296417,2799030358#notes:Forbearance - Demolitionist + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=1906147653,2109543898#notes:Forbearance - Demolitionist (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=1906147653,2799030358#notes:Forbearance - Demolitionist (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3523296417,3592538738#notes:Forbearance - Demolitionist + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3523296417,2675361166#notes:Forbearance - Demolitionist + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=1906147653,3592538738#notes:Forbearance - Demolitionist (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=1906147653,2675361166#notes:Forbearance - Demolitionist (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3108830275,2396489472#notes:Forbearance - Unrelenting + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3108830275,598607952#notes:Forbearance - Unrelenting + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=855168139,2396489472#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=855168139,598607952#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3108830275,2109543898#notes:Forbearance - Unrelenting + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3108830275,2799030358#notes:Forbearance - Unrelenting + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=855168139,2109543898#notes:Forbearance - Unrelenting (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=855168139,2799030358#notes:Forbearance - Unrelenting (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3108830275,3592538738#notes:Forbearance - Unrelenting + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=3108830275,2675361166#notes:Forbearance - Unrelenting + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=855168139,3592538738#notes:Forbearance - Unrelenting (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=613334176&perks=855168139,2675361166#notes:Forbearance - Unrelenting (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=2010801679,2396489472#notes:Forbearance - Ambitious Assassin + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=2010801679,598607952#notes:Forbearance - Ambitious Assassin + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3797647183,2396489472#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3797647183,598607952#notes:Forbearance - Ambitious Assassin (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=2010801679,2109543898#notes:Forbearance - Ambitious Assassin + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=2010801679,2799030358#notes:Forbearance - Ambitious Assassin + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3797647183,2109543898#notes:Forbearance - Ambitious Assassin (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3797647183,2799030358#notes:Forbearance - Ambitious Assassin (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=2010801679,3592538738#notes:Forbearance - Ambitious Assassin + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=2010801679,2675361166#notes:Forbearance - Ambitious Assassin + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3797647183,3592538738#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3797647183,2675361166#notes:Forbearance - Ambitious Assassin (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3523296417,2396489472#notes:Forbearance - Demolitionist + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3523296417,598607952#notes:Forbearance - Demolitionist + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=1906147653,2396489472#notes:Forbearance - Demolitionist (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=1906147653,598607952#notes:Forbearance - Demolitionist (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3523296417,2109543898#notes:Forbearance - Demolitionist + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3523296417,2799030358#notes:Forbearance - Demolitionist + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=1906147653,2109543898#notes:Forbearance - Demolitionist (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=1906147653,2799030358#notes:Forbearance - Demolitionist (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3523296417,3592538738#notes:Forbearance - Demolitionist + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3523296417,2675361166#notes:Forbearance - Demolitionist + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=1906147653,3592538738#notes:Forbearance - Demolitionist (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=1906147653,2675361166#notes:Forbearance - Demolitionist (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3108830275,2396489472#notes:Forbearance - Unrelenting + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3108830275,598607952#notes:Forbearance - Unrelenting + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=855168139,2396489472#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=855168139,598607952#notes:Forbearance - Unrelenting (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3108830275,2109543898#notes:Forbearance - Unrelenting + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3108830275,2799030358#notes:Forbearance - Unrelenting + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=855168139,2109543898#notes:Forbearance - Unrelenting (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=855168139,2799030358#notes:Forbearance - Unrelenting (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3108830275,3592538738#notes:Forbearance - Unrelenting + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=3108830275,2675361166#notes:Forbearance - Unrelenting + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=855168139,3592538738#notes:Forbearance - Unrelenting (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2480074702&perks=855168139,2675361166#notes:Forbearance - Unrelenting (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=2010801679,2396489472#notes:Forbearance (Adept) - Ambitious Assassin + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=2010801679,598607952#notes:Forbearance (Adept) - Ambitious Assassin + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3797647183,2396489472#notes:Forbearance (Adept) - Ambitious Assassin (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3797647183,598607952#notes:Forbearance (Adept) - Ambitious Assassin (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=2010801679,2109543898#notes:Forbearance (Adept) - Ambitious Assassin + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=2010801679,2799030358#notes:Forbearance (Adept) - Ambitious Assassin + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3797647183,2109543898#notes:Forbearance (Adept) - Ambitious Assassin (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3797647183,2799030358#notes:Forbearance (Adept) - Ambitious Assassin (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=2010801679,3592538738#notes:Forbearance (Adept) - Ambitious Assassin + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=2010801679,2675361166#notes:Forbearance (Adept) - Ambitious Assassin + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3797647183,3592538738#notes:Forbearance (Adept) - Ambitious Assassin (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3797647183,2675361166#notes:Forbearance (Adept) - Ambitious Assassin (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3523296417,2396489472#notes:Forbearance (Adept) - Demolitionist + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3523296417,598607952#notes:Forbearance (Adept) - Demolitionist + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=1906147653,2396489472#notes:Forbearance (Adept) - Demolitionist (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=1906147653,598607952#notes:Forbearance (Adept) - Demolitionist (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3523296417,2109543898#notes:Forbearance (Adept) - Demolitionist + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3523296417,2799030358#notes:Forbearance (Adept) - Demolitionist + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=1906147653,2109543898#notes:Forbearance (Adept) - Demolitionist (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=1906147653,2799030358#notes:Forbearance (Adept) - Demolitionist (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3523296417,3592538738#notes:Forbearance (Adept) - Demolitionist + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3523296417,2675361166#notes:Forbearance (Adept) - Demolitionist + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=1906147653,3592538738#notes:Forbearance (Adept) - Demolitionist (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=1906147653,2675361166#notes:Forbearance (Adept) - Demolitionist (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3108830275,2396489472#notes:Forbearance (Adept) - Unrelenting + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3108830275,598607952#notes:Forbearance (Adept) - Unrelenting + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=855168139,2396489472#notes:Forbearance (Adept) - Unrelenting (Enhanced) + Chain Reaction -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=855168139,598607952#notes:Forbearance (Adept) - Unrelenting (Enhanced) + Chain Reaction (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3108830275,2109543898#notes:Forbearance (Adept) - Unrelenting + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3108830275,2799030358#notes:Forbearance (Adept) - Unrelenting + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=855168139,2109543898#notes:Forbearance (Adept) - Unrelenting (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=855168139,2799030358#notes:Forbearance (Adept) - Unrelenting (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3108830275,3592538738#notes:Forbearance (Adept) - Unrelenting + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=3108830275,2675361166#notes:Forbearance (Adept) - Unrelenting + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=855168139,3592538738#notes:Forbearance (Adept) - Unrelenting (Enhanced) + Wellspring -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=4038592169&perks=855168139,2675361166#notes:Forbearance (Adept) - Unrelenting (Enhanced) + Wellspring (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=959037361&perks=1523832109,3078487919#notes:Wild Style (Adept) - Reconstruction + Bait and Switch -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=959037361&perks=1523832109,3744057135#notes:Wild Style (Adept) - Reconstruction + Bait and Switch (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=959037361&perks=461595545,3078487919#notes:Wild Style (Adept) - Reconstruction (Enhanced) + Bait and Switch -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=959037361&perks=461595545,3744057135#notes:Wild Style (Adept) - Reconstruction (Enhanced) + Bait and Switch (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=959037361&perks=1523832109,1546637391#notes:Wild Style (Adept) - Reconstruction + Vorpal Weapon -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=959037361&perks=1523832109,3418165135#notes:Wild Style (Adept) - Reconstruction + Vorpal Weapon (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=959037361&perks=461595545,1546637391#notes:Wild Style (Adept) - Reconstruction (Enhanced) + Vorpal Weapon -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=959037361&perks=461595545,3418165135#notes:Wild Style (Adept) - Reconstruction (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1332123064&perks=1523832109,3078487919#notes:Wild Style - Reconstruction + Bait and Switch -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1332123064&perks=1523832109,3744057135#notes:Wild Style - Reconstruction + Bait and Switch (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1332123064&perks=461595545,3078487919#notes:Wild Style - Reconstruction (Enhanced) + Bait and Switch -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1332123064&perks=461595545,3744057135#notes:Wild Style - Reconstruction (Enhanced) + Bait and Switch (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1332123064&perks=1523832109,1546637391#notes:Wild Style - Reconstruction + Vorpal Weapon -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1332123064&perks=1523832109,3418165135#notes:Wild Style - Reconstruction + Vorpal Weapon (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1332123064&perks=461595545,1546637391#notes:Wild Style - Reconstruction (Enhanced) + Vorpal Weapon -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1332123064&perks=461595545,3418165135#notes:Wild Style - Reconstruction (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=233402416&perks=3523296417,3201496230#notes:New Pacific Epitaph - Demolitionist + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=233402416&perks=3523296417,1545231802#notes:New Pacific Epitaph - Demolitionist + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=233402416&perks=1906147653,3201496230#notes:New Pacific Epitaph - Demolitionist (Enhanced) + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=233402416&perks=1906147653,1545231802#notes:New Pacific Epitaph - Demolitionist (Enhanced) + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=233402416&perks=1556840489,3201496230#notes:New Pacific Epitaph - Lead from Gold + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=233402416&perks=1556840489,1545231802#notes:New Pacific Epitaph - Lead from Gold + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=233402416&perks=3442762221,3201496230#notes:New Pacific Epitaph - Lead from Gold (Enhanced) + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=233402416&perks=3442762221,1545231802#notes:New Pacific Epitaph - Lead from Gold (Enhanced) + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=492673102&perks=3523296417,3201496230#notes:New Pacific Epitaph - Demolitionist + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=492673102&perks=3523296417,1545231802#notes:New Pacific Epitaph - Demolitionist + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=492673102&perks=1906147653,3201496230#notes:New Pacific Epitaph - Demolitionist (Enhanced) + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=492673102&perks=1906147653,1545231802#notes:New Pacific Epitaph - Demolitionist (Enhanced) + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=492673102&perks=1556840489,3201496230#notes:New Pacific Epitaph - Lead from Gold + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=492673102&perks=1556840489,1545231802#notes:New Pacific Epitaph - Lead from Gold + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=492673102&perks=3442762221,3201496230#notes:New Pacific Epitaph - Lead from Gold (Enhanced) + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=492673102&perks=3442762221,1545231802#notes:New Pacific Epitaph - Lead from Gold (Enhanced) + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1125217994&perks=3523296417,3201496230#notes:New Pacific Epitaph - Demolitionist + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1125217994&perks=3523296417,1545231802#notes:New Pacific Epitaph - Demolitionist + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1125217994&perks=1906147653,3201496230#notes:New Pacific Epitaph - Demolitionist (Enhanced) + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1125217994&perks=1906147653,1545231802#notes:New Pacific Epitaph - Demolitionist (Enhanced) + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1125217994&perks=1556840489,3201496230#notes:New Pacific Epitaph - Lead from Gold + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1125217994&perks=1556840489,1545231802#notes:New Pacific Epitaph - Lead from Gold + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1125217994&perks=3442762221,3201496230#notes:New Pacific Epitaph - Lead from Gold (Enhanced) + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1125217994&perks=3442762221,1545231802#notes:New Pacific Epitaph - Lead from Gold (Enhanced) + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2059741649&perks=3523296417,3201496230#notes:New Pacific Epitaph - Demolitionist + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2059741649&perks=3523296417,1545231802#notes:New Pacific Epitaph - Demolitionist + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2059741649&perks=1906147653,3201496230#notes:New Pacific Epitaph - Demolitionist (Enhanced) + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2059741649&perks=1906147653,1545231802#notes:New Pacific Epitaph - Demolitionist (Enhanced) + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2059741649&perks=1556840489,3201496230#notes:New Pacific Epitaph - Lead from Gold + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2059741649&perks=1556840489,1545231802#notes:New Pacific Epitaph - Lead from Gold + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2059741649&perks=3442762221,3201496230#notes:New Pacific Epitaph - Lead from Gold (Enhanced) + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2059741649&perks=3442762221,1545231802#notes:New Pacific Epitaph - Lead from Gold (Enhanced) + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=3185151619&perks=3523296417,3201496230#notes:New Pacific Epitaph - Demolitionist + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=3185151619&perks=3523296417,1545231802#notes:New Pacific Epitaph - Demolitionist + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=3185151619&perks=1906147653,3201496230#notes:New Pacific Epitaph - Demolitionist (Enhanced) + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=3185151619&perks=1906147653,1545231802#notes:New Pacific Epitaph - Demolitionist (Enhanced) + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=3185151619&perks=1556840489,3201496230#notes:New Pacific Epitaph - Lead from Gold + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=3185151619&perks=1556840489,1545231802#notes:New Pacific Epitaph - Lead from Gold + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=3185151619&perks=3442762221,3201496230#notes:New Pacific Epitaph - Lead from Gold (Enhanced) + Redirection -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=3185151619&perks=3442762221,1545231802#notes:New Pacific Epitaph - Lead from Gold (Enhanced) + Redirection (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=2039302152,2396489472#notes:Tusk of the Boar - Slideways + Chain Reaction -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=2039302152,598607952#notes:Tusk of the Boar - Slideways + Chain Reaction (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=2396422520,2396489472#notes:Tusk of the Boar - Slideways (Enhanced) + Chain Reaction -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=2396422520,598607952#notes:Tusk of the Boar - Slideways (Enhanced) + Chain Reaction (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=2039302152,1164602481#notes:Tusk of the Boar - Slideways + Deconstruct -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=2396422520,1164602481#notes:Tusk of the Boar - Slideways (Enhanced) + Deconstruct -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=923806249,2396489472#notes:Tusk of the Boar - Slice + Chain Reaction -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=923806249,598607952#notes:Tusk of the Boar - Slice + Chain Reaction (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=3422796781,2396489472#notes:Tusk of the Boar - Slice (Enhanced) + Chain Reaction -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=3422796781,598607952#notes:Tusk of the Boar - Slice (Enhanced) + Chain Reaction (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=923806249,1164602481#notes:Tusk of the Boar - Slice + Deconstruct -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1218113510&perks=3422796781,1164602481#notes:Tusk of the Boar - Slice (Enhanced) + Deconstruct -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=1556840489,3300816228#notes:The Militia's Birthright - Lead from Gold + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=1556840489,3528046508#notes:The Militia's Birthright - Lead from Gold + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=3442762221,3300816228#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=3442762221,3528046508#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=1556840489,4104185692#notes:The Militia's Birthright - Lead from Gold + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=1556840489,3007133316#notes:The Militia's Birthright - Lead from Gold + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=3442762221,4104185692#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=3442762221,3007133316#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=2039302152,3300816228#notes:The Militia's Birthright - Slideways + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=2039302152,3528046508#notes:The Militia's Birthright - Slideways + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=2396422520,3300816228#notes:The Militia's Birthright - Slideways (Enhanced) + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=2396422520,3528046508#notes:The Militia's Birthright - Slideways (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=2039302152,4104185692#notes:The Militia's Birthright - Slideways + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=2039302152,3007133316#notes:The Militia's Birthright - Slideways + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=2396422520,4104185692#notes:The Militia's Birthright - Slideways (Enhanced) + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=40394833&perks=2396422520,3007133316#notes:The Militia's Birthright - Slideways (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=1556840489,3300816228#notes:The Militia's Birthright - Lead from Gold + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=1556840489,3528046508#notes:The Militia's Birthright - Lead from Gold + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=3442762221,3300816228#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=3442762221,3528046508#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=1556840489,4104185692#notes:The Militia's Birthright - Lead from Gold + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=1556840489,3007133316#notes:The Militia's Birthright - Lead from Gold + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=3442762221,4104185692#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=3442762221,3007133316#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=2039302152,3300816228#notes:The Militia's Birthright - Slideways + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=2039302152,3528046508#notes:The Militia's Birthright - Slideways + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=2396422520,3300816228#notes:The Militia's Birthright - Slideways (Enhanced) + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=2396422520,3528046508#notes:The Militia's Birthright - Slideways (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=2039302152,4104185692#notes:The Militia's Birthright - Slideways + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=2039302152,3007133316#notes:The Militia's Birthright - Slideways + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=2396422520,4104185692#notes:The Militia's Birthright - Slideways (Enhanced) + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1854753405&perks=2396422520,3007133316#notes:The Militia's Birthright - Slideways (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=1556840489,3300816228#notes:The Militia's Birthright (Adept) - Lead from Gold + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=1556840489,3528046508#notes:The Militia's Birthright (Adept) - Lead from Gold + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=3442762221,3300816228#notes:The Militia's Birthright (Adept) - Lead from Gold (Enhanced) + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=3442762221,3528046508#notes:The Militia's Birthright (Adept) - Lead from Gold (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=1556840489,4104185692#notes:The Militia's Birthright (Adept) - Lead from Gold + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=1556840489,3007133316#notes:The Militia's Birthright (Adept) - Lead from Gold + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=3442762221,4104185692#notes:The Militia's Birthright (Adept) - Lead from Gold (Enhanced) + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=3442762221,3007133316#notes:The Militia's Birthright (Adept) - Lead from Gold (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=2039302152,3300816228#notes:The Militia's Birthright (Adept) - Slideways + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=2039302152,3528046508#notes:The Militia's Birthright (Adept) - Slideways + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=2396422520,3300816228#notes:The Militia's Birthright (Adept) - Slideways (Enhanced) + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=2396422520,3528046508#notes:The Militia's Birthright (Adept) - Slideways (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=2039302152,4104185692#notes:The Militia's Birthright (Adept) - Slideways + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=2039302152,3007133316#notes:The Militia's Birthright (Adept) - Slideways + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=2396422520,4104185692#notes:The Militia's Birthright (Adept) - Slideways (Enhanced) + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2378101424&perks=2396422520,3007133316#notes:The Militia's Birthright (Adept) - Slideways (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=1556840489,3300816228#notes:The Militia's Birthright - Lead from Gold + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=1556840489,3528046508#notes:The Militia's Birthright - Lead from Gold + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=3442762221,3300816228#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=3442762221,3528046508#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=1556840489,4104185692#notes:The Militia's Birthright - Lead from Gold + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=1556840489,3007133316#notes:The Militia's Birthright - Lead from Gold + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=3442762221,4104185692#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=3442762221,3007133316#notes:The Militia's Birthright - Lead from Gold (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=2039302152,3300816228#notes:The Militia's Birthright - Slideways + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=2039302152,3528046508#notes:The Militia's Birthright - Slideways + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=2396422520,3300816228#notes:The Militia's Birthright - Slideways (Enhanced) + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=2396422520,3528046508#notes:The Militia's Birthright - Slideways (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=2039302152,4104185692#notes:The Militia's Birthright - Slideways + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=2039302152,3007133316#notes:The Militia's Birthright - Slideways + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=2396422520,4104185692#notes:The Militia's Birthright - Slideways (Enhanced) + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3745974521&perks=2396422520,3007133316#notes:The Militia's Birthright - Slideways (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=1556840489,3300816228#notes:The Militia's Birthright (Adept) - Lead from Gold + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=1556840489,3528046508#notes:The Militia's Birthright (Adept) - Lead from Gold + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=3442762221,3300816228#notes:The Militia's Birthright (Adept) - Lead from Gold (Enhanced) + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=3442762221,3528046508#notes:The Militia's Birthright (Adept) - Lead from Gold (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=1556840489,4104185692#notes:The Militia's Birthright (Adept) - Lead from Gold + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=1556840489,3007133316#notes:The Militia's Birthright (Adept) - Lead from Gold + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=3442762221,4104185692#notes:The Militia's Birthright (Adept) - Lead from Gold (Enhanced) + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=3442762221,3007133316#notes:The Militia's Birthright (Adept) - Lead from Gold (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=2039302152,3300816228#notes:The Militia's Birthright (Adept) - Slideways + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=2039302152,3528046508#notes:The Militia's Birthright (Adept) - Slideways + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=2396422520,3300816228#notes:The Militia's Birthright (Adept) - Slideways (Enhanced) + Auto-Loading Holster -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=2396422520,3528046508#notes:The Militia's Birthright (Adept) - Slideways (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=2039302152,4104185692#notes:The Militia's Birthright (Adept) - Slideways + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=2039302152,3007133316#notes:The Militia's Birthright (Adept) - Slideways + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=2396422520,4104185692#notes:The Militia's Birthright (Adept) - Slideways (Enhanced) + Frenzy -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4162642204&perks=2396422520,3007133316#notes:The Militia's Birthright (Adept) - Slideways (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=4096943616&perks=3300816228,4104185692#notes:Explosive Personality - Auto-Loading Holster + Frenzy -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=4096943616&perks=3300816228,3007133316#notes:Explosive Personality - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=4096943616&perks=3528046508,4104185692#notes:Explosive Personality - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=4096943616&perks=3528046508,3007133316#notes:Explosive Personality - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3300816228,4104185692#notes:Wilderflight - Auto-Loading Holster + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3300816228,3007133316#notes:Wilderflight - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3528046508,4104185692#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3528046508,3007133316#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3300816228,1546637391#notes:Wilderflight - Auto-Loading Holster + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3300816228,3418165135#notes:Wilderflight - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3528046508,1546637391#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3528046508,3418165135#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3300816228,1556840489#notes:Wilderflight - Auto-Loading Holster + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3300816228,3442762221#notes:Wilderflight - Auto-Loading Holster + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3528046508,1556840489#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3528046508,3442762221#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3523296417,4104185692#notes:Wilderflight - Demolitionist + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3523296417,3007133316#notes:Wilderflight - Demolitionist + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=1906147653,4104185692#notes:Wilderflight - Demolitionist (Enhanced) + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=1906147653,3007133316#notes:Wilderflight - Demolitionist (Enhanced) + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3523296417,1546637391#notes:Wilderflight - Demolitionist + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3523296417,3418165135#notes:Wilderflight - Demolitionist + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=1906147653,1546637391#notes:Wilderflight - Demolitionist (Enhanced) + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=1906147653,3418165135#notes:Wilderflight - Demolitionist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3523296417,1556840489#notes:Wilderflight - Demolitionist + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=3523296417,3442762221#notes:Wilderflight - Demolitionist + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=1906147653,1556840489#notes:Wilderflight - Demolitionist (Enhanced) + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=559523765&perks=1906147653,3442762221#notes:Wilderflight - Demolitionist (Enhanced) + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3300816228,4104185692#notes:Wilderflight - Auto-Loading Holster + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3300816228,3007133316#notes:Wilderflight - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3528046508,4104185692#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3528046508,3007133316#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3300816228,1546637391#notes:Wilderflight - Auto-Loading Holster + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3300816228,3418165135#notes:Wilderflight - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3528046508,1546637391#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3528046508,3418165135#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3300816228,1556840489#notes:Wilderflight - Auto-Loading Holster + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3300816228,3442762221#notes:Wilderflight - Auto-Loading Holster + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3528046508,1556840489#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3528046508,3442762221#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3523296417,4104185692#notes:Wilderflight - Demolitionist + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3523296417,3007133316#notes:Wilderflight - Demolitionist + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=1906147653,4104185692#notes:Wilderflight - Demolitionist (Enhanced) + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=1906147653,3007133316#notes:Wilderflight - Demolitionist (Enhanced) + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3523296417,1546637391#notes:Wilderflight - Demolitionist + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3523296417,3418165135#notes:Wilderflight - Demolitionist + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=1906147653,1546637391#notes:Wilderflight - Demolitionist (Enhanced) + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=1906147653,3418165135#notes:Wilderflight - Demolitionist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3523296417,1556840489#notes:Wilderflight - Demolitionist + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=3523296417,3442762221#notes:Wilderflight - Demolitionist + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=1906147653,1556840489#notes:Wilderflight - Demolitionist (Enhanced) + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1206729100&perks=1906147653,3442762221#notes:Wilderflight - Demolitionist (Enhanced) + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3300816228,4104185692#notes:Wilderflight - Auto-Loading Holster + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3300816228,3007133316#notes:Wilderflight - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3528046508,4104185692#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3528046508,3007133316#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3300816228,1546637391#notes:Wilderflight - Auto-Loading Holster + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3300816228,3418165135#notes:Wilderflight - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3528046508,1546637391#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3528046508,3418165135#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3300816228,1556840489#notes:Wilderflight - Auto-Loading Holster + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3300816228,3442762221#notes:Wilderflight - Auto-Loading Holster + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3528046508,1556840489#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3528046508,3442762221#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3523296417,4104185692#notes:Wilderflight - Demolitionist + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3523296417,3007133316#notes:Wilderflight - Demolitionist + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=1906147653,4104185692#notes:Wilderflight - Demolitionist (Enhanced) + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=1906147653,3007133316#notes:Wilderflight - Demolitionist (Enhanced) + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3523296417,1546637391#notes:Wilderflight - Demolitionist + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3523296417,3418165135#notes:Wilderflight - Demolitionist + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=1906147653,1546637391#notes:Wilderflight - Demolitionist (Enhanced) + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=1906147653,3418165135#notes:Wilderflight - Demolitionist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3523296417,1556840489#notes:Wilderflight - Demolitionist + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=3523296417,3442762221#notes:Wilderflight - Demolitionist + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=1906147653,1556840489#notes:Wilderflight - Demolitionist (Enhanced) + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2306182339&perks=1906147653,3442762221#notes:Wilderflight - Demolitionist (Enhanced) + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3300816228,4104185692#notes:Wilderflight - Auto-Loading Holster + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3300816228,3007133316#notes:Wilderflight - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3528046508,4104185692#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3528046508,3007133316#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3300816228,1546637391#notes:Wilderflight - Auto-Loading Holster + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3300816228,3418165135#notes:Wilderflight - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3528046508,1546637391#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3528046508,3418165135#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3300816228,1556840489#notes:Wilderflight - Auto-Loading Holster + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3300816228,3442762221#notes:Wilderflight - Auto-Loading Holster + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3528046508,1556840489#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3528046508,3442762221#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3523296417,4104185692#notes:Wilderflight - Demolitionist + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3523296417,3007133316#notes:Wilderflight - Demolitionist + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=1906147653,4104185692#notes:Wilderflight - Demolitionist (Enhanced) + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=1906147653,3007133316#notes:Wilderflight - Demolitionist (Enhanced) + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3523296417,1546637391#notes:Wilderflight - Demolitionist + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3523296417,3418165135#notes:Wilderflight - Demolitionist + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=1906147653,1546637391#notes:Wilderflight - Demolitionist (Enhanced) + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=1906147653,3418165135#notes:Wilderflight - Demolitionist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3523296417,1556840489#notes:Wilderflight - Demolitionist + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=3523296417,3442762221#notes:Wilderflight - Demolitionist + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=1906147653,1556840489#notes:Wilderflight - Demolitionist (Enhanced) + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2477408004&perks=1906147653,3442762221#notes:Wilderflight - Demolitionist (Enhanced) + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3300816228,4104185692#notes:Wilderflight - Auto-Loading Holster + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3300816228,3007133316#notes:Wilderflight - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3528046508,4104185692#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3528046508,3007133316#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3300816228,1546637391#notes:Wilderflight - Auto-Loading Holster + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3300816228,3418165135#notes:Wilderflight - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3528046508,1546637391#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3528046508,3418165135#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3300816228,1556840489#notes:Wilderflight - Auto-Loading Holster + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3300816228,3442762221#notes:Wilderflight - Auto-Loading Holster + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3528046508,1556840489#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3528046508,3442762221#notes:Wilderflight - Auto-Loading Holster (Enhanced) + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3523296417,4104185692#notes:Wilderflight - Demolitionist + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3523296417,3007133316#notes:Wilderflight - Demolitionist + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=1906147653,4104185692#notes:Wilderflight - Demolitionist (Enhanced) + Frenzy -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=1906147653,3007133316#notes:Wilderflight - Demolitionist (Enhanced) + Frenzy (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3523296417,1546637391#notes:Wilderflight - Demolitionist + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3523296417,3418165135#notes:Wilderflight - Demolitionist + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=1906147653,1546637391#notes:Wilderflight - Demolitionist (Enhanced) + Vorpal Weapon -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=1906147653,3418165135#notes:Wilderflight - Demolitionist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3523296417,1556840489#notes:Wilderflight - Demolitionist + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=3523296417,3442762221#notes:Wilderflight - Demolitionist + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=1906147653,1556840489#notes:Wilderflight - Demolitionist (Enhanced) + Lead from Gold -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=2982006965&perks=1906147653,3442762221#notes:Wilderflight - Demolitionist (Enhanced) + Lead from Gold (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3523296417,2173046394#notes:Undercurrent (Adept) - Demolitionist + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3523296417,1720528630#notes:Undercurrent (Adept) - Demolitionist + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=1906147653,2173046394#notes:Undercurrent (Adept) - Demolitionist (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=1906147653,1720528630#notes:Undercurrent (Adept) - Demolitionist (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3523296417,4049631843#notes:Undercurrent (Adept) - Demolitionist + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3523296417,859780267#notes:Undercurrent (Adept) - Demolitionist + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=1906147653,4049631843#notes:Undercurrent (Adept) - Demolitionist (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=1906147653,859780267#notes:Undercurrent (Adept) - Demolitionist (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=2010801679,2173046394#notes:Undercurrent (Adept) - Ambitious Assassin + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=2010801679,1720528630#notes:Undercurrent (Adept) - Ambitious Assassin + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3797647183,2173046394#notes:Undercurrent (Adept) - Ambitious Assassin (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3797647183,1720528630#notes:Undercurrent (Adept) - Ambitious Assassin (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=2010801679,4049631843#notes:Undercurrent (Adept) - Ambitious Assassin + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=2010801679,859780267#notes:Undercurrent (Adept) - Ambitious Assassin + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3797647183,4049631843#notes:Undercurrent (Adept) - Ambitious Assassin (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3797647183,859780267#notes:Undercurrent (Adept) - Ambitious Assassin (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=1556840489,2173046394#notes:Undercurrent (Adept) - Lead from Gold + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=1556840489,1720528630#notes:Undercurrent (Adept) - Lead from Gold + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3442762221,2173046394#notes:Undercurrent (Adept) - Lead from Gold (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3442762221,1720528630#notes:Undercurrent (Adept) - Lead from Gold (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=1556840489,4049631843#notes:Undercurrent (Adept) - Lead from Gold + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=1556840489,859780267#notes:Undercurrent (Adept) - Lead from Gold + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3442762221,4049631843#notes:Undercurrent (Adept) - Lead from Gold (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=672957262&perks=3442762221,859780267#notes:Undercurrent (Adept) - Lead from Gold (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3523296417,2173046394#notes:Undercurrent (Adept) - Demolitionist + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3523296417,1720528630#notes:Undercurrent (Adept) - Demolitionist + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=1906147653,2173046394#notes:Undercurrent (Adept) - Demolitionist (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=1906147653,1720528630#notes:Undercurrent (Adept) - Demolitionist (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3523296417,4049631843#notes:Undercurrent (Adept) - Demolitionist + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3523296417,859780267#notes:Undercurrent (Adept) - Demolitionist + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=1906147653,4049631843#notes:Undercurrent (Adept) - Demolitionist (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=1906147653,859780267#notes:Undercurrent (Adept) - Demolitionist (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=2010801679,2173046394#notes:Undercurrent (Adept) - Ambitious Assassin + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=2010801679,1720528630#notes:Undercurrent (Adept) - Ambitious Assassin + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3797647183,2173046394#notes:Undercurrent (Adept) - Ambitious Assassin (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3797647183,1720528630#notes:Undercurrent (Adept) - Ambitious Assassin (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=2010801679,4049631843#notes:Undercurrent (Adept) - Ambitious Assassin + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=2010801679,859780267#notes:Undercurrent (Adept) - Ambitious Assassin + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3797647183,4049631843#notes:Undercurrent (Adept) - Ambitious Assassin (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3797647183,859780267#notes:Undercurrent (Adept) - Ambitious Assassin (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=1556840489,2173046394#notes:Undercurrent (Adept) - Lead from Gold + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=1556840489,1720528630#notes:Undercurrent (Adept) - Lead from Gold + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3442762221,2173046394#notes:Undercurrent (Adept) - Lead from Gold (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3442762221,1720528630#notes:Undercurrent (Adept) - Lead from Gold (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=1556840489,4049631843#notes:Undercurrent (Adept) - Lead from Gold + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=1556840489,859780267#notes:Undercurrent (Adept) - Lead from Gold + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3442762221,4049631843#notes:Undercurrent (Adept) - Lead from Gold (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=817909300&perks=3442762221,859780267#notes:Undercurrent (Adept) - Lead from Gold (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3523296417,2173046394#notes:Undercurrent - Demolitionist + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3523296417,1720528630#notes:Undercurrent - Demolitionist + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=1906147653,2173046394#notes:Undercurrent - Demolitionist (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=1906147653,1720528630#notes:Undercurrent - Demolitionist (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3523296417,4049631843#notes:Undercurrent - Demolitionist + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3523296417,859780267#notes:Undercurrent - Demolitionist + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=1906147653,4049631843#notes:Undercurrent - Demolitionist (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=1906147653,859780267#notes:Undercurrent - Demolitionist (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=2010801679,2173046394#notes:Undercurrent - Ambitious Assassin + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=2010801679,1720528630#notes:Undercurrent - Ambitious Assassin + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3797647183,2173046394#notes:Undercurrent - Ambitious Assassin (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3797647183,1720528630#notes:Undercurrent - Ambitious Assassin (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=2010801679,4049631843#notes:Undercurrent - Ambitious Assassin + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=2010801679,859780267#notes:Undercurrent - Ambitious Assassin + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3797647183,4049631843#notes:Undercurrent - Ambitious Assassin (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3797647183,859780267#notes:Undercurrent - Ambitious Assassin (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=1556840489,2173046394#notes:Undercurrent - Lead from Gold + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=1556840489,1720528630#notes:Undercurrent - Lead from Gold + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3442762221,2173046394#notes:Undercurrent - Lead from Gold (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3442762221,1720528630#notes:Undercurrent - Lead from Gold (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=1556840489,4049631843#notes:Undercurrent - Lead from Gold + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=1556840489,859780267#notes:Undercurrent - Lead from Gold + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3442762221,4049631843#notes:Undercurrent - Lead from Gold (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1151688091&perks=3442762221,859780267#notes:Undercurrent - Lead from Gold (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3523296417,2173046394#notes:Undercurrent - Demolitionist + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3523296417,1720528630#notes:Undercurrent - Demolitionist + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=1906147653,2173046394#notes:Undercurrent - Demolitionist (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=1906147653,1720528630#notes:Undercurrent - Demolitionist (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3523296417,4049631843#notes:Undercurrent - Demolitionist + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3523296417,859780267#notes:Undercurrent - Demolitionist + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=1906147653,4049631843#notes:Undercurrent - Demolitionist (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=1906147653,859780267#notes:Undercurrent - Demolitionist (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=2010801679,2173046394#notes:Undercurrent - Ambitious Assassin + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=2010801679,1720528630#notes:Undercurrent - Ambitious Assassin + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3797647183,2173046394#notes:Undercurrent - Ambitious Assassin (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3797647183,1720528630#notes:Undercurrent - Ambitious Assassin (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=2010801679,4049631843#notes:Undercurrent - Ambitious Assassin + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=2010801679,859780267#notes:Undercurrent - Ambitious Assassin + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3797647183,4049631843#notes:Undercurrent - Ambitious Assassin (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3797647183,859780267#notes:Undercurrent - Ambitious Assassin (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=1556840489,2173046394#notes:Undercurrent - Lead from Gold + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=1556840489,1720528630#notes:Undercurrent - Lead from Gold + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3442762221,2173046394#notes:Undercurrent - Lead from Gold (Enhanced) + Voltshot -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3442762221,1720528630#notes:Undercurrent - Lead from Gold (Enhanced) + Voltshot (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=1556840489,4049631843#notes:Undercurrent - Lead from Gold + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=1556840489,859780267#notes:Undercurrent - Lead from Gold + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3442762221,4049631843#notes:Undercurrent - Lead from Gold (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3686538757&perks=3442762221,859780267#notes:Undercurrent - Lead from Gold (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=304659313&perks=3161816588,4104185692#notes:Ignition Code - Slideshot + Frenzy -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=304659313&perks=3161816588,3007133316#notes:Ignition Code - Slideshot + Frenzy (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=304659313&perks=191144788,4104185692#notes:Ignition Code - Slideshot (Enhanced) + Frenzy -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=304659313&perks=191144788,3007133316#notes:Ignition Code - Slideshot (Enhanced) + Frenzy (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=304659313&perks=1556840489,4104185692#notes:Ignition Code - Lead from Gold + Frenzy -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=304659313&perks=1556840489,3007133316#notes:Ignition Code - Lead from Gold + Frenzy (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=304659313&perks=3442762221,4104185692#notes:Ignition Code - Lead from Gold (Enhanced) + Frenzy -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=304659313&perks=3442762221,3007133316#notes:Ignition Code - Lead from Gold (Enhanced) + Frenzy (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2761869150&perks=3161816588,4104185692#notes:Ignition Code - Slideshot + Frenzy -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2761869150&perks=3161816588,3007133316#notes:Ignition Code - Slideshot + Frenzy (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2761869150&perks=191144788,4104185692#notes:Ignition Code - Slideshot (Enhanced) + Frenzy -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2761869150&perks=191144788,3007133316#notes:Ignition Code - Slideshot (Enhanced) + Frenzy (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2761869150&perks=1556840489,4104185692#notes:Ignition Code - Lead from Gold + Frenzy -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2761869150&perks=1556840489,3007133316#notes:Ignition Code - Lead from Gold + Frenzy (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2761869150&perks=3442762221,4104185692#notes:Ignition Code - Lead from Gold (Enhanced) + Frenzy -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2761869150&perks=3442762221,3007133316#notes:Ignition Code - Lead from Gold (Enhanced) + Frenzy (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3849810018&perks=3300816228,3523296417#notes:Pardon Our Dust - Auto-Loading Holster + Demolitionist -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3849810018&perks=3300816228,1906147653#notes:Pardon Our Dust - Auto-Loading Holster + Demolitionist (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3849810018&perks=3528046508,3523296417#notes:Pardon Our Dust - Auto-Loading Holster (Enhanced) + Demolitionist -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3849810018&perks=3528046508,1906147653#notes:Pardon Our Dust - Auto-Loading Holster (Enhanced) + Demolitionist (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3849810018&perks=3300816228,1546637391#notes:Pardon Our Dust - Auto-Loading Holster + Vorpal Weapon -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3849810018&perks=3300816228,3418165135#notes:Pardon Our Dust - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3849810018&perks=3528046508,1546637391#notes:Pardon Our Dust - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3849810018&perks=3528046508,3418165135#notes:Pardon Our Dust - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=2026087437&perks=3300816228,2978966579#notes:Lingering Dread - Auto-Loading Holster + Chill Clip -- Rank 18, Tier C by TheAegisRelic
+dimwishlist:item=2026087437&perks=3300816228,344235611#notes:Lingering Dread - Auto-Loading Holster + Chill Clip (Enhanced) -- Rank 18, Tier C by TheAegisRelic
+dimwishlist:item=2026087437&perks=3528046508,2978966579#notes:Lingering Dread - Auto-Loading Holster (Enhanced) + Chill Clip -- Rank 18, Tier C by TheAegisRelic
+dimwishlist:item=2026087437&perks=3528046508,344235611#notes:Lingering Dread - Auto-Loading Holster (Enhanced) + Chill Clip (Enhanced) -- Rank 18, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=3592538738,2048641572#notes:Harsh Language - Wellspring + Destabilizing Rounds -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=3592538738,1926441324#notes:Harsh Language - Wellspring + Destabilizing Rounds (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=2675361166,2048641572#notes:Harsh Language - Wellspring (Enhanced) + Destabilizing Rounds -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=2675361166,1926441324#notes:Harsh Language - Wellspring (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=3592538738,776531651#notes:Harsh Language - Wellspring + Repulsor Brace -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=3592538738,2541826827#notes:Harsh Language - Wellspring + Repulsor Brace (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=2675361166,776531651#notes:Harsh Language - Wellspring (Enhanced) + Repulsor Brace -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=2675361166,2541826827#notes:Harsh Language - Wellspring (Enhanced) + Repulsor Brace (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=968510818,2048641572#notes:Harsh Language - Envious Assassin + Destabilizing Rounds -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=968510818,1926441324#notes:Harsh Language - Envious Assassin + Destabilizing Rounds (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=424370782,2048641572#notes:Harsh Language - Envious Assassin (Enhanced) + Destabilizing Rounds -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=424370782,1926441324#notes:Harsh Language - Envious Assassin (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=968510818,776531651#notes:Harsh Language - Envious Assassin + Repulsor Brace -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=968510818,2541826827#notes:Harsh Language - Envious Assassin + Repulsor Brace (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=424370782,776531651#notes:Harsh Language - Envious Assassin (Enhanced) + Repulsor Brace -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1606497639&perks=424370782,2541826827#notes:Harsh Language - Envious Assassin (Enhanced) + Repulsor Brace (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=3592538738,2048641572#notes:Harsh Language - Wellspring + Destabilizing Rounds -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=3592538738,1926441324#notes:Harsh Language - Wellspring + Destabilizing Rounds (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=2675361166,2048641572#notes:Harsh Language - Wellspring (Enhanced) + Destabilizing Rounds -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=2675361166,1926441324#notes:Harsh Language - Wellspring (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=3592538738,776531651#notes:Harsh Language - Wellspring + Repulsor Brace -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=3592538738,2541826827#notes:Harsh Language - Wellspring + Repulsor Brace (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=2675361166,776531651#notes:Harsh Language - Wellspring (Enhanced) + Repulsor Brace -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=2675361166,2541826827#notes:Harsh Language - Wellspring (Enhanced) + Repulsor Brace (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=968510818,2048641572#notes:Harsh Language - Envious Assassin + Destabilizing Rounds -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=968510818,1926441324#notes:Harsh Language - Envious Assassin + Destabilizing Rounds (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=424370782,2048641572#notes:Harsh Language - Envious Assassin (Enhanced) + Destabilizing Rounds -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=424370782,1926441324#notes:Harsh Language - Envious Assassin (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=968510818,776531651#notes:Harsh Language - Envious Assassin + Repulsor Brace -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=968510818,2541826827#notes:Harsh Language - Envious Assassin + Repulsor Brace (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=424370782,776531651#notes:Harsh Language - Envious Assassin (Enhanced) + Repulsor Brace -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2936850733&perks=424370782,2541826827#notes:Harsh Language - Envious Assassin (Enhanced) + Repulsor Brace (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=2010801679,3592538738#notes:Deafening Whisper - Ambitious Assassin + Wellspring -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=2010801679,2675361166#notes:Deafening Whisper - Ambitious Assassin + Wellspring (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3797647183,3592538738#notes:Deafening Whisper - Ambitious Assassin (Enhanced) + Wellspring -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3797647183,2675361166#notes:Deafening Whisper - Ambitious Assassin (Enhanced) + Wellspring (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=2010801679,3300816228#notes:Deafening Whisper - Ambitious Assassin + Auto-Loading Holster -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=2010801679,3528046508#notes:Deafening Whisper - Ambitious Assassin + Auto-Loading Holster (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3797647183,3300816228#notes:Deafening Whisper - Ambitious Assassin (Enhanced) + Auto-Loading Holster -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3797647183,3528046508#notes:Deafening Whisper - Ambitious Assassin (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=2010801679,3425386926#notes:Deafening Whisper - Ambitious Assassin + Rampage -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=2010801679,288411554#notes:Deafening Whisper - Ambitious Assassin + Rampage (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3797647183,3425386926#notes:Deafening Whisper - Ambitious Assassin (Enhanced) + Rampage -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3797647183,288411554#notes:Deafening Whisper - Ambitious Assassin (Enhanced) + Rampage (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=1556840489,3592538738#notes:Deafening Whisper - Lead from Gold + Wellspring -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=1556840489,2675361166#notes:Deafening Whisper - Lead from Gold + Wellspring (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3442762221,3592538738#notes:Deafening Whisper - Lead from Gold (Enhanced) + Wellspring -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3442762221,2675361166#notes:Deafening Whisper - Lead from Gold (Enhanced) + Wellspring (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=1556840489,3300816228#notes:Deafening Whisper - Lead from Gold + Auto-Loading Holster -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=1556840489,3528046508#notes:Deafening Whisper - Lead from Gold + Auto-Loading Holster (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3442762221,3300816228#notes:Deafening Whisper - Lead from Gold (Enhanced) + Auto-Loading Holster -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3442762221,3528046508#notes:Deafening Whisper - Lead from Gold (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=1556840489,3425386926#notes:Deafening Whisper - Lead from Gold + Rampage -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=1556840489,288411554#notes:Deafening Whisper - Lead from Gold + Rampage (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3442762221,3425386926#notes:Deafening Whisper - Lead from Gold (Enhanced) + Rampage -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=981718087&perks=3442762221,288411554#notes:Deafening Whisper - Lead from Gold (Enhanced) + Rampage (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4255586669&perks=3300816228,3523296417#notes:Empty Vessel - Auto-Loading Holster + Demolitionist -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3300816228,1906147653#notes:Empty Vessel - Auto-Loading Holster + Demolitionist (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3528046508,3523296417#notes:Empty Vessel - Auto-Loading Holster (Enhanced) + Demolitionist -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3528046508,1906147653#notes:Empty Vessel - Auto-Loading Holster (Enhanced) + Demolitionist (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3300816228,1546637391#notes:Empty Vessel - Auto-Loading Holster + Vorpal Weapon -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3300816228,3418165135#notes:Empty Vessel - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3528046508,1546637391#notes:Empty Vessel - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3528046508,3418165135#notes:Empty Vessel - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=1556840489,3523296417#notes:Empty Vessel - Lead from Gold + Demolitionist -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=1556840489,1906147653#notes:Empty Vessel - Lead from Gold + Demolitionist (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3442762221,3523296417#notes:Empty Vessel - Lead from Gold (Enhanced) + Demolitionist -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3442762221,1906147653#notes:Empty Vessel - Lead from Gold (Enhanced) + Demolitionist (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=1556840489,1546637391#notes:Empty Vessel - Lead from Gold + Vorpal Weapon -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=1556840489,3418165135#notes:Empty Vessel - Lead from Gold + Vorpal Weapon (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3442762221,1546637391#notes:Empty Vessel - Lead from Gold (Enhanced) + Vorpal Weapon -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=4255586669&perks=3442762221,3418165135#notes:Empty Vessel - Lead from Gold (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=3523296417,2396489472#notes:Salvager's Salvo - Demolitionist + Chain Reaction -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=3523296417,598607952#notes:Salvager's Salvo - Demolitionist + Chain Reaction (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=1906147653,2396489472#notes:Salvager's Salvo - Demolitionist (Enhanced) + Chain Reaction -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=1906147653,598607952#notes:Salvager's Salvo - Demolitionist (Enhanced) + Chain Reaction (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=3523296417,1546637391#notes:Salvager's Salvo - Demolitionist + Vorpal Weapon -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=3523296417,3418165135#notes:Salvager's Salvo - Demolitionist + Vorpal Weapon (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=1906147653,1546637391#notes:Salvager's Salvo - Demolitionist (Enhanced) + Vorpal Weapon -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=1906147653,3418165135#notes:Salvager's Salvo - Demolitionist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=2010801679,2396489472#notes:Salvager's Salvo - Ambitious Assassin + Chain Reaction -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=2010801679,598607952#notes:Salvager's Salvo - Ambitious Assassin + Chain Reaction (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=3797647183,2396489472#notes:Salvager's Salvo - Ambitious Assassin (Enhanced) + Chain Reaction -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=3797647183,598607952#notes:Salvager's Salvo - Ambitious Assassin (Enhanced) + Chain Reaction (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=2010801679,1546637391#notes:Salvager's Salvo - Ambitious Assassin + Vorpal Weapon -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=2010801679,3418165135#notes:Salvager's Salvo - Ambitious Assassin + Vorpal Weapon (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=3797647183,1546637391#notes:Salvager's Salvo - Ambitious Assassin (Enhanced) + Vorpal Weapon -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2060863616&perks=3797647183,3418165135#notes:Salvager's Salvo - Ambitious Assassin (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1870979911&perks=777589559,3300816228#notes:Orewing's Maul - Field Prep + Auto-Loading Holster -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=1870979911&perks=777589559,3528046508#notes:Orewing's Maul - Field Prep + Auto-Loading Holster (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=1870979911&perks=2308090567,3300816228#notes:Orewing's Maul - Field Prep (Enhanced) + Auto-Loading Holster -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=1870979911&perks=2308090567,3528046508#notes:Orewing's Maul - Field Prep (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=1870979911&perks=777589559,3523296417#notes:Orewing's Maul - Field Prep + Demolitionist -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=1870979911&perks=777589559,1906147653#notes:Orewing's Maul - Field Prep + Demolitionist (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=1870979911&perks=2308090567,3523296417#notes:Orewing's Maul - Field Prep (Enhanced) + Demolitionist -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=1870979911&perks=2308090567,1906147653#notes:Orewing's Maul - Field Prep (Enhanced) + Demolitionist (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2108920981&perks=777589559,3300816228#notes:Orewing's Maul - Field Prep + Auto-Loading Holster -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2108920981&perks=777589559,3528046508#notes:Orewing's Maul - Field Prep + Auto-Loading Holster (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2108920981&perks=2308090567,3300816228#notes:Orewing's Maul - Field Prep (Enhanced) + Auto-Loading Holster -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2108920981&perks=2308090567,3528046508#notes:Orewing's Maul - Field Prep (Enhanced) + Auto-Loading Holster (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2108920981&perks=777589559,3523296417#notes:Orewing's Maul - Field Prep + Demolitionist -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2108920981&perks=777589559,1906147653#notes:Orewing's Maul - Field Prep + Demolitionist (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2108920981&perks=2308090567,3523296417#notes:Orewing's Maul - Field Prep (Enhanced) + Demolitionist -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2108920981&perks=2308090567,1906147653#notes:Orewing's Maul - Field Prep (Enhanced) + Demolitionist (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=1556840489,2173046394#notes:Prodigal Return - Lead from Gold + Voltshot -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=1556840489,1720528630#notes:Prodigal Return - Lead from Gold + Voltshot (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=3442762221,2173046394#notes:Prodigal Return - Lead from Gold (Enhanced) + Voltshot -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=3442762221,1720528630#notes:Prodigal Return - Lead from Gold (Enhanced) + Voltshot (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=1556840489,3523296417#notes:Prodigal Return - Lead from Gold + Demolitionist -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=1556840489,1906147653#notes:Prodigal Return - Lead from Gold + Demolitionist (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=3442762221,3523296417#notes:Prodigal Return - Lead from Gold (Enhanced) + Demolitionist -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=3442762221,1906147653#notes:Prodigal Return - Lead from Gold (Enhanced) + Demolitionist (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=968510818,2173046394#notes:Prodigal Return - Envious Assassin + Voltshot -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=968510818,1720528630#notes:Prodigal Return - Envious Assassin + Voltshot (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=424370782,2173046394#notes:Prodigal Return - Envious Assassin (Enhanced) + Voltshot -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=424370782,1720528630#notes:Prodigal Return - Envious Assassin (Enhanced) + Voltshot (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=968510818,3523296417#notes:Prodigal Return - Envious Assassin + Demolitionist -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=968510818,1906147653#notes:Prodigal Return - Envious Assassin + Demolitionist (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=424370782,3523296417#notes:Prodigal Return - Envious Assassin (Enhanced) + Demolitionist -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=268260373&perks=424370782,1906147653#notes:Prodigal Return - Envious Assassin (Enhanced) + Demolitionist (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=447296102&perks=1631667848,776531651#notes:Truthteller - Grave Robber + Repulsor Brace -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=447296102&perks=1631667848,2541826827#notes:Truthteller - Grave Robber + Repulsor Brace (Enhanced) -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=447296102&perks=402033656,776531651#notes:Truthteller - Grave Robber (Enhanced) + Repulsor Brace -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=447296102&perks=402033656,2541826827#notes:Truthteller - Grave Robber (Enhanced) + Repulsor Brace (Enhanced) -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=1946491241&perks=1631667848,776531651#notes:Truthteller - Grave Robber + Repulsor Brace -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=1946491241&perks=1631667848,2541826827#notes:Truthteller - Grave Robber + Repulsor Brace (Enhanced) -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=1946491241&perks=402033656,776531651#notes:Truthteller - Grave Robber (Enhanced) + Repulsor Brace -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=1946491241&perks=402033656,2541826827#notes:Truthteller - Grave Robber (Enhanced) + Repulsor Brace (Enhanced) -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=3252697558&perks=1631667848,776531651#notes:Truthteller - Grave Robber + Repulsor Brace -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=3252697558&perks=1631667848,2541826827#notes:Truthteller - Grave Robber + Repulsor Brace (Enhanced) -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=3252697558&perks=402033656,776531651#notes:Truthteller - Grave Robber (Enhanced) + Repulsor Brace -- Rank 25, Tier F by TheAegisRelic
+dimwishlist:item=3252697558&perks=402033656,2541826827#notes:Truthteller - Grave Robber (Enhanced) + Repulsor Brace (Enhanced) -- Rank 25, Tier F by TheAegisRelic

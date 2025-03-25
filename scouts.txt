@@ -1,0 +1,1204 @@
+dimwishlist:item=2226158470&perks=1561789734,2173046394#notes:Unworthy - Firefly + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=2226158470&perks=1561789734,1720528630#notes:Unworthy - Firefly + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=2226158470&perks=1183436451,2173046394#notes:Unworthy - Firefly (Enhanced) + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=2226158470&perks=1183436451,1720528630#notes:Unworthy - Firefly (Enhanced) + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1392919471&perks=247725512,4293542123#notes:Trustee - Rapid Hit + Incandescent -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1392919471&perks=247725512,2675184851#notes:Trustee - Rapid Hit + Incandescent (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1392919471&perks=2938480696,4293542123#notes:Trustee - Rapid Hit (Enhanced) + Incandescent -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1392919471&perks=2938480696,2675184851#notes:Trustee - Rapid Hit (Enhanced) + Incandescent (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1392919471&perks=1523832109,4293542123#notes:Trustee - Reconstruction + Incandescent -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1392919471&perks=1523832109,2675184851#notes:Trustee - Reconstruction + Incandescent (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1392919471&perks=461595545,4293542123#notes:Trustee - Reconstruction (Enhanced) + Incandescent -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1392919471&perks=461595545,2675184851#notes:Trustee - Reconstruction (Enhanced) + Incandescent (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=776531651,2048641572#notes:Vouchsafe - Repulsor Brace + Destabilizing Rounds -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=776531651,1926441324#notes:Vouchsafe - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2541826827,2048641572#notes:Vouchsafe - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2541826827,1926441324#notes:Vouchsafe - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=776531651,2848615171#notes:Vouchsafe - Repulsor Brace + Dragonfly -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=776531651,169755979#notes:Vouchsafe - Repulsor Brace + Dragonfly (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2541826827,2848615171#notes:Vouchsafe - Repulsor Brace (Enhanced) + Dragonfly -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2541826827,169755979#notes:Vouchsafe - Repulsor Brace (Enhanced) + Dragonfly (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=776531651,3038247973#notes:Vouchsafe - Repulsor Brace + Explosive Payload -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=776531651,64866129#notes:Vouchsafe - Repulsor Brace + Explosive Payload (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2541826827,3038247973#notes:Vouchsafe - Repulsor Brace (Enhanced) + Explosive Payload -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2541826827,64866129#notes:Vouchsafe - Repulsor Brace (Enhanced) + Explosive Payload (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=247725512,2048641572#notes:Vouchsafe - Rapid Hit + Destabilizing Rounds -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=247725512,1926441324#notes:Vouchsafe - Rapid Hit + Destabilizing Rounds (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2938480696,2048641572#notes:Vouchsafe - Rapid Hit (Enhanced) + Destabilizing Rounds -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2938480696,1926441324#notes:Vouchsafe - Rapid Hit (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=247725512,2848615171#notes:Vouchsafe - Rapid Hit + Dragonfly -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=247725512,169755979#notes:Vouchsafe - Rapid Hit + Dragonfly (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2938480696,2848615171#notes:Vouchsafe - Rapid Hit (Enhanced) + Dragonfly -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2938480696,169755979#notes:Vouchsafe - Rapid Hit (Enhanced) + Dragonfly (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=247725512,3038247973#notes:Vouchsafe - Rapid Hit + Explosive Payload -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=247725512,64866129#notes:Vouchsafe - Rapid Hit + Explosive Payload (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2938480696,3038247973#notes:Vouchsafe - Rapid Hit (Enhanced) + Explosive Payload -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=355922321&perks=2938480696,64866129#notes:Vouchsafe - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=776531651,2048641572#notes:Vouchsafe - Repulsor Brace + Destabilizing Rounds -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=776531651,1926441324#notes:Vouchsafe - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2541826827,2048641572#notes:Vouchsafe - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2541826827,1926441324#notes:Vouchsafe - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=776531651,2848615171#notes:Vouchsafe - Repulsor Brace + Dragonfly -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=776531651,169755979#notes:Vouchsafe - Repulsor Brace + Dragonfly (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2541826827,2848615171#notes:Vouchsafe - Repulsor Brace (Enhanced) + Dragonfly -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2541826827,169755979#notes:Vouchsafe - Repulsor Brace (Enhanced) + Dragonfly (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=776531651,3038247973#notes:Vouchsafe - Repulsor Brace + Explosive Payload -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=776531651,64866129#notes:Vouchsafe - Repulsor Brace + Explosive Payload (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2541826827,3038247973#notes:Vouchsafe - Repulsor Brace (Enhanced) + Explosive Payload -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2541826827,64866129#notes:Vouchsafe - Repulsor Brace (Enhanced) + Explosive Payload (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=247725512,2048641572#notes:Vouchsafe - Rapid Hit + Destabilizing Rounds -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=247725512,1926441324#notes:Vouchsafe - Rapid Hit + Destabilizing Rounds (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2938480696,2048641572#notes:Vouchsafe - Rapid Hit (Enhanced) + Destabilizing Rounds -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2938480696,1926441324#notes:Vouchsafe - Rapid Hit (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=247725512,2848615171#notes:Vouchsafe - Rapid Hit + Dragonfly -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=247725512,169755979#notes:Vouchsafe - Rapid Hit + Dragonfly (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2938480696,2848615171#notes:Vouchsafe - Rapid Hit (Enhanced) + Dragonfly -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2938480696,169755979#notes:Vouchsafe - Rapid Hit (Enhanced) + Dragonfly (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=247725512,3038247973#notes:Vouchsafe - Rapid Hit + Explosive Payload -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=247725512,64866129#notes:Vouchsafe - Rapid Hit + Explosive Payload (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2938480696,3038247973#notes:Vouchsafe - Rapid Hit (Enhanced) + Explosive Payload -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3242168339&perks=2938480696,64866129#notes:Vouchsafe - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=205225492&perks=3891536761,1561789734#notes:Hung Jury SR4 - Kinetic Tremors + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3891536761,1183436451#notes:Hung Jury SR4 - Kinetic Tremors + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1549370717,1561789734#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1549370717,1183436451#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3891536761,3038247973#notes:Hung Jury SR4 - Kinetic Tremors + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3891536761,64866129#notes:Hung Jury SR4 - Kinetic Tremors + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1549370717,3038247973#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1549370717,64866129#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3891536761,4049631843#notes:Hung Jury SR4 - Kinetic Tremors + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3891536761,859780267#notes:Hung Jury SR4 - Kinetic Tremors + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1549370717,4049631843#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1549370717,859780267#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3700496672,1561789734#notes:Hung Jury SR4 - Shoot to Loot + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3700496672,1183436451#notes:Hung Jury SR4 - Shoot to Loot + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=2840833776,1561789734#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=2840833776,1183436451#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3700496672,3038247973#notes:Hung Jury SR4 - Shoot to Loot + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3700496672,64866129#notes:Hung Jury SR4 - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=2840833776,3038247973#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=2840833776,64866129#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3700496672,4049631843#notes:Hung Jury SR4 - Shoot to Loot + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=3700496672,859780267#notes:Hung Jury SR4 - Shoot to Loot + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=2840833776,4049631843#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=2840833776,859780267#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=777589557,1561789734#notes:Hung Jury SR4 - Enlightened Action + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=777589557,1183436451#notes:Hung Jury SR4 - Enlightened Action + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1771736209,1561789734#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1771736209,1183436451#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=777589557,3038247973#notes:Hung Jury SR4 - Enlightened Action + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=777589557,64866129#notes:Hung Jury SR4 - Enlightened Action + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1771736209,3038247973#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1771736209,64866129#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=777589557,4049631843#notes:Hung Jury SR4 - Enlightened Action + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=777589557,859780267#notes:Hung Jury SR4 - Enlightened Action + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1771736209,4049631843#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=205225492&perks=1771736209,859780267#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3891536761,1561789734#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3891536761,1183436451#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1549370717,1561789734#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1549370717,1183436451#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3891536761,3038247973#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3891536761,64866129#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1549370717,3038247973#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1549370717,64866129#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3891536761,4049631843#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3891536761,859780267#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1549370717,4049631843#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1549370717,859780267#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3700496672,1561789734#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3700496672,1183436451#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=2840833776,1561789734#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=2840833776,1183436451#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3700496672,3038247973#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3700496672,64866129#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=2840833776,3038247973#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=2840833776,64866129#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3700496672,4049631843#notes:Hung Jury SR4 (Adept) - Shoot to Loot + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=3700496672,859780267#notes:Hung Jury SR4 (Adept) - Shoot to Loot + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=2840833776,4049631843#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=2840833776,859780267#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=777589557,1561789734#notes:Hung Jury SR4 (Adept) - Enlightened Action + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=777589557,1183436451#notes:Hung Jury SR4 (Adept) - Enlightened Action + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1771736209,1561789734#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1771736209,1183436451#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=777589557,3038247973#notes:Hung Jury SR4 (Adept) - Enlightened Action + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=777589557,64866129#notes:Hung Jury SR4 (Adept) - Enlightened Action + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1771736209,3038247973#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1771736209,64866129#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=777589557,4049631843#notes:Hung Jury SR4 (Adept) - Enlightened Action + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=777589557,859780267#notes:Hung Jury SR4 (Adept) - Enlightened Action + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1771736209,4049631843#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=681067419&perks=1771736209,859780267#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3891536761,1561789734#notes:Hung Jury SR4 - Kinetic Tremors + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3891536761,1183436451#notes:Hung Jury SR4 - Kinetic Tremors + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1549370717,1561789734#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1549370717,1183436451#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3891536761,3038247973#notes:Hung Jury SR4 - Kinetic Tremors + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3891536761,64866129#notes:Hung Jury SR4 - Kinetic Tremors + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1549370717,3038247973#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1549370717,64866129#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3891536761,4049631843#notes:Hung Jury SR4 - Kinetic Tremors + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3891536761,859780267#notes:Hung Jury SR4 - Kinetic Tremors + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1549370717,4049631843#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1549370717,859780267#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3700496672,1561789734#notes:Hung Jury SR4 - Shoot to Loot + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3700496672,1183436451#notes:Hung Jury SR4 - Shoot to Loot + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=2840833776,1561789734#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=2840833776,1183436451#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3700496672,3038247973#notes:Hung Jury SR4 - Shoot to Loot + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3700496672,64866129#notes:Hung Jury SR4 - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=2840833776,3038247973#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=2840833776,64866129#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3700496672,4049631843#notes:Hung Jury SR4 - Shoot to Loot + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=3700496672,859780267#notes:Hung Jury SR4 - Shoot to Loot + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=2840833776,4049631843#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=2840833776,859780267#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=777589557,1561789734#notes:Hung Jury SR4 - Enlightened Action + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=777589557,1183436451#notes:Hung Jury SR4 - Enlightened Action + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1771736209,1561789734#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1771736209,1183436451#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=777589557,3038247973#notes:Hung Jury SR4 - Enlightened Action + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=777589557,64866129#notes:Hung Jury SR4 - Enlightened Action + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1771736209,3038247973#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1771736209,64866129#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=777589557,4049631843#notes:Hung Jury SR4 - Enlightened Action + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=777589557,859780267#notes:Hung Jury SR4 - Enlightened Action + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1771736209,4049631843#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=772231794&perks=1771736209,859780267#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3891536761,1561789734#notes:Hung Jury SR4 - Kinetic Tremors + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3891536761,1183436451#notes:Hung Jury SR4 - Kinetic Tremors + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1549370717,1561789734#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1549370717,1183436451#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3891536761,3038247973#notes:Hung Jury SR4 - Kinetic Tremors + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3891536761,64866129#notes:Hung Jury SR4 - Kinetic Tremors + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1549370717,3038247973#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1549370717,64866129#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3891536761,4049631843#notes:Hung Jury SR4 - Kinetic Tremors + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3891536761,859780267#notes:Hung Jury SR4 - Kinetic Tremors + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1549370717,4049631843#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1549370717,859780267#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3700496672,1561789734#notes:Hung Jury SR4 - Shoot to Loot + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3700496672,1183436451#notes:Hung Jury SR4 - Shoot to Loot + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=2840833776,1561789734#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=2840833776,1183436451#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3700496672,3038247973#notes:Hung Jury SR4 - Shoot to Loot + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3700496672,64866129#notes:Hung Jury SR4 - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=2840833776,3038247973#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=2840833776,64866129#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3700496672,4049631843#notes:Hung Jury SR4 - Shoot to Loot + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=3700496672,859780267#notes:Hung Jury SR4 - Shoot to Loot + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=2840833776,4049631843#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=2840833776,859780267#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=777589557,1561789734#notes:Hung Jury SR4 - Enlightened Action + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=777589557,1183436451#notes:Hung Jury SR4 - Enlightened Action + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1771736209,1561789734#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1771736209,1183436451#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=777589557,3038247973#notes:Hung Jury SR4 - Enlightened Action + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=777589557,64866129#notes:Hung Jury SR4 - Enlightened Action + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1771736209,3038247973#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1771736209,64866129#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=777589557,4049631843#notes:Hung Jury SR4 - Enlightened Action + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=777589557,859780267#notes:Hung Jury SR4 - Enlightened Action + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1771736209,4049631843#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=1453235079&perks=1771736209,859780267#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3891536761,1561789734#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3891536761,1183436451#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1549370717,1561789734#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1549370717,1183436451#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3891536761,3038247973#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3891536761,64866129#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1549370717,3038247973#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1549370717,64866129#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3891536761,4049631843#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3891536761,859780267#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1549370717,4049631843#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1549370717,859780267#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3700496672,1561789734#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3700496672,1183436451#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=2840833776,1561789734#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=2840833776,1183436451#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3700496672,3038247973#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3700496672,64866129#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=2840833776,3038247973#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=2840833776,64866129#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3700496672,4049631843#notes:Hung Jury SR4 (Adept) - Shoot to Loot + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=3700496672,859780267#notes:Hung Jury SR4 (Adept) - Shoot to Loot + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=2840833776,4049631843#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=2840833776,859780267#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=777589557,1561789734#notes:Hung Jury SR4 (Adept) - Enlightened Action + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=777589557,1183436451#notes:Hung Jury SR4 (Adept) - Enlightened Action + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1771736209,1561789734#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1771736209,1183436451#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=777589557,3038247973#notes:Hung Jury SR4 (Adept) - Enlightened Action + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=777589557,64866129#notes:Hung Jury SR4 (Adept) - Enlightened Action + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1771736209,3038247973#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1771736209,64866129#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=777589557,4049631843#notes:Hung Jury SR4 (Adept) - Enlightened Action + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=777589557,859780267#notes:Hung Jury SR4 (Adept) - Enlightened Action + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1771736209,4049631843#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2883684343&perks=1771736209,859780267#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3891536761,1561789734#notes:Hung Jury SR4 - Kinetic Tremors + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3891536761,1183436451#notes:Hung Jury SR4 - Kinetic Tremors + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1549370717,1561789734#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1549370717,1183436451#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3891536761,3038247973#notes:Hung Jury SR4 - Kinetic Tremors + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3891536761,64866129#notes:Hung Jury SR4 - Kinetic Tremors + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1549370717,3038247973#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1549370717,64866129#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3891536761,4049631843#notes:Hung Jury SR4 - Kinetic Tremors + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3891536761,859780267#notes:Hung Jury SR4 - Kinetic Tremors + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1549370717,4049631843#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1549370717,859780267#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3700496672,1561789734#notes:Hung Jury SR4 - Shoot to Loot + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3700496672,1183436451#notes:Hung Jury SR4 - Shoot to Loot + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=2840833776,1561789734#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=2840833776,1183436451#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3700496672,3038247973#notes:Hung Jury SR4 - Shoot to Loot + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3700496672,64866129#notes:Hung Jury SR4 - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=2840833776,3038247973#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=2840833776,64866129#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3700496672,4049631843#notes:Hung Jury SR4 - Shoot to Loot + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=3700496672,859780267#notes:Hung Jury SR4 - Shoot to Loot + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=2840833776,4049631843#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=2840833776,859780267#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=777589557,1561789734#notes:Hung Jury SR4 - Enlightened Action + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=777589557,1183436451#notes:Hung Jury SR4 - Enlightened Action + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1771736209,1561789734#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1771736209,1183436451#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=777589557,3038247973#notes:Hung Jury SR4 - Enlightened Action + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=777589557,64866129#notes:Hung Jury SR4 - Enlightened Action + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1771736209,3038247973#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1771736209,64866129#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=777589557,4049631843#notes:Hung Jury SR4 - Enlightened Action + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=777589557,859780267#notes:Hung Jury SR4 - Enlightened Action + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1771736209,4049631843#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3832743906&perks=1771736209,859780267#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3891536761,1561789734#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3891536761,1183436451#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1549370717,1561789734#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1549370717,1183436451#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3891536761,3038247973#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3891536761,64866129#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1549370717,3038247973#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1549370717,64866129#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3891536761,4049631843#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3891536761,859780267#notes:Hung Jury SR4 (Adept) - Kinetic Tremors + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1549370717,4049631843#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1549370717,859780267#notes:Hung Jury SR4 (Adept) - Kinetic Tremors (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3700496672,1561789734#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3700496672,1183436451#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=2840833776,1561789734#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=2840833776,1183436451#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3700496672,3038247973#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3700496672,64866129#notes:Hung Jury SR4 (Adept) - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=2840833776,3038247973#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=2840833776,64866129#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3700496672,4049631843#notes:Hung Jury SR4 (Adept) - Shoot to Loot + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=3700496672,859780267#notes:Hung Jury SR4 (Adept) - Shoot to Loot + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=2840833776,4049631843#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=2840833776,859780267#notes:Hung Jury SR4 (Adept) - Shoot to Loot (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=777589557,1561789734#notes:Hung Jury SR4 (Adept) - Enlightened Action + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=777589557,1183436451#notes:Hung Jury SR4 (Adept) - Enlightened Action + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1771736209,1561789734#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1771736209,1183436451#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=777589557,3038247973#notes:Hung Jury SR4 (Adept) - Enlightened Action + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=777589557,64866129#notes:Hung Jury SR4 (Adept) - Enlightened Action + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1771736209,3038247973#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1771736209,64866129#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=777589557,4049631843#notes:Hung Jury SR4 (Adept) - Enlightened Action + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=777589557,859780267#notes:Hung Jury SR4 (Adept) - Enlightened Action + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1771736209,4049631843#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4074251943&perks=1771736209,859780267#notes:Hung Jury SR4 (Adept) - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3891536761,1561789734#notes:Hung Jury SR4 - Kinetic Tremors + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3891536761,1183436451#notes:Hung Jury SR4 - Kinetic Tremors + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1549370717,1561789734#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1549370717,1183436451#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3891536761,3038247973#notes:Hung Jury SR4 - Kinetic Tremors + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3891536761,64866129#notes:Hung Jury SR4 - Kinetic Tremors + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1549370717,3038247973#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1549370717,64866129#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3891536761,4049631843#notes:Hung Jury SR4 - Kinetic Tremors + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3891536761,859780267#notes:Hung Jury SR4 - Kinetic Tremors + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1549370717,4049631843#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1549370717,859780267#notes:Hung Jury SR4 - Kinetic Tremors (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3700496672,1561789734#notes:Hung Jury SR4 - Shoot to Loot + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3700496672,1183436451#notes:Hung Jury SR4 - Shoot to Loot + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=2840833776,1561789734#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=2840833776,1183436451#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3700496672,3038247973#notes:Hung Jury SR4 - Shoot to Loot + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3700496672,64866129#notes:Hung Jury SR4 - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=2840833776,3038247973#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=2840833776,64866129#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3700496672,4049631843#notes:Hung Jury SR4 - Shoot to Loot + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=3700496672,859780267#notes:Hung Jury SR4 - Shoot to Loot + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=2840833776,4049631843#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=2840833776,859780267#notes:Hung Jury SR4 - Shoot to Loot (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=777589557,1561789734#notes:Hung Jury SR4 - Enlightened Action + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=777589557,1183436451#notes:Hung Jury SR4 - Enlightened Action + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1771736209,1561789734#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Firefly -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1771736209,1183436451#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Firefly (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=777589557,3038247973#notes:Hung Jury SR4 - Enlightened Action + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=777589557,64866129#notes:Hung Jury SR4 - Enlightened Action + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1771736209,3038247973#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Explosive Payload -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1771736209,64866129#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=777589557,4049631843#notes:Hung Jury SR4 - Enlightened Action + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=777589557,859780267#notes:Hung Jury SR4 - Enlightened Action + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1771736209,4049631843#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4281371574&perks=1771736209,859780267#notes:Hung Jury SR4 - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4293542123,1561789734#notes:Vision of Confluence (Timelost) - Incandescent + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4293542123,1183436451#notes:Vision of Confluence (Timelost) - Incandescent + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2675184851,1561789734#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2675184851,1183436451#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4293542123,3038247973#notes:Vision of Confluence (Timelost) - Incandescent + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4293542123,64866129#notes:Vision of Confluence (Timelost) - Incandescent + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2675184851,3038247973#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2675184851,64866129#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4293542123,4104185692#notes:Vision of Confluence (Timelost) - Incandescent + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4293542123,3007133316#notes:Vision of Confluence (Timelost) - Incandescent + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2675184851,4104185692#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2675184851,3007133316#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=3017780555,1561789734#notes:Vision of Confluence (Timelost) - Heal Clip + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=3017780555,1183436451#notes:Vision of Confluence (Timelost) - Heal Clip + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4223976499,1561789734#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4223976499,1183436451#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=3017780555,3038247973#notes:Vision of Confluence (Timelost) - Heal Clip + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=3017780555,64866129#notes:Vision of Confluence (Timelost) - Heal Clip + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4223976499,3038247973#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4223976499,64866129#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=3017780555,4104185692#notes:Vision of Confluence (Timelost) - Heal Clip + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=3017780555,3007133316#notes:Vision of Confluence (Timelost) - Heal Clip + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4223976499,4104185692#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=4223976499,3007133316#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2578928832,1561789734#notes:Vision of Confluence (Timelost) - Rewind Rounds + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2578928832,1183436451#notes:Vision of Confluence (Timelost) - Rewind Rounds + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=1563455254,1561789734#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=1563455254,1183436451#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2578928832,3038247973#notes:Vision of Confluence (Timelost) - Rewind Rounds + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2578928832,64866129#notes:Vision of Confluence (Timelost) - Rewind Rounds + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=1563455254,3038247973#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=1563455254,64866129#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2578928832,4104185692#notes:Vision of Confluence (Timelost) - Rewind Rounds + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=2578928832,3007133316#notes:Vision of Confluence (Timelost) - Rewind Rounds + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=1563455254,4104185692#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=337578911&perks=1563455254,3007133316#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4293542123,1561789734#notes:Vision of Confluence (Timelost) - Incandescent + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4293542123,1183436451#notes:Vision of Confluence (Timelost) - Incandescent + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2675184851,1561789734#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2675184851,1183436451#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4293542123,3038247973#notes:Vision of Confluence (Timelost) - Incandescent + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4293542123,64866129#notes:Vision of Confluence (Timelost) - Incandescent + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2675184851,3038247973#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2675184851,64866129#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4293542123,4104185692#notes:Vision of Confluence (Timelost) - Incandescent + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4293542123,3007133316#notes:Vision of Confluence (Timelost) - Incandescent + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2675184851,4104185692#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2675184851,3007133316#notes:Vision of Confluence (Timelost) - Incandescent (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=3017780555,1561789734#notes:Vision of Confluence (Timelost) - Heal Clip + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=3017780555,1183436451#notes:Vision of Confluence (Timelost) - Heal Clip + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4223976499,1561789734#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4223976499,1183436451#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=3017780555,3038247973#notes:Vision of Confluence (Timelost) - Heal Clip + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=3017780555,64866129#notes:Vision of Confluence (Timelost) - Heal Clip + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4223976499,3038247973#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4223976499,64866129#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=3017780555,4104185692#notes:Vision of Confluence (Timelost) - Heal Clip + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=3017780555,3007133316#notes:Vision of Confluence (Timelost) - Heal Clip + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4223976499,4104185692#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=4223976499,3007133316#notes:Vision of Confluence (Timelost) - Heal Clip (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2578928832,1561789734#notes:Vision of Confluence (Timelost) - Rewind Rounds + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2578928832,1183436451#notes:Vision of Confluence (Timelost) - Rewind Rounds + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=1563455254,1561789734#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=1563455254,1183436451#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2578928832,3038247973#notes:Vision of Confluence (Timelost) - Rewind Rounds + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2578928832,64866129#notes:Vision of Confluence (Timelost) - Rewind Rounds + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=1563455254,3038247973#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=1563455254,64866129#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2578928832,4104185692#notes:Vision of Confluence (Timelost) - Rewind Rounds + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=2578928832,3007133316#notes:Vision of Confluence (Timelost) - Rewind Rounds + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=1563455254,4104185692#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=690668916&perks=1563455254,3007133316#notes:Vision of Confluence (Timelost) - Rewind Rounds (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4293542123,1561789734#notes:Vision of Confluence - Incandescent + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4293542123,1183436451#notes:Vision of Confluence - Incandescent + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2675184851,1561789734#notes:Vision of Confluence - Incandescent (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2675184851,1183436451#notes:Vision of Confluence - Incandescent (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4293542123,3038247973#notes:Vision of Confluence - Incandescent + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4293542123,64866129#notes:Vision of Confluence - Incandescent + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2675184851,3038247973#notes:Vision of Confluence - Incandescent (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2675184851,64866129#notes:Vision of Confluence - Incandescent (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4293542123,4104185692#notes:Vision of Confluence - Incandescent + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4293542123,3007133316#notes:Vision of Confluence - Incandescent + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2675184851,4104185692#notes:Vision of Confluence - Incandescent (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2675184851,3007133316#notes:Vision of Confluence - Incandescent (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=3017780555,1561789734#notes:Vision of Confluence - Heal Clip + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=3017780555,1183436451#notes:Vision of Confluence - Heal Clip + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4223976499,1561789734#notes:Vision of Confluence - Heal Clip (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4223976499,1183436451#notes:Vision of Confluence - Heal Clip (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=3017780555,3038247973#notes:Vision of Confluence - Heal Clip + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=3017780555,64866129#notes:Vision of Confluence - Heal Clip + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4223976499,3038247973#notes:Vision of Confluence - Heal Clip (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4223976499,64866129#notes:Vision of Confluence - Heal Clip (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=3017780555,4104185692#notes:Vision of Confluence - Heal Clip + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=3017780555,3007133316#notes:Vision of Confluence - Heal Clip + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4223976499,4104185692#notes:Vision of Confluence - Heal Clip (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=4223976499,3007133316#notes:Vision of Confluence - Heal Clip (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2578928832,1561789734#notes:Vision of Confluence - Rewind Rounds + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2578928832,1183436451#notes:Vision of Confluence - Rewind Rounds + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=1563455254,1561789734#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=1563455254,1183436451#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2578928832,3038247973#notes:Vision of Confluence - Rewind Rounds + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2578928832,64866129#notes:Vision of Confluence - Rewind Rounds + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=1563455254,3038247973#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=1563455254,64866129#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2578928832,4104185692#notes:Vision of Confluence - Rewind Rounds + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=2578928832,3007133316#notes:Vision of Confluence - Rewind Rounds + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=1563455254,4104185692#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3186018373&perks=1563455254,3007133316#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4293542123,1561789734#notes:Vision of Confluence - Incandescent + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4293542123,1183436451#notes:Vision of Confluence - Incandescent + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2675184851,1561789734#notes:Vision of Confluence - Incandescent (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2675184851,1183436451#notes:Vision of Confluence - Incandescent (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4293542123,3038247973#notes:Vision of Confluence - Incandescent + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4293542123,64866129#notes:Vision of Confluence - Incandescent + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2675184851,3038247973#notes:Vision of Confluence - Incandescent (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2675184851,64866129#notes:Vision of Confluence - Incandescent (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4293542123,4104185692#notes:Vision of Confluence - Incandescent + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4293542123,3007133316#notes:Vision of Confluence - Incandescent + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2675184851,4104185692#notes:Vision of Confluence - Incandescent (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2675184851,3007133316#notes:Vision of Confluence - Incandescent (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=3017780555,1561789734#notes:Vision of Confluence - Heal Clip + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=3017780555,1183436451#notes:Vision of Confluence - Heal Clip + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4223976499,1561789734#notes:Vision of Confluence - Heal Clip (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4223976499,1183436451#notes:Vision of Confluence - Heal Clip (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=3017780555,3038247973#notes:Vision of Confluence - Heal Clip + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=3017780555,64866129#notes:Vision of Confluence - Heal Clip + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4223976499,3038247973#notes:Vision of Confluence - Heal Clip (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4223976499,64866129#notes:Vision of Confluence - Heal Clip (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=3017780555,4104185692#notes:Vision of Confluence - Heal Clip + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=3017780555,3007133316#notes:Vision of Confluence - Heal Clip + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4223976499,4104185692#notes:Vision of Confluence - Heal Clip (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=4223976499,3007133316#notes:Vision of Confluence - Heal Clip (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2578928832,1561789734#notes:Vision of Confluence - Rewind Rounds + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2578928832,1183436451#notes:Vision of Confluence - Rewind Rounds + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=1563455254,1561789734#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Firefly -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=1563455254,1183436451#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Firefly (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2578928832,3038247973#notes:Vision of Confluence - Rewind Rounds + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2578928832,64866129#notes:Vision of Confluence - Rewind Rounds + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=1563455254,3038247973#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Explosive Payload -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=1563455254,64866129#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Explosive Payload (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2578928832,4104185692#notes:Vision of Confluence - Rewind Rounds + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=2578928832,3007133316#notes:Vision of Confluence - Rewind Rounds + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=1563455254,4104185692#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Frenzy -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3444688218&perks=1563455254,3007133316#notes:Vision of Confluence - Rewind Rounds (Enhanced) + Frenzy (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3292795429&perks=247725512,3891536761#notes:Randy's Throwing Knife - Rapid Hit + Kinetic Tremors -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3292795429&perks=247725512,1549370717#notes:Randy's Throwing Knife - Rapid Hit + Kinetic Tremors (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3292795429&perks=2938480696,3891536761#notes:Randy's Throwing Knife - Rapid Hit (Enhanced) + Kinetic Tremors -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3292795429&perks=2938480696,1549370717#notes:Randy's Throwing Knife - Rapid Hit (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3292795429&perks=3978468247,3891536761#notes:Randy's Throwing Knife - Discord + Kinetic Tremors -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3292795429&perks=3978468247,1549370717#notes:Randy's Throwing Knife - Discord + Kinetic Tremors (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3292795429&perks=906981559,3891536761#notes:Randy's Throwing Knife - Discord (Enhanced) + Kinetic Tremors -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3292795429&perks=906981559,1549370717#notes:Randy's Throwing Knife - Discord (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3535742959&perks=247725512,3891536761#notes:Randy's Throwing Knife - Rapid Hit + Kinetic Tremors -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3535742959&perks=247725512,1549370717#notes:Randy's Throwing Knife - Rapid Hit + Kinetic Tremors (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3535742959&perks=2938480696,3891536761#notes:Randy's Throwing Knife - Rapid Hit (Enhanced) + Kinetic Tremors -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3535742959&perks=2938480696,1549370717#notes:Randy's Throwing Knife - Rapid Hit (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3535742959&perks=3978468247,3891536761#notes:Randy's Throwing Knife - Discord + Kinetic Tremors -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3535742959&perks=3978468247,1549370717#notes:Randy's Throwing Knife - Discord + Kinetic Tremors (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3535742959&perks=906981559,3891536761#notes:Randy's Throwing Knife - Discord (Enhanced) + Kinetic Tremors -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=3535742959&perks=906981559,1549370717#notes:Randy's Throwing Knife - Discord (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=247725512,3891536761#notes:Patron of Lost Causes - Rapid Hit + Kinetic Tremors -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=247725512,1549370717#notes:Patron of Lost Causes - Rapid Hit + Kinetic Tremors (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=2938480696,3891536761#notes:Patron of Lost Causes - Rapid Hit (Enhanced) + Kinetic Tremors -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=2938480696,1549370717#notes:Patron of Lost Causes - Rapid Hit (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=247725512,3038247973#notes:Patron of Lost Causes - Rapid Hit + Explosive Payload -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=247725512,64866129#notes:Patron of Lost Causes - Rapid Hit + Explosive Payload (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=2938480696,3038247973#notes:Patron of Lost Causes - Rapid Hit (Enhanced) + Explosive Payload -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=2938480696,64866129#notes:Patron of Lost Causes - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=880644845,3891536761#notes:Patron of Lost Causes - Strategist + Kinetic Tremors -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=880644845,1549370717#notes:Patron of Lost Causes - Strategist + Kinetic Tremors (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=3120212825,3891536761#notes:Patron of Lost Causes - Strategist (Enhanced) + Kinetic Tremors -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=3120212825,1549370717#notes:Patron of Lost Causes - Strategist (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=880644845,3038247973#notes:Patron of Lost Causes - Strategist + Explosive Payload -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=880644845,64866129#notes:Patron of Lost Causes - Strategist + Explosive Payload (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=3120212825,3038247973#notes:Patron of Lost Causes - Strategist (Enhanced) + Explosive Payload -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2249996761&perks=3120212825,64866129#notes:Patron of Lost Causes - Strategist (Enhanced) + Explosive Payload (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=247725512,3891536761#notes:Patron of Lost Causes - Rapid Hit + Kinetic Tremors -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=247725512,1549370717#notes:Patron of Lost Causes - Rapid Hit + Kinetic Tremors (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=2938480696,3891536761#notes:Patron of Lost Causes - Rapid Hit (Enhanced) + Kinetic Tremors -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=2938480696,1549370717#notes:Patron of Lost Causes - Rapid Hit (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=247725512,3038247973#notes:Patron of Lost Causes - Rapid Hit + Explosive Payload -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=247725512,64866129#notes:Patron of Lost Causes - Rapid Hit + Explosive Payload (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=2938480696,3038247973#notes:Patron of Lost Causes - Rapid Hit (Enhanced) + Explosive Payload -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=2938480696,64866129#notes:Patron of Lost Causes - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=880644845,3891536761#notes:Patron of Lost Causes - Strategist + Kinetic Tremors -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=880644845,1549370717#notes:Patron of Lost Causes - Strategist + Kinetic Tremors (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=3120212825,3891536761#notes:Patron of Lost Causes - Strategist (Enhanced) + Kinetic Tremors -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=3120212825,1549370717#notes:Patron of Lost Causes - Strategist (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=880644845,3038247973#notes:Patron of Lost Causes - Strategist + Explosive Payload -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=880644845,64866129#notes:Patron of Lost Causes - Strategist + Explosive Payload (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=3120212825,3038247973#notes:Patron of Lost Causes - Strategist (Enhanced) + Explosive Payload -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2723241847&perks=3120212825,64866129#notes:Patron of Lost Causes - Strategist (Enhanced) + Explosive Payload (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=247725512,2173046394#notes:Tarnished Mettle - Rapid Hit + Voltshot -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=247725512,1720528630#notes:Tarnished Mettle - Rapid Hit + Voltshot (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=2938480696,2173046394#notes:Tarnished Mettle - Rapid Hit (Enhanced) + Voltshot -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=2938480696,1720528630#notes:Tarnished Mettle - Rapid Hit (Enhanced) + Voltshot (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=247725512,3038247973#notes:Tarnished Mettle - Rapid Hit + Explosive Payload -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=247725512,64866129#notes:Tarnished Mettle - Rapid Hit + Explosive Payload (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=2938480696,3038247973#notes:Tarnished Mettle - Rapid Hit (Enhanced) + Explosive Payload -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=2938480696,64866129#notes:Tarnished Mettle - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=3700496672,2173046394#notes:Tarnished Mettle - Shoot to Loot + Voltshot -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=3700496672,1720528630#notes:Tarnished Mettle - Shoot to Loot + Voltshot (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=2840833776,2173046394#notes:Tarnished Mettle - Shoot to Loot (Enhanced) + Voltshot -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=2840833776,1720528630#notes:Tarnished Mettle - Shoot to Loot (Enhanced) + Voltshot (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=3700496672,3038247973#notes:Tarnished Mettle - Shoot to Loot + Explosive Payload -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=3700496672,64866129#notes:Tarnished Mettle - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=2840833776,3038247973#notes:Tarnished Mettle - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=2840833776,64866129#notes:Tarnished Mettle - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=3523296417,2173046394#notes:Tarnished Mettle - Demolitionist + Voltshot -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=3523296417,1720528630#notes:Tarnished Mettle - Demolitionist + Voltshot (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=1906147653,2173046394#notes:Tarnished Mettle - Demolitionist (Enhanced) + Voltshot -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=1906147653,1720528630#notes:Tarnished Mettle - Demolitionist (Enhanced) + Voltshot (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=3523296417,3038247973#notes:Tarnished Mettle - Demolitionist + Explosive Payload -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=3523296417,64866129#notes:Tarnished Mettle - Demolitionist + Explosive Payload (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=1906147653,3038247973#notes:Tarnished Mettle - Demolitionist (Enhanced) + Explosive Payload -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2218569744&perks=1906147653,64866129#notes:Tarnished Mettle - Demolitionist (Enhanced) + Explosive Payload (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1561789734,4104185692#notes:Doom of Chelchis (Harrowed) - Firefly + Frenzy -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1561789734,3007133316#notes:Doom of Chelchis (Harrowed) - Firefly + Frenzy (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1183436451,4104185692#notes:Doom of Chelchis (Harrowed) - Firefly (Enhanced) + Frenzy -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1183436451,3007133316#notes:Doom of Chelchis (Harrowed) - Firefly (Enhanced) + Frenzy (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1561789734,4049631843#notes:Doom of Chelchis (Harrowed) - Firefly + One for All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1561789734,859780267#notes:Doom of Chelchis (Harrowed) - Firefly + One for All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1183436451,4049631843#notes:Doom of Chelchis (Harrowed) - Firefly (Enhanced) + One for All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1183436451,859780267#notes:Doom of Chelchis (Harrowed) - Firefly (Enhanced) + One for All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1561789734,2848615171#notes:Doom of Chelchis (Harrowed) - Firefly + Dragonfly -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1561789734,169755979#notes:Doom of Chelchis (Harrowed) - Firefly + Dragonfly (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1183436451,2848615171#notes:Doom of Chelchis (Harrowed) - Firefly (Enhanced) + Dragonfly -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=1183436451,169755979#notes:Doom of Chelchis (Harrowed) - Firefly (Enhanced) + Dragonfly (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=3038247973,4104185692#notes:Doom of Chelchis (Harrowed) - Explosive Payload + Frenzy -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=3038247973,3007133316#notes:Doom of Chelchis (Harrowed) - Explosive Payload + Frenzy (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=64866129,4104185692#notes:Doom of Chelchis (Harrowed) - Explosive Payload (Enhanced) + Frenzy -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=64866129,3007133316#notes:Doom of Chelchis (Harrowed) - Explosive Payload (Enhanced) + Frenzy (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=3038247973,4049631843#notes:Doom of Chelchis (Harrowed) - Explosive Payload + One for All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=3038247973,859780267#notes:Doom of Chelchis (Harrowed) - Explosive Payload + One for All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=64866129,4049631843#notes:Doom of Chelchis (Harrowed) - Explosive Payload (Enhanced) + One for All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=64866129,859780267#notes:Doom of Chelchis (Harrowed) - Explosive Payload (Enhanced) + One for All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=3038247973,2848615171#notes:Doom of Chelchis (Harrowed) - Explosive Payload + Dragonfly -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=3038247973,169755979#notes:Doom of Chelchis (Harrowed) - Explosive Payload + Dragonfly (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=64866129,2848615171#notes:Doom of Chelchis (Harrowed) - Explosive Payload (Enhanced) + Dragonfly -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1184692845&perks=64866129,169755979#notes:Doom of Chelchis (Harrowed) - Explosive Payload (Enhanced) + Dragonfly (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1561789734,4104185692#notes:Doom of Chelchis - Firefly + Frenzy -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1561789734,3007133316#notes:Doom of Chelchis - Firefly + Frenzy (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1183436451,4104185692#notes:Doom of Chelchis - Firefly (Enhanced) + Frenzy -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1183436451,3007133316#notes:Doom of Chelchis - Firefly (Enhanced) + Frenzy (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1561789734,4049631843#notes:Doom of Chelchis - Firefly + One for All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1561789734,859780267#notes:Doom of Chelchis - Firefly + One for All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1183436451,4049631843#notes:Doom of Chelchis - Firefly (Enhanced) + One for All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1183436451,859780267#notes:Doom of Chelchis - Firefly (Enhanced) + One for All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1561789734,2848615171#notes:Doom of Chelchis - Firefly + Dragonfly -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1561789734,169755979#notes:Doom of Chelchis - Firefly + Dragonfly (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1183436451,2848615171#notes:Doom of Chelchis - Firefly (Enhanced) + Dragonfly -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=1183436451,169755979#notes:Doom of Chelchis - Firefly (Enhanced) + Dragonfly (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=3038247973,4104185692#notes:Doom of Chelchis - Explosive Payload + Frenzy -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=3038247973,3007133316#notes:Doom of Chelchis - Explosive Payload + Frenzy (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=64866129,4104185692#notes:Doom of Chelchis - Explosive Payload (Enhanced) + Frenzy -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=64866129,3007133316#notes:Doom of Chelchis - Explosive Payload (Enhanced) + Frenzy (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=3038247973,4049631843#notes:Doom of Chelchis - Explosive Payload + One for All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=3038247973,859780267#notes:Doom of Chelchis - Explosive Payload + One for All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=64866129,4049631843#notes:Doom of Chelchis - Explosive Payload (Enhanced) + One for All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=64866129,859780267#notes:Doom of Chelchis - Explosive Payload (Enhanced) + One for All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=3038247973,2848615171#notes:Doom of Chelchis - Explosive Payload + Dragonfly -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=3038247973,169755979#notes:Doom of Chelchis - Explosive Payload + Dragonfly (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=64866129,2848615171#notes:Doom of Chelchis - Explosive Payload (Enhanced) + Dragonfly -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1937552980&perks=64866129,169755979#notes:Doom of Chelchis - Explosive Payload (Enhanced) + Dragonfly (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=1058098236&perks=3017780555,4293542123#notes:Timeworn Wayfarer - Heal Clip + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=3017780555,2675184851#notes:Timeworn Wayfarer - Heal Clip + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=4223976499,4293542123#notes:Timeworn Wayfarer - Heal Clip (Enhanced) + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=4223976499,2675184851#notes:Timeworn Wayfarer - Heal Clip (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=3700496672,4293542123#notes:Timeworn Wayfarer - Shoot to Loot + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=3700496672,2675184851#notes:Timeworn Wayfarer - Shoot to Loot + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=2840833776,4293542123#notes:Timeworn Wayfarer - Shoot to Loot (Enhanced) + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=2840833776,2675184851#notes:Timeworn Wayfarer - Shoot to Loot (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=25606670,4293542123#notes:Timeworn Wayfarer - Dual Loader + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=25606670,2675184851#notes:Timeworn Wayfarer - Dual Loader + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=3143051906,4293542123#notes:Timeworn Wayfarer - Dual Loader (Enhanced) + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1058098236&perks=3143051906,2675184851#notes:Timeworn Wayfarer - Dual Loader (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=3523296417,3891536761#notes:Imperative - Demolitionist + Kinetic Tremors -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=3523296417,1549370717#notes:Imperative - Demolitionist + Kinetic Tremors (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=1906147653,3891536761#notes:Imperative - Demolitionist (Enhanced) + Kinetic Tremors -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=1906147653,1549370717#notes:Imperative - Demolitionist (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=3523296417,3038247973#notes:Imperative - Demolitionist + Explosive Payload -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=3523296417,64866129#notes:Imperative - Demolitionist + Explosive Payload (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=1906147653,3038247973#notes:Imperative - Demolitionist (Enhanced) + Explosive Payload -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=1906147653,64866129#notes:Imperative - Demolitionist (Enhanced) + Explosive Payload (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=247725512,3891536761#notes:Imperative - Rapid Hit + Kinetic Tremors -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=247725512,1549370717#notes:Imperative - Rapid Hit + Kinetic Tremors (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=2938480696,3891536761#notes:Imperative - Rapid Hit (Enhanced) + Kinetic Tremors -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=2938480696,1549370717#notes:Imperative - Rapid Hit (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=247725512,3038247973#notes:Imperative - Rapid Hit + Explosive Payload -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=247725512,64866129#notes:Imperative - Rapid Hit + Explosive Payload (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=2938480696,3038247973#notes:Imperative - Rapid Hit (Enhanced) + Explosive Payload -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2045811635&perks=2938480696,64866129#notes:Imperative - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=3523296417,3891536761#notes:Imperative - Demolitionist + Kinetic Tremors -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=3523296417,1549370717#notes:Imperative - Demolitionist + Kinetic Tremors (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=1906147653,3891536761#notes:Imperative - Demolitionist (Enhanced) + Kinetic Tremors -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=1906147653,1549370717#notes:Imperative - Demolitionist (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=3523296417,3038247973#notes:Imperative - Demolitionist + Explosive Payload -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=3523296417,64866129#notes:Imperative - Demolitionist + Explosive Payload (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=1906147653,3038247973#notes:Imperative - Demolitionist (Enhanced) + Explosive Payload -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=1906147653,64866129#notes:Imperative - Demolitionist (Enhanced) + Explosive Payload (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=247725512,3891536761#notes:Imperative - Rapid Hit + Kinetic Tremors -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=247725512,1549370717#notes:Imperative - Rapid Hit + Kinetic Tremors (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=2938480696,3891536761#notes:Imperative - Rapid Hit (Enhanced) + Kinetic Tremors -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=2938480696,1549370717#notes:Imperative - Rapid Hit (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=247725512,3038247973#notes:Imperative - Rapid Hit + Explosive Payload -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=247725512,64866129#notes:Imperative - Rapid Hit + Explosive Payload (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=2938480696,3038247973#notes:Imperative - Rapid Hit (Enhanced) + Explosive Payload -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2314999489&perks=2938480696,64866129#notes:Imperative - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=1119449540,2048641572#notes:Brya's Love - Loose Change + Destabilizing Rounds -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=1119449540,1926441324#notes:Brya's Love - Loose Change + Destabilizing Rounds (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=561986700,2048641572#notes:Brya's Love - Loose Change (Enhanced) + Destabilizing Rounds -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=561986700,1926441324#notes:Brya's Love - Loose Change (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=1119449540,3038247973#notes:Brya's Love - Loose Change + Explosive Payload -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=1119449540,64866129#notes:Brya's Love - Loose Change + Explosive Payload (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=561986700,3038247973#notes:Brya's Love - Loose Change (Enhanced) + Explosive Payload -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=561986700,64866129#notes:Brya's Love - Loose Change (Enhanced) + Explosive Payload (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=3700496672,2048641572#notes:Brya's Love - Shoot to Loot + Destabilizing Rounds -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=3700496672,1926441324#notes:Brya's Love - Shoot to Loot + Destabilizing Rounds (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=2840833776,2048641572#notes:Brya's Love - Shoot to Loot (Enhanced) + Destabilizing Rounds -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=2840833776,1926441324#notes:Brya's Love - Shoot to Loot (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=3700496672,3038247973#notes:Brya's Love - Shoot to Loot + Explosive Payload -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=3700496672,64866129#notes:Brya's Love - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=2840833776,3038247973#notes:Brya's Love - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=2840833776,64866129#notes:Brya's Love - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=247725512,2048641572#notes:Brya's Love - Rapid Hit + Destabilizing Rounds -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=247725512,1926441324#notes:Brya's Love - Rapid Hit + Destabilizing Rounds (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=2938480696,2048641572#notes:Brya's Love - Rapid Hit (Enhanced) + Destabilizing Rounds -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=2938480696,1926441324#notes:Brya's Love - Rapid Hit (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=247725512,3038247973#notes:Brya's Love - Rapid Hit + Explosive Payload -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=247725512,64866129#notes:Brya's Love - Rapid Hit + Explosive Payload (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=2938480696,3038247973#notes:Brya's Love - Rapid Hit (Enhanced) + Explosive Payload -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2779821308&perks=2938480696,64866129#notes:Brya's Love - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=3523296417,3891536761#notes:Transfiguration - Demolitionist + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=3523296417,1549370717#notes:Transfiguration - Demolitionist + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=1906147653,3891536761#notes:Transfiguration - Demolitionist (Enhanced) + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=1906147653,1549370717#notes:Transfiguration - Demolitionist (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=3523296417,3038247973#notes:Transfiguration - Demolitionist + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=3523296417,64866129#notes:Transfiguration - Demolitionist + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=1906147653,3038247973#notes:Transfiguration - Demolitionist (Enhanced) + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=1906147653,64866129#notes:Transfiguration - Demolitionist (Enhanced) + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=247725512,3891536761#notes:Transfiguration - Rapid Hit + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=247725512,1549370717#notes:Transfiguration - Rapid Hit + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=2938480696,3891536761#notes:Transfiguration - Rapid Hit (Enhanced) + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=2938480696,1549370717#notes:Transfiguration - Rapid Hit (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=247725512,3038247973#notes:Transfiguration - Rapid Hit + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=247725512,64866129#notes:Transfiguration - Rapid Hit + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=2938480696,3038247973#notes:Transfiguration - Rapid Hit (Enhanced) + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=2938480696,64866129#notes:Transfiguration - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=2578928832,3891536761#notes:Transfiguration - Rewind Rounds + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=2578928832,1549370717#notes:Transfiguration - Rewind Rounds + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=1563455254,3891536761#notes:Transfiguration - Rewind Rounds (Enhanced) + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=1563455254,1549370717#notes:Transfiguration - Rewind Rounds (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=2578928832,3038247973#notes:Transfiguration - Rewind Rounds + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=2578928832,64866129#notes:Transfiguration - Rewind Rounds + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=1563455254,3038247973#notes:Transfiguration - Rewind Rounds (Enhanced) + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3799980700&perks=1563455254,64866129#notes:Transfiguration - Rewind Rounds (Enhanced) + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=3523296417,3891536761#notes:Transfiguration - Demolitionist + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=3523296417,1549370717#notes:Transfiguration - Demolitionist + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=1906147653,3891536761#notes:Transfiguration - Demolitionist (Enhanced) + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=1906147653,1549370717#notes:Transfiguration - Demolitionist (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=3523296417,3038247973#notes:Transfiguration - Demolitionist + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=3523296417,64866129#notes:Transfiguration - Demolitionist + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=1906147653,3038247973#notes:Transfiguration - Demolitionist (Enhanced) + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=1906147653,64866129#notes:Transfiguration - Demolitionist (Enhanced) + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=247725512,3891536761#notes:Transfiguration - Rapid Hit + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=247725512,1549370717#notes:Transfiguration - Rapid Hit + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=2938480696,3891536761#notes:Transfiguration - Rapid Hit (Enhanced) + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=2938480696,1549370717#notes:Transfiguration - Rapid Hit (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=247725512,3038247973#notes:Transfiguration - Rapid Hit + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=247725512,64866129#notes:Transfiguration - Rapid Hit + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=2938480696,3038247973#notes:Transfiguration - Rapid Hit (Enhanced) + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=2938480696,64866129#notes:Transfiguration - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=2578928832,3891536761#notes:Transfiguration - Rewind Rounds + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=2578928832,1549370717#notes:Transfiguration - Rewind Rounds + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=1563455254,3891536761#notes:Transfiguration - Rewind Rounds (Enhanced) + Kinetic Tremors -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=1563455254,1549370717#notes:Transfiguration - Rewind Rounds (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=2578928832,3038247973#notes:Transfiguration - Rewind Rounds + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=2578928832,64866129#notes:Transfiguration - Rewind Rounds + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=1563455254,3038247973#notes:Transfiguration - Rewind Rounds (Enhanced) + Explosive Payload -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3885259140&perks=1563455254,64866129#notes:Transfiguration - Rewind Rounds (Enhanced) + Explosive Payload (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=1168162263,3891536761#notes:Nameless Midnight - Outlaw + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=1168162263,1549370717#notes:Nameless Midnight - Outlaw + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=1347741687,3891536761#notes:Nameless Midnight - Outlaw (Enhanced) + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=1347741687,1549370717#notes:Nameless Midnight - Outlaw (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=1168162263,3038247973#notes:Nameless Midnight - Outlaw + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=1168162263,64866129#notes:Nameless Midnight - Outlaw + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=1347741687,3038247973#notes:Nameless Midnight - Outlaw (Enhanced) + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=1347741687,64866129#notes:Nameless Midnight - Outlaw (Enhanced) + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=3619207468,3891536761#notes:Nameless Midnight - Keep Away + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=3619207468,1549370717#notes:Nameless Midnight - Keep Away + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=3198323828,3891536761#notes:Nameless Midnight - Keep Away (Enhanced) + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=3198323828,1549370717#notes:Nameless Midnight - Keep Away (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=3619207468,3038247973#notes:Nameless Midnight - Keep Away + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=3619207468,64866129#notes:Nameless Midnight - Keep Away + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=3198323828,3038247973#notes:Nameless Midnight - Keep Away (Enhanced) + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=996109059&perks=3198323828,64866129#notes:Nameless Midnight - Keep Away (Enhanced) + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=1168162263,3891536761#notes:Nameless Midnight - Outlaw + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=1168162263,1549370717#notes:Nameless Midnight - Outlaw + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=1347741687,3891536761#notes:Nameless Midnight - Outlaw (Enhanced) + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=1347741687,1549370717#notes:Nameless Midnight - Outlaw (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=1168162263,3038247973#notes:Nameless Midnight - Outlaw + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=1168162263,64866129#notes:Nameless Midnight - Outlaw + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=1347741687,3038247973#notes:Nameless Midnight - Outlaw (Enhanced) + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=1347741687,64866129#notes:Nameless Midnight - Outlaw (Enhanced) + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=3619207468,3891536761#notes:Nameless Midnight - Keep Away + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=3619207468,1549370717#notes:Nameless Midnight - Keep Away + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=3198323828,3891536761#notes:Nameless Midnight - Keep Away (Enhanced) + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=3198323828,1549370717#notes:Nameless Midnight - Keep Away (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=3619207468,3038247973#notes:Nameless Midnight - Keep Away + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=3619207468,64866129#notes:Nameless Midnight - Keep Away + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=3198323828,3038247973#notes:Nameless Midnight - Keep Away (Enhanced) + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1960218487&perks=3198323828,64866129#notes:Nameless Midnight - Keep Away (Enhanced) + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=1168162263,3891536761#notes:Nameless Midnight - Outlaw + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=1168162263,1549370717#notes:Nameless Midnight - Outlaw + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=1347741687,3891536761#notes:Nameless Midnight - Outlaw (Enhanced) + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=1347741687,1549370717#notes:Nameless Midnight - Outlaw (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=1168162263,3038247973#notes:Nameless Midnight - Outlaw + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=1168162263,64866129#notes:Nameless Midnight - Outlaw + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=1347741687,3038247973#notes:Nameless Midnight - Outlaw (Enhanced) + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=1347741687,64866129#notes:Nameless Midnight - Outlaw (Enhanced) + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=3619207468,3891536761#notes:Nameless Midnight - Keep Away + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=3619207468,1549370717#notes:Nameless Midnight - Keep Away + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=3198323828,3891536761#notes:Nameless Midnight - Keep Away (Enhanced) + Kinetic Tremors -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=3198323828,1549370717#notes:Nameless Midnight - Keep Away (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=3619207468,3038247973#notes:Nameless Midnight - Keep Away + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=3619207468,64866129#notes:Nameless Midnight - Keep Away + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=3198323828,3038247973#notes:Nameless Midnight - Keep Away (Enhanced) + Explosive Payload -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3040742682&perks=3198323828,64866129#notes:Nameless Midnight - Keep Away (Enhanced) + Explosive Payload (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=1851521408&perks=247725512,124408337#notes:Jararaca-3sr - Rapid Hit + Headstone -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1851521408&perks=247725512,1171887445#notes:Jararaca-3sr - Rapid Hit + Headstone (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1851521408&perks=2938480696,124408337#notes:Jararaca-3sr - Rapid Hit (Enhanced) + Headstone -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=1851521408&perks=2938480696,1171887445#notes:Jararaca-3sr - Rapid Hit (Enhanced) + Headstone (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=243981275,124408337#notes:Red Tape - Attrition Orbs + Headstone -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=243981275,1171887445#notes:Red Tape - Attrition Orbs + Headstone (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=984655331,124408337#notes:Red Tape - Attrition Orbs (Enhanced) + Headstone -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=984655331,1171887445#notes:Red Tape - Attrition Orbs (Enhanced) + Headstone (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=243981275,3038247973#notes:Red Tape - Attrition Orbs + Explosive Payload -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=243981275,64866129#notes:Red Tape - Attrition Orbs + Explosive Payload (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=984655331,3038247973#notes:Red Tape - Attrition Orbs (Enhanced) + Explosive Payload -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=984655331,64866129#notes:Red Tape - Attrition Orbs (Enhanced) + Explosive Payload (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=3523296417,124408337#notes:Red Tape - Demolitionist + Headstone -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=3523296417,1171887445#notes:Red Tape - Demolitionist + Headstone (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=1906147653,124408337#notes:Red Tape - Demolitionist (Enhanced) + Headstone -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=1906147653,1171887445#notes:Red Tape - Demolitionist (Enhanced) + Headstone (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=3523296417,3038247973#notes:Red Tape - Demolitionist + Explosive Payload -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=3523296417,64866129#notes:Red Tape - Demolitionist + Explosive Payload (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=1906147653,3038247973#notes:Red Tape - Demolitionist (Enhanced) + Explosive Payload -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=1906147653,64866129#notes:Red Tape - Demolitionist (Enhanced) + Explosive Payload (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=1955165503,124408337#notes:Red Tape - Rimestealer + Headstone -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=1955165503,1171887445#notes:Red Tape - Rimestealer + Headstone (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=2617553311,124408337#notes:Red Tape - Rimestealer (Enhanced) + Headstone -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=2617553311,1171887445#notes:Red Tape - Rimestealer (Enhanced) + Headstone (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=1955165503,3038247973#notes:Red Tape - Rimestealer + Explosive Payload -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=1955165503,64866129#notes:Red Tape - Rimestealer + Explosive Payload (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=2617553311,3038247973#notes:Red Tape - Rimestealer (Enhanced) + Explosive Payload -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3423493037&perks=2617553311,64866129#notes:Red Tape - Rimestealer (Enhanced) + Explosive Payload (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=3523296417,124408337#notes:The Prophet - Demolitionist + Headstone -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=3523296417,1171887445#notes:The Prophet - Demolitionist + Headstone (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=1906147653,124408337#notes:The Prophet - Demolitionist (Enhanced) + Headstone -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=1906147653,1171887445#notes:The Prophet - Demolitionist (Enhanced) + Headstone (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=3523296417,3038247973#notes:The Prophet - Demolitionist + Explosive Payload -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=3523296417,64866129#notes:The Prophet - Demolitionist + Explosive Payload (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=1906147653,3038247973#notes:The Prophet - Demolitionist (Enhanced) + Explosive Payload -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=1906147653,64866129#notes:The Prophet - Demolitionist (Enhanced) + Explosive Payload (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=247725512,124408337#notes:The Prophet - Rapid Hit + Headstone -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=247725512,1171887445#notes:The Prophet - Rapid Hit + Headstone (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=2938480696,124408337#notes:The Prophet - Rapid Hit (Enhanced) + Headstone -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=2938480696,1171887445#notes:The Prophet - Rapid Hit (Enhanced) + Headstone (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=247725512,3038247973#notes:The Prophet - Rapid Hit + Explosive Payload -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=247725512,64866129#notes:The Prophet - Rapid Hit + Explosive Payload (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=2938480696,3038247973#notes:The Prophet - Rapid Hit (Enhanced) + Explosive Payload -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1968410628&perks=2938480696,64866129#notes:The Prophet - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=3523296417,124408337#notes:The Prophet (Adept) - Demolitionist + Headstone -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=3523296417,1171887445#notes:The Prophet (Adept) - Demolitionist + Headstone (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=1906147653,124408337#notes:The Prophet (Adept) - Demolitionist (Enhanced) + Headstone -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=1906147653,1171887445#notes:The Prophet (Adept) - Demolitionist (Enhanced) + Headstone (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=3523296417,3038247973#notes:The Prophet (Adept) - Demolitionist + Explosive Payload -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=3523296417,64866129#notes:The Prophet (Adept) - Demolitionist + Explosive Payload (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=1906147653,3038247973#notes:The Prophet (Adept) - Demolitionist (Enhanced) + Explosive Payload -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=1906147653,64866129#notes:The Prophet (Adept) - Demolitionist (Enhanced) + Explosive Payload (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=247725512,124408337#notes:The Prophet (Adept) - Rapid Hit + Headstone -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=247725512,1171887445#notes:The Prophet (Adept) - Rapid Hit + Headstone (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=2938480696,124408337#notes:The Prophet (Adept) - Rapid Hit (Enhanced) + Headstone -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=2938480696,1171887445#notes:The Prophet (Adept) - Rapid Hit (Enhanced) + Headstone (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=247725512,3038247973#notes:The Prophet (Adept) - Rapid Hit + Explosive Payload -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=247725512,64866129#notes:The Prophet (Adept) - Rapid Hit + Explosive Payload (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=2938480696,3038247973#notes:The Prophet (Adept) - Rapid Hit (Enhanced) + Explosive Payload -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3019024381&perks=2938480696,64866129#notes:The Prophet (Adept) - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=247725512,124408337#notes:Perses-D - Rapid Hit + Headstone -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=247725512,1171887445#notes:Perses-D - Rapid Hit + Headstone (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=2938480696,124408337#notes:Perses-D - Rapid Hit (Enhanced) + Headstone -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=2938480696,1171887445#notes:Perses-D - Rapid Hit (Enhanced) + Headstone (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=247725512,3038247973#notes:Perses-D - Rapid Hit + Explosive Payload -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=247725512,64866129#notes:Perses-D - Rapid Hit + Explosive Payload (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=2938480696,3038247973#notes:Perses-D - Rapid Hit (Enhanced) + Explosive Payload -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=2938480696,64866129#notes:Perses-D - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=3700496672,124408337#notes:Perses-D - Shoot to Loot + Headstone -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=3700496672,1171887445#notes:Perses-D - Shoot to Loot + Headstone (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=2840833776,124408337#notes:Perses-D - Shoot to Loot (Enhanced) + Headstone -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=2840833776,1171887445#notes:Perses-D - Shoot to Loot (Enhanced) + Headstone (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=3700496672,3038247973#notes:Perses-D - Shoot to Loot + Explosive Payload -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=3700496672,64866129#notes:Perses-D - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=2840833776,3038247973#notes:Perses-D - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1019000888&perks=2840833776,64866129#notes:Perses-D - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=128782990&perks=247725512,831391274#notes:Fang of Ir Yût (Adept) - Rapid Hit + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=247725512,102912326#notes:Fang of Ir Yût (Adept) - Rapid Hit + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=2938480696,831391274#notes:Fang of Ir Yût (Adept) - Rapid Hit (Enhanced) + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=2938480696,102912326#notes:Fang of Ir Yût (Adept) - Rapid Hit (Enhanced) + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=3700496672,831391274#notes:Fang of Ir Yût (Adept) - Shoot to Loot + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=3700496672,102912326#notes:Fang of Ir Yût (Adept) - Shoot to Loot + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=2840833776,831391274#notes:Fang of Ir Yût (Adept) - Shoot to Loot (Enhanced) + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=2840833776,102912326#notes:Fang of Ir Yût (Adept) - Shoot to Loot (Enhanced) + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=2578928832,831391274#notes:Fang of Ir Yût (Adept) - Rewind Rounds + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=2578928832,102912326#notes:Fang of Ir Yût (Adept) - Rewind Rounds + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=1563455254,831391274#notes:Fang of Ir Yût (Adept) - Rewind Rounds (Enhanced) + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=128782990&perks=1563455254,102912326#notes:Fang of Ir Yût (Adept) - Rewind Rounds (Enhanced) + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=247725512,831391274#notes:Fang of Ir Yût - Rapid Hit + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=247725512,102912326#notes:Fang of Ir Yût - Rapid Hit + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=2938480696,831391274#notes:Fang of Ir Yût - Rapid Hit (Enhanced) + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=2938480696,102912326#notes:Fang of Ir Yût - Rapid Hit (Enhanced) + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=3700496672,831391274#notes:Fang of Ir Yût - Shoot to Loot + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=3700496672,102912326#notes:Fang of Ir Yût - Shoot to Loot + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=2840833776,831391274#notes:Fang of Ir Yût - Shoot to Loot (Enhanced) + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=2840833776,102912326#notes:Fang of Ir Yût - Shoot to Loot (Enhanced) + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=2578928832,831391274#notes:Fang of Ir Yût - Rewind Rounds + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=2578928832,102912326#notes:Fang of Ir Yût - Rewind Rounds + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=1563455254,831391274#notes:Fang of Ir Yût - Rewind Rounds (Enhanced) + Hatchling -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=1432682459&perks=1563455254,102912326#notes:Fang of Ir Yût - Rewind Rounds (Enhanced) + Hatchling (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1168162263,4293542123#notes:Staccato-46 - Outlaw + Incandescent -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1168162263,2675184851#notes:Staccato-46 - Outlaw + Incandescent (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1347741687,4293542123#notes:Staccato-46 - Outlaw (Enhanced) + Incandescent -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1347741687,2675184851#notes:Staccato-46 - Outlaw (Enhanced) + Incandescent (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1168162263,2848615171#notes:Staccato-46 - Outlaw + Dragonfly -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1168162263,169755979#notes:Staccato-46 - Outlaw + Dragonfly (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1347741687,2848615171#notes:Staccato-46 - Outlaw (Enhanced) + Dragonfly -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1347741687,169755979#notes:Staccato-46 - Outlaw (Enhanced) + Dragonfly (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1168162263,3038247973#notes:Staccato-46 - Outlaw + Explosive Payload -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1168162263,64866129#notes:Staccato-46 - Outlaw + Explosive Payload (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1347741687,3038247973#notes:Staccato-46 - Outlaw (Enhanced) + Explosive Payload -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=1347741687,64866129#notes:Staccato-46 - Outlaw (Enhanced) + Explosive Payload (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=3700496672,4293542123#notes:Staccato-46 - Shoot to Loot + Incandescent -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=3700496672,2675184851#notes:Staccato-46 - Shoot to Loot + Incandescent (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=2840833776,4293542123#notes:Staccato-46 - Shoot to Loot (Enhanced) + Incandescent -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=2840833776,2675184851#notes:Staccato-46 - Shoot to Loot (Enhanced) + Incandescent (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=3700496672,2848615171#notes:Staccato-46 - Shoot to Loot + Dragonfly -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=3700496672,169755979#notes:Staccato-46 - Shoot to Loot + Dragonfly (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=2840833776,2848615171#notes:Staccato-46 - Shoot to Loot (Enhanced) + Dragonfly -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=2840833776,169755979#notes:Staccato-46 - Shoot to Loot (Enhanced) + Dragonfly (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=3700496672,3038247973#notes:Staccato-46 - Shoot to Loot + Explosive Payload -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=3700496672,64866129#notes:Staccato-46 - Shoot to Loot + Explosive Payload (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=2840833776,3038247973#notes:Staccato-46 - Shoot to Loot (Enhanced) + Explosive Payload -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=4019668921&perks=2840833776,64866129#notes:Staccato-46 - Shoot to Loot (Enhanced) + Explosive Payload (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=247725512,124408337#notes:Live Fire - Rapid Hit + Headstone -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=247725512,1171887445#notes:Live Fire - Rapid Hit + Headstone (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=2938480696,124408337#notes:Live Fire - Rapid Hit (Enhanced) + Headstone -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=2938480696,1171887445#notes:Live Fire - Rapid Hit (Enhanced) + Headstone (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=247725512,3700496672#notes:Live Fire - Rapid Hit + Shoot to Loot -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=247725512,2840833776#notes:Live Fire - Rapid Hit + Shoot to Loot (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=2938480696,3700496672#notes:Live Fire - Rapid Hit (Enhanced) + Shoot to Loot -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=2938480696,2840833776#notes:Live Fire - Rapid Hit (Enhanced) + Shoot to Loot (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=1955165503,124408337#notes:Live Fire - Rimestealer + Headstone -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=1955165503,1171887445#notes:Live Fire - Rimestealer + Headstone (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=2617553311,124408337#notes:Live Fire - Rimestealer (Enhanced) + Headstone -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=2617553311,1171887445#notes:Live Fire - Rimestealer (Enhanced) + Headstone (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=1955165503,3700496672#notes:Live Fire - Rimestealer + Shoot to Loot -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=1955165503,2840833776#notes:Live Fire - Rimestealer + Shoot to Loot (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=2617553311,3700496672#notes:Live Fire - Rimestealer (Enhanced) + Shoot to Loot -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=3612142623&perks=2617553311,2840833776#notes:Live Fire - Rimestealer (Enhanced) + Shoot to Loot (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=247725512,2848615171#notes:Long Arm - Rapid Hit + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=247725512,169755979#notes:Long Arm - Rapid Hit + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=2938480696,2848615171#notes:Long Arm - Rapid Hit (Enhanced) + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=2938480696,169755979#notes:Long Arm - Rapid Hit (Enhanced) + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=247725512,3038247973#notes:Long Arm - Rapid Hit + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=247725512,64866129#notes:Long Arm - Rapid Hit + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=2938480696,3038247973#notes:Long Arm - Rapid Hit (Enhanced) + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=2938480696,64866129#notes:Long Arm - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=3592538738,2848615171#notes:Long Arm - Wellspring + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=3592538738,169755979#notes:Long Arm - Wellspring + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=2675361166,2848615171#notes:Long Arm - Wellspring (Enhanced) + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=2675361166,169755979#notes:Long Arm - Wellspring (Enhanced) + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=3592538738,3038247973#notes:Long Arm - Wellspring + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=3592538738,64866129#notes:Long Arm - Wellspring + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=2675361166,3038247973#notes:Long Arm - Wellspring (Enhanced) + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=8293111&perks=2675361166,64866129#notes:Long Arm - Wellspring (Enhanced) + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=247725512,2848615171#notes:Long Arm - Rapid Hit + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=247725512,169755979#notes:Long Arm - Rapid Hit + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=2938480696,2848615171#notes:Long Arm - Rapid Hit (Enhanced) + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=2938480696,169755979#notes:Long Arm - Rapid Hit (Enhanced) + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=247725512,3038247973#notes:Long Arm - Rapid Hit + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=247725512,64866129#notes:Long Arm - Rapid Hit + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=2938480696,3038247973#notes:Long Arm - Rapid Hit (Enhanced) + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=2938480696,64866129#notes:Long Arm - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=3592538738,2848615171#notes:Long Arm - Wellspring + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=3592538738,169755979#notes:Long Arm - Wellspring + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=2675361166,2848615171#notes:Long Arm - Wellspring (Enhanced) + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=2675361166,169755979#notes:Long Arm - Wellspring (Enhanced) + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=3592538738,3038247973#notes:Long Arm - Wellspring + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=3592538738,64866129#notes:Long Arm - Wellspring + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=2675361166,3038247973#notes:Long Arm - Wellspring (Enhanced) + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=14929251&perks=2675361166,64866129#notes:Long Arm - Wellspring (Enhanced) + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=247725512,2848615171#notes:Long Arm - Rapid Hit + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=247725512,169755979#notes:Long Arm - Rapid Hit + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=2938480696,2848615171#notes:Long Arm - Rapid Hit (Enhanced) + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=2938480696,169755979#notes:Long Arm - Rapid Hit (Enhanced) + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=247725512,3038247973#notes:Long Arm - Rapid Hit + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=247725512,64866129#notes:Long Arm - Rapid Hit + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=2938480696,3038247973#notes:Long Arm - Rapid Hit (Enhanced) + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=2938480696,64866129#notes:Long Arm - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=3592538738,2848615171#notes:Long Arm - Wellspring + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=3592538738,169755979#notes:Long Arm - Wellspring + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=2675361166,2848615171#notes:Long Arm - Wellspring (Enhanced) + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=2675361166,169755979#notes:Long Arm - Wellspring (Enhanced) + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=3592538738,3038247973#notes:Long Arm - Wellspring + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=3592538738,64866129#notes:Long Arm - Wellspring + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=2675361166,3038247973#notes:Long Arm - Wellspring (Enhanced) + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3692140710&perks=2675361166,64866129#notes:Long Arm - Wellspring (Enhanced) + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=247725512,2848615171#notes:Long Arm - Rapid Hit + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=247725512,169755979#notes:Long Arm - Rapid Hit + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=2938480696,2848615171#notes:Long Arm - Rapid Hit (Enhanced) + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=2938480696,169755979#notes:Long Arm - Rapid Hit (Enhanced) + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=247725512,3038247973#notes:Long Arm - Rapid Hit + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=247725512,64866129#notes:Long Arm - Rapid Hit + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=2938480696,3038247973#notes:Long Arm - Rapid Hit (Enhanced) + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=2938480696,64866129#notes:Long Arm - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=3592538738,2848615171#notes:Long Arm - Wellspring + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=3592538738,169755979#notes:Long Arm - Wellspring + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=2675361166,2848615171#notes:Long Arm - Wellspring (Enhanced) + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=2675361166,169755979#notes:Long Arm - Wellspring (Enhanced) + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=3592538738,3038247973#notes:Long Arm - Wellspring + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=3592538738,64866129#notes:Long Arm - Wellspring + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=2675361166,3038247973#notes:Long Arm - Wellspring (Enhanced) + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4239378215&perks=2675361166,64866129#notes:Long Arm - Wellspring (Enhanced) + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=247725512,2848615171#notes:Long Arm - Rapid Hit + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=247725512,169755979#notes:Long Arm - Rapid Hit + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=2938480696,2848615171#notes:Long Arm - Rapid Hit (Enhanced) + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=2938480696,169755979#notes:Long Arm - Rapid Hit (Enhanced) + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=247725512,3038247973#notes:Long Arm - Rapid Hit + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=247725512,64866129#notes:Long Arm - Rapid Hit + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=2938480696,3038247973#notes:Long Arm - Rapid Hit (Enhanced) + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=2938480696,64866129#notes:Long Arm - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=3592538738,2848615171#notes:Long Arm - Wellspring + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=3592538738,169755979#notes:Long Arm - Wellspring + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=2675361166,2848615171#notes:Long Arm - Wellspring (Enhanced) + Dragonfly -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=2675361166,169755979#notes:Long Arm - Wellspring (Enhanced) + Dragonfly (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=3592538738,3038247973#notes:Long Arm - Wellspring + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=3592538738,64866129#notes:Long Arm - Wellspring + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=2675361166,3038247973#notes:Long Arm - Wellspring (Enhanced) + Explosive Payload -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=4249949938&perks=2675361166,64866129#notes:Long Arm - Wellspring (Enhanced) + Explosive Payload (Enhanced) -- Rank 22, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=776531651,1464081238#notes:Admetus-D - Repulsor Brace + Demoralize -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=776531651,2813913866#notes:Admetus-D - Repulsor Brace + Demoralize (Enhanced) -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=2541826827,1464081238#notes:Admetus-D - Repulsor Brace (Enhanced) + Demoralize -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=2541826827,2813913866#notes:Admetus-D - Repulsor Brace (Enhanced) + Demoralize (Enhanced) -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=776531651,4104185692#notes:Admetus-D - Repulsor Brace + Frenzy -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=776531651,3007133316#notes:Admetus-D - Repulsor Brace + Frenzy (Enhanced) -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=2541826827,4104185692#notes:Admetus-D - Repulsor Brace (Enhanced) + Frenzy -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=2541826827,3007133316#notes:Admetus-D - Repulsor Brace (Enhanced) + Frenzy (Enhanced) -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=247725512,1464081238#notes:Admetus-D - Rapid Hit + Demoralize -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=247725512,2813913866#notes:Admetus-D - Rapid Hit + Demoralize (Enhanced) -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=2938480696,1464081238#notes:Admetus-D - Rapid Hit (Enhanced) + Demoralize -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=2938480696,2813913866#notes:Admetus-D - Rapid Hit (Enhanced) + Demoralize (Enhanced) -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=247725512,4104185692#notes:Admetus-D - Rapid Hit + Frenzy -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=247725512,3007133316#notes:Admetus-D - Rapid Hit + Frenzy (Enhanced) -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=2938480696,4104185692#notes:Admetus-D - Rapid Hit (Enhanced) + Frenzy -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=3776430252&perks=2938480696,3007133316#notes:Admetus-D - Rapid Hit (Enhanced) + Frenzy (Enhanced) -- Rank 23, Tier C by TheAegisRelic
+dimwishlist:item=1107446438&perks=247725512,4104185692#notes:Servant Leader - Rapid Hit + Frenzy -- Rank 24, Tier C by TheAegisRelic
+dimwishlist:item=1107446438&perks=247725512,3007133316#notes:Servant Leader - Rapid Hit + Frenzy (Enhanced) -- Rank 24, Tier C by TheAegisRelic
+dimwishlist:item=1107446438&perks=2938480696,4104185692#notes:Servant Leader - Rapid Hit (Enhanced) + Frenzy -- Rank 24, Tier C by TheAegisRelic
+dimwishlist:item=1107446438&perks=2938480696,3007133316#notes:Servant Leader - Rapid Hit (Enhanced) + Frenzy (Enhanced) -- Rank 24, Tier C by TheAegisRelic
+dimwishlist:item=1107446438&perks=3700496672,4104185692#notes:Servant Leader - Shoot to Loot + Frenzy -- Rank 24, Tier C by TheAegisRelic
+dimwishlist:item=1107446438&perks=3700496672,3007133316#notes:Servant Leader - Shoot to Loot + Frenzy (Enhanced) -- Rank 24, Tier C by TheAegisRelic
+dimwishlist:item=1107446438&perks=2840833776,4104185692#notes:Servant Leader - Shoot to Loot (Enhanced) + Frenzy -- Rank 24, Tier C by TheAegisRelic
+dimwishlist:item=1107446438&perks=2840833776,3007133316#notes:Servant Leader - Shoot to Loot (Enhanced) + Frenzy (Enhanced) -- Rank 24, Tier C by TheAegisRelic
+dimwishlist:item=1389546626&perks=777589557,3038247973#notes:Taraxippos - Enlightened Action + Explosive Payload -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=1389546626&perks=777589557,64866129#notes:Taraxippos - Enlightened Action + Explosive Payload (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=1389546626&perks=1771736209,3038247973#notes:Taraxippos - Enlightened Action (Enhanced) + Explosive Payload -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=1389546626&perks=1771736209,64866129#notes:Taraxippos - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=1389546626&perks=777589557,831391274#notes:Taraxippos - Enlightened Action + Hatchling -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=1389546626&perks=777589557,102912326#notes:Taraxippos - Enlightened Action + Hatchling (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=1389546626&perks=1771736209,831391274#notes:Taraxippos - Enlightened Action (Enhanced) + Hatchling -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=1389546626&perks=1771736209,102912326#notes:Taraxippos - Enlightened Action (Enhanced) + Hatchling (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=2595813005&perks=777589557,3038247973#notes:Taraxippos - Enlightened Action + Explosive Payload -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=2595813005&perks=777589557,64866129#notes:Taraxippos - Enlightened Action + Explosive Payload (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=2595813005&perks=1771736209,3038247973#notes:Taraxippos - Enlightened Action (Enhanced) + Explosive Payload -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=2595813005&perks=1771736209,64866129#notes:Taraxippos - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=2595813005&perks=777589557,831391274#notes:Taraxippos - Enlightened Action + Hatchling -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=2595813005&perks=777589557,102912326#notes:Taraxippos - Enlightened Action + Hatchling (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=2595813005&perks=1771736209,831391274#notes:Taraxippos - Enlightened Action (Enhanced) + Hatchling -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=2595813005&perks=1771736209,102912326#notes:Taraxippos - Enlightened Action (Enhanced) + Hatchling (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=3007479950&perks=777589557,3038247973#notes:Taraxippos - Enlightened Action + Explosive Payload -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=3007479950&perks=777589557,64866129#notes:Taraxippos - Enlightened Action + Explosive Payload (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=3007479950&perks=1771736209,3038247973#notes:Taraxippos - Enlightened Action (Enhanced) + Explosive Payload -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=3007479950&perks=1771736209,64866129#notes:Taraxippos - Enlightened Action (Enhanced) + Explosive Payload (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=3007479950&perks=777589557,831391274#notes:Taraxippos - Enlightened Action + Hatchling -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=3007479950&perks=777589557,102912326#notes:Taraxippos - Enlightened Action + Hatchling (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=3007479950&perks=1771736209,831391274#notes:Taraxippos - Enlightened Action (Enhanced) + Hatchling -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=3007479950&perks=1771736209,102912326#notes:Taraxippos - Enlightened Action (Enhanced) + Hatchling (Enhanced) -- Rank 25, Tier C by TheAegisRelic
+dimwishlist:item=417100299&perks=777589557,831391274#notes:The Guiding Sight - Enlightened Action + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=777589557,102912326#notes:The Guiding Sight - Enlightened Action + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=1771736209,831391274#notes:The Guiding Sight - Enlightened Action (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=1771736209,102912326#notes:The Guiding Sight - Enlightened Action (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=3523296417,831391274#notes:The Guiding Sight - Demolitionist + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=3523296417,102912326#notes:The Guiding Sight - Demolitionist + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=1906147653,831391274#notes:The Guiding Sight - Demolitionist (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=1906147653,102912326#notes:The Guiding Sight - Demolitionist (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=923806249,831391274#notes:The Guiding Sight - Slice + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=923806249,102912326#notes:The Guiding Sight - Slice + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=3422796781,831391274#notes:The Guiding Sight - Slice (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=417100299&perks=3422796781,102912326#notes:The Guiding Sight - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=777589557,831391274#notes:The Guiding Sight - Enlightened Action + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=777589557,102912326#notes:The Guiding Sight - Enlightened Action + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=1771736209,831391274#notes:The Guiding Sight - Enlightened Action (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=1771736209,102912326#notes:The Guiding Sight - Enlightened Action (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=3523296417,831391274#notes:The Guiding Sight - Demolitionist + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=3523296417,102912326#notes:The Guiding Sight - Demolitionist + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=1906147653,831391274#notes:The Guiding Sight - Demolitionist (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=1906147653,102912326#notes:The Guiding Sight - Demolitionist (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=923806249,831391274#notes:The Guiding Sight - Slice + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=923806249,102912326#notes:The Guiding Sight - Slice + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=3422796781,831391274#notes:The Guiding Sight - Slice (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1161561386&perks=3422796781,102912326#notes:The Guiding Sight - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=777589557,831391274#notes:The Guiding Sight - Enlightened Action + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=777589557,102912326#notes:The Guiding Sight - Enlightened Action + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=1771736209,831391274#notes:The Guiding Sight - Enlightened Action (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=1771736209,102912326#notes:The Guiding Sight - Enlightened Action (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=3523296417,831391274#notes:The Guiding Sight - Demolitionist + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=3523296417,102912326#notes:The Guiding Sight - Demolitionist + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=1906147653,831391274#notes:The Guiding Sight - Demolitionist (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=1906147653,102912326#notes:The Guiding Sight - Demolitionist (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=923806249,831391274#notes:The Guiding Sight - Slice + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=923806249,102912326#notes:The Guiding Sight - Slice + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=3422796781,831391274#notes:The Guiding Sight - Slice (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=1641430382&perks=3422796781,102912326#notes:The Guiding Sight - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=777589557,831391274#notes:The Guiding Sight - Enlightened Action + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=777589557,102912326#notes:The Guiding Sight - Enlightened Action + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=1771736209,831391274#notes:The Guiding Sight - Enlightened Action (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=1771736209,102912326#notes:The Guiding Sight - Enlightened Action (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=3523296417,831391274#notes:The Guiding Sight - Demolitionist + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=3523296417,102912326#notes:The Guiding Sight - Demolitionist + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=1906147653,831391274#notes:The Guiding Sight - Demolitionist (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=1906147653,102912326#notes:The Guiding Sight - Demolitionist (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=923806249,831391274#notes:The Guiding Sight - Slice + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=923806249,102912326#notes:The Guiding Sight - Slice + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=3422796781,831391274#notes:The Guiding Sight - Slice (Enhanced) + Hatchling -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=3890960908&perks=3422796781,102912326#notes:The Guiding Sight - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 26, Tier D by TheAegisRelic
+dimwishlist:item=222606050&perks=1523832109,831391274#notes:Glissando-47 - Reconstruction + Hatchling -- Rank 27, Tier D by TheAegisRelic
+dimwishlist:item=222606050&perks=1523832109,102912326#notes:Glissando-47 - Reconstruction + Hatchling (Enhanced) -- Rank 27, Tier D by TheAegisRelic
+dimwishlist:item=222606050&perks=461595545,831391274#notes:Glissando-47 - Reconstruction (Enhanced) + Hatchling -- Rank 27, Tier D by TheAegisRelic
+dimwishlist:item=222606050&perks=461595545,102912326#notes:Glissando-47 - Reconstruction (Enhanced) + Hatchling (Enhanced) -- Rank 27, Tier D by TheAegisRelic
+dimwishlist:item=222606050&perks=3978468247,831391274#notes:Glissando-47 - Discord + Hatchling -- Rank 27, Tier D by TheAegisRelic
+dimwishlist:item=222606050&perks=3978468247,102912326#notes:Glissando-47 - Discord + Hatchling (Enhanced) -- Rank 27, Tier D by TheAegisRelic
+dimwishlist:item=222606050&perks=906981559,831391274#notes:Glissando-47 - Discord (Enhanced) + Hatchling -- Rank 27, Tier D by TheAegisRelic
+dimwishlist:item=222606050&perks=906981559,102912326#notes:Glissando-47 - Discord (Enhanced) + Hatchling (Enhanced) -- Rank 27, Tier D by TheAegisRelic
+dimwishlist:item=297296830&perks=1583705720,2848615171#notes:Pointed Inquiry - Stats for All + Dragonfly -- Rank 28, Tier D by TheAegisRelic
+dimwishlist:item=297296830&perks=1583705720,169755979#notes:Pointed Inquiry - Stats for All + Dragonfly (Enhanced) -- Rank 28, Tier D by TheAegisRelic
+dimwishlist:item=297296830&perks=1409206216,2848615171#notes:Pointed Inquiry - Stats for All (Enhanced) + Dragonfly -- Rank 28, Tier D by TheAegisRelic
+dimwishlist:item=297296830&perks=1409206216,169755979#notes:Pointed Inquiry - Stats for All (Enhanced) + Dragonfly (Enhanced) -- Rank 28, Tier D by TheAegisRelic
+dimwishlist:item=297296830&perks=3700496672,2848615171#notes:Pointed Inquiry - Shoot to Loot + Dragonfly -- Rank 28, Tier D by TheAegisRelic
+dimwishlist:item=297296830&perks=3700496672,169755979#notes:Pointed Inquiry - Shoot to Loot + Dragonfly (Enhanced) -- Rank 28, Tier D by TheAegisRelic
+dimwishlist:item=297296830&perks=2840833776,2848615171#notes:Pointed Inquiry - Shoot to Loot (Enhanced) + Dragonfly -- Rank 28, Tier D by TheAegisRelic
+dimwishlist:item=297296830&perks=2840833776,169755979#notes:Pointed Inquiry - Shoot to Loot (Enhanced) + Dragonfly (Enhanced) -- Rank 28, Tier D by TheAegisRelic
+dimwishlist:item=2638190703&perks=3700496672,1546637391#notes:Aisha's Embrace - Shoot to Loot + Vorpal Weapon -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=2638190703&perks=3700496672,3418165135#notes:Aisha's Embrace - Shoot to Loot + Vorpal Weapon (Enhanced) -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=2638190703&perks=2840833776,1546637391#notes:Aisha's Embrace - Shoot to Loot (Enhanced) + Vorpal Weapon -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=2638190703&perks=2840833776,3418165135#notes:Aisha's Embrace - Shoot to Loot (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=2638190703&perks=671806388,1546637391#notes:Aisha's Embrace - Compulsive Reloader + Vorpal Weapon -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=2638190703&perks=671806388,3418165135#notes:Aisha's Embrace - Compulsive Reloader + Vorpal Weapon (Enhanced) -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=2638190703&perks=595108252,1546637391#notes:Aisha's Embrace - Compulsive Reloader (Enhanced) + Vorpal Weapon -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=2638190703&perks=595108252,3418165135#notes:Aisha's Embrace - Compulsive Reloader (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=3245493570&perks=3700496672,1546637391#notes:Aisha's Embrace (Adept) - Shoot to Loot + Vorpal Weapon -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=3245493570&perks=3700496672,3418165135#notes:Aisha's Embrace (Adept) - Shoot to Loot + Vorpal Weapon (Enhanced) -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=3245493570&perks=2840833776,1546637391#notes:Aisha's Embrace (Adept) - Shoot to Loot (Enhanced) + Vorpal Weapon -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=3245493570&perks=2840833776,3418165135#notes:Aisha's Embrace (Adept) - Shoot to Loot (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=3245493570&perks=671806388,1546637391#notes:Aisha's Embrace (Adept) - Compulsive Reloader + Vorpal Weapon -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=3245493570&perks=671806388,3418165135#notes:Aisha's Embrace (Adept) - Compulsive Reloader + Vorpal Weapon (Enhanced) -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=3245493570&perks=595108252,1546637391#notes:Aisha's Embrace (Adept) - Compulsive Reloader (Enhanced) + Vorpal Weapon -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=3245493570&perks=595108252,3418165135#notes:Aisha's Embrace (Adept) - Compulsive Reloader (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 29, Tier D by TheAegisRelic
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:Night Watch - Rapid Hit + Explosive Payload -- Rank 30, Tier D by TheAegisRelic
+dimwishlist:item=3504336176&perks=247725512,64866129#notes:Night Watch - Rapid Hit + Explosive Payload (Enhanced) -- Rank 30, Tier D by TheAegisRelic
+dimwishlist:item=3504336176&perks=2938480696,3038247973#notes:Night Watch - Rapid Hit (Enhanced) + Explosive Payload -- Rank 30, Tier D by TheAegisRelic
+dimwishlist:item=3504336176&perks=2938480696,64866129#notes:Night Watch - Rapid Hit (Enhanced) + Explosive Payload (Enhanced) -- Rank 30, Tier D by TheAegisRelic
+dimwishlist:item=1366394399&perks=3300816228,3038247973#notes:Tears of Contrition - Auto-Loading Holster + Explosive Payload -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1366394399&perks=3300816228,64866129#notes:Tears of Contrition - Auto-Loading Holster + Explosive Payload (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1366394399&perks=3528046508,3038247973#notes:Tears of Contrition - Auto-Loading Holster (Enhanced) + Explosive Payload -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1366394399&perks=3528046508,64866129#notes:Tears of Contrition - Auto-Loading Holster (Enhanced) + Explosive Payload (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1366394399&perks=671806388,3038247973#notes:Tears of Contrition - Compulsive Reloader + Explosive Payload -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1366394399&perks=671806388,64866129#notes:Tears of Contrition - Compulsive Reloader + Explosive Payload (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1366394399&perks=595108252,3038247973#notes:Tears of Contrition - Compulsive Reloader (Enhanced) + Explosive Payload -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1366394399&perks=595108252,64866129#notes:Tears of Contrition - Compulsive Reloader (Enhanced) + Explosive Payload (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1982711279&perks=1168162263,3038247973#notes:Talons of the Eagle - Outlaw + Explosive Payload -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=1982711279&perks=1168162263,64866129#notes:Talons of the Eagle - Outlaw + Explosive Payload (Enhanced) -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=1982711279&perks=1347741687,3038247973#notes:Talons of the Eagle - Outlaw (Enhanced) + Explosive Payload -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=1982711279&perks=1347741687,64866129#notes:Talons of the Eagle - Outlaw (Enhanced) + Explosive Payload (Enhanced) -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=577528837&perks=1168162263,4104185692#notes:Contingency Plan - Outlaw + Frenzy -- Rank 33, Tier E by TheAegisRelic
+dimwishlist:item=577528837&perks=1168162263,3007133316#notes:Contingency Plan - Outlaw + Frenzy (Enhanced) -- Rank 33, Tier E by TheAegisRelic
+dimwishlist:item=577528837&perks=1347741687,4104185692#notes:Contingency Plan - Outlaw (Enhanced) + Frenzy -- Rank 33, Tier E by TheAegisRelic
+dimwishlist:item=577528837&perks=1347741687,3007133316#notes:Contingency Plan - Outlaw (Enhanced) + Frenzy (Enhanced) -- Rank 33, Tier E by TheAegisRelic
+dimwishlist:item=2625782213&perks=1168162263,4104185692#notes:Contingency Plan - Outlaw + Frenzy -- Rank 33, Tier E by TheAegisRelic
+dimwishlist:item=2625782213&perks=1168162263,3007133316#notes:Contingency Plan - Outlaw + Frenzy (Enhanced) -- Rank 33, Tier E by TheAegisRelic
+dimwishlist:item=2625782213&perks=1347741687,4104185692#notes:Contingency Plan - Outlaw (Enhanced) + Frenzy -- Rank 33, Tier E by TheAegisRelic
+dimwishlist:item=2625782213&perks=1347741687,3007133316#notes:Contingency Plan - Outlaw (Enhanced) + Frenzy (Enhanced) -- Rank 33, Tier E by TheAegisRelic
+dimwishlist:item=2776503072&perks=3300816228,2848615171#notes:Royal Chase - Auto-Loading Holster + Dragonfly -- Rank 34, Tier E by TheAegisRelic
+dimwishlist:item=2776503072&perks=3300816228,169755979#notes:Royal Chase - Auto-Loading Holster + Dragonfly (Enhanced) -- Rank 34, Tier E by TheAegisRelic
+dimwishlist:item=2776503072&perks=3528046508,2848615171#notes:Royal Chase - Auto-Loading Holster (Enhanced) + Dragonfly -- Rank 34, Tier E by TheAegisRelic
+dimwishlist:item=2776503072&perks=3528046508,169755979#notes:Royal Chase - Auto-Loading Holster (Enhanced) + Dragonfly (Enhanced) -- Rank 34, Tier E by TheAegisRelic
+dimwishlist:item=2776503072&perks=777589559,2848615171#notes:Royal Chase - Field Prep + Dragonfly -- Rank 34, Tier E by TheAegisRelic
+dimwishlist:item=2776503072&perks=777589559,169755979#notes:Royal Chase - Field Prep + Dragonfly (Enhanced) -- Rank 34, Tier E by TheAegisRelic
+dimwishlist:item=2776503072&perks=2308090567,2848615171#notes:Royal Chase - Field Prep (Enhanced) + Dragonfly -- Rank 34, Tier E by TheAegisRelic
+dimwishlist:item=2776503072&perks=2308090567,169755979#notes:Royal Chase - Field Prep (Enhanced) + Dragonfly (Enhanced) -- Rank 34, Tier E by TheAegisRelic
+dimwishlist:item=1927800278&perks=247725512,1015611457#notes:Eternal Blazon - Rapid Hit + Kill Clip -- Rank 35, Tier E by TheAegisRelic
+dimwishlist:item=1927800278&perks=247725512,2923251173#notes:Eternal Blazon - Rapid Hit + Kill Clip (Enhanced) -- Rank 35, Tier E by TheAegisRelic
+dimwishlist:item=1927800278&perks=2938480696,1015611457#notes:Eternal Blazon - Rapid Hit (Enhanced) + Kill Clip -- Rank 35, Tier E by TheAegisRelic
+dimwishlist:item=1927800278&perks=2938480696,2923251173#notes:Eternal Blazon - Rapid Hit (Enhanced) + Kill Clip (Enhanced) -- Rank 35, Tier E by TheAegisRelic
+dimwishlist:item=3514096004&perks=247725512,1015611457#notes:Eternal Blazon - Rapid Hit + Kill Clip -- Rank 35, Tier E by TheAegisRelic
+dimwishlist:item=3514096004&perks=247725512,2923251173#notes:Eternal Blazon - Rapid Hit + Kill Clip (Enhanced) -- Rank 35, Tier E by TheAegisRelic
+dimwishlist:item=3514096004&perks=2938480696,1015611457#notes:Eternal Blazon - Rapid Hit (Enhanced) + Kill Clip -- Rank 35, Tier E by TheAegisRelic
+dimwishlist:item=3514096004&perks=2938480696,2923251173#notes:Eternal Blazon - Rapid Hit (Enhanced) + Kill Clip (Enhanced) -- Rank 35, Tier E by TheAegisRelic
+dimwishlist:item=1531295694&perks=684456054,4104185692#notes:Adverse Possession IX - Eddy Current + Frenzy -- Rank 36, Tier E by TheAegisRelic
+dimwishlist:item=1531295694&perks=684456054,3007133316#notes:Adverse Possession IX - Eddy Current + Frenzy (Enhanced) -- Rank 36, Tier E by TheAegisRelic
+dimwishlist:item=1531295694&perks=2785334058,4104185692#notes:Adverse Possession IX - Eddy Current (Enhanced) + Frenzy -- Rank 36, Tier E by TheAegisRelic
+dimwishlist:item=1531295694&perks=2785334058,3007133316#notes:Adverse Possession IX - Eddy Current (Enhanced) + Frenzy (Enhanced) -- Rank 36, Tier E by TheAegisRelic
+dimwishlist:item=1890332078&perks=684456054,4104185692#notes:Adverse Possession IX - Eddy Current + Frenzy -- Rank 36, Tier E by TheAegisRelic
+dimwishlist:item=1890332078&perks=684456054,3007133316#notes:Adverse Possession IX - Eddy Current + Frenzy (Enhanced) -- Rank 36, Tier E by TheAegisRelic
+dimwishlist:item=1890332078&perks=2785334058,4104185692#notes:Adverse Possession IX - Eddy Current (Enhanced) + Frenzy -- Rank 36, Tier E by TheAegisRelic
+dimwishlist:item=1890332078&perks=2785334058,3007133316#notes:Adverse Possession IX - Eddy Current (Enhanced) + Frenzy (Enhanced) -- Rank 36, Tier E by TheAegisRelic
+dimwishlist:item=542573208&perks=1523832109,2896038713#notes:Last Rite - Reconstruction + Focused Fury -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=542573208&perks=1523832109,2402480669#notes:Last Rite - Reconstruction + Focused Fury (Enhanced) -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=542573208&perks=461595545,2896038713#notes:Last Rite - Reconstruction (Enhanced) + Focused Fury -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=542573208&perks=461595545,2402480669#notes:Last Rite - Reconstruction (Enhanced) + Focused Fury (Enhanced) -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=542573208&perks=3619207468,2896038713#notes:Last Rite - Keep Away + Focused Fury -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=542573208&perks=3619207468,2402480669#notes:Last Rite - Keep Away + Focused Fury (Enhanced) -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=542573208&perks=3198323828,2896038713#notes:Last Rite - Keep Away (Enhanced) + Focused Fury -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=542573208&perks=3198323828,2402480669#notes:Last Rite - Keep Away (Enhanced) + Focused Fury (Enhanced) -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=1342668638&perks=1168162263,3523296417#notes:Pleiades Corrector - Outlaw + Demolitionist -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1342668638&perks=1168162263,1906147653#notes:Pleiades Corrector - Outlaw + Demolitionist (Enhanced) -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1342668638&perks=1347741687,3523296417#notes:Pleiades Corrector - Outlaw (Enhanced) + Demolitionist -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1342668638&perks=1347741687,1906147653#notes:Pleiades Corrector - Outlaw (Enhanced) + Demolitionist (Enhanced) -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1342668638&perks=1168162263,2458213969#notes:Pleiades Corrector - Outlaw + Multikill Clip -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1342668638&perks=1168162263,2570477205#notes:Pleiades Corrector - Outlaw + Multikill Clip (Enhanced) -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1342668638&perks=1347741687,2458213969#notes:Pleiades Corrector - Outlaw (Enhanced) + Multikill Clip -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1342668638&perks=1347741687,2570477205#notes:Pleiades Corrector - Outlaw (Enhanced) + Multikill Clip (Enhanced) -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=3556999246&perks=1168162263,3523296417#notes:Pleiades Corrector - Outlaw + Demolitionist -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=3556999246&perks=1168162263,1906147653#notes:Pleiades Corrector - Outlaw + Demolitionist (Enhanced) -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=3556999246&perks=1347741687,3523296417#notes:Pleiades Corrector - Outlaw (Enhanced) + Demolitionist -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=3556999246&perks=1347741687,1906147653#notes:Pleiades Corrector - Outlaw (Enhanced) + Demolitionist (Enhanced) -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=3556999246&perks=1168162263,2458213969#notes:Pleiades Corrector - Outlaw + Multikill Clip -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=3556999246&perks=1168162263,2570477205#notes:Pleiades Corrector - Outlaw + Multikill Clip (Enhanced) -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=3556999246&perks=1347741687,2458213969#notes:Pleiades Corrector - Outlaw (Enhanced) + Multikill Clip -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=3556999246&perks=1347741687,2570477205#notes:Pleiades Corrector - Outlaw (Enhanced) + Multikill Clip (Enhanced) -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=2386979999&perks=2039302152,1546637391#notes:The Scholar (Adept) - Slideways + Vorpal Weapon -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=2386979999&perks=2039302152,3418165135#notes:The Scholar (Adept) - Slideways + Vorpal Weapon (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=2386979999&perks=2396422520,1546637391#notes:The Scholar (Adept) - Slideways (Enhanced) + Vorpal Weapon -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=2386979999&perks=2396422520,3418165135#notes:The Scholar (Adept) - Slideways (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=2478792241&perks=2039302152,1546637391#notes:The Scholar - Slideways + Vorpal Weapon -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=2478792241&perks=2039302152,3418165135#notes:The Scholar - Slideways + Vorpal Weapon (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=2478792241&perks=2396422520,1546637391#notes:The Scholar - Slideways (Enhanced) + Vorpal Weapon -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=2478792241&perks=2396422520,3418165135#notes:The Scholar - Slideways (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 39, Tier F by TheAegisRelic

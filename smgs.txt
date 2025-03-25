@@ -1,0 +1,1084 @@
+dimwishlist:item=1050806815&perks=776531651,2048641572#notes:The Recluse - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=776531651,1926441324#notes:The Recluse - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=2541826827,2048641572#notes:The Recluse - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=2541826827,1926441324#notes:The Recluse - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=776531651,3708227201#notes:The Recluse - Repulsor Brace + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=776531651,781192741#notes:The Recluse - Repulsor Brace + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=2541826827,3708227201#notes:The Recluse - Repulsor Brace (Enhanced) + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=2541826827,781192741#notes:The Recluse - Repulsor Brace (Enhanced) + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=777589557,2048641572#notes:The Recluse - Enlightened Action + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=777589557,1926441324#notes:The Recluse - Enlightened Action + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=1771736209,2048641572#notes:The Recluse - Enlightened Action (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=1771736209,1926441324#notes:The Recluse - Enlightened Action (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=777589557,3708227201#notes:The Recluse - Enlightened Action + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=777589557,781192741#notes:The Recluse - Enlightened Action + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=1771736209,3708227201#notes:The Recluse - Enlightened Action (Enhanced) + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1050806815&perks=1771736209,781192741#notes:The Recluse - Enlightened Action (Enhanced) + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=776531651,2048641572#notes:The Recluse - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=776531651,1926441324#notes:The Recluse - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=2541826827,2048641572#notes:The Recluse - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=2541826827,1926441324#notes:The Recluse - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=776531651,3708227201#notes:The Recluse - Repulsor Brace + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=776531651,781192741#notes:The Recluse - Repulsor Brace + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=2541826827,3708227201#notes:The Recluse - Repulsor Brace (Enhanced) + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=2541826827,781192741#notes:The Recluse - Repulsor Brace (Enhanced) + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=777589557,2048641572#notes:The Recluse - Enlightened Action + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=777589557,1926441324#notes:The Recluse - Enlightened Action + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=1771736209,2048641572#notes:The Recluse - Enlightened Action (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=1771736209,1926441324#notes:The Recluse - Enlightened Action (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=777589557,3708227201#notes:The Recluse - Enlightened Action + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=777589557,781192741#notes:The Recluse - Enlightened Action + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=1771736209,3708227201#notes:The Recluse - Enlightened Action (Enhanced) + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3098328572&perks=1771736209,781192741#notes:The Recluse - Enlightened Action (Enhanced) + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=776531651,2048641572#notes:The Recluse - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=776531651,1926441324#notes:The Recluse - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=2541826827,2048641572#notes:The Recluse - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=2541826827,1926441324#notes:The Recluse - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=776531651,3708227201#notes:The Recluse - Repulsor Brace + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=776531651,781192741#notes:The Recluse - Repulsor Brace + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=2541826827,3708227201#notes:The Recluse - Repulsor Brace (Enhanced) + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=2541826827,781192741#notes:The Recluse - Repulsor Brace (Enhanced) + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=777589557,2048641572#notes:The Recluse - Enlightened Action + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=777589557,1926441324#notes:The Recluse - Enlightened Action + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=1771736209,2048641572#notes:The Recluse - Enlightened Action (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=1771736209,1926441324#notes:The Recluse - Enlightened Action (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=777589557,3708227201#notes:The Recluse - Enlightened Action + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=777589557,781192741#notes:The Recluse - Enlightened Action + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=1771736209,3708227201#notes:The Recluse - Enlightened Action (Enhanced) + Surrounded -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3354242550&perks=1771736209,781192741#notes:The Recluse - Enlightened Action (Enhanced) + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=776531651,2048641572#notes:The Title - Repulsor Brace + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=776531651,1926441324#notes:The Title - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=2541826827,2048641572#notes:The Title - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=2541826827,1926441324#notes:The Title - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=776531651,3708227201#notes:The Title - Repulsor Brace + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=776531651,781192741#notes:The Title - Repulsor Brace + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=2541826827,3708227201#notes:The Title - Repulsor Brace (Enhanced) + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=2541826827,781192741#notes:The Title - Repulsor Brace (Enhanced) + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=4071163871,2048641572#notes:The Title - Threat Detector + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=4071163871,1926441324#notes:The Title - Threat Detector + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=494941759,2048641572#notes:The Title - Threat Detector (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=494941759,1926441324#notes:The Title - Threat Detector (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=4071163871,3708227201#notes:The Title - Threat Detector + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=4071163871,781192741#notes:The Title - Threat Detector + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=494941759,3708227201#notes:The Title - Threat Detector (Enhanced) + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=55393445&perks=494941759,781192741#notes:The Title - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=776531651,2048641572#notes:The Title - Repulsor Brace + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=776531651,1926441324#notes:The Title - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=2541826827,2048641572#notes:The Title - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=2541826827,1926441324#notes:The Title - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=776531651,3708227201#notes:The Title - Repulsor Brace + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=776531651,781192741#notes:The Title - Repulsor Brace + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=2541826827,3708227201#notes:The Title - Repulsor Brace (Enhanced) + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=2541826827,781192741#notes:The Title - Repulsor Brace (Enhanced) + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=4071163871,2048641572#notes:The Title - Threat Detector + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=4071163871,1926441324#notes:The Title - Threat Detector + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=494941759,2048641572#notes:The Title - Threat Detector (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=494941759,1926441324#notes:The Title - Threat Detector (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=4071163871,3708227201#notes:The Title - Threat Detector + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=4071163871,781192741#notes:The Title - Threat Detector + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=494941759,3708227201#notes:The Title - Threat Detector (Enhanced) + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=294129361&perks=494941759,781192741#notes:The Title - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=776531651,2048641572#notes:The Title - Repulsor Brace + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=776531651,1926441324#notes:The Title - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=2541826827,2048641572#notes:The Title - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=2541826827,1926441324#notes:The Title - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=776531651,3708227201#notes:The Title - Repulsor Brace + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=776531651,781192741#notes:The Title - Repulsor Brace + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=2541826827,3708227201#notes:The Title - Repulsor Brace (Enhanced) + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=2541826827,781192741#notes:The Title - Repulsor Brace (Enhanced) + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=4071163871,2048641572#notes:The Title - Threat Detector + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=4071163871,1926441324#notes:The Title - Threat Detector + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=494941759,2048641572#notes:The Title - Threat Detector (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=494941759,1926441324#notes:The Title - Threat Detector (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=4071163871,3708227201#notes:The Title - Threat Detector + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=4071163871,781192741#notes:The Title - Threat Detector + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=494941759,3708227201#notes:The Title - Threat Detector (Enhanced) + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=655712834&perks=494941759,781192741#notes:The Title - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=776531651,2048641572#notes:The Title - Repulsor Brace + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=776531651,1926441324#notes:The Title - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=2541826827,2048641572#notes:The Title - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=2541826827,1926441324#notes:The Title - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=776531651,3708227201#notes:The Title - Repulsor Brace + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=776531651,781192741#notes:The Title - Repulsor Brace + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=2541826827,3708227201#notes:The Title - Repulsor Brace (Enhanced) + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=2541826827,781192741#notes:The Title - Repulsor Brace (Enhanced) + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=4071163871,2048641572#notes:The Title - Threat Detector + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=4071163871,1926441324#notes:The Title - Threat Detector + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=494941759,2048641572#notes:The Title - Threat Detector (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=494941759,1926441324#notes:The Title - Threat Detector (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=4071163871,3708227201#notes:The Title - Threat Detector + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=4071163871,781192741#notes:The Title - Threat Detector + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=494941759,3708227201#notes:The Title - Threat Detector (Enhanced) + Surrounded -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=3559361670&perks=494941759,781192741#notes:The Title - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1258168956&perks=777589557,1561789734#notes:Imminence - Enlightened Action + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=777589557,1183436451#notes:Imminence - Enlightened Action + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1771736209,1561789734#notes:Imminence - Enlightened Action (Enhanced) + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1771736209,1183436451#notes:Imminence - Enlightened Action (Enhanced) + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=777589557,3640170453#notes:Imminence - Enlightened Action + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=777589557,1817983009#notes:Imminence - Enlightened Action + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1771736209,3640170453#notes:Imminence - Enlightened Action (Enhanced) + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1771736209,1817983009#notes:Imminence - Enlightened Action (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=777589557,831391274#notes:Imminence - Enlightened Action + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=777589557,102912326#notes:Imminence - Enlightened Action + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1771736209,831391274#notes:Imminence - Enlightened Action (Enhanced) + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1771736209,102912326#notes:Imminence - Enlightened Action (Enhanced) + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3523296417,1561789734#notes:Imminence - Demolitionist + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3523296417,1183436451#notes:Imminence - Demolitionist + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1906147653,1561789734#notes:Imminence - Demolitionist (Enhanced) + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1906147653,1183436451#notes:Imminence - Demolitionist (Enhanced) + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3523296417,3640170453#notes:Imminence - Demolitionist + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3523296417,1817983009#notes:Imminence - Demolitionist + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1906147653,3640170453#notes:Imminence - Demolitionist (Enhanced) + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1906147653,1817983009#notes:Imminence - Demolitionist (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3523296417,831391274#notes:Imminence - Demolitionist + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3523296417,102912326#notes:Imminence - Demolitionist + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1906147653,831391274#notes:Imminence - Demolitionist (Enhanced) + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=1906147653,102912326#notes:Imminence - Demolitionist (Enhanced) + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=923806249,1561789734#notes:Imminence - Slice + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=923806249,1183436451#notes:Imminence - Slice + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3422796781,1561789734#notes:Imminence - Slice (Enhanced) + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3422796781,1183436451#notes:Imminence - Slice (Enhanced) + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=923806249,3640170453#notes:Imminence - Slice + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=923806249,1817983009#notes:Imminence - Slice + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3422796781,3640170453#notes:Imminence - Slice (Enhanced) + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3422796781,1817983009#notes:Imminence - Slice (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=923806249,831391274#notes:Imminence - Slice + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=923806249,102912326#notes:Imminence - Slice + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3422796781,831391274#notes:Imminence - Slice (Enhanced) + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1258168956&perks=3422796781,102912326#notes:Imminence - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=777589557,1561789734#notes:Imminence (Adept) - Enlightened Action + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=777589557,1183436451#notes:Imminence (Adept) - Enlightened Action + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1771736209,1561789734#notes:Imminence (Adept) - Enlightened Action (Enhanced) + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1771736209,1183436451#notes:Imminence (Adept) - Enlightened Action (Enhanced) + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=777589557,3640170453#notes:Imminence (Adept) - Enlightened Action + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=777589557,1817983009#notes:Imminence (Adept) - Enlightened Action + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1771736209,3640170453#notes:Imminence (Adept) - Enlightened Action (Enhanced) + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1771736209,1817983009#notes:Imminence (Adept) - Enlightened Action (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=777589557,831391274#notes:Imminence (Adept) - Enlightened Action + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=777589557,102912326#notes:Imminence (Adept) - Enlightened Action + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1771736209,831391274#notes:Imminence (Adept) - Enlightened Action (Enhanced) + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1771736209,102912326#notes:Imminence (Adept) - Enlightened Action (Enhanced) + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3523296417,1561789734#notes:Imminence (Adept) - Demolitionist + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3523296417,1183436451#notes:Imminence (Adept) - Demolitionist + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1906147653,1561789734#notes:Imminence (Adept) - Demolitionist (Enhanced) + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1906147653,1183436451#notes:Imminence (Adept) - Demolitionist (Enhanced) + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3523296417,3640170453#notes:Imminence (Adept) - Demolitionist + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3523296417,1817983009#notes:Imminence (Adept) - Demolitionist + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1906147653,3640170453#notes:Imminence (Adept) - Demolitionist (Enhanced) + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1906147653,1817983009#notes:Imminence (Adept) - Demolitionist (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3523296417,831391274#notes:Imminence (Adept) - Demolitionist + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3523296417,102912326#notes:Imminence (Adept) - Demolitionist + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1906147653,831391274#notes:Imminence (Adept) - Demolitionist (Enhanced) + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=1906147653,102912326#notes:Imminence (Adept) - Demolitionist (Enhanced) + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=923806249,1561789734#notes:Imminence (Adept) - Slice + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=923806249,1183436451#notes:Imminence (Adept) - Slice + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3422796781,1561789734#notes:Imminence (Adept) - Slice (Enhanced) + Firefly -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3422796781,1183436451#notes:Imminence (Adept) - Slice (Enhanced) + Firefly (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=923806249,3640170453#notes:Imminence (Adept) - Slice + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=923806249,1817983009#notes:Imminence (Adept) - Slice + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3422796781,3640170453#notes:Imminence (Adept) - Slice (Enhanced) + Chaos Reshaped -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3422796781,1817983009#notes:Imminence (Adept) - Slice (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=923806249,831391274#notes:Imminence (Adept) - Slice + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=923806249,102912326#notes:Imminence (Adept) - Slice + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3422796781,831391274#notes:Imminence (Adept) - Slice (Enhanced) + Hatchling -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3951511045&perks=3422796781,102912326#notes:Imminence (Adept) - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3211624072&perks=243981275,3891536761#notes:Multimach CCX - Attrition Orbs + Kinetic Tremors -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3211624072&perks=243981275,1549370717#notes:Multimach CCX - Attrition Orbs + Kinetic Tremors (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3211624072&perks=984655331,3891536761#notes:Multimach CCX - Attrition Orbs (Enhanced) + Kinetic Tremors -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3211624072&perks=984655331,1549370717#notes:Multimach CCX - Attrition Orbs (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3211624072&perks=243981275,4104185692#notes:Multimach CCX - Attrition Orbs + Frenzy -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3211624072&perks=243981275,3007133316#notes:Multimach CCX - Attrition Orbs + Frenzy (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3211624072&perks=984655331,4104185692#notes:Multimach CCX - Attrition Orbs (Enhanced) + Frenzy -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3211624072&perks=984655331,3007133316#notes:Multimach CCX - Attrition Orbs (Enhanced) + Frenzy (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3717177717&perks=243981275,3891536761#notes:Multimach CCX - Attrition Orbs + Kinetic Tremors -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3717177717&perks=243981275,1549370717#notes:Multimach CCX - Attrition Orbs + Kinetic Tremors (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3717177717&perks=984655331,3891536761#notes:Multimach CCX - Attrition Orbs (Enhanced) + Kinetic Tremors -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3717177717&perks=984655331,1549370717#notes:Multimach CCX - Attrition Orbs (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3717177717&perks=243981275,4104185692#notes:Multimach CCX - Attrition Orbs + Frenzy -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3717177717&perks=243981275,3007133316#notes:Multimach CCX - Attrition Orbs + Frenzy (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3717177717&perks=984655331,4104185692#notes:Multimach CCX - Attrition Orbs (Enhanced) + Frenzy -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3717177717&perks=984655331,3007133316#notes:Multimach CCX - Attrition Orbs (Enhanced) + Frenzy (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4265183314&perks=243981275,3891536761#notes:Multimach CCX - Attrition Orbs + Kinetic Tremors -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4265183314&perks=243981275,1549370717#notes:Multimach CCX - Attrition Orbs + Kinetic Tremors (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4265183314&perks=984655331,3891536761#notes:Multimach CCX - Attrition Orbs (Enhanced) + Kinetic Tremors -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4265183314&perks=984655331,1549370717#notes:Multimach CCX - Attrition Orbs (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4265183314&perks=243981275,4104185692#notes:Multimach CCX - Attrition Orbs + Frenzy -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4265183314&perks=243981275,3007133316#notes:Multimach CCX - Attrition Orbs + Frenzy (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4265183314&perks=984655331,4104185692#notes:Multimach CCX - Attrition Orbs (Enhanced) + Frenzy -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=4265183314&perks=984655331,3007133316#notes:Multimach CCX - Attrition Orbs (Enhanced) + Frenzy (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=501345268&perks=776531651,2048641572#notes:Shayura's Wrath (Adept) - Repulsor Brace + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=501345268&perks=776531651,1926441324#notes:Shayura's Wrath (Adept) - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=501345268&perks=2541826827,2048641572#notes:Shayura's Wrath (Adept) - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=501345268&perks=2541826827,1926441324#notes:Shayura's Wrath (Adept) - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=501345268&perks=3978468247,2048641572#notes:Shayura's Wrath (Adept) - Discord + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=501345268&perks=3978468247,1926441324#notes:Shayura's Wrath (Adept) - Discord + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=501345268&perks=906981559,2048641572#notes:Shayura's Wrath (Adept) - Discord (Enhanced) + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=501345268&perks=906981559,1926441324#notes:Shayura's Wrath (Adept) - Discord (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2022294213&perks=776531651,2048641572#notes:Shayura's Wrath - Repulsor Brace + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2022294213&perks=776531651,1926441324#notes:Shayura's Wrath - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2022294213&perks=2541826827,2048641572#notes:Shayura's Wrath - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2022294213&perks=2541826827,1926441324#notes:Shayura's Wrath - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2022294213&perks=3978468247,2048641572#notes:Shayura's Wrath - Discord + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2022294213&perks=3978468247,1926441324#notes:Shayura's Wrath - Discord + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2022294213&perks=906981559,2048641572#notes:Shayura's Wrath - Discord (Enhanced) + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2022294213&perks=906981559,1926441324#notes:Shayura's Wrath - Discord (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3682803680&perks=776531651,2048641572#notes:Shayura's Wrath - Repulsor Brace + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3682803680&perks=776531651,1926441324#notes:Shayura's Wrath - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3682803680&perks=2541826827,2048641572#notes:Shayura's Wrath - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3682803680&perks=2541826827,1926441324#notes:Shayura's Wrath - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3682803680&perks=3978468247,2048641572#notes:Shayura's Wrath - Discord + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3682803680&perks=3978468247,1926441324#notes:Shayura's Wrath - Discord + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3682803680&perks=906981559,2048641572#notes:Shayura's Wrath - Discord (Enhanced) + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=3682803680&perks=906981559,1926441324#notes:Shayura's Wrath - Discord (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=4023807721&perks=776531651,2048641572#notes:Shayura's Wrath (Adept) - Repulsor Brace + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=4023807721&perks=776531651,1926441324#notes:Shayura's Wrath (Adept) - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=4023807721&perks=2541826827,2048641572#notes:Shayura's Wrath (Adept) - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=4023807721&perks=2541826827,1926441324#notes:Shayura's Wrath (Adept) - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=4023807721&perks=3978468247,2048641572#notes:Shayura's Wrath (Adept) - Discord + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=4023807721&perks=3978468247,1926441324#notes:Shayura's Wrath (Adept) - Discord + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=4023807721&perks=906981559,2048641572#notes:Shayura's Wrath (Adept) - Discord (Enhanced) + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=4023807721&perks=906981559,1926441324#notes:Shayura's Wrath (Adept) - Discord (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=243981275,3966416502#notes:Noxious Vetiver - Attrition Orbs + Jolting Feedback -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=243981275,717070634#notes:Noxious Vetiver - Attrition Orbs + Jolting Feedback (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=984655331,3966416502#notes:Noxious Vetiver - Attrition Orbs (Enhanced) + Jolting Feedback -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=984655331,717070634#notes:Noxious Vetiver - Attrition Orbs (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=1119449540,3966416502#notes:Noxious Vetiver - Loose Change + Jolting Feedback -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=1119449540,717070634#notes:Noxious Vetiver - Loose Change + Jolting Feedback (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=561986700,3966416502#notes:Noxious Vetiver - Loose Change (Enhanced) + Jolting Feedback -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=561986700,717070634#notes:Noxious Vetiver - Loose Change (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=691659142,3966416502#notes:Noxious Vetiver - Pugilist + Jolting Feedback -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=691659142,717070634#notes:Noxious Vetiver - Pugilist + Jolting Feedback (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=536173722,3966416502#notes:Noxious Vetiver - Pugilist (Enhanced) + Jolting Feedback -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=825495813&perks=536173722,717070634#notes:Noxious Vetiver - Pugilist (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1447836603&perks=4071163871,2173046394#notes:Subjunctive - Threat Detector + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=4071163871,1720528630#notes:Subjunctive - Threat Detector + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=494941759,2173046394#notes:Subjunctive - Threat Detector (Enhanced) + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=494941759,1720528630#notes:Subjunctive - Threat Detector (Enhanced) + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=4071163871,243981275#notes:Subjunctive - Threat Detector + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=4071163871,984655331#notes:Subjunctive - Threat Detector + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=494941759,243981275#notes:Subjunctive - Threat Detector (Enhanced) + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=494941759,984655331#notes:Subjunctive - Threat Detector (Enhanced) + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=1583705720,2173046394#notes:Subjunctive - Stats for All + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=1583705720,1720528630#notes:Subjunctive - Stats for All + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=1409206216,2173046394#notes:Subjunctive - Stats for All (Enhanced) + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=1409206216,1720528630#notes:Subjunctive - Stats for All (Enhanced) + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=1583705720,243981275#notes:Subjunctive - Stats for All + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=1583705720,984655331#notes:Subjunctive - Stats for All + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=1409206216,243981275#notes:Subjunctive - Stats for All (Enhanced) + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=1409206216,984655331#notes:Subjunctive - Stats for All (Enhanced) + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=3700496672,2173046394#notes:Subjunctive - Shoot to Loot + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=3700496672,1720528630#notes:Subjunctive - Shoot to Loot + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=2840833776,2173046394#notes:Subjunctive - Shoot to Loot (Enhanced) + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=2840833776,1720528630#notes:Subjunctive - Shoot to Loot (Enhanced) + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=3700496672,243981275#notes:Subjunctive - Shoot to Loot + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=3700496672,984655331#notes:Subjunctive - Shoot to Loot + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=2840833776,243981275#notes:Subjunctive - Shoot to Loot (Enhanced) + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1447836603&perks=2840833776,984655331#notes:Subjunctive - Shoot to Loot (Enhanced) + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=4071163871,2173046394#notes:Subjunctive - Threat Detector + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=4071163871,1720528630#notes:Subjunctive - Threat Detector + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=494941759,2173046394#notes:Subjunctive - Threat Detector (Enhanced) + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=494941759,1720528630#notes:Subjunctive - Threat Detector (Enhanced) + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=4071163871,243981275#notes:Subjunctive - Threat Detector + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=4071163871,984655331#notes:Subjunctive - Threat Detector + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=494941759,243981275#notes:Subjunctive - Threat Detector (Enhanced) + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=494941759,984655331#notes:Subjunctive - Threat Detector (Enhanced) + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=1583705720,2173046394#notes:Subjunctive - Stats for All + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=1583705720,1720528630#notes:Subjunctive - Stats for All + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=1409206216,2173046394#notes:Subjunctive - Stats for All (Enhanced) + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=1409206216,1720528630#notes:Subjunctive - Stats for All (Enhanced) + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=1583705720,243981275#notes:Subjunctive - Stats for All + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=1583705720,984655331#notes:Subjunctive - Stats for All + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=1409206216,243981275#notes:Subjunctive - Stats for All (Enhanced) + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=1409206216,984655331#notes:Subjunctive - Stats for All (Enhanced) + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=3700496672,2173046394#notes:Subjunctive - Shoot to Loot + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=3700496672,1720528630#notes:Subjunctive - Shoot to Loot + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=2840833776,2173046394#notes:Subjunctive - Shoot to Loot (Enhanced) + Voltshot -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=2840833776,1720528630#notes:Subjunctive - Shoot to Loot (Enhanced) + Voltshot (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=3700496672,243981275#notes:Subjunctive - Shoot to Loot + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=3700496672,984655331#notes:Subjunctive - Shoot to Loot + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=2840833776,243981275#notes:Subjunctive - Shoot to Loot (Enhanced) + Attrition Orbs -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2663204025&perks=2840833776,984655331#notes:Subjunctive - Shoot to Loot (Enhanced) + Attrition Orbs (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=4071163871,2173046394#notes:IKELOS_SMG_v1.0.3 - Threat Detector + Voltshot -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=4071163871,1720528630#notes:IKELOS_SMG_v1.0.3 - Threat Detector + Voltshot (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=494941759,2173046394#notes:IKELOS_SMG_v1.0.3 - Threat Detector (Enhanced) + Voltshot -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=494941759,1720528630#notes:IKELOS_SMG_v1.0.3 - Threat Detector (Enhanced) + Voltshot (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=4071163871,3708227201#notes:IKELOS_SMG_v1.0.3 - Threat Detector + Surrounded -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=4071163871,781192741#notes:IKELOS_SMG_v1.0.3 - Threat Detector + Surrounded (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=494941759,3708227201#notes:IKELOS_SMG_v1.0.3 - Threat Detector (Enhanced) + Surrounded -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=494941759,781192741#notes:IKELOS_SMG_v1.0.3 - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=3700496672,2173046394#notes:IKELOS_SMG_v1.0.3 - Shoot to Loot + Voltshot -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=3700496672,1720528630#notes:IKELOS_SMG_v1.0.3 - Shoot to Loot + Voltshot (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=2840833776,2173046394#notes:IKELOS_SMG_v1.0.3 - Shoot to Loot (Enhanced) + Voltshot -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=2840833776,1720528630#notes:IKELOS_SMG_v1.0.3 - Shoot to Loot (Enhanced) + Voltshot (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=3700496672,3708227201#notes:IKELOS_SMG_v1.0.3 - Shoot to Loot + Surrounded -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=3700496672,781192741#notes:IKELOS_SMG_v1.0.3 - Shoot to Loot + Surrounded (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=2840833776,3708227201#notes:IKELOS_SMG_v1.0.3 - Shoot to Loot (Enhanced) + Surrounded -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=2840833776,781192741#notes:IKELOS_SMG_v1.0.3 - Shoot to Loot (Enhanced) + Surrounded (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=2779035018,2173046394#notes:IKELOS_SMG_v1.0.3 - Feeding Frenzy + Voltshot -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=2779035018,1720528630#notes:IKELOS_SMG_v1.0.3 - Feeding Frenzy + Voltshot (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=1171147302,2173046394#notes:IKELOS_SMG_v1.0.3 - Feeding Frenzy (Enhanced) + Voltshot -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=1171147302,1720528630#notes:IKELOS_SMG_v1.0.3 - Feeding Frenzy (Enhanced) + Voltshot (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=2779035018,3708227201#notes:IKELOS_SMG_v1.0.3 - Feeding Frenzy + Surrounded -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=2779035018,781192741#notes:IKELOS_SMG_v1.0.3 - Feeding Frenzy + Surrounded (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=1171147302,3708227201#notes:IKELOS_SMG_v1.0.3 - Feeding Frenzy (Enhanced) + Surrounded -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=2149683300&perks=1171147302,781192741#notes:IKELOS_SMG_v1.0.3 - Feeding Frenzy (Enhanced) + Surrounded (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=189194532&perks=3523296417,4293542123#notes:No Survivors - Demolitionist + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=189194532&perks=3523296417,2675184851#notes:No Survivors - Demolitionist + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=189194532&perks=1906147653,4293542123#notes:No Survivors - Demolitionist (Enhanced) + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=189194532&perks=1906147653,2675184851#notes:No Survivors - Demolitionist (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=189194532&perks=3978468247,4293542123#notes:No Survivors - Discord + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=189194532&perks=3978468247,2675184851#notes:No Survivors - Discord + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=189194532&perks=906981559,4293542123#notes:No Survivors - Discord (Enhanced) + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=189194532&perks=906981559,2675184851#notes:No Survivors - Discord (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1157220231&perks=3523296417,4293542123#notes:No Survivors - Demolitionist + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1157220231&perks=3523296417,2675184851#notes:No Survivors - Demolitionist + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1157220231&perks=1906147653,4293542123#notes:No Survivors - Demolitionist (Enhanced) + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1157220231&perks=1906147653,2675184851#notes:No Survivors - Demolitionist (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1157220231&perks=3978468247,4293542123#notes:No Survivors - Discord + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1157220231&perks=3978468247,2675184851#notes:No Survivors - Discord + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1157220231&perks=906981559,4293542123#notes:No Survivors - Discord (Enhanced) + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=1157220231&perks=906981559,2675184851#notes:No Survivors - Discord (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3262192268&perks=3523296417,4293542123#notes:No Survivors - Demolitionist + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3262192268&perks=3523296417,2675184851#notes:No Survivors - Demolitionist + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3262192268&perks=1906147653,4293542123#notes:No Survivors - Demolitionist (Enhanced) + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3262192268&perks=1906147653,2675184851#notes:No Survivors - Demolitionist (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3262192268&perks=3978468247,4293542123#notes:No Survivors - Discord + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3262192268&perks=3978468247,2675184851#notes:No Survivors - Discord + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3262192268&perks=906981559,4293542123#notes:No Survivors - Discord (Enhanced) + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3262192268&perks=906981559,2675184851#notes:No Survivors - Discord (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4193602194&perks=3523296417,4293542123#notes:No Survivors - Demolitionist + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4193602194&perks=3523296417,2675184851#notes:No Survivors - Demolitionist + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4193602194&perks=1906147653,4293542123#notes:No Survivors - Demolitionist (Enhanced) + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4193602194&perks=1906147653,2675184851#notes:No Survivors - Demolitionist (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4193602194&perks=3978468247,4293542123#notes:No Survivors - Discord + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4193602194&perks=3978468247,2675184851#notes:No Survivors - Discord + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4193602194&perks=906981559,4293542123#notes:No Survivors - Discord (Enhanced) + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4193602194&perks=906981559,2675184851#notes:No Survivors - Discord (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4228149269&perks=3523296417,4293542123#notes:No Survivors - Demolitionist + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4228149269&perks=3523296417,2675184851#notes:No Survivors - Demolitionist + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4228149269&perks=1906147653,4293542123#notes:No Survivors - Demolitionist (Enhanced) + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4228149269&perks=1906147653,2675184851#notes:No Survivors - Demolitionist (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4228149269&perks=3978468247,4293542123#notes:No Survivors - Discord + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4228149269&perks=3978468247,2675184851#notes:No Survivors - Discord + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4228149269&perks=906981559,4293542123#notes:No Survivors - Discord (Enhanced) + Incandescent -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=4228149269&perks=906981559,2675184851#notes:No Survivors - Discord (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=4071163871,4293542123#notes:CALUS Mini-Tool - Threat Detector + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=4071163871,2675184851#notes:CALUS Mini-Tool - Threat Detector + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=494941759,4293542123#notes:CALUS Mini-Tool - Threat Detector (Enhanced) + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=494941759,2675184851#notes:CALUS Mini-Tool - Threat Detector (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=4071163871,3708227201#notes:CALUS Mini-Tool - Threat Detector + Surrounded -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=4071163871,781192741#notes:CALUS Mini-Tool - Threat Detector + Surrounded (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=494941759,3708227201#notes:CALUS Mini-Tool - Threat Detector (Enhanced) + Surrounded -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=494941759,781192741#notes:CALUS Mini-Tool - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=1631667848,4293542123#notes:CALUS Mini-Tool - Grave Robber + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=1631667848,2675184851#notes:CALUS Mini-Tool - Grave Robber + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=402033656,4293542123#notes:CALUS Mini-Tool - Grave Robber (Enhanced) + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=402033656,2675184851#notes:CALUS Mini-Tool - Grave Robber (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=1631667848,3708227201#notes:CALUS Mini-Tool - Grave Robber + Surrounded -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=1631667848,781192741#notes:CALUS Mini-Tool - Grave Robber + Surrounded (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=402033656,3708227201#notes:CALUS Mini-Tool - Grave Robber (Enhanced) + Surrounded -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=174192097&perks=402033656,781192741#notes:CALUS Mini-Tool - Grave Robber (Enhanced) + Surrounded (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=4071163871,4293542123#notes:CALUS Mini-Tool - Threat Detector + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=4071163871,2675184851#notes:CALUS Mini-Tool - Threat Detector + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=494941759,4293542123#notes:CALUS Mini-Tool - Threat Detector (Enhanced) + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=494941759,2675184851#notes:CALUS Mini-Tool - Threat Detector (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=4071163871,3708227201#notes:CALUS Mini-Tool - Threat Detector + Surrounded -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=4071163871,781192741#notes:CALUS Mini-Tool - Threat Detector + Surrounded (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=494941759,3708227201#notes:CALUS Mini-Tool - Threat Detector (Enhanced) + Surrounded -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=494941759,781192741#notes:CALUS Mini-Tool - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=1631667848,4293542123#notes:CALUS Mini-Tool - Grave Robber + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=1631667848,2675184851#notes:CALUS Mini-Tool - Grave Robber + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=402033656,4293542123#notes:CALUS Mini-Tool - Grave Robber (Enhanced) + Incandescent -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=402033656,2675184851#notes:CALUS Mini-Tool - Grave Robber (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=1631667848,3708227201#notes:CALUS Mini-Tool - Grave Robber + Surrounded -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=1631667848,781192741#notes:CALUS Mini-Tool - Grave Robber + Surrounded (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=402033656,3708227201#notes:CALUS Mini-Tool - Grave Robber (Enhanced) + Surrounded -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=2490988246&perks=402033656,781192741#notes:CALUS Mini-Tool - Grave Robber (Enhanced) + Surrounded (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=1028124540&perks=2779035018,2048641572#notes:The Hero's Burden - Feeding Frenzy + Destabilizing Rounds -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1028124540&perks=2779035018,1926441324#notes:The Hero's Burden - Feeding Frenzy + Destabilizing Rounds (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1028124540&perks=1171147302,2048641572#notes:The Hero's Burden - Feeding Frenzy (Enhanced) + Destabilizing Rounds -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1028124540&perks=1171147302,1926441324#notes:The Hero's Burden - Feeding Frenzy (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1865351684&perks=2779035018,2048641572#notes:The Hero's Burden - Feeding Frenzy + Destabilizing Rounds -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1865351684&perks=2779035018,1926441324#notes:The Hero's Burden - Feeding Frenzy + Destabilizing Rounds (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1865351684&perks=1171147302,2048641572#notes:The Hero's Burden - Feeding Frenzy (Enhanced) + Destabilizing Rounds -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=1865351684&perks=1171147302,1926441324#notes:The Hero's Burden - Feeding Frenzy (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2488587246&perks=2779035018,2048641572#notes:The Hero's Burden - Feeding Frenzy + Destabilizing Rounds -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2488587246&perks=2779035018,1926441324#notes:The Hero's Burden - Feeding Frenzy + Destabilizing Rounds (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2488587246&perks=1171147302,2048641572#notes:The Hero's Burden - Feeding Frenzy (Enhanced) + Destabilizing Rounds -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2488587246&perks=1171147302,1926441324#notes:The Hero's Burden - Feeding Frenzy (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2909905776&perks=2779035018,2048641572#notes:The Hero's Burden - Feeding Frenzy + Destabilizing Rounds -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2909905776&perks=2779035018,1926441324#notes:The Hero's Burden - Feeding Frenzy + Destabilizing Rounds (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2909905776&perks=1171147302,2048641572#notes:The Hero's Burden - Feeding Frenzy (Enhanced) + Destabilizing Rounds -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2909905776&perks=1171147302,1926441324#notes:The Hero's Burden - Feeding Frenzy (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 11, Tier B by TheAegisRelic
+dimwishlist:item=2744715540&perks=4071163871,4293542123#notes:Bug-Out Bag - Threat Detector + Incandescent -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2744715540&perks=4071163871,2675184851#notes:Bug-Out Bag - Threat Detector + Incandescent (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2744715540&perks=494941759,4293542123#notes:Bug-Out Bag - Threat Detector (Enhanced) + Incandescent -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2744715540&perks=494941759,2675184851#notes:Bug-Out Bag - Threat Detector (Enhanced) + Incandescent (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2832639510&perks=4071163871,4293542123#notes:Bug-Out Bag - Threat Detector + Incandescent -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2832639510&perks=4071163871,2675184851#notes:Bug-Out Bag - Threat Detector + Incandescent (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2832639510&perks=494941759,4293542123#notes:Bug-Out Bag - Threat Detector (Enhanced) + Incandescent -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=2832639510&perks=494941759,2675184851#notes:Bug-Out Bag - Threat Detector (Enhanced) + Incandescent (Enhanced) -- Rank 12, Tier B by TheAegisRelic
+dimwishlist:item=1200414607&perks=1631667848,3891536761#notes:The Showrunner - Grave Robber + Kinetic Tremors -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=1631667848,1549370717#notes:The Showrunner - Grave Robber + Kinetic Tremors (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=402033656,3891536761#notes:The Showrunner - Grave Robber (Enhanced) + Kinetic Tremors -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=402033656,1549370717#notes:The Showrunner - Grave Robber (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=1631667848,4082225868#notes:The Showrunner - Grave Robber + Swashbuckler -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=1631667848,1161469972#notes:The Showrunner - Grave Robber + Swashbuckler (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=402033656,4082225868#notes:The Showrunner - Grave Robber (Enhanced) + Swashbuckler -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=402033656,1161469972#notes:The Showrunner - Grave Robber (Enhanced) + Swashbuckler (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=3643424744,3891536761#notes:The Showrunner - Overflow + Kinetic Tremors -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=3643424744,1549370717#notes:The Showrunner - Overflow + Kinetic Tremors (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=2682205016,3891536761#notes:The Showrunner - Overflow (Enhanced) + Kinetic Tremors -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=2682205016,1549370717#notes:The Showrunner - Overflow (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=3643424744,4082225868#notes:The Showrunner - Overflow + Swashbuckler -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=3643424744,1161469972#notes:The Showrunner - Overflow + Swashbuckler (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=2682205016,4082225868#notes:The Showrunner - Overflow (Enhanced) + Swashbuckler -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1200414607&perks=2682205016,1161469972#notes:The Showrunner - Overflow (Enhanced) + Swashbuckler (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=1631667848,3891536761#notes:The Showrunner - Grave Robber + Kinetic Tremors -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=1631667848,1549370717#notes:The Showrunner - Grave Robber + Kinetic Tremors (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=402033656,3891536761#notes:The Showrunner - Grave Robber (Enhanced) + Kinetic Tremors -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=402033656,1549370717#notes:The Showrunner - Grave Robber (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=1631667848,4082225868#notes:The Showrunner - Grave Robber + Swashbuckler -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=1631667848,1161469972#notes:The Showrunner - Grave Robber + Swashbuckler (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=402033656,4082225868#notes:The Showrunner - Grave Robber (Enhanced) + Swashbuckler -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=402033656,1161469972#notes:The Showrunner - Grave Robber (Enhanced) + Swashbuckler (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=3643424744,3891536761#notes:The Showrunner - Overflow + Kinetic Tremors -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=3643424744,1549370717#notes:The Showrunner - Overflow + Kinetic Tremors (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=2682205016,3891536761#notes:The Showrunner - Overflow (Enhanced) + Kinetic Tremors -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=2682205016,1549370717#notes:The Showrunner - Overflow (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=3643424744,4082225868#notes:The Showrunner - Overflow + Swashbuckler -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=3643424744,1161469972#notes:The Showrunner - Overflow + Swashbuckler (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=2682205016,4082225868#notes:The Showrunner - Overflow (Enhanced) + Swashbuckler -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=1999754402&perks=2682205016,1161469972#notes:The Showrunner - Overflow (Enhanced) + Swashbuckler (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=3276304504&perks=1820235745,4293542123#notes:Perfect Pitch - Subsistence + Incandescent -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3276304504&perks=1820235745,2675184851#notes:Perfect Pitch - Subsistence + Incandescent (Enhanced) -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3276304504&perks=4245865861,4293542123#notes:Perfect Pitch - Subsistence (Enhanced) + Incandescent -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3276304504&perks=4245865861,2675184851#notes:Perfect Pitch - Subsistence (Enhanced) + Incandescent (Enhanced) -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3276304504&perks=1820235745,95528736#notes:Perfect Pitch - Subsistence + Onslaught -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3276304504&perks=1820235745,956288240#notes:Perfect Pitch - Subsistence + Onslaught (Enhanced) -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3276304504&perks=4245865861,95528736#notes:Perfect Pitch - Subsistence (Enhanced) + Onslaught -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3276304504&perks=4245865861,956288240#notes:Perfect Pitch - Subsistence (Enhanced) + Onslaught (Enhanced) -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=1013434963&perks=4071163871,3891536761#notes:Adjudicator - Threat Detector + Kinetic Tremors -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=1013434963&perks=4071163871,1549370717#notes:Adjudicator - Threat Detector + Kinetic Tremors (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=1013434963&perks=494941759,3891536761#notes:Adjudicator - Threat Detector (Enhanced) + Kinetic Tremors -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=1013434963&perks=494941759,1549370717#notes:Adjudicator - Threat Detector (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=1013434963&perks=4071163871,95528736#notes:Adjudicator - Threat Detector + Onslaught -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=1013434963&perks=4071163871,956288240#notes:Adjudicator - Threat Detector + Onslaught (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=1013434963&perks=494941759,95528736#notes:Adjudicator - Threat Detector (Enhanced) + Onslaught -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=1013434963&perks=494941759,956288240#notes:Adjudicator - Threat Detector (Enhanced) + Onslaught (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=2094938673&perks=4071163871,3891536761#notes:Adjudicator - Threat Detector + Kinetic Tremors -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=2094938673&perks=4071163871,1549370717#notes:Adjudicator - Threat Detector + Kinetic Tremors (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=2094938673&perks=494941759,3891536761#notes:Adjudicator - Threat Detector (Enhanced) + Kinetic Tremors -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=2094938673&perks=494941759,1549370717#notes:Adjudicator - Threat Detector (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=2094938673&perks=4071163871,95528736#notes:Adjudicator - Threat Detector + Onslaught -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=2094938673&perks=4071163871,956288240#notes:Adjudicator - Threat Detector + Onslaught (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=2094938673&perks=494941759,95528736#notes:Adjudicator - Threat Detector (Enhanced) + Onslaught -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=2094938673&perks=494941759,956288240#notes:Adjudicator - Threat Detector (Enhanced) + Onslaught (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=3700496672,243981275#notes:Parabellum - Shoot to Loot + Attrition Orbs -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=3700496672,984655331#notes:Parabellum - Shoot to Loot + Attrition Orbs (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=2840833776,243981275#notes:Parabellum - Shoot to Loot (Enhanced) + Attrition Orbs -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=2840833776,984655331#notes:Parabellum - Shoot to Loot (Enhanced) + Attrition Orbs (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=3700496672,4104185692#notes:Parabellum - Shoot to Loot + Frenzy -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=3700496672,3007133316#notes:Parabellum - Shoot to Loot + Frenzy (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=2840833776,4104185692#notes:Parabellum - Shoot to Loot (Enhanced) + Frenzy -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=2840833776,3007133316#notes:Parabellum - Shoot to Loot (Enhanced) + Frenzy (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=3017780555,243981275#notes:Parabellum - Heal Clip + Attrition Orbs -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=3017780555,984655331#notes:Parabellum - Heal Clip + Attrition Orbs (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=4223976499,243981275#notes:Parabellum - Heal Clip (Enhanced) + Attrition Orbs -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=4223976499,984655331#notes:Parabellum - Heal Clip (Enhanced) + Attrition Orbs (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=3017780555,4104185692#notes:Parabellum - Heal Clip + Frenzy -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=3017780555,3007133316#notes:Parabellum - Heal Clip + Frenzy (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=4223976499,4104185692#notes:Parabellum - Heal Clip (Enhanced) + Frenzy -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=4223976499,3007133316#notes:Parabellum - Heal Clip (Enhanced) + Frenzy (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=2578928832,243981275#notes:Parabellum - Rewind Rounds + Attrition Orbs -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=2578928832,984655331#notes:Parabellum - Rewind Rounds + Attrition Orbs (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=1563455254,243981275#notes:Parabellum - Rewind Rounds (Enhanced) + Attrition Orbs -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=1563455254,984655331#notes:Parabellum - Rewind Rounds (Enhanced) + Attrition Orbs (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=2578928832,4104185692#notes:Parabellum - Rewind Rounds + Frenzy -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=2578928832,3007133316#notes:Parabellum - Rewind Rounds + Frenzy (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=1563455254,4104185692#notes:Parabellum - Rewind Rounds (Enhanced) + Frenzy -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3926811686&perks=1563455254,3007133316#notes:Parabellum - Rewind Rounds (Enhanced) + Frenzy (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3959549446&perks=777589557,124408337#notes:Yarovit MG4 - Enlightened Action + Headstone -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=777589557,1171887445#notes:Yarovit MG4 - Enlightened Action + Headstone (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1771736209,124408337#notes:Yarovit MG4 - Enlightened Action (Enhanced) + Headstone -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1771736209,1171887445#notes:Yarovit MG4 - Enlightened Action (Enhanced) + Headstone (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=777589557,3708227201#notes:Yarovit MG4 - Enlightened Action + Surrounded -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=777589557,781192741#notes:Yarovit MG4 - Enlightened Action + Surrounded (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1771736209,3708227201#notes:Yarovit MG4 - Enlightened Action (Enhanced) + Surrounded -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1771736209,781192741#notes:Yarovit MG4 - Enlightened Action (Enhanced) + Surrounded (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=777589557,2109543898#notes:Yarovit MG4 - Enlightened Action + Desperate Measures -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=777589557,2799030358#notes:Yarovit MG4 - Enlightened Action + Desperate Measures (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1771736209,2109543898#notes:Yarovit MG4 - Enlightened Action (Enhanced) + Desperate Measures -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1771736209,2799030358#notes:Yarovit MG4 - Enlightened Action (Enhanced) + Desperate Measures (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=2578928832,124408337#notes:Yarovit MG4 - Rewind Rounds + Headstone -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=2578928832,1171887445#notes:Yarovit MG4 - Rewind Rounds + Headstone (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1563455254,124408337#notes:Yarovit MG4 - Rewind Rounds (Enhanced) + Headstone -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1563455254,1171887445#notes:Yarovit MG4 - Rewind Rounds (Enhanced) + Headstone (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=2578928832,3708227201#notes:Yarovit MG4 - Rewind Rounds + Surrounded -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=2578928832,781192741#notes:Yarovit MG4 - Rewind Rounds + Surrounded (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1563455254,3708227201#notes:Yarovit MG4 - Rewind Rounds (Enhanced) + Surrounded -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1563455254,781192741#notes:Yarovit MG4 - Rewind Rounds (Enhanced) + Surrounded (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=2578928832,2109543898#notes:Yarovit MG4 - Rewind Rounds + Desperate Measures -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=2578928832,2799030358#notes:Yarovit MG4 - Rewind Rounds + Desperate Measures (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1563455254,2109543898#notes:Yarovit MG4 - Rewind Rounds (Enhanced) + Desperate Measures -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3959549446&perks=1563455254,2799030358#notes:Yarovit MG4 - Rewind Rounds (Enhanced) + Desperate Measures (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1631667848,124408337#notes:Prolonged Engagement - Grave Robber + Headstone -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1631667848,1171887445#notes:Prolonged Engagement - Grave Robber + Headstone (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=402033656,124408337#notes:Prolonged Engagement - Grave Robber (Enhanced) + Headstone -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=402033656,1171887445#notes:Prolonged Engagement - Grave Robber (Enhanced) + Headstone (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1631667848,3708227201#notes:Prolonged Engagement - Grave Robber + Surrounded -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1631667848,781192741#notes:Prolonged Engagement - Grave Robber + Surrounded (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=402033656,3708227201#notes:Prolonged Engagement - Grave Robber (Enhanced) + Surrounded -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=402033656,781192741#notes:Prolonged Engagement - Grave Robber (Enhanced) + Surrounded (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1631667848,4104185692#notes:Prolonged Engagement - Grave Robber + Frenzy -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1631667848,3007133316#notes:Prolonged Engagement - Grave Robber + Frenzy (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=402033656,4104185692#notes:Prolonged Engagement - Grave Robber (Enhanced) + Frenzy -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=402033656,3007133316#notes:Prolonged Engagement - Grave Robber (Enhanced) + Frenzy (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=2779035018,124408337#notes:Prolonged Engagement - Feeding Frenzy + Headstone -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=2779035018,1171887445#notes:Prolonged Engagement - Feeding Frenzy + Headstone (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1171147302,124408337#notes:Prolonged Engagement - Feeding Frenzy (Enhanced) + Headstone -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1171147302,1171887445#notes:Prolonged Engagement - Feeding Frenzy (Enhanced) + Headstone (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=2779035018,3708227201#notes:Prolonged Engagement - Feeding Frenzy + Surrounded -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=2779035018,781192741#notes:Prolonged Engagement - Feeding Frenzy + Surrounded (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1171147302,3708227201#notes:Prolonged Engagement - Feeding Frenzy (Enhanced) + Surrounded -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1171147302,781192741#notes:Prolonged Engagement - Feeding Frenzy (Enhanced) + Surrounded (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=2779035018,4104185692#notes:Prolonged Engagement - Feeding Frenzy + Frenzy -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=2779035018,3007133316#notes:Prolonged Engagement - Feeding Frenzy + Frenzy (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1171147302,4104185692#notes:Prolonged Engagement - Feeding Frenzy (Enhanced) + Frenzy -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1171147302,3007133316#notes:Prolonged Engagement - Feeding Frenzy (Enhanced) + Frenzy (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1820235745,124408337#notes:Prolonged Engagement - Subsistence + Headstone -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1820235745,1171887445#notes:Prolonged Engagement - Subsistence + Headstone (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=4245865861,124408337#notes:Prolonged Engagement - Subsistence (Enhanced) + Headstone -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=4245865861,1171887445#notes:Prolonged Engagement - Subsistence (Enhanced) + Headstone (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1820235745,3708227201#notes:Prolonged Engagement - Subsistence + Surrounded -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1820235745,781192741#notes:Prolonged Engagement - Subsistence + Surrounded (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=4245865861,3708227201#notes:Prolonged Engagement - Subsistence (Enhanced) + Surrounded -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=4245865861,781192741#notes:Prolonged Engagement - Subsistence (Enhanced) + Surrounded (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1820235745,4104185692#notes:Prolonged Engagement - Subsistence + Frenzy -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=1820235745,3007133316#notes:Prolonged Engagement - Subsistence + Frenzy (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=4245865861,4104185692#notes:Prolonged Engagement - Subsistence (Enhanced) + Frenzy -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2349907931&perks=4245865861,3007133316#notes:Prolonged Engagement - Subsistence (Enhanced) + Frenzy (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=3523296417,124408337#notes:Unending Tempest - Demolitionist + Headstone -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=3523296417,1171887445#notes:Unending Tempest - Demolitionist + Headstone (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1906147653,124408337#notes:Unending Tempest - Demolitionist (Enhanced) + Headstone -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1906147653,1171887445#notes:Unending Tempest - Demolitionist (Enhanced) + Headstone (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=3523296417,3708227201#notes:Unending Tempest - Demolitionist + Surrounded -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=3523296417,781192741#notes:Unending Tempest - Demolitionist + Surrounded (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1906147653,3708227201#notes:Unending Tempest - Demolitionist (Enhanced) + Surrounded -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1906147653,781192741#notes:Unending Tempest - Demolitionist (Enhanced) + Surrounded (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=3523296417,4104185692#notes:Unending Tempest - Demolitionist + Frenzy -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=3523296417,3007133316#notes:Unending Tempest - Demolitionist + Frenzy (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1906147653,4104185692#notes:Unending Tempest - Demolitionist (Enhanced) + Frenzy -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1906147653,3007133316#notes:Unending Tempest - Demolitionist (Enhanced) + Frenzy (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=777589557,124408337#notes:Unending Tempest - Enlightened Action + Headstone -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=777589557,1171887445#notes:Unending Tempest - Enlightened Action + Headstone (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1771736209,124408337#notes:Unending Tempest - Enlightened Action (Enhanced) + Headstone -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1771736209,1171887445#notes:Unending Tempest - Enlightened Action (Enhanced) + Headstone (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=777589557,3708227201#notes:Unending Tempest - Enlightened Action + Surrounded -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=777589557,781192741#notes:Unending Tempest - Enlightened Action + Surrounded (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1771736209,3708227201#notes:Unending Tempest - Enlightened Action (Enhanced) + Surrounded -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1771736209,781192741#notes:Unending Tempest - Enlightened Action (Enhanced) + Surrounded (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=777589557,4104185692#notes:Unending Tempest - Enlightened Action + Frenzy -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=777589557,3007133316#notes:Unending Tempest - Enlightened Action + Frenzy (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1771736209,4104185692#notes:Unending Tempest - Enlightened Action (Enhanced) + Frenzy -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2510526114&perks=1771736209,3007133316#notes:Unending Tempest - Enlightened Action (Enhanced) + Frenzy (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=1631667848,124408337#notes:Blood Feud - Grave Robber + Headstone -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=1631667848,1171887445#notes:Blood Feud - Grave Robber + Headstone (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=402033656,124408337#notes:Blood Feud - Grave Robber (Enhanced) + Headstone -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=402033656,1171887445#notes:Blood Feud - Grave Robber (Enhanced) + Headstone (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=1631667848,4082225868#notes:Blood Feud - Grave Robber + Swashbuckler -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=1631667848,1161469972#notes:Blood Feud - Grave Robber + Swashbuckler (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=402033656,4082225868#notes:Blood Feud - Grave Robber (Enhanced) + Swashbuckler -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=402033656,1161469972#notes:Blood Feud - Grave Robber (Enhanced) + Swashbuckler (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=1631667848,4104185692#notes:Blood Feud - Grave Robber + Frenzy -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=1631667848,3007133316#notes:Blood Feud - Grave Robber + Frenzy (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=402033656,4104185692#notes:Blood Feud - Grave Robber (Enhanced) + Frenzy -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=402033656,3007133316#notes:Blood Feud - Grave Robber (Enhanced) + Frenzy (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=691659142,124408337#notes:Blood Feud - Pugilist + Headstone -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=691659142,1171887445#notes:Blood Feud - Pugilist + Headstone (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=536173722,124408337#notes:Blood Feud - Pugilist (Enhanced) + Headstone -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=536173722,1171887445#notes:Blood Feud - Pugilist (Enhanced) + Headstone (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=691659142,4082225868#notes:Blood Feud - Pugilist + Swashbuckler -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=691659142,1161469972#notes:Blood Feud - Pugilist + Swashbuckler (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=536173722,4082225868#notes:Blood Feud - Pugilist (Enhanced) + Swashbuckler -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=536173722,1161469972#notes:Blood Feud - Pugilist (Enhanced) + Swashbuckler (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=691659142,4104185692#notes:Blood Feud - Pugilist + Frenzy -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=691659142,3007133316#notes:Blood Feud - Pugilist + Frenzy (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=536173722,4104185692#notes:Blood Feud - Pugilist (Enhanced) + Frenzy -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1509167284&perks=536173722,3007133316#notes:Blood Feud - Pugilist (Enhanced) + Frenzy (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=3523296417,2848615171#notes:Unforgiven - Demolitionist + Dragonfly -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=3523296417,169755979#notes:Unforgiven - Demolitionist + Dragonfly (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1906147653,2848615171#notes:Unforgiven - Demolitionist (Enhanced) + Dragonfly -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1906147653,169755979#notes:Unforgiven - Demolitionist (Enhanced) + Dragonfly (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=3523296417,4104185692#notes:Unforgiven - Demolitionist + Frenzy -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=3523296417,3007133316#notes:Unforgiven - Demolitionist + Frenzy (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1906147653,4104185692#notes:Unforgiven - Demolitionist (Enhanced) + Frenzy -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1906147653,3007133316#notes:Unforgiven - Demolitionist (Enhanced) + Frenzy (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=3523296417,776531651#notes:Unforgiven - Demolitionist + Repulsor Brace -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=3523296417,2541826827#notes:Unforgiven - Demolitionist + Repulsor Brace (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1906147653,776531651#notes:Unforgiven - Demolitionist (Enhanced) + Repulsor Brace -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1906147653,2541826827#notes:Unforgiven - Demolitionist (Enhanced) + Repulsor Brace (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=2779035018,2848615171#notes:Unforgiven - Feeding Frenzy + Dragonfly -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=2779035018,169755979#notes:Unforgiven - Feeding Frenzy + Dragonfly (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1171147302,2848615171#notes:Unforgiven - Feeding Frenzy (Enhanced) + Dragonfly -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1171147302,169755979#notes:Unforgiven - Feeding Frenzy (Enhanced) + Dragonfly (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=2779035018,4104185692#notes:Unforgiven - Feeding Frenzy + Frenzy -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=2779035018,3007133316#notes:Unforgiven - Feeding Frenzy + Frenzy (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1171147302,4104185692#notes:Unforgiven - Feeding Frenzy (Enhanced) + Frenzy -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1171147302,3007133316#notes:Unforgiven - Feeding Frenzy (Enhanced) + Frenzy (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=2779035018,776531651#notes:Unforgiven - Feeding Frenzy + Repulsor Brace -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=2779035018,2541826827#notes:Unforgiven - Feeding Frenzy + Repulsor Brace (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1171147302,776531651#notes:Unforgiven - Feeding Frenzy (Enhanced) + Repulsor Brace -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=3000847393&perks=1171147302,2541826827#notes:Unforgiven - Feeding Frenzy (Enhanced) + Repulsor Brace (Enhanced) -- Rank 21, Tier D by TheAegisRelic
+dimwishlist:item=1506719573&perks=777589557,4104185692#notes:Cold Front - Enlightened Action + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=777589557,3007133316#notes:Cold Front - Enlightened Action + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1771736209,4104185692#notes:Cold Front - Enlightened Action (Enhanced) + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1771736209,3007133316#notes:Cold Front - Enlightened Action (Enhanced) + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=777589557,4049631843#notes:Cold Front - Enlightened Action + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=777589557,859780267#notes:Cold Front - Enlightened Action + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1771736209,4049631843#notes:Cold Front - Enlightened Action (Enhanced) + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1771736209,859780267#notes:Cold Front - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=777589557,243981275#notes:Cold Front - Enlightened Action + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=777589557,984655331#notes:Cold Front - Enlightened Action + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1771736209,243981275#notes:Cold Front - Enlightened Action (Enhanced) + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1771736209,984655331#notes:Cold Front - Enlightened Action (Enhanced) + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=2578928832,4104185692#notes:Cold Front - Rewind Rounds + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=2578928832,3007133316#notes:Cold Front - Rewind Rounds + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1563455254,4104185692#notes:Cold Front - Rewind Rounds (Enhanced) + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1563455254,3007133316#notes:Cold Front - Rewind Rounds (Enhanced) + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=2578928832,4049631843#notes:Cold Front - Rewind Rounds + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=2578928832,859780267#notes:Cold Front - Rewind Rounds + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1563455254,4049631843#notes:Cold Front - Rewind Rounds (Enhanced) + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1563455254,859780267#notes:Cold Front - Rewind Rounds (Enhanced) + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=2578928832,243981275#notes:Cold Front - Rewind Rounds + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=2578928832,984655331#notes:Cold Front - Rewind Rounds + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1563455254,243981275#notes:Cold Front - Rewind Rounds (Enhanced) + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1563455254,984655331#notes:Cold Front - Rewind Rounds (Enhanced) + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1583705720,4104185692#notes:Cold Front - Stats for All + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1583705720,3007133316#notes:Cold Front - Stats for All + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1409206216,4104185692#notes:Cold Front - Stats for All (Enhanced) + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1409206216,3007133316#notes:Cold Front - Stats for All (Enhanced) + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1583705720,4049631843#notes:Cold Front - Stats for All + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1583705720,859780267#notes:Cold Front - Stats for All + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1409206216,4049631843#notes:Cold Front - Stats for All (Enhanced) + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1409206216,859780267#notes:Cold Front - Stats for All (Enhanced) + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1583705720,243981275#notes:Cold Front - Stats for All + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1583705720,984655331#notes:Cold Front - Stats for All + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1409206216,243981275#notes:Cold Front - Stats for All (Enhanced) + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1506719573&perks=1409206216,984655331#notes:Cold Front - Stats for All (Enhanced) + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=777589557,4104185692#notes:Cold Front - Enlightened Action + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=777589557,3007133316#notes:Cold Front - Enlightened Action + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1771736209,4104185692#notes:Cold Front - Enlightened Action (Enhanced) + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1771736209,3007133316#notes:Cold Front - Enlightened Action (Enhanced) + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=777589557,4049631843#notes:Cold Front - Enlightened Action + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=777589557,859780267#notes:Cold Front - Enlightened Action + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1771736209,4049631843#notes:Cold Front - Enlightened Action (Enhanced) + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1771736209,859780267#notes:Cold Front - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=777589557,243981275#notes:Cold Front - Enlightened Action + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=777589557,984655331#notes:Cold Front - Enlightened Action + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1771736209,243981275#notes:Cold Front - Enlightened Action (Enhanced) + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1771736209,984655331#notes:Cold Front - Enlightened Action (Enhanced) + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=2578928832,4104185692#notes:Cold Front - Rewind Rounds + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=2578928832,3007133316#notes:Cold Front - Rewind Rounds + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1563455254,4104185692#notes:Cold Front - Rewind Rounds (Enhanced) + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1563455254,3007133316#notes:Cold Front - Rewind Rounds (Enhanced) + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=2578928832,4049631843#notes:Cold Front - Rewind Rounds + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=2578928832,859780267#notes:Cold Front - Rewind Rounds + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1563455254,4049631843#notes:Cold Front - Rewind Rounds (Enhanced) + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1563455254,859780267#notes:Cold Front - Rewind Rounds (Enhanced) + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=2578928832,243981275#notes:Cold Front - Rewind Rounds + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=2578928832,984655331#notes:Cold Front - Rewind Rounds + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1563455254,243981275#notes:Cold Front - Rewind Rounds (Enhanced) + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1563455254,984655331#notes:Cold Front - Rewind Rounds (Enhanced) + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1583705720,4104185692#notes:Cold Front - Stats for All + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1583705720,3007133316#notes:Cold Front - Stats for All + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1409206216,4104185692#notes:Cold Front - Stats for All (Enhanced) + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1409206216,3007133316#notes:Cold Front - Stats for All (Enhanced) + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1583705720,4049631843#notes:Cold Front - Stats for All + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1583705720,859780267#notes:Cold Front - Stats for All + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1409206216,4049631843#notes:Cold Front - Stats for All (Enhanced) + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1409206216,859780267#notes:Cold Front - Stats for All (Enhanced) + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1583705720,243981275#notes:Cold Front - Stats for All + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1583705720,984655331#notes:Cold Front - Stats for All + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1409206216,243981275#notes:Cold Front - Stats for All (Enhanced) + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2814093983&perks=1409206216,984655331#notes:Cold Front - Stats for All (Enhanced) + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=777589557,4104185692#notes:Cold Front - Enlightened Action + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=777589557,3007133316#notes:Cold Front - Enlightened Action + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1771736209,4104185692#notes:Cold Front - Enlightened Action (Enhanced) + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1771736209,3007133316#notes:Cold Front - Enlightened Action (Enhanced) + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=777589557,4049631843#notes:Cold Front - Enlightened Action + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=777589557,859780267#notes:Cold Front - Enlightened Action + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1771736209,4049631843#notes:Cold Front - Enlightened Action (Enhanced) + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1771736209,859780267#notes:Cold Front - Enlightened Action (Enhanced) + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=777589557,243981275#notes:Cold Front - Enlightened Action + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=777589557,984655331#notes:Cold Front - Enlightened Action + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1771736209,243981275#notes:Cold Front - Enlightened Action (Enhanced) + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1771736209,984655331#notes:Cold Front - Enlightened Action (Enhanced) + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=2578928832,4104185692#notes:Cold Front - Rewind Rounds + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=2578928832,3007133316#notes:Cold Front - Rewind Rounds + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1563455254,4104185692#notes:Cold Front - Rewind Rounds (Enhanced) + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1563455254,3007133316#notes:Cold Front - Rewind Rounds (Enhanced) + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=2578928832,4049631843#notes:Cold Front - Rewind Rounds + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=2578928832,859780267#notes:Cold Front - Rewind Rounds + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1563455254,4049631843#notes:Cold Front - Rewind Rounds (Enhanced) + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1563455254,859780267#notes:Cold Front - Rewind Rounds (Enhanced) + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=2578928832,243981275#notes:Cold Front - Rewind Rounds + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=2578928832,984655331#notes:Cold Front - Rewind Rounds + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1563455254,243981275#notes:Cold Front - Rewind Rounds (Enhanced) + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1563455254,984655331#notes:Cold Front - Rewind Rounds (Enhanced) + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1583705720,4104185692#notes:Cold Front - Stats for All + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1583705720,3007133316#notes:Cold Front - Stats for All + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1409206216,4104185692#notes:Cold Front - Stats for All (Enhanced) + Frenzy -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1409206216,3007133316#notes:Cold Front - Stats for All (Enhanced) + Frenzy (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1583705720,4049631843#notes:Cold Front - Stats for All + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1583705720,859780267#notes:Cold Front - Stats for All + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1409206216,4049631843#notes:Cold Front - Stats for All (Enhanced) + One for All -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1409206216,859780267#notes:Cold Front - Stats for All (Enhanced) + One for All (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1583705720,243981275#notes:Cold Front - Stats for All + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1583705720,984655331#notes:Cold Front - Stats for All + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1409206216,243981275#notes:Cold Front - Stats for All (Enhanced) + Attrition Orbs -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3206190066&perks=1409206216,984655331#notes:Cold Front - Stats for All (Enhanced) + Attrition Orbs (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=1631667848,831391274#notes:Mirror Imago (Adept) - Grave Robber + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=1631667848,102912326#notes:Mirror Imago (Adept) - Grave Robber + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=402033656,831391274#notes:Mirror Imago (Adept) - Grave Robber (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=402033656,102912326#notes:Mirror Imago (Adept) - Grave Robber (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=1631667848,4082225868#notes:Mirror Imago (Adept) - Grave Robber + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=1631667848,1161469972#notes:Mirror Imago (Adept) - Grave Robber + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=402033656,4082225868#notes:Mirror Imago (Adept) - Grave Robber (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=402033656,1161469972#notes:Mirror Imago (Adept) - Grave Robber (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=691659142,831391274#notes:Mirror Imago (Adept) - Pugilist + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=691659142,102912326#notes:Mirror Imago (Adept) - Pugilist + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=536173722,831391274#notes:Mirror Imago (Adept) - Pugilist (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=536173722,102912326#notes:Mirror Imago (Adept) - Pugilist (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=691659142,4082225868#notes:Mirror Imago (Adept) - Pugilist + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=691659142,1161469972#notes:Mirror Imago (Adept) - Pugilist + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=536173722,4082225868#notes:Mirror Imago (Adept) - Pugilist (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=536173722,1161469972#notes:Mirror Imago (Adept) - Pugilist (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=1820235745,831391274#notes:Mirror Imago (Adept) - Subsistence + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=1820235745,102912326#notes:Mirror Imago (Adept) - Subsistence + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=4245865861,831391274#notes:Mirror Imago (Adept) - Subsistence (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=4245865861,102912326#notes:Mirror Imago (Adept) - Subsistence (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=1820235745,4082225868#notes:Mirror Imago (Adept) - Subsistence + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=1820235745,1161469972#notes:Mirror Imago (Adept) - Subsistence + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=4245865861,4082225868#notes:Mirror Imago (Adept) - Subsistence (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=302039451&perks=4245865861,1161469972#notes:Mirror Imago (Adept) - Subsistence (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=1631667848,831391274#notes:Mirror Imago - Grave Robber + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=1631667848,102912326#notes:Mirror Imago - Grave Robber + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=402033656,831391274#notes:Mirror Imago - Grave Robber (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=402033656,102912326#notes:Mirror Imago - Grave Robber (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=1631667848,4082225868#notes:Mirror Imago - Grave Robber + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=1631667848,1161469972#notes:Mirror Imago - Grave Robber + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=402033656,4082225868#notes:Mirror Imago - Grave Robber (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=402033656,1161469972#notes:Mirror Imago - Grave Robber (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=691659142,831391274#notes:Mirror Imago - Pugilist + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=691659142,102912326#notes:Mirror Imago - Pugilist + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=536173722,831391274#notes:Mirror Imago - Pugilist (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=536173722,102912326#notes:Mirror Imago - Pugilist (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=691659142,4082225868#notes:Mirror Imago - Pugilist + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=691659142,1161469972#notes:Mirror Imago - Pugilist + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=536173722,4082225868#notes:Mirror Imago - Pugilist (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=536173722,1161469972#notes:Mirror Imago - Pugilist (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=1820235745,831391274#notes:Mirror Imago - Subsistence + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=1820235745,102912326#notes:Mirror Imago - Subsistence + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=4245865861,831391274#notes:Mirror Imago - Subsistence (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=4245865861,102912326#notes:Mirror Imago - Subsistence (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=1820235745,4082225868#notes:Mirror Imago - Subsistence + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=1820235745,1161469972#notes:Mirror Imago - Subsistence + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=4245865861,4082225868#notes:Mirror Imago - Subsistence (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3234363830&perks=4245865861,1161469972#notes:Mirror Imago - Subsistence (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=1631667848,831391274#notes:Mirror Imago - Grave Robber + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=1631667848,102912326#notes:Mirror Imago - Grave Robber + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=402033656,831391274#notes:Mirror Imago - Grave Robber (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=402033656,102912326#notes:Mirror Imago - Grave Robber (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=1631667848,4082225868#notes:Mirror Imago - Grave Robber + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=1631667848,1161469972#notes:Mirror Imago - Grave Robber + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=402033656,4082225868#notes:Mirror Imago - Grave Robber (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=402033656,1161469972#notes:Mirror Imago - Grave Robber (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=691659142,831391274#notes:Mirror Imago - Pugilist + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=691659142,102912326#notes:Mirror Imago - Pugilist + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=536173722,831391274#notes:Mirror Imago - Pugilist (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=536173722,102912326#notes:Mirror Imago - Pugilist (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=691659142,4082225868#notes:Mirror Imago - Pugilist + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=691659142,1161469972#notes:Mirror Imago - Pugilist + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=536173722,4082225868#notes:Mirror Imago - Pugilist (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=536173722,1161469972#notes:Mirror Imago - Pugilist (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=1820235745,831391274#notes:Mirror Imago - Subsistence + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=1820235745,102912326#notes:Mirror Imago - Subsistence + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=4245865861,831391274#notes:Mirror Imago - Subsistence (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=4245865861,102912326#notes:Mirror Imago - Subsistence (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=1820235745,4082225868#notes:Mirror Imago - Subsistence + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=1820235745,1161469972#notes:Mirror Imago - Subsistence + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=4245865861,4082225868#notes:Mirror Imago - Subsistence (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3877448149&perks=4245865861,1161469972#notes:Mirror Imago - Subsistence (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=1631667848,831391274#notes:Mirror Imago (Adept) - Grave Robber + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=1631667848,102912326#notes:Mirror Imago (Adept) - Grave Robber + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=402033656,831391274#notes:Mirror Imago (Adept) - Grave Robber (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=402033656,102912326#notes:Mirror Imago (Adept) - Grave Robber (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=1631667848,4082225868#notes:Mirror Imago (Adept) - Grave Robber + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=1631667848,1161469972#notes:Mirror Imago (Adept) - Grave Robber + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=402033656,4082225868#notes:Mirror Imago (Adept) - Grave Robber (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=402033656,1161469972#notes:Mirror Imago (Adept) - Grave Robber (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=691659142,831391274#notes:Mirror Imago (Adept) - Pugilist + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=691659142,102912326#notes:Mirror Imago (Adept) - Pugilist + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=536173722,831391274#notes:Mirror Imago (Adept) - Pugilist (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=536173722,102912326#notes:Mirror Imago (Adept) - Pugilist (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=691659142,4082225868#notes:Mirror Imago (Adept) - Pugilist + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=691659142,1161469972#notes:Mirror Imago (Adept) - Pugilist + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=536173722,4082225868#notes:Mirror Imago (Adept) - Pugilist (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=536173722,1161469972#notes:Mirror Imago (Adept) - Pugilist (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=1820235745,831391274#notes:Mirror Imago (Adept) - Subsistence + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=1820235745,102912326#notes:Mirror Imago (Adept) - Subsistence + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=4245865861,831391274#notes:Mirror Imago (Adept) - Subsistence (Enhanced) + Hatchling -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=4245865861,102912326#notes:Mirror Imago (Adept) - Subsistence (Enhanced) + Hatchling (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=1820235745,4082225868#notes:Mirror Imago (Adept) - Subsistence + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=1820235745,1161469972#notes:Mirror Imago (Adept) - Subsistence + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=4245865861,4082225868#notes:Mirror Imago (Adept) - Subsistence (Enhanced) + Swashbuckler -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=4116546788&perks=4245865861,1161469972#notes:Mirror Imago (Adept) - Subsistence (Enhanced) + Swashbuckler (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=3193598749&perks=4071163871,831391274#notes:The Immortal (Adept) - Threat Detector + Hatchling -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=3193598749&perks=4071163871,102912326#notes:The Immortal (Adept) - Threat Detector + Hatchling (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=3193598749&perks=494941759,831391274#notes:The Immortal (Adept) - Threat Detector (Enhanced) + Hatchling -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=3193598749&perks=494941759,102912326#notes:The Immortal (Adept) - Threat Detector (Enhanced) + Hatchling (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=4039572196&perks=4071163871,831391274#notes:The Immortal - Threat Detector + Hatchling -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=4039572196&perks=4071163871,102912326#notes:The Immortal - Threat Detector + Hatchling (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=4039572196&perks=494941759,831391274#notes:The Immortal - Threat Detector (Enhanced) + Hatchling -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=4039572196&perks=494941759,102912326#notes:The Immortal - Threat Detector (Enhanced) + Hatchling (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=811403305&perks=3619207468,831391274#notes:Synchronic Roulette - Keep Away + Hatchling -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=811403305&perks=3619207468,102912326#notes:Synchronic Roulette - Keep Away + Hatchling (Enhanced) -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=811403305&perks=3198323828,831391274#notes:Synchronic Roulette - Keep Away (Enhanced) + Hatchling -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=811403305&perks=3198323828,102912326#notes:Synchronic Roulette - Keep Away (Enhanced) + Hatchling (Enhanced) -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=811403305&perks=968510818,831391274#notes:Synchronic Roulette - Envious Assassin + Hatchling -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=811403305&perks=968510818,102912326#notes:Synchronic Roulette - Envious Assassin + Hatchling (Enhanced) -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=811403305&perks=424370782,831391274#notes:Synchronic Roulette - Envious Assassin (Enhanced) + Hatchling -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=811403305&perks=424370782,102912326#notes:Synchronic Roulette - Envious Assassin (Enhanced) + Hatchling (Enhanced) -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=4071163871,2848615171#notes:Borrowed Time - Threat Detector + Dragonfly -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=4071163871,169755979#notes:Borrowed Time - Threat Detector + Dragonfly (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=494941759,2848615171#notes:Borrowed Time - Threat Detector (Enhanced) + Dragonfly -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=494941759,169755979#notes:Borrowed Time - Threat Detector (Enhanced) + Dragonfly (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=4071163871,3708227201#notes:Borrowed Time - Threat Detector + Surrounded -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=4071163871,781192741#notes:Borrowed Time - Threat Detector + Surrounded (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=494941759,3708227201#notes:Borrowed Time - Threat Detector (Enhanced) + Surrounded -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=494941759,781192741#notes:Borrowed Time - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=4071163871,4104185692#notes:Borrowed Time - Threat Detector + Frenzy -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=4071163871,3007133316#notes:Borrowed Time - Threat Detector + Frenzy (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=494941759,4104185692#notes:Borrowed Time - Threat Detector (Enhanced) + Frenzy -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=494941759,3007133316#notes:Borrowed Time - Threat Detector (Enhanced) + Frenzy (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=1631667848,2848615171#notes:Borrowed Time - Grave Robber + Dragonfly -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=1631667848,169755979#notes:Borrowed Time - Grave Robber + Dragonfly (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=402033656,2848615171#notes:Borrowed Time - Grave Robber (Enhanced) + Dragonfly -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=402033656,169755979#notes:Borrowed Time - Grave Robber (Enhanced) + Dragonfly (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=1631667848,3708227201#notes:Borrowed Time - Grave Robber + Surrounded -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=1631667848,781192741#notes:Borrowed Time - Grave Robber + Surrounded (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=402033656,3708227201#notes:Borrowed Time - Grave Robber (Enhanced) + Surrounded -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=402033656,781192741#notes:Borrowed Time - Grave Robber (Enhanced) + Surrounded (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=1631667848,4104185692#notes:Borrowed Time - Grave Robber + Frenzy -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=1631667848,3007133316#notes:Borrowed Time - Grave Robber + Frenzy (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=402033656,4104185692#notes:Borrowed Time - Grave Robber (Enhanced) + Frenzy -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=875848769&perks=402033656,3007133316#notes:Borrowed Time - Grave Robber (Enhanced) + Frenzy (Enhanced) -- Rank 26, Tier E by TheAegisRelic
+dimwishlist:item=1526296434&perks=1631667848,124408337#notes:Forensic Nightmare - Grave Robber + Headstone -- Rank 27, Tier E by TheAegisRelic
+dimwishlist:item=1526296434&perks=1631667848,1171887445#notes:Forensic Nightmare - Grave Robber + Headstone (Enhanced) -- Rank 27, Tier E by TheAegisRelic
+dimwishlist:item=1526296434&perks=402033656,124408337#notes:Forensic Nightmare - Grave Robber (Enhanced) + Headstone -- Rank 27, Tier E by TheAegisRelic
+dimwishlist:item=1526296434&perks=402033656,1171887445#notes:Forensic Nightmare - Grave Robber (Enhanced) + Headstone (Enhanced) -- Rank 27, Tier E by TheAegisRelic
+dimwishlist:item=1526296434&perks=1631667848,4082225868#notes:Forensic Nightmare - Grave Robber + Swashbuckler -- Rank 27, Tier E by TheAegisRelic
+dimwishlist:item=1526296434&perks=1631667848,1161469972#notes:Forensic Nightmare - Grave Robber + Swashbuckler (Enhanced) -- Rank 27, Tier E by TheAegisRelic
+dimwishlist:item=1526296434&perks=402033656,4082225868#notes:Forensic Nightmare - Grave Robber (Enhanced) + Swashbuckler -- Rank 27, Tier E by TheAegisRelic
+dimwishlist:item=1526296434&perks=402033656,1161469972#notes:Forensic Nightmare - Grave Robber (Enhanced) + Swashbuckler (Enhanced) -- Rank 27, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=1820235745,4104185692#notes:Submission (Adept) - Subsistence + Frenzy -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=1820235745,3007133316#notes:Submission (Adept) - Subsistence + Frenzy (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=4245865861,4104185692#notes:Submission (Adept) - Subsistence (Enhanced) + Frenzy -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=4245865861,3007133316#notes:Submission (Adept) - Subsistence (Enhanced) + Frenzy (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=1820235745,4082225868#notes:Submission (Adept) - Subsistence + Swashbuckler -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=1820235745,1161469972#notes:Submission (Adept) - Subsistence + Swashbuckler (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=4245865861,4082225868#notes:Submission (Adept) - Subsistence (Enhanced) + Swashbuckler -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=4245865861,1161469972#notes:Submission (Adept) - Subsistence (Enhanced) + Swashbuckler (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=3643424744,4104185692#notes:Submission (Adept) - Overflow + Frenzy -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=3643424744,3007133316#notes:Submission (Adept) - Overflow + Frenzy (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=2682205016,4104185692#notes:Submission (Adept) - Overflow (Enhanced) + Frenzy -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=2682205016,3007133316#notes:Submission (Adept) - Overflow (Enhanced) + Frenzy (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=3643424744,4082225868#notes:Submission (Adept) - Overflow + Swashbuckler -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=3643424744,1161469972#notes:Submission (Adept) - Overflow + Swashbuckler (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=2682205016,4082225868#notes:Submission (Adept) - Overflow (Enhanced) + Swashbuckler -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=1941816543&perks=2682205016,1161469972#notes:Submission (Adept) - Overflow (Enhanced) + Swashbuckler (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=1820235745,4104185692#notes:Submission - Subsistence + Frenzy -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=1820235745,3007133316#notes:Submission - Subsistence + Frenzy (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=4245865861,4104185692#notes:Submission - Subsistence (Enhanced) + Frenzy -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=4245865861,3007133316#notes:Submission - Subsistence (Enhanced) + Frenzy (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=1820235745,4082225868#notes:Submission - Subsistence + Swashbuckler -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=1820235745,1161469972#notes:Submission - Subsistence + Swashbuckler (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=4245865861,4082225868#notes:Submission - Subsistence (Enhanced) + Swashbuckler -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=4245865861,1161469972#notes:Submission - Subsistence (Enhanced) + Swashbuckler (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=3643424744,4104185692#notes:Submission - Overflow + Frenzy -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=3643424744,3007133316#notes:Submission - Overflow + Frenzy (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=2682205016,4104185692#notes:Submission - Overflow (Enhanced) + Frenzy -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=2682205016,3007133316#notes:Submission - Overflow (Enhanced) + Frenzy (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=3643424744,4082225868#notes:Submission - Overflow + Swashbuckler -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=3643424744,1161469972#notes:Submission - Overflow + Swashbuckler (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=2682205016,4082225868#notes:Submission - Overflow (Enhanced) + Swashbuckler -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3886416794&perks=2682205016,1161469972#notes:Submission - Overflow (Enhanced) + Swashbuckler (Enhanced) -- Rank 28, Tier E by TheAegisRelic
+dimwishlist:item=3341893443&perks=3300816228,4104185692#notes:Funnelweb - Auto-Loading Holster + Frenzy -- Rank 29, Tier E by TheAegisRelic
+dimwishlist:item=3341893443&perks=3300816228,3007133316#notes:Funnelweb - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 29, Tier E by TheAegisRelic
+dimwishlist:item=3341893443&perks=3528046508,4104185692#notes:Funnelweb - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 29, Tier E by TheAegisRelic
+dimwishlist:item=3341893443&perks=3528046508,3007133316#notes:Funnelweb - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 29, Tier E by TheAegisRelic
+dimwishlist:item=3341893443&perks=1820235745,4104185692#notes:Funnelweb - Subsistence + Frenzy -- Rank 29, Tier E by TheAegisRelic
+dimwishlist:item=3341893443&perks=1820235745,3007133316#notes:Funnelweb - Subsistence + Frenzy (Enhanced) -- Rank 29, Tier E by TheAegisRelic
+dimwishlist:item=3341893443&perks=4245865861,4104185692#notes:Funnelweb - Subsistence (Enhanced) + Frenzy -- Rank 29, Tier E by TheAegisRelic
+dimwishlist:item=3341893443&perks=4245865861,3007133316#notes:Funnelweb - Subsistence (Enhanced) + Frenzy (Enhanced) -- Rank 29, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=4071163871,3708227201#notes:Out of Bounds - Threat Detector + Surrounded -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=4071163871,781192741#notes:Out of Bounds - Threat Detector + Surrounded (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=494941759,3708227201#notes:Out of Bounds - Threat Detector (Enhanced) + Surrounded -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=494941759,781192741#notes:Out of Bounds - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=4071163871,4082225868#notes:Out of Bounds - Threat Detector + Swashbuckler -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=4071163871,1161469972#notes:Out of Bounds - Threat Detector + Swashbuckler (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=494941759,4082225868#notes:Out of Bounds - Threat Detector (Enhanced) + Swashbuckler -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=494941759,1161469972#notes:Out of Bounds - Threat Detector (Enhanced) + Swashbuckler (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=3523296417,3708227201#notes:Out of Bounds - Demolitionist + Surrounded -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=3523296417,781192741#notes:Out of Bounds - Demolitionist + Surrounded (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=1906147653,3708227201#notes:Out of Bounds - Demolitionist (Enhanced) + Surrounded -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=1906147653,781192741#notes:Out of Bounds - Demolitionist (Enhanced) + Surrounded (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=3523296417,4082225868#notes:Out of Bounds - Demolitionist + Swashbuckler -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=3523296417,1161469972#notes:Out of Bounds - Demolitionist + Swashbuckler (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=1906147653,4082225868#notes:Out of Bounds - Demolitionist (Enhanced) + Swashbuckler -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=1906147653,1161469972#notes:Out of Bounds - Demolitionist (Enhanced) + Swashbuckler (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=1631667848,3708227201#notes:Out of Bounds - Grave Robber + Surrounded -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=1631667848,781192741#notes:Out of Bounds - Grave Robber + Surrounded (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=402033656,3708227201#notes:Out of Bounds - Grave Robber (Enhanced) + Surrounded -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=402033656,781192741#notes:Out of Bounds - Grave Robber (Enhanced) + Surrounded (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=1631667848,4082225868#notes:Out of Bounds - Grave Robber + Swashbuckler -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=1631667848,1161469972#notes:Out of Bounds - Grave Robber + Swashbuckler (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=402033656,4082225868#notes:Out of Bounds - Grave Robber (Enhanced) + Swashbuckler -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=2988121501&perks=402033656,1161469972#notes:Out of Bounds - Grave Robber (Enhanced) + Swashbuckler (Enhanced) -- Rank 30, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=4071163871,3708227201#notes:Escape Velocity - Threat Detector + Surrounded -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=4071163871,781192741#notes:Escape Velocity - Threat Detector + Surrounded (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=494941759,3708227201#notes:Escape Velocity - Threat Detector (Enhanced) + Surrounded -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=494941759,781192741#notes:Escape Velocity - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=4071163871,1546637391#notes:Escape Velocity - Threat Detector + Vorpal Weapon -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=4071163871,3418165135#notes:Escape Velocity - Threat Detector + Vorpal Weapon (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=494941759,1546637391#notes:Escape Velocity - Threat Detector (Enhanced) + Vorpal Weapon -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=494941759,3418165135#notes:Escape Velocity - Threat Detector (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=1631667848,3708227201#notes:Escape Velocity - Grave Robber + Surrounded -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=1631667848,781192741#notes:Escape Velocity - Grave Robber + Surrounded (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=402033656,3708227201#notes:Escape Velocity - Grave Robber (Enhanced) + Surrounded -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=402033656,781192741#notes:Escape Velocity - Grave Robber (Enhanced) + Surrounded (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=1631667848,1546637391#notes:Escape Velocity - Grave Robber + Vorpal Weapon -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=1631667848,3418165135#notes:Escape Velocity - Grave Robber + Vorpal Weapon (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=402033656,1546637391#notes:Escape Velocity - Grave Robber (Enhanced) + Vorpal Weapon -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1459443448&perks=402033656,3418165135#notes:Escape Velocity - Grave Robber (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=4071163871,3708227201#notes:Escape Velocity - Threat Detector + Surrounded -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=4071163871,781192741#notes:Escape Velocity - Threat Detector + Surrounded (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=494941759,3708227201#notes:Escape Velocity - Threat Detector (Enhanced) + Surrounded -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=494941759,781192741#notes:Escape Velocity - Threat Detector (Enhanced) + Surrounded (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=4071163871,1546637391#notes:Escape Velocity - Threat Detector + Vorpal Weapon -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=4071163871,3418165135#notes:Escape Velocity - Threat Detector + Vorpal Weapon (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=494941759,1546637391#notes:Escape Velocity - Threat Detector (Enhanced) + Vorpal Weapon -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=494941759,3418165135#notes:Escape Velocity - Threat Detector (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=1631667848,3708227201#notes:Escape Velocity - Grave Robber + Surrounded -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=1631667848,781192741#notes:Escape Velocity - Grave Robber + Surrounded (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=402033656,3708227201#notes:Escape Velocity - Grave Robber (Enhanced) + Surrounded -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=402033656,781192741#notes:Escape Velocity - Grave Robber (Enhanced) + Surrounded (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=1631667848,1546637391#notes:Escape Velocity - Grave Robber + Vorpal Weapon -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=1631667848,3418165135#notes:Escape Velocity - Grave Robber + Vorpal Weapon (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=402033656,1546637391#notes:Escape Velocity - Grave Robber (Enhanced) + Vorpal Weapon -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=1786797708&perks=402033656,3418165135#notes:Escape Velocity - Grave Robber (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 31, Tier E by TheAegisRelic
+dimwishlist:item=32287609&perks=691659142,4082225868#notes:Boondoggle Mk. 55 - Pugilist + Swashbuckler -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=32287609&perks=691659142,1161469972#notes:Boondoggle Mk. 55 - Pugilist + Swashbuckler (Enhanced) -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=32287609&perks=536173722,4082225868#notes:Boondoggle Mk. 55 - Pugilist (Enhanced) + Swashbuckler -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=32287609&perks=536173722,1161469972#notes:Boondoggle Mk. 55 - Pugilist (Enhanced) + Swashbuckler (Enhanced) -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=32287609&perks=1820235745,4082225868#notes:Boondoggle Mk. 55 - Subsistence + Swashbuckler -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=32287609&perks=1820235745,1161469972#notes:Boondoggle Mk. 55 - Subsistence + Swashbuckler (Enhanced) -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=32287609&perks=4245865861,4082225868#notes:Boondoggle Mk. 55 - Subsistence (Enhanced) + Swashbuckler -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=32287609&perks=4245865861,1161469972#notes:Boondoggle Mk. 55 - Subsistence (Enhanced) + Swashbuckler (Enhanced) -- Rank 32, Tier E by TheAegisRelic
+dimwishlist:item=1339362514&perks=2779035018,2848615171#notes:Stochastic Variable - Feeding Frenzy + Dragonfly -- Rank 33, Tier F by TheAegisRelic
+dimwishlist:item=1339362514&perks=2779035018,169755979#notes:Stochastic Variable - Feeding Frenzy + Dragonfly (Enhanced) -- Rank 33, Tier F by TheAegisRelic
+dimwishlist:item=1339362514&perks=1171147302,2848615171#notes:Stochastic Variable - Feeding Frenzy (Enhanced) + Dragonfly -- Rank 33, Tier F by TheAegisRelic
+dimwishlist:item=1339362514&perks=1171147302,169755979#notes:Stochastic Variable - Feeding Frenzy (Enhanced) + Dragonfly (Enhanced) -- Rank 33, Tier F by TheAegisRelic
+dimwishlist:item=2272470786&perks=2779035018,2848615171#notes:Stochastic Variable - Feeding Frenzy + Dragonfly -- Rank 33, Tier F by TheAegisRelic
+dimwishlist:item=2272470786&perks=2779035018,169755979#notes:Stochastic Variable - Feeding Frenzy + Dragonfly (Enhanced) -- Rank 33, Tier F by TheAegisRelic
+dimwishlist:item=2272470786&perks=1171147302,2848615171#notes:Stochastic Variable - Feeding Frenzy (Enhanced) + Dragonfly -- Rank 33, Tier F by TheAegisRelic
+dimwishlist:item=2272470786&perks=1171147302,169755979#notes:Stochastic Variable - Feeding Frenzy (Enhanced) + Dragonfly (Enhanced) -- Rank 33, Tier F by TheAegisRelic
+dimwishlist:item=2517599010&perks=2779035018,2848615171#notes:Death Adder - Feeding Frenzy + Dragonfly -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2517599010&perks=2779035018,169755979#notes:Death Adder - Feeding Frenzy + Dragonfly (Enhanced) -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2517599010&perks=1171147302,2848615171#notes:Death Adder - Feeding Frenzy (Enhanced) + Dragonfly -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2517599010&perks=1171147302,169755979#notes:Death Adder - Feeding Frenzy (Enhanced) + Dragonfly (Enhanced) -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2517599010&perks=3300816228,2848615171#notes:Death Adder - Auto-Loading Holster + Dragonfly -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2517599010&perks=3300816228,169755979#notes:Death Adder - Auto-Loading Holster + Dragonfly (Enhanced) -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2517599010&perks=3528046508,2848615171#notes:Death Adder - Auto-Loading Holster (Enhanced) + Dragonfly -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2517599010&perks=3528046508,169755979#notes:Death Adder - Auto-Loading Holster (Enhanced) + Dragonfly (Enhanced) -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2742490609&perks=2779035018,2848615171#notes:Death Adder - Feeding Frenzy + Dragonfly -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2742490609&perks=2779035018,169755979#notes:Death Adder - Feeding Frenzy + Dragonfly (Enhanced) -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2742490609&perks=1171147302,2848615171#notes:Death Adder - Feeding Frenzy (Enhanced) + Dragonfly -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2742490609&perks=1171147302,169755979#notes:Death Adder - Feeding Frenzy (Enhanced) + Dragonfly (Enhanced) -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2742490609&perks=3300816228,2848615171#notes:Death Adder - Auto-Loading Holster + Dragonfly -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2742490609&perks=3300816228,169755979#notes:Death Adder - Auto-Loading Holster + Dragonfly (Enhanced) -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2742490609&perks=3528046508,2848615171#notes:Death Adder - Auto-Loading Holster (Enhanced) + Dragonfly -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=2742490609&perks=3528046508,169755979#notes:Death Adder - Auto-Loading Holster (Enhanced) + Dragonfly (Enhanced) -- Rank 34, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=968510818,124408337#notes:Rapacious Appetite - Envious Assassin + Headstone -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=968510818,1171887445#notes:Rapacious Appetite - Envious Assassin + Headstone (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=424370782,124408337#notes:Rapacious Appetite - Envious Assassin (Enhanced) + Headstone -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=424370782,1171887445#notes:Rapacious Appetite - Envious Assassin (Enhanced) + Headstone (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=968510818,4104185692#notes:Rapacious Appetite - Envious Assassin + Frenzy -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=968510818,3007133316#notes:Rapacious Appetite - Envious Assassin + Frenzy (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=424370782,4104185692#notes:Rapacious Appetite - Envious Assassin (Enhanced) + Frenzy -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=424370782,3007133316#notes:Rapacious Appetite - Envious Assassin (Enhanced) + Frenzy (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=968510818,4049631843#notes:Rapacious Appetite - Envious Assassin + One for All -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=968510818,859780267#notes:Rapacious Appetite - Envious Assassin + One for All (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=424370782,4049631843#notes:Rapacious Appetite - Envious Assassin (Enhanced) + One for All -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=424370782,859780267#notes:Rapacious Appetite - Envious Assassin (Enhanced) + One for All (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=1354429876,124408337#notes:Rapacious Appetite - Fourth Time's the Charm + Headstone -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=1354429876,1171887445#notes:Rapacious Appetite - Fourth Time's the Charm + Headstone (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=848860060,124408337#notes:Rapacious Appetite - Fourth Time's the Charm (Enhanced) + Headstone -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=848860060,1171887445#notes:Rapacious Appetite - Fourth Time's the Charm (Enhanced) + Headstone (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=1354429876,4104185692#notes:Rapacious Appetite - Fourth Time's the Charm + Frenzy -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=1354429876,3007133316#notes:Rapacious Appetite - Fourth Time's the Charm + Frenzy (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=848860060,4104185692#notes:Rapacious Appetite - Fourth Time's the Charm (Enhanced) + Frenzy -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=848860060,3007133316#notes:Rapacious Appetite - Fourth Time's the Charm (Enhanced) + Frenzy (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=1354429876,4049631843#notes:Rapacious Appetite - Fourth Time's the Charm + One for All -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=1354429876,859780267#notes:Rapacious Appetite - Fourth Time's the Charm + One for All (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=848860060,4049631843#notes:Rapacious Appetite - Fourth Time's the Charm (Enhanced) + One for All -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1081724548&perks=848860060,859780267#notes:Rapacious Appetite - Fourth Time's the Charm (Enhanced) + One for All (Enhanced) -- Rank 35, Tier F by TheAegisRelic
+dimwishlist:item=1097616550&perks=3643424744,4104185692#notes:Extraordinary Rendition - Overflow + Frenzy -- Rank 36, Tier F by TheAegisRelic
+dimwishlist:item=1097616550&perks=3643424744,3007133316#notes:Extraordinary Rendition - Overflow + Frenzy (Enhanced) -- Rank 36, Tier F by TheAegisRelic
+dimwishlist:item=1097616550&perks=2682205016,4104185692#notes:Extraordinary Rendition - Overflow (Enhanced) + Frenzy -- Rank 36, Tier F by TheAegisRelic
+dimwishlist:item=1097616550&perks=2682205016,3007133316#notes:Extraordinary Rendition - Overflow (Enhanced) + Frenzy (Enhanced) -- Rank 36, Tier F by TheAegisRelic
+dimwishlist:item=1097616550&perks=1820235745,4104185692#notes:Extraordinary Rendition - Subsistence + Frenzy -- Rank 36, Tier F by TheAegisRelic
+dimwishlist:item=1097616550&perks=1820235745,3007133316#notes:Extraordinary Rendition - Subsistence + Frenzy (Enhanced) -- Rank 36, Tier F by TheAegisRelic
+dimwishlist:item=1097616550&perks=4245865861,4104185692#notes:Extraordinary Rendition - Subsistence (Enhanced) + Frenzy -- Rank 36, Tier F by TheAegisRelic
+dimwishlist:item=1097616550&perks=4245865861,3007133316#notes:Extraordinary Rendition - Subsistence (Enhanced) + Frenzy (Enhanced) -- Rank 36, Tier F by TheAegisRelic
+dimwishlist:item=4100775158&perks=2621346526,4082225868#notes:Pizzicato-22 - Ensemble + Swashbuckler -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=4100775158&perks=2621346526,1161469972#notes:Pizzicato-22 - Ensemble + Swashbuckler (Enhanced) -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=4100775158&perks=2495011826,4082225868#notes:Pizzicato-22 - Ensemble (Enhanced) + Swashbuckler -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=4100775158&perks=2495011826,1161469972#notes:Pizzicato-22 - Ensemble (Enhanced) + Swashbuckler (Enhanced) -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=4100775158&perks=2010801679,4082225868#notes:Pizzicato-22 - Ambitious Assassin + Swashbuckler -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=4100775158&perks=2010801679,1161469972#notes:Pizzicato-22 - Ambitious Assassin + Swashbuckler (Enhanced) -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=4100775158&perks=3797647183,4082225868#notes:Pizzicato-22 - Ambitious Assassin (Enhanced) + Swashbuckler -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=4100775158&perks=3797647183,1161469972#notes:Pizzicato-22 - Ambitious Assassin (Enhanced) + Swashbuckler (Enhanced) -- Rank 37, Tier F by TheAegisRelic
+dimwishlist:item=1601177201&perks=2779035018,3708227201#notes:Enyo-D - Feeding Frenzy + Surrounded -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1601177201&perks=2779035018,781192741#notes:Enyo-D - Feeding Frenzy + Surrounded (Enhanced) -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1601177201&perks=1171147302,3708227201#notes:Enyo-D - Feeding Frenzy (Enhanced) + Surrounded -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1601177201&perks=1171147302,781192741#notes:Enyo-D - Feeding Frenzy (Enhanced) + Surrounded (Enhanced) -- Rank 38, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=4071163871,3425386926#notes:Friction Fire - Threat Detector + Rampage -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=4071163871,288411554#notes:Friction Fire - Threat Detector + Rampage (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=494941759,3425386926#notes:Friction Fire - Threat Detector (Enhanced) + Rampage -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=494941759,288411554#notes:Friction Fire - Threat Detector (Enhanced) + Rampage (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=4071163871,1546637391#notes:Friction Fire - Threat Detector + Vorpal Weapon -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=4071163871,3418165135#notes:Friction Fire - Threat Detector + Vorpal Weapon (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=494941759,1546637391#notes:Friction Fire - Threat Detector (Enhanced) + Vorpal Weapon -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=494941759,3418165135#notes:Friction Fire - Threat Detector (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=3300816228,3425386926#notes:Friction Fire - Auto-Loading Holster + Rampage -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=3300816228,288411554#notes:Friction Fire - Auto-Loading Holster + Rampage (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=3528046508,3425386926#notes:Friction Fire - Auto-Loading Holster (Enhanced) + Rampage -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=3528046508,288411554#notes:Friction Fire - Auto-Loading Holster (Enhanced) + Rampage (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=3300816228,1546637391#notes:Friction Fire - Auto-Loading Holster + Vorpal Weapon -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=3300816228,3418165135#notes:Friction Fire - Auto-Loading Holster + Vorpal Weapon (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=3528046508,1546637391#notes:Friction Fire - Auto-Loading Holster (Enhanced) + Vorpal Weapon -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=1513993763&perks=3528046508,3418165135#notes:Friction Fire - Auto-Loading Holster (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 39, Tier F by TheAegisRelic
+dimwishlist:item=766323545&perks=1354429876,2848615171#notes:Seventh Seraph VY-7 - Fourth Time's the Charm + Dragonfly -- Rank 40, Tier F by TheAegisRelic
+dimwishlist:item=766323545&perks=1354429876,169755979#notes:Seventh Seraph VY-7 - Fourth Time's the Charm + Dragonfly (Enhanced) -- Rank 40, Tier F by TheAegisRelic
+dimwishlist:item=766323545&perks=848860060,2848615171#notes:Seventh Seraph VY-7 - Fourth Time's the Charm (Enhanced) + Dragonfly -- Rank 40, Tier F by TheAegisRelic
+dimwishlist:item=766323545&perks=848860060,169755979#notes:Seventh Seraph VY-7 - Fourth Time's the Charm (Enhanced) + Dragonfly (Enhanced) -- Rank 40, Tier F by TheAegisRelic
+dimwishlist:item=4277547616&perks=1820235745,2848615171#notes:Every Waking Moment - Subsistence + Dragonfly -- Rank 41, Tier F by TheAegisRelic
+dimwishlist:item=4277547616&perks=1820235745,169755979#notes:Every Waking Moment - Subsistence + Dragonfly (Enhanced) -- Rank 41, Tier F by TheAegisRelic
+dimwishlist:item=4277547616&perks=4245865861,2848615171#notes:Every Waking Moment - Subsistence (Enhanced) + Dragonfly -- Rank 41, Tier F by TheAegisRelic
+dimwishlist:item=4277547616&perks=4245865861,169755979#notes:Every Waking Moment - Subsistence (Enhanced) + Dragonfly (Enhanced) -- Rank 41, Tier F by TheAegisRelic
+dimwishlist:item=4277547616&perks=2010801679,2848615171#notes:Every Waking Moment - Ambitious Assassin + Dragonfly -- Rank 41, Tier F by TheAegisRelic
+dimwishlist:item=4277547616&perks=2010801679,169755979#notes:Every Waking Moment - Ambitious Assassin + Dragonfly (Enhanced) -- Rank 41, Tier F by TheAegisRelic
+dimwishlist:item=4277547616&perks=3797647183,2848615171#notes:Every Waking Moment - Ambitious Assassin (Enhanced) + Dragonfly -- Rank 41, Tier F by TheAegisRelic
+dimwishlist:item=4277547616&perks=3797647183,169755979#notes:Every Waking Moment - Ambitious Assassin (Enhanced) + Dragonfly (Enhanced) -- Rank 41, Tier F by TheAegisRelic

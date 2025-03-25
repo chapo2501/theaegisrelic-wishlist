@@ -1,0 +1,1146 @@
+dimwishlist:item=4230965989&perks=1523832109,557221067#notes:Commemoration - Reconstruction + Killing Tally -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=1523832109,2896748467#notes:Commemoration - Reconstruction + Killing Tally (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=461595545,557221067#notes:Commemoration - Reconstruction (Enhanced) + Killing Tally -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=461595545,2896748467#notes:Commemoration - Reconstruction (Enhanced) + Killing Tally (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=1523832109,776531651#notes:Commemoration - Reconstruction + Repulsor Brace -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=1523832109,2541826827#notes:Commemoration - Reconstruction + Repulsor Brace (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=461595545,776531651#notes:Commemoration - Reconstruction (Enhanced) + Repulsor Brace -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=461595545,2541826827#notes:Commemoration - Reconstruction (Enhanced) + Repulsor Brace (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=2848615171,557221067#notes:Commemoration - Dragonfly + Killing Tally -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=2848615171,2896748467#notes:Commemoration - Dragonfly + Killing Tally (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=169755979,557221067#notes:Commemoration - Dragonfly (Enhanced) + Killing Tally -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=169755979,2896748467#notes:Commemoration - Dragonfly (Enhanced) + Killing Tally (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=2848615171,776531651#notes:Commemoration - Dragonfly + Repulsor Brace -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=2848615171,2541826827#notes:Commemoration - Dragonfly + Repulsor Brace (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=169755979,776531651#notes:Commemoration - Dragonfly (Enhanced) + Repulsor Brace -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=169755979,2541826827#notes:Commemoration - Dragonfly (Enhanced) + Repulsor Brace (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=1820235745,557221067#notes:Commemoration - Subsistence + Killing Tally -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=1820235745,2896748467#notes:Commemoration - Subsistence + Killing Tally (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=4245865861,557221067#notes:Commemoration - Subsistence (Enhanced) + Killing Tally -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=4245865861,2896748467#notes:Commemoration - Subsistence (Enhanced) + Killing Tally (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=1820235745,776531651#notes:Commemoration - Subsistence + Repulsor Brace -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=1820235745,2541826827#notes:Commemoration - Subsistence + Repulsor Brace (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=4245865861,776531651#notes:Commemoration - Subsistence (Enhanced) + Repulsor Brace -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=4230965989&perks=4245865861,2541826827#notes:Commemoration - Subsistence (Enhanced) + Repulsor Brace (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=3523296417,2319119708#notes:Song of Ir Yût (Adept) - Demolitionist + High Ground -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=3523296417,2140591236#notes:Song of Ir Yût (Adept) - Demolitionist + High Ground (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=1906147653,2319119708#notes:Song of Ir Yût (Adept) - Demolitionist (Enhanced) + High Ground -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=1906147653,2140591236#notes:Song of Ir Yût (Adept) - Demolitionist (Enhanced) + High Ground (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=3523296417,3078487919#notes:Song of Ir Yût (Adept) - Demolitionist + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=3523296417,3744057135#notes:Song of Ir Yût (Adept) - Demolitionist + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=1906147653,3078487919#notes:Song of Ir Yût (Adept) - Demolitionist (Enhanced) + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=1906147653,3744057135#notes:Song of Ir Yût (Adept) - Demolitionist (Enhanced) + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=1523832109,2319119708#notes:Song of Ir Yût (Adept) - Reconstruction + High Ground -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=1523832109,2140591236#notes:Song of Ir Yût (Adept) - Reconstruction + High Ground (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=461595545,2319119708#notes:Song of Ir Yût (Adept) - Reconstruction (Enhanced) + High Ground -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=461595545,2140591236#notes:Song of Ir Yût (Adept) - Reconstruction (Enhanced) + High Ground (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=1523832109,3078487919#notes:Song of Ir Yût (Adept) - Reconstruction + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=1523832109,3744057135#notes:Song of Ir Yût (Adept) - Reconstruction + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=461595545,3078487919#notes:Song of Ir Yût (Adept) - Reconstruction (Enhanced) + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=407511664&perks=461595545,3744057135#notes:Song of Ir Yût (Adept) - Reconstruction (Enhanced) + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=3523296417,2319119708#notes:Song of Ir Yût - Demolitionist + High Ground -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=3523296417,2140591236#notes:Song of Ir Yût - Demolitionist + High Ground (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=1906147653,2319119708#notes:Song of Ir Yût - Demolitionist (Enhanced) + High Ground -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=1906147653,2140591236#notes:Song of Ir Yût - Demolitionist (Enhanced) + High Ground (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=3523296417,3078487919#notes:Song of Ir Yût - Demolitionist + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=3523296417,3744057135#notes:Song of Ir Yût - Demolitionist + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=1906147653,3078487919#notes:Song of Ir Yût - Demolitionist (Enhanced) + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=1906147653,3744057135#notes:Song of Ir Yût - Demolitionist (Enhanced) + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=1523832109,2319119708#notes:Song of Ir Yût - Reconstruction + High Ground -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=1523832109,2140591236#notes:Song of Ir Yût - Reconstruction + High Ground (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=461595545,2319119708#notes:Song of Ir Yût - Reconstruction (Enhanced) + High Ground -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=461595545,2140591236#notes:Song of Ir Yût - Reconstruction (Enhanced) + High Ground (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=1523832109,3078487919#notes:Song of Ir Yût - Reconstruction + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=1523832109,3744057135#notes:Song of Ir Yût - Reconstruction + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=461595545,3078487919#notes:Song of Ir Yût - Reconstruction (Enhanced) + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=2828278545&perks=461595545,3744057135#notes:Song of Ir Yût - Reconstruction (Enhanced) + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=2048641572,4049631843#notes:Corrective Measure - Destabilizing Rounds + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=2048641572,859780267#notes:Corrective Measure - Destabilizing Rounds + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1926441324,4049631843#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1926441324,859780267#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=2048641572,1464081238#notes:Corrective Measure - Destabilizing Rounds + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=2048641572,2813913866#notes:Corrective Measure - Destabilizing Rounds + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1926441324,1464081238#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1926441324,2813913866#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=2048641572,557221067#notes:Corrective Measure - Destabilizing Rounds + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=2048641572,2896748467#notes:Corrective Measure - Destabilizing Rounds + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1926441324,557221067#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1926441324,2896748467#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1561789734,4049631843#notes:Corrective Measure - Firefly + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1561789734,859780267#notes:Corrective Measure - Firefly + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1183436451,4049631843#notes:Corrective Measure - Firefly (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1183436451,859780267#notes:Corrective Measure - Firefly (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1561789734,1464081238#notes:Corrective Measure - Firefly + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1561789734,2813913866#notes:Corrective Measure - Firefly + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1183436451,1464081238#notes:Corrective Measure - Firefly (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1183436451,2813913866#notes:Corrective Measure - Firefly (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1561789734,557221067#notes:Corrective Measure - Firefly + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1561789734,2896748467#notes:Corrective Measure - Firefly + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1183436451,557221067#notes:Corrective Measure - Firefly (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1183436451,2896748467#notes:Corrective Measure - Firefly (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=3523296417,4049631843#notes:Corrective Measure - Demolitionist + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=3523296417,859780267#notes:Corrective Measure - Demolitionist + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1906147653,4049631843#notes:Corrective Measure - Demolitionist (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1906147653,859780267#notes:Corrective Measure - Demolitionist (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=3523296417,1464081238#notes:Corrective Measure - Demolitionist + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=3523296417,2813913866#notes:Corrective Measure - Demolitionist + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1906147653,1464081238#notes:Corrective Measure - Demolitionist (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1906147653,2813913866#notes:Corrective Measure - Demolitionist (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=3523296417,557221067#notes:Corrective Measure - Demolitionist + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=3523296417,2896748467#notes:Corrective Measure - Demolitionist + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1906147653,557221067#notes:Corrective Measure - Demolitionist (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=471518543&perks=1906147653,2896748467#notes:Corrective Measure - Demolitionist (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=2048641572,4049631843#notes:Corrective Measure (Timelost) - Destabilizing Rounds + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=2048641572,859780267#notes:Corrective Measure (Timelost) - Destabilizing Rounds + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1926441324,4049631843#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1926441324,859780267#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=2048641572,1464081238#notes:Corrective Measure (Timelost) - Destabilizing Rounds + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=2048641572,2813913866#notes:Corrective Measure (Timelost) - Destabilizing Rounds + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1926441324,1464081238#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1926441324,2813913866#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=2048641572,557221067#notes:Corrective Measure (Timelost) - Destabilizing Rounds + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=2048641572,2896748467#notes:Corrective Measure (Timelost) - Destabilizing Rounds + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1926441324,557221067#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1926441324,2896748467#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1561789734,4049631843#notes:Corrective Measure (Timelost) - Firefly + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1561789734,859780267#notes:Corrective Measure (Timelost) - Firefly + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1183436451,4049631843#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1183436451,859780267#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1561789734,1464081238#notes:Corrective Measure (Timelost) - Firefly + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1561789734,2813913866#notes:Corrective Measure (Timelost) - Firefly + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1183436451,1464081238#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1183436451,2813913866#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1561789734,557221067#notes:Corrective Measure (Timelost) - Firefly + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1561789734,2896748467#notes:Corrective Measure (Timelost) - Firefly + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1183436451,557221067#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1183436451,2896748467#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=3523296417,4049631843#notes:Corrective Measure (Timelost) - Demolitionist + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=3523296417,859780267#notes:Corrective Measure (Timelost) - Demolitionist + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1906147653,4049631843#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1906147653,859780267#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=3523296417,1464081238#notes:Corrective Measure (Timelost) - Demolitionist + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=3523296417,2813913866#notes:Corrective Measure (Timelost) - Demolitionist + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1906147653,1464081238#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1906147653,2813913866#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=3523296417,557221067#notes:Corrective Measure (Timelost) - Demolitionist + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=3523296417,2896748467#notes:Corrective Measure (Timelost) - Demolitionist + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1906147653,557221067#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=2334480463&perks=1906147653,2896748467#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=2048641572,4049631843#notes:Corrective Measure - Destabilizing Rounds + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=2048641572,859780267#notes:Corrective Measure - Destabilizing Rounds + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1926441324,4049631843#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1926441324,859780267#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=2048641572,1464081238#notes:Corrective Measure - Destabilizing Rounds + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=2048641572,2813913866#notes:Corrective Measure - Destabilizing Rounds + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1926441324,1464081238#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1926441324,2813913866#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=2048641572,557221067#notes:Corrective Measure - Destabilizing Rounds + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=2048641572,2896748467#notes:Corrective Measure - Destabilizing Rounds + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1926441324,557221067#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1926441324,2896748467#notes:Corrective Measure - Destabilizing Rounds (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1561789734,4049631843#notes:Corrective Measure - Firefly + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1561789734,859780267#notes:Corrective Measure - Firefly + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1183436451,4049631843#notes:Corrective Measure - Firefly (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1183436451,859780267#notes:Corrective Measure - Firefly (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1561789734,1464081238#notes:Corrective Measure - Firefly + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1561789734,2813913866#notes:Corrective Measure - Firefly + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1183436451,1464081238#notes:Corrective Measure - Firefly (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1183436451,2813913866#notes:Corrective Measure - Firefly (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1561789734,557221067#notes:Corrective Measure - Firefly + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1561789734,2896748467#notes:Corrective Measure - Firefly + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1183436451,557221067#notes:Corrective Measure - Firefly (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1183436451,2896748467#notes:Corrective Measure - Firefly (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=3523296417,4049631843#notes:Corrective Measure - Demolitionist + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=3523296417,859780267#notes:Corrective Measure - Demolitionist + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1906147653,4049631843#notes:Corrective Measure - Demolitionist (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1906147653,859780267#notes:Corrective Measure - Demolitionist (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=3523296417,1464081238#notes:Corrective Measure - Demolitionist + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=3523296417,2813913866#notes:Corrective Measure - Demolitionist + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1906147653,1464081238#notes:Corrective Measure - Demolitionist (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1906147653,2813913866#notes:Corrective Measure - Demolitionist (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=3523296417,557221067#notes:Corrective Measure - Demolitionist + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=3523296417,2896748467#notes:Corrective Measure - Demolitionist + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1906147653,557221067#notes:Corrective Measure - Demolitionist (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3654744298&perks=1906147653,2896748467#notes:Corrective Measure - Demolitionist (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=2048641572,4049631843#notes:Corrective Measure (Timelost) - Destabilizing Rounds + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=2048641572,859780267#notes:Corrective Measure (Timelost) - Destabilizing Rounds + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1926441324,4049631843#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1926441324,859780267#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=2048641572,1464081238#notes:Corrective Measure (Timelost) - Destabilizing Rounds + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=2048641572,2813913866#notes:Corrective Measure (Timelost) - Destabilizing Rounds + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1926441324,1464081238#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1926441324,2813913866#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=2048641572,557221067#notes:Corrective Measure (Timelost) - Destabilizing Rounds + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=2048641572,2896748467#notes:Corrective Measure (Timelost) - Destabilizing Rounds + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1926441324,557221067#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1926441324,2896748467#notes:Corrective Measure (Timelost) - Destabilizing Rounds (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1561789734,4049631843#notes:Corrective Measure (Timelost) - Firefly + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1561789734,859780267#notes:Corrective Measure (Timelost) - Firefly + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1183436451,4049631843#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1183436451,859780267#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1561789734,1464081238#notes:Corrective Measure (Timelost) - Firefly + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1561789734,2813913866#notes:Corrective Measure (Timelost) - Firefly + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1183436451,1464081238#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1183436451,2813913866#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1561789734,557221067#notes:Corrective Measure (Timelost) - Firefly + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1561789734,2896748467#notes:Corrective Measure (Timelost) - Firefly + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1183436451,557221067#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1183436451,2896748467#notes:Corrective Measure (Timelost) - Firefly (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=3523296417,4049631843#notes:Corrective Measure (Timelost) - Demolitionist + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=3523296417,859780267#notes:Corrective Measure (Timelost) - Demolitionist + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1906147653,4049631843#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + One for All -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1906147653,859780267#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + One for All (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=3523296417,1464081238#notes:Corrective Measure (Timelost) - Demolitionist + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=3523296417,2813913866#notes:Corrective Measure (Timelost) - Demolitionist + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1906147653,1464081238#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + Demoralize -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1906147653,2813913866#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=3523296417,557221067#notes:Corrective Measure (Timelost) - Demolitionist + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=3523296417,2896748467#notes:Corrective Measure (Timelost) - Demolitionist + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1906147653,557221067#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + Killing Tally -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3796510434&perks=1906147653,2896748467#notes:Corrective Measure (Timelost) - Demolitionist (Enhanced) + Killing Tally (Enhanced) -- Rank 3, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=3523296417,2109543898#notes:Pro Memoria - Demolitionist + Desperate Measures -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=3523296417,2799030358#notes:Pro Memoria - Demolitionist + Desperate Measures (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1906147653,2109543898#notes:Pro Memoria - Demolitionist (Enhanced) + Desperate Measures -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1906147653,2799030358#notes:Pro Memoria - Demolitionist (Enhanced) + Desperate Measures (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=3523296417,3078487919#notes:Pro Memoria - Demolitionist + Bait and Switch -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=3523296417,3744057135#notes:Pro Memoria - Demolitionist + Bait and Switch (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1906147653,3078487919#notes:Pro Memoria - Demolitionist (Enhanced) + Bait and Switch -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1906147653,3744057135#notes:Pro Memoria - Demolitionist (Enhanced) + Bait and Switch (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=3523296417,2848615171#notes:Pro Memoria - Demolitionist + Dragonfly -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=3523296417,169755979#notes:Pro Memoria - Demolitionist + Dragonfly (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1906147653,2848615171#notes:Pro Memoria - Demolitionist (Enhanced) + Dragonfly -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1906147653,169755979#notes:Pro Memoria - Demolitionist (Enhanced) + Dragonfly (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1523832109,2109543898#notes:Pro Memoria - Reconstruction + Desperate Measures -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1523832109,2799030358#notes:Pro Memoria - Reconstruction + Desperate Measures (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=461595545,2109543898#notes:Pro Memoria - Reconstruction (Enhanced) + Desperate Measures -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=461595545,2799030358#notes:Pro Memoria - Reconstruction (Enhanced) + Desperate Measures (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1523832109,3078487919#notes:Pro Memoria - Reconstruction + Bait and Switch -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1523832109,3744057135#notes:Pro Memoria - Reconstruction + Bait and Switch (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=461595545,3078487919#notes:Pro Memoria - Reconstruction (Enhanced) + Bait and Switch -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=461595545,3744057135#notes:Pro Memoria - Reconstruction (Enhanced) + Bait and Switch (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1523832109,2848615171#notes:Pro Memoria - Reconstruction + Dragonfly -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=1523832109,169755979#notes:Pro Memoria - Reconstruction + Dragonfly (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=461595545,2848615171#notes:Pro Memoria - Reconstruction (Enhanced) + Dragonfly -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=461595545,169755979#notes:Pro Memoria - Reconstruction (Enhanced) + Dragonfly (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=831391274,2109543898#notes:Pro Memoria - Hatchling + Desperate Measures -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=831391274,2799030358#notes:Pro Memoria - Hatchling + Desperate Measures (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=102912326,2109543898#notes:Pro Memoria - Hatchling (Enhanced) + Desperate Measures -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=102912326,2799030358#notes:Pro Memoria - Hatchling (Enhanced) + Desperate Measures (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=831391274,3078487919#notes:Pro Memoria - Hatchling + Bait and Switch -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=831391274,3744057135#notes:Pro Memoria - Hatchling + Bait and Switch (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=102912326,3078487919#notes:Pro Memoria - Hatchling (Enhanced) + Bait and Switch -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=102912326,3744057135#notes:Pro Memoria - Hatchling (Enhanced) + Bait and Switch (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=831391274,2848615171#notes:Pro Memoria - Hatchling + Dragonfly -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=831391274,169755979#notes:Pro Memoria - Hatchling + Dragonfly (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=102912326,2848615171#notes:Pro Memoria - Hatchling (Enhanced) + Dragonfly -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=3605603507&perks=102912326,169755979#notes:Pro Memoria - Hatchling (Enhanced) + Dragonfly (Enhanced) -- Rank 4, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2048641572,557221067#notes:Hammerhead - Destabilizing Rounds + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2048641572,2896748467#notes:Hammerhead - Destabilizing Rounds + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1926441324,557221067#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1926441324,2896748467#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2048641572,2109543898#notes:Hammerhead - Destabilizing Rounds + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2048641572,2799030358#notes:Hammerhead - Destabilizing Rounds + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1926441324,2109543898#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1926441324,2799030358#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2048641572,95528736#notes:Hammerhead - Destabilizing Rounds + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2048641572,956288240#notes:Hammerhead - Destabilizing Rounds + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1926441324,95528736#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1926441324,956288240#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2578928832,557221067#notes:Hammerhead - Rewind Rounds + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2578928832,2896748467#notes:Hammerhead - Rewind Rounds + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1563455254,557221067#notes:Hammerhead - Rewind Rounds (Enhanced) + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1563455254,2896748467#notes:Hammerhead - Rewind Rounds (Enhanced) + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2578928832,2109543898#notes:Hammerhead - Rewind Rounds + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2578928832,2799030358#notes:Hammerhead - Rewind Rounds + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1563455254,2109543898#notes:Hammerhead - Rewind Rounds (Enhanced) + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1563455254,2799030358#notes:Hammerhead - Rewind Rounds (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2578928832,95528736#notes:Hammerhead - Rewind Rounds + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=2578928832,956288240#notes:Hammerhead - Rewind Rounds + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1563455254,95528736#notes:Hammerhead - Rewind Rounds (Enhanced) + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1563455254,956288240#notes:Hammerhead - Rewind Rounds (Enhanced) + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1354429876,557221067#notes:Hammerhead - Fourth Time's the Charm + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1354429876,2896748467#notes:Hammerhead - Fourth Time's the Charm + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=848860060,557221067#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=848860060,2896748467#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1354429876,2109543898#notes:Hammerhead - Fourth Time's the Charm + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1354429876,2799030358#notes:Hammerhead - Fourth Time's the Charm + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=848860060,2109543898#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=848860060,2799030358#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1354429876,95528736#notes:Hammerhead - Fourth Time's the Charm + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=1354429876,956288240#notes:Hammerhead - Fourth Time's the Charm + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=848860060,95528736#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=211732170&perks=848860060,956288240#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2048641572,557221067#notes:Hammerhead - Destabilizing Rounds + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2048641572,2896748467#notes:Hammerhead - Destabilizing Rounds + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1926441324,557221067#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1926441324,2896748467#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2048641572,2109543898#notes:Hammerhead - Destabilizing Rounds + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2048641572,2799030358#notes:Hammerhead - Destabilizing Rounds + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1926441324,2109543898#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1926441324,2799030358#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2048641572,95528736#notes:Hammerhead - Destabilizing Rounds + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2048641572,956288240#notes:Hammerhead - Destabilizing Rounds + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1926441324,95528736#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1926441324,956288240#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2578928832,557221067#notes:Hammerhead - Rewind Rounds + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2578928832,2896748467#notes:Hammerhead - Rewind Rounds + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1563455254,557221067#notes:Hammerhead - Rewind Rounds (Enhanced) + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1563455254,2896748467#notes:Hammerhead - Rewind Rounds (Enhanced) + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2578928832,2109543898#notes:Hammerhead - Rewind Rounds + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2578928832,2799030358#notes:Hammerhead - Rewind Rounds + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1563455254,2109543898#notes:Hammerhead - Rewind Rounds (Enhanced) + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1563455254,2799030358#notes:Hammerhead - Rewind Rounds (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2578928832,95528736#notes:Hammerhead - Rewind Rounds + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=2578928832,956288240#notes:Hammerhead - Rewind Rounds + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1563455254,95528736#notes:Hammerhead - Rewind Rounds (Enhanced) + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1563455254,956288240#notes:Hammerhead - Rewind Rounds (Enhanced) + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1354429876,557221067#notes:Hammerhead - Fourth Time's the Charm + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1354429876,2896748467#notes:Hammerhead - Fourth Time's the Charm + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=848860060,557221067#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=848860060,2896748467#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1354429876,2109543898#notes:Hammerhead - Fourth Time's the Charm + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1354429876,2799030358#notes:Hammerhead - Fourth Time's the Charm + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=848860060,2109543898#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=848860060,2799030358#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1354429876,95528736#notes:Hammerhead - Fourth Time's the Charm + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=1354429876,956288240#notes:Hammerhead - Fourth Time's the Charm + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=848860060,95528736#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=603242241&perks=848860060,956288240#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2048641572,557221067#notes:Hammerhead - Destabilizing Rounds + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2048641572,2896748467#notes:Hammerhead - Destabilizing Rounds + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1926441324,557221067#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1926441324,2896748467#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2048641572,2109543898#notes:Hammerhead - Destabilizing Rounds + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2048641572,2799030358#notes:Hammerhead - Destabilizing Rounds + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1926441324,2109543898#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1926441324,2799030358#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2048641572,95528736#notes:Hammerhead - Destabilizing Rounds + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2048641572,956288240#notes:Hammerhead - Destabilizing Rounds + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1926441324,95528736#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1926441324,956288240#notes:Hammerhead - Destabilizing Rounds (Enhanced) + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2578928832,557221067#notes:Hammerhead - Rewind Rounds + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2578928832,2896748467#notes:Hammerhead - Rewind Rounds + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1563455254,557221067#notes:Hammerhead - Rewind Rounds (Enhanced) + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1563455254,2896748467#notes:Hammerhead - Rewind Rounds (Enhanced) + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2578928832,2109543898#notes:Hammerhead - Rewind Rounds + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2578928832,2799030358#notes:Hammerhead - Rewind Rounds + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1563455254,2109543898#notes:Hammerhead - Rewind Rounds (Enhanced) + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1563455254,2799030358#notes:Hammerhead - Rewind Rounds (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2578928832,95528736#notes:Hammerhead - Rewind Rounds + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=2578928832,956288240#notes:Hammerhead - Rewind Rounds + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1563455254,95528736#notes:Hammerhead - Rewind Rounds (Enhanced) + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1563455254,956288240#notes:Hammerhead - Rewind Rounds (Enhanced) + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1354429876,557221067#notes:Hammerhead - Fourth Time's the Charm + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1354429876,2896748467#notes:Hammerhead - Fourth Time's the Charm + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=848860060,557221067#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Killing Tally -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=848860060,2896748467#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Killing Tally (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1354429876,2109543898#notes:Hammerhead - Fourth Time's the Charm + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1354429876,2799030358#notes:Hammerhead - Fourth Time's the Charm + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=848860060,2109543898#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Desperate Measures -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=848860060,2799030358#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1354429876,95528736#notes:Hammerhead - Fourth Time's the Charm + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=1354429876,956288240#notes:Hammerhead - Fourth Time's the Charm + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=848860060,95528736#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Onslaught -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=1896309757&perks=848860060,956288240#notes:Hammerhead - Fourth Time's the Charm (Enhanced) + Onslaught (Enhanced) -- Rank 5, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=3643424744,3966416502#notes:Watchful Eye (Adept) - Overflow + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=3643424744,717070634#notes:Watchful Eye (Adept) - Overflow + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2682205016,3966416502#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2682205016,717070634#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=3643424744,557221067#notes:Watchful Eye (Adept) - Overflow + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=3643424744,2896748467#notes:Watchful Eye (Adept) - Overflow + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2682205016,557221067#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2682205016,2896748467#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=3643424744,3218042543#notes:Watchful Eye (Adept) - Overflow + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=3643424744,2633604463#notes:Watchful Eye (Adept) - Overflow + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2682205016,3218042543#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2682205016,2633604463#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=777589559,3966416502#notes:Watchful Eye (Adept) - Field Prep + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=777589559,717070634#notes:Watchful Eye (Adept) - Field Prep + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2308090567,3966416502#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2308090567,717070634#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=777589559,557221067#notes:Watchful Eye (Adept) - Field Prep + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=777589559,2896748467#notes:Watchful Eye (Adept) - Field Prep + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2308090567,557221067#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2308090567,2896748467#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=777589559,3218042543#notes:Watchful Eye (Adept) - Field Prep + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=777589559,2633604463#notes:Watchful Eye (Adept) - Field Prep + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2308090567,3218042543#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=737409399&perks=2308090567,2633604463#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=3643424744,3966416502#notes:Watchful Eye - Overflow + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=3643424744,717070634#notes:Watchful Eye - Overflow + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2682205016,3966416502#notes:Watchful Eye - Overflow (Enhanced) + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2682205016,717070634#notes:Watchful Eye - Overflow (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=3643424744,557221067#notes:Watchful Eye - Overflow + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=3643424744,2896748467#notes:Watchful Eye - Overflow + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2682205016,557221067#notes:Watchful Eye - Overflow (Enhanced) + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2682205016,2896748467#notes:Watchful Eye - Overflow (Enhanced) + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=3643424744,3218042543#notes:Watchful Eye - Overflow + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=3643424744,2633604463#notes:Watchful Eye - Overflow + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2682205016,3218042543#notes:Watchful Eye - Overflow (Enhanced) + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2682205016,2633604463#notes:Watchful Eye - Overflow (Enhanced) + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=777589559,3966416502#notes:Watchful Eye - Field Prep + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=777589559,717070634#notes:Watchful Eye - Field Prep + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2308090567,3966416502#notes:Watchful Eye - Field Prep (Enhanced) + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2308090567,717070634#notes:Watchful Eye - Field Prep (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=777589559,557221067#notes:Watchful Eye - Field Prep + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=777589559,2896748467#notes:Watchful Eye - Field Prep + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2308090567,557221067#notes:Watchful Eye - Field Prep (Enhanced) + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2308090567,2896748467#notes:Watchful Eye - Field Prep (Enhanced) + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=777589559,3218042543#notes:Watchful Eye - Field Prep + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=777589559,2633604463#notes:Watchful Eye - Field Prep + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2308090567,3218042543#notes:Watchful Eye - Field Prep (Enhanced) + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=768610585&perks=2308090567,2633604463#notes:Watchful Eye - Field Prep (Enhanced) + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=3643424744,3966416502#notes:Watchful Eye - Overflow + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=3643424744,717070634#notes:Watchful Eye - Overflow + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2682205016,3966416502#notes:Watchful Eye - Overflow (Enhanced) + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2682205016,717070634#notes:Watchful Eye - Overflow (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=3643424744,557221067#notes:Watchful Eye - Overflow + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=3643424744,2896748467#notes:Watchful Eye - Overflow + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2682205016,557221067#notes:Watchful Eye - Overflow (Enhanced) + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2682205016,2896748467#notes:Watchful Eye - Overflow (Enhanced) + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=3643424744,3218042543#notes:Watchful Eye - Overflow + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=3643424744,2633604463#notes:Watchful Eye - Overflow + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2682205016,3218042543#notes:Watchful Eye - Overflow (Enhanced) + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2682205016,2633604463#notes:Watchful Eye - Overflow (Enhanced) + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=777589559,3966416502#notes:Watchful Eye - Field Prep + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=777589559,717070634#notes:Watchful Eye - Field Prep + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2308090567,3966416502#notes:Watchful Eye - Field Prep (Enhanced) + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2308090567,717070634#notes:Watchful Eye - Field Prep (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=777589559,557221067#notes:Watchful Eye - Field Prep + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=777589559,2896748467#notes:Watchful Eye - Field Prep + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2308090567,557221067#notes:Watchful Eye - Field Prep (Enhanced) + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2308090567,2896748467#notes:Watchful Eye - Field Prep (Enhanced) + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=777589559,3218042543#notes:Watchful Eye - Field Prep + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=777589559,2633604463#notes:Watchful Eye - Field Prep + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2308090567,3218042543#notes:Watchful Eye - Field Prep (Enhanced) + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=1757177186&perks=2308090567,2633604463#notes:Watchful Eye - Field Prep (Enhanced) + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=3643424744,3966416502#notes:Watchful Eye (Adept) - Overflow + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=3643424744,717070634#notes:Watchful Eye (Adept) - Overflow + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2682205016,3966416502#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2682205016,717070634#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=3643424744,557221067#notes:Watchful Eye (Adept) - Overflow + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=3643424744,2896748467#notes:Watchful Eye (Adept) - Overflow + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2682205016,557221067#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2682205016,2896748467#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=3643424744,3218042543#notes:Watchful Eye (Adept) - Overflow + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=3643424744,2633604463#notes:Watchful Eye (Adept) - Overflow + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2682205016,3218042543#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2682205016,2633604463#notes:Watchful Eye (Adept) - Overflow (Enhanced) + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=777589559,3966416502#notes:Watchful Eye (Adept) - Field Prep + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=777589559,717070634#notes:Watchful Eye (Adept) - Field Prep + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2308090567,3966416502#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Jolting Feedback -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2308090567,717070634#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=777589559,557221067#notes:Watchful Eye (Adept) - Field Prep + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=777589559,2896748467#notes:Watchful Eye (Adept) - Field Prep + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2308090567,557221067#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Killing Tally -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2308090567,2896748467#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Killing Tally (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=777589559,3218042543#notes:Watchful Eye (Adept) - Field Prep + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=777589559,2633604463#notes:Watchful Eye (Adept) - Field Prep + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2308090567,3218042543#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Rolling Storm -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=2856225832&perks=2308090567,2633604463#notes:Watchful Eye (Adept) - Field Prep (Enhanced) + Rolling Storm (Enhanced) -- Rank 6, Tier S by TheAegisRelic
+dimwishlist:item=66875353&perks=3300816228,4293542123#notes:Avalanche - Auto-Loading Holster + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=3300816228,2675184851#notes:Avalanche - Auto-Loading Holster + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=3528046508,4293542123#notes:Avalanche - Auto-Loading Holster (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=3528046508,2675184851#notes:Avalanche - Auto-Loading Holster (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=3300816228,3751912585#notes:Avalanche - Auto-Loading Holster + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=3300816228,331667533#notes:Avalanche - Auto-Loading Holster + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=3528046508,3751912585#notes:Avalanche - Auto-Loading Holster (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=3528046508,331667533#notes:Avalanche - Auto-Loading Holster (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=1820235745,4293542123#notes:Avalanche - Subsistence + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=1820235745,2675184851#notes:Avalanche - Subsistence + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=4245865861,4293542123#notes:Avalanche - Subsistence (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=4245865861,2675184851#notes:Avalanche - Subsistence (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=1820235745,3751912585#notes:Avalanche - Subsistence + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=1820235745,331667533#notes:Avalanche - Subsistence + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=4245865861,3751912585#notes:Avalanche - Subsistence (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=4245865861,331667533#notes:Avalanche - Subsistence (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=2848615171,4293542123#notes:Avalanche - Dragonfly + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=2848615171,2675184851#notes:Avalanche - Dragonfly + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=169755979,4293542123#notes:Avalanche - Dragonfly (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=169755979,2675184851#notes:Avalanche - Dragonfly (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=2848615171,3751912585#notes:Avalanche - Dragonfly + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=2848615171,331667533#notes:Avalanche - Dragonfly + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=169755979,3751912585#notes:Avalanche - Dragonfly (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=66875353&perks=169755979,331667533#notes:Avalanche - Dragonfly (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=3300816228,4293542123#notes:Avalanche - Auto-Loading Holster + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=3300816228,2675184851#notes:Avalanche - Auto-Loading Holster + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=3528046508,4293542123#notes:Avalanche - Auto-Loading Holster (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=3528046508,2675184851#notes:Avalanche - Auto-Loading Holster (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=3300816228,3751912585#notes:Avalanche - Auto-Loading Holster + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=3300816228,331667533#notes:Avalanche - Auto-Loading Holster + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=3528046508,3751912585#notes:Avalanche - Auto-Loading Holster (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=3528046508,331667533#notes:Avalanche - Auto-Loading Holster (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=1820235745,4293542123#notes:Avalanche - Subsistence + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=1820235745,2675184851#notes:Avalanche - Subsistence + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=4245865861,4293542123#notes:Avalanche - Subsistence (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=4245865861,2675184851#notes:Avalanche - Subsistence (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=1820235745,3751912585#notes:Avalanche - Subsistence + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=1820235745,331667533#notes:Avalanche - Subsistence + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=4245865861,3751912585#notes:Avalanche - Subsistence (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=4245865861,331667533#notes:Avalanche - Subsistence (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=2848615171,4293542123#notes:Avalanche - Dragonfly + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=2848615171,2675184851#notes:Avalanche - Dragonfly + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=169755979,4293542123#notes:Avalanche - Dragonfly (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=169755979,2675184851#notes:Avalanche - Dragonfly (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=2848615171,3751912585#notes:Avalanche - Dragonfly + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=2848615171,331667533#notes:Avalanche - Dragonfly + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=169755979,3751912585#notes:Avalanche - Dragonfly (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=495940989&perks=169755979,331667533#notes:Avalanche - Dragonfly (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=3300816228,4293542123#notes:Avalanche - Auto-Loading Holster + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=3300816228,2675184851#notes:Avalanche - Auto-Loading Holster + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=3528046508,4293542123#notes:Avalanche - Auto-Loading Holster (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=3528046508,2675184851#notes:Avalanche - Auto-Loading Holster (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=3300816228,3751912585#notes:Avalanche - Auto-Loading Holster + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=3300816228,331667533#notes:Avalanche - Auto-Loading Holster + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=3528046508,3751912585#notes:Avalanche - Auto-Loading Holster (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=3528046508,331667533#notes:Avalanche - Auto-Loading Holster (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=1820235745,4293542123#notes:Avalanche - Subsistence + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=1820235745,2675184851#notes:Avalanche - Subsistence + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=4245865861,4293542123#notes:Avalanche - Subsistence (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=4245865861,2675184851#notes:Avalanche - Subsistence (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=1820235745,3751912585#notes:Avalanche - Subsistence + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=1820235745,331667533#notes:Avalanche - Subsistence + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=4245865861,3751912585#notes:Avalanche - Subsistence (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=4245865861,331667533#notes:Avalanche - Subsistence (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=2848615171,4293542123#notes:Avalanche - Dragonfly + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=2848615171,2675184851#notes:Avalanche - Dragonfly + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=169755979,4293542123#notes:Avalanche - Dragonfly (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=169755979,2675184851#notes:Avalanche - Dragonfly (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=2848615171,3751912585#notes:Avalanche - Dragonfly + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=2848615171,331667533#notes:Avalanche - Dragonfly + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=169755979,3751912585#notes:Avalanche - Dragonfly (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1845978721&perks=169755979,331667533#notes:Avalanche - Dragonfly (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=3300816228,4293542123#notes:Avalanche - Auto-Loading Holster + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=3300816228,2675184851#notes:Avalanche - Auto-Loading Holster + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=3528046508,4293542123#notes:Avalanche - Auto-Loading Holster (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=3528046508,2675184851#notes:Avalanche - Auto-Loading Holster (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=3300816228,3751912585#notes:Avalanche - Auto-Loading Holster + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=3300816228,331667533#notes:Avalanche - Auto-Loading Holster + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=3528046508,3751912585#notes:Avalanche - Auto-Loading Holster (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=3528046508,331667533#notes:Avalanche - Auto-Loading Holster (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=1820235745,4293542123#notes:Avalanche - Subsistence + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=1820235745,2675184851#notes:Avalanche - Subsistence + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=4245865861,4293542123#notes:Avalanche - Subsistence (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=4245865861,2675184851#notes:Avalanche - Subsistence (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=1820235745,3751912585#notes:Avalanche - Subsistence + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=1820235745,331667533#notes:Avalanche - Subsistence + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=4245865861,3751912585#notes:Avalanche - Subsistence (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=4245865861,331667533#notes:Avalanche - Subsistence (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=2848615171,4293542123#notes:Avalanche - Dragonfly + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=2848615171,2675184851#notes:Avalanche - Dragonfly + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=169755979,4293542123#notes:Avalanche - Dragonfly (Enhanced) + Incandescent -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=169755979,2675184851#notes:Avalanche - Dragonfly (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=2848615171,3751912585#notes:Avalanche - Dragonfly + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=2848615171,331667533#notes:Avalanche - Dragonfly + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=169755979,3751912585#notes:Avalanche - Dragonfly (Enhanced) + Cascade Point -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=4220529694&perks=169755979,331667533#notes:Avalanche - Dragonfly (Enhanced) + Cascade Point (Enhanced) -- Rank 7, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1421772400,124408337#notes:Archon's Thunder - Air Trigger + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1421772400,1171887445#notes:Archon's Thunder - Air Trigger + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=3291427296,124408337#notes:Archon's Thunder - Air Trigger (Enhanced) + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=3291427296,1171887445#notes:Archon's Thunder - Air Trigger (Enhanced) + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1421772400,2109543898#notes:Archon's Thunder - Air Trigger + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1421772400,2799030358#notes:Archon's Thunder - Air Trigger + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=3291427296,2109543898#notes:Archon's Thunder - Air Trigger (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=3291427296,2799030358#notes:Archon's Thunder - Air Trigger (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1421772400,557221067#notes:Archon's Thunder - Air Trigger + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1421772400,2896748467#notes:Archon's Thunder - Air Trigger + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=3291427296,557221067#notes:Archon's Thunder - Air Trigger (Enhanced) + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=3291427296,2896748467#notes:Archon's Thunder - Air Trigger (Enhanced) + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1955165503,124408337#notes:Archon's Thunder - Rimestealer + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1955165503,1171887445#notes:Archon's Thunder - Rimestealer + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=2617553311,124408337#notes:Archon's Thunder - Rimestealer (Enhanced) + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=2617553311,1171887445#notes:Archon's Thunder - Rimestealer (Enhanced) + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1955165503,2109543898#notes:Archon's Thunder - Rimestealer + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1955165503,2799030358#notes:Archon's Thunder - Rimestealer + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=2617553311,2109543898#notes:Archon's Thunder - Rimestealer (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=2617553311,2799030358#notes:Archon's Thunder - Rimestealer (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1955165503,557221067#notes:Archon's Thunder - Rimestealer + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1955165503,2896748467#notes:Archon's Thunder - Rimestealer + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=2617553311,557221067#notes:Archon's Thunder - Rimestealer (Enhanced) + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=2617553311,2896748467#notes:Archon's Thunder - Rimestealer (Enhanced) + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1354429876,124408337#notes:Archon's Thunder - Fourth Time's the Charm + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1354429876,1171887445#notes:Archon's Thunder - Fourth Time's the Charm + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=848860060,124408337#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=848860060,1171887445#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1354429876,2109543898#notes:Archon's Thunder - Fourth Time's the Charm + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1354429876,2799030358#notes:Archon's Thunder - Fourth Time's the Charm + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=848860060,2109543898#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=848860060,2799030358#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1354429876,557221067#notes:Archon's Thunder - Fourth Time's the Charm + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=1354429876,2896748467#notes:Archon's Thunder - Fourth Time's the Charm + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=848860060,557221067#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=1967303408&perks=848860060,2896748467#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1421772400,124408337#notes:Archon's Thunder - Air Trigger + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1421772400,1171887445#notes:Archon's Thunder - Air Trigger + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=3291427296,124408337#notes:Archon's Thunder - Air Trigger (Enhanced) + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=3291427296,1171887445#notes:Archon's Thunder - Air Trigger (Enhanced) + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1421772400,2109543898#notes:Archon's Thunder - Air Trigger + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1421772400,2799030358#notes:Archon's Thunder - Air Trigger + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=3291427296,2109543898#notes:Archon's Thunder - Air Trigger (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=3291427296,2799030358#notes:Archon's Thunder - Air Trigger (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1421772400,557221067#notes:Archon's Thunder - Air Trigger + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1421772400,2896748467#notes:Archon's Thunder - Air Trigger + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=3291427296,557221067#notes:Archon's Thunder - Air Trigger (Enhanced) + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=3291427296,2896748467#notes:Archon's Thunder - Air Trigger (Enhanced) + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1955165503,124408337#notes:Archon's Thunder - Rimestealer + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1955165503,1171887445#notes:Archon's Thunder - Rimestealer + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=2617553311,124408337#notes:Archon's Thunder - Rimestealer (Enhanced) + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=2617553311,1171887445#notes:Archon's Thunder - Rimestealer (Enhanced) + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1955165503,2109543898#notes:Archon's Thunder - Rimestealer + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1955165503,2799030358#notes:Archon's Thunder - Rimestealer + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=2617553311,2109543898#notes:Archon's Thunder - Rimestealer (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=2617553311,2799030358#notes:Archon's Thunder - Rimestealer (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1955165503,557221067#notes:Archon's Thunder - Rimestealer + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1955165503,2896748467#notes:Archon's Thunder - Rimestealer + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=2617553311,557221067#notes:Archon's Thunder - Rimestealer (Enhanced) + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=2617553311,2896748467#notes:Archon's Thunder - Rimestealer (Enhanced) + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1354429876,124408337#notes:Archon's Thunder - Fourth Time's the Charm + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1354429876,1171887445#notes:Archon's Thunder - Fourth Time's the Charm + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=848860060,124408337#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Headstone -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=848860060,1171887445#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Headstone (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1354429876,2109543898#notes:Archon's Thunder - Fourth Time's the Charm + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1354429876,2799030358#notes:Archon's Thunder - Fourth Time's the Charm + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=848860060,2109543898#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Desperate Measures -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=848860060,2799030358#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Desperate Measures (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1354429876,557221067#notes:Archon's Thunder - Fourth Time's the Charm + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=1354429876,2896748467#notes:Archon's Thunder - Fourth Time's the Charm + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=848860060,557221067#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Killing Tally -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=2896109856&perks=848860060,2896748467#notes:Archon's Thunder - Fourth Time's the Charm (Enhanced) + Killing Tally (Enhanced) -- Rank 8, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=968510818,4293542123#notes:Speleologist - Envious Assassin + Incandescent -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=968510818,2675184851#notes:Speleologist - Envious Assassin + Incandescent (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=424370782,4293542123#notes:Speleologist - Envious Assassin (Enhanced) + Incandescent -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=424370782,2675184851#notes:Speleologist - Envious Assassin (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=968510818,557221067#notes:Speleologist - Envious Assassin + Killing Tally -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=968510818,2896748467#notes:Speleologist - Envious Assassin + Killing Tally (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=424370782,557221067#notes:Speleologist - Envious Assassin (Enhanced) + Killing Tally -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=424370782,2896748467#notes:Speleologist - Envious Assassin (Enhanced) + Killing Tally (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=968510818,4049631843#notes:Speleologist - Envious Assassin + One For All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=968510818,859780267#notes:Speleologist - Envious Assassin + One For All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=424370782,4049631843#notes:Speleologist - Envious Assassin (Enhanced) + One For All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=424370782,859780267#notes:Speleologist - Envious Assassin (Enhanced) + One For All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=3017780555,4293542123#notes:Speleologist - Heal Clip + Incandescent -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=3017780555,2675184851#notes:Speleologist - Heal Clip + Incandescent (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=4223976499,4293542123#notes:Speleologist - Heal Clip (Enhanced) + Incandescent -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=4223976499,2675184851#notes:Speleologist - Heal Clip (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=3017780555,557221067#notes:Speleologist - Heal Clip + Killing Tally -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=3017780555,2896748467#notes:Speleologist - Heal Clip + Killing Tally (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=4223976499,557221067#notes:Speleologist - Heal Clip (Enhanced) + Killing Tally -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=4223976499,2896748467#notes:Speleologist - Heal Clip (Enhanced) + Killing Tally (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=3017780555,4049631843#notes:Speleologist - Heal Clip + One For All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=3017780555,859780267#notes:Speleologist - Heal Clip + One For All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=4223976499,4049631843#notes:Speleologist - Heal Clip (Enhanced) + One For All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=4223976499,859780267#notes:Speleologist - Heal Clip (Enhanced) + One For All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=1164602481,4293542123#notes:Speleologist - Deconstruct + Incandescent -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=1164602481,2675184851#notes:Speleologist - Deconstruct + Incandescent (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=1164602481,557221067#notes:Speleologist - Deconstruct + Killing Tally -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=1164602481,2896748467#notes:Speleologist - Deconstruct + Killing Tally (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=1164602481,4049631843#notes:Speleologist - Deconstruct + One For All -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=412251536&perks=1164602481,859780267#notes:Speleologist - Deconstruct + One For All (Enhanced) -- Rank 9, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3300816228,4293542123#notes:Unwavering Duty - Auto-Loading Holster + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3300816228,2675184851#notes:Unwavering Duty - Auto-Loading Holster + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3528046508,4293542123#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3528046508,2675184851#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3300816228,557221067#notes:Unwavering Duty - Auto-Loading Holster + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3300816228,2896748467#notes:Unwavering Duty - Auto-Loading Holster + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3528046508,557221067#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3528046508,2896748467#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3300816228,3751912585#notes:Unwavering Duty - Auto-Loading Holster + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3300816228,331667533#notes:Unwavering Duty - Auto-Loading Holster + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3528046508,3751912585#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=3528046508,331667533#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=1820235745,4293542123#notes:Unwavering Duty - Subsistence + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=1820235745,2675184851#notes:Unwavering Duty - Subsistence + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=4245865861,4293542123#notes:Unwavering Duty - Subsistence (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=4245865861,2675184851#notes:Unwavering Duty - Subsistence (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=1820235745,557221067#notes:Unwavering Duty - Subsistence + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=1820235745,2896748467#notes:Unwavering Duty - Subsistence + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=4245865861,557221067#notes:Unwavering Duty - Subsistence (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=4245865861,2896748467#notes:Unwavering Duty - Subsistence (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=1820235745,3751912585#notes:Unwavering Duty - Subsistence + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=1820235745,331667533#notes:Unwavering Duty - Subsistence + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=4245865861,3751912585#notes:Unwavering Duty - Subsistence (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=4245865861,331667533#notes:Unwavering Duty - Subsistence (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=777589559,4293542123#notes:Unwavering Duty - Field Prep + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=777589559,2675184851#notes:Unwavering Duty - Field Prep + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=2308090567,4293542123#notes:Unwavering Duty - Field Prep (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=2308090567,2675184851#notes:Unwavering Duty - Field Prep (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=777589559,557221067#notes:Unwavering Duty - Field Prep + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=777589559,2896748467#notes:Unwavering Duty - Field Prep + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=2308090567,557221067#notes:Unwavering Duty - Field Prep (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=2308090567,2896748467#notes:Unwavering Duty - Field Prep (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=777589559,3751912585#notes:Unwavering Duty - Field Prep + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=777589559,331667533#notes:Unwavering Duty - Field Prep + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=2308090567,3751912585#notes:Unwavering Duty - Field Prep (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=906840740&perks=2308090567,331667533#notes:Unwavering Duty - Field Prep (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3300816228,4293542123#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3300816228,2675184851#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3528046508,4293542123#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3528046508,2675184851#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3300816228,557221067#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3300816228,2896748467#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3528046508,557221067#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3528046508,2896748467#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3300816228,3751912585#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3300816228,331667533#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3528046508,3751912585#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=3528046508,331667533#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=1820235745,4293542123#notes:Unwavering Duty (Adept) - Subsistence + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=1820235745,2675184851#notes:Unwavering Duty (Adept) - Subsistence + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=4245865861,4293542123#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=4245865861,2675184851#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=1820235745,557221067#notes:Unwavering Duty (Adept) - Subsistence + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=1820235745,2896748467#notes:Unwavering Duty (Adept) - Subsistence + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=4245865861,557221067#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=4245865861,2896748467#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=1820235745,3751912585#notes:Unwavering Duty (Adept) - Subsistence + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=1820235745,331667533#notes:Unwavering Duty (Adept) - Subsistence + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=4245865861,3751912585#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=4245865861,331667533#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=777589559,4293542123#notes:Unwavering Duty (Adept) - Field Prep + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=777589559,2675184851#notes:Unwavering Duty (Adept) - Field Prep + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=2308090567,4293542123#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=2308090567,2675184851#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=777589559,557221067#notes:Unwavering Duty (Adept) - Field Prep + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=777589559,2896748467#notes:Unwavering Duty (Adept) - Field Prep + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=2308090567,557221067#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=2308090567,2896748467#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=777589559,3751912585#notes:Unwavering Duty (Adept) - Field Prep + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=777589559,331667533#notes:Unwavering Duty (Adept) - Field Prep + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=2308090567,3751912585#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=2759251821&perks=2308090567,331667533#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3300816228,4293542123#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3300816228,2675184851#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3528046508,4293542123#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3528046508,2675184851#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3300816228,557221067#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3300816228,2896748467#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3528046508,557221067#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3528046508,2896748467#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3300816228,3751912585#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3300816228,331667533#notes:Unwavering Duty (Adept) - Auto-Loading Holster + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3528046508,3751912585#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=3528046508,331667533#notes:Unwavering Duty (Adept) - Auto-Loading Holster (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=1820235745,4293542123#notes:Unwavering Duty (Adept) - Subsistence + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=1820235745,2675184851#notes:Unwavering Duty (Adept) - Subsistence + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=4245865861,4293542123#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=4245865861,2675184851#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=1820235745,557221067#notes:Unwavering Duty (Adept) - Subsistence + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=1820235745,2896748467#notes:Unwavering Duty (Adept) - Subsistence + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=4245865861,557221067#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=4245865861,2896748467#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=1820235745,3751912585#notes:Unwavering Duty (Adept) - Subsistence + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=1820235745,331667533#notes:Unwavering Duty (Adept) - Subsistence + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=4245865861,3751912585#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=4245865861,331667533#notes:Unwavering Duty (Adept) - Subsistence (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=777589559,4293542123#notes:Unwavering Duty (Adept) - Field Prep + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=777589559,2675184851#notes:Unwavering Duty (Adept) - Field Prep + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=2308090567,4293542123#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=2308090567,2675184851#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=777589559,557221067#notes:Unwavering Duty (Adept) - Field Prep + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=777589559,2896748467#notes:Unwavering Duty (Adept) - Field Prep + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=2308090567,557221067#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=2308090567,2896748467#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=777589559,3751912585#notes:Unwavering Duty (Adept) - Field Prep + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=777589559,331667533#notes:Unwavering Duty (Adept) - Field Prep + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=2308090567,3751912585#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3444632029&perks=2308090567,331667533#notes:Unwavering Duty (Adept) - Field Prep (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3300816228,4293542123#notes:Unwavering Duty - Auto-Loading Holster + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3300816228,2675184851#notes:Unwavering Duty - Auto-Loading Holster + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3528046508,4293542123#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3528046508,2675184851#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3300816228,557221067#notes:Unwavering Duty - Auto-Loading Holster + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3300816228,2896748467#notes:Unwavering Duty - Auto-Loading Holster + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3528046508,557221067#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3528046508,2896748467#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3300816228,3751912585#notes:Unwavering Duty - Auto-Loading Holster + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3300816228,331667533#notes:Unwavering Duty - Auto-Loading Holster + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3528046508,3751912585#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=3528046508,331667533#notes:Unwavering Duty - Auto-Loading Holster (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=1820235745,4293542123#notes:Unwavering Duty - Subsistence + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=1820235745,2675184851#notes:Unwavering Duty - Subsistence + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=4245865861,4293542123#notes:Unwavering Duty - Subsistence (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=4245865861,2675184851#notes:Unwavering Duty - Subsistence (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=1820235745,557221067#notes:Unwavering Duty - Subsistence + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=1820235745,2896748467#notes:Unwavering Duty - Subsistence + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=4245865861,557221067#notes:Unwavering Duty - Subsistence (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=4245865861,2896748467#notes:Unwavering Duty - Subsistence (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=1820235745,3751912585#notes:Unwavering Duty - Subsistence + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=1820235745,331667533#notes:Unwavering Duty - Subsistence + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=4245865861,3751912585#notes:Unwavering Duty - Subsistence (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=4245865861,331667533#notes:Unwavering Duty - Subsistence (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=777589559,4293542123#notes:Unwavering Duty - Field Prep + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=777589559,2675184851#notes:Unwavering Duty - Field Prep + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=2308090567,4293542123#notes:Unwavering Duty - Field Prep (Enhanced) + Incandescent -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=2308090567,2675184851#notes:Unwavering Duty - Field Prep (Enhanced) + Incandescent (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=777589559,557221067#notes:Unwavering Duty - Field Prep + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=777589559,2896748467#notes:Unwavering Duty - Field Prep + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=2308090567,557221067#notes:Unwavering Duty - Field Prep (Enhanced) + Killing Tally -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=2308090567,2896748467#notes:Unwavering Duty - Field Prep (Enhanced) + Killing Tally (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=777589559,3751912585#notes:Unwavering Duty - Field Prep + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=777589559,331667533#notes:Unwavering Duty - Field Prep + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=2308090567,3751912585#notes:Unwavering Duty - Field Prep (Enhanced) + Cascade Point -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=3624844116&perks=2308090567,331667533#notes:Unwavering Duty - Field Prep (Enhanced) + Cascade Point (Enhanced) -- Rank 10, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=777589559,2048641572#notes:Qua Xaphan V - Field Prep + Destabilizing Rounds -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=777589559,1926441324#notes:Qua Xaphan V - Field Prep + Destabilizing Rounds (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2308090567,2048641572#notes:Qua Xaphan V - Field Prep (Enhanced) + Destabilizing Rounds -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2308090567,1926441324#notes:Qua Xaphan V - Field Prep (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=777589559,11612903#notes:Qua Xaphan V - Field Prep + Adrenaline Junkie -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=777589559,2422968039#notes:Qua Xaphan V - Field Prep + Adrenaline Junkie (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2308090567,11612903#notes:Qua Xaphan V - Field Prep (Enhanced) + Adrenaline Junkie -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2308090567,2422968039#notes:Qua Xaphan V - Field Prep (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=777589559,2848615171#notes:Qua Xaphan V - Field Prep + Dragonfly -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=777589559,169755979#notes:Qua Xaphan V - Field Prep + Dragonfly (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2308090567,2848615171#notes:Qua Xaphan V - Field Prep (Enhanced) + Dragonfly -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2308090567,169755979#notes:Qua Xaphan V - Field Prep (Enhanced) + Dragonfly (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=3400784728,2048641572#notes:Qua Xaphan V - Triple Tap + Destabilizing Rounds -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=3400784728,1926441324#notes:Qua Xaphan V - Triple Tap + Destabilizing Rounds (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=573122728,2048641572#notes:Qua Xaphan V - Triple Tap (Enhanced) + Destabilizing Rounds -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=573122728,1926441324#notes:Qua Xaphan V - Triple Tap (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=3400784728,11612903#notes:Qua Xaphan V - Triple Tap + Adrenaline Junkie -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=3400784728,2422968039#notes:Qua Xaphan V - Triple Tap + Adrenaline Junkie (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=573122728,11612903#notes:Qua Xaphan V - Triple Tap (Enhanced) + Adrenaline Junkie -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=573122728,2422968039#notes:Qua Xaphan V - Triple Tap (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=3400784728,2848615171#notes:Qua Xaphan V - Triple Tap + Dragonfly -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=3400784728,169755979#notes:Qua Xaphan V - Triple Tap + Dragonfly (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=573122728,2848615171#notes:Qua Xaphan V - Triple Tap (Enhanced) + Dragonfly -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=573122728,169755979#notes:Qua Xaphan V - Triple Tap (Enhanced) + Dragonfly (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2039302152,2048641572#notes:Qua Xaphan V - Slideways + Destabilizing Rounds -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2039302152,1926441324#notes:Qua Xaphan V - Slideways + Destabilizing Rounds (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2396422520,2048641572#notes:Qua Xaphan V - Slideways (Enhanced) + Destabilizing Rounds -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2396422520,1926441324#notes:Qua Xaphan V - Slideways (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2039302152,11612903#notes:Qua Xaphan V - Slideways + Adrenaline Junkie -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2039302152,2422968039#notes:Qua Xaphan V - Slideways + Adrenaline Junkie (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2396422520,11612903#notes:Qua Xaphan V - Slideways (Enhanced) + Adrenaline Junkie -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2396422520,2422968039#notes:Qua Xaphan V - Slideways (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2039302152,2848615171#notes:Qua Xaphan V - Slideways + Dragonfly -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2039302152,169755979#notes:Qua Xaphan V - Slideways + Dragonfly (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2396422520,2848615171#notes:Qua Xaphan V - Slideways (Enhanced) + Dragonfly -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=1975125963&perks=2396422520,169755979#notes:Qua Xaphan V - Slideways (Enhanced) + Dragonfly (Enhanced) -- Rank 11, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=3523296417,95528736#notes:Marcato-45 - Demolitionist + Onslaught -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=3523296417,956288240#notes:Marcato-45 - Demolitionist + Onslaught (Enhanced) -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=1906147653,95528736#notes:Marcato-45 - Demolitionist (Enhanced) + Onslaught -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=1906147653,956288240#notes:Marcato-45 - Demolitionist (Enhanced) + Onslaught (Enhanced) -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=3523296417,2610012052#notes:Marcato-45 - Demolitionist + Golden Tricorn -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=3523296417,4290541820#notes:Marcato-45 - Demolitionist + Golden Tricorn (Enhanced) -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=1906147653,2610012052#notes:Marcato-45 - Demolitionist (Enhanced) + Golden Tricorn -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=1906147653,4290541820#notes:Marcato-45 - Demolitionist (Enhanced) + Golden Tricorn (Enhanced) -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=3523296417,831391274#notes:Marcato-45 - Demolitionist + Hatchling -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=3523296417,102912326#notes:Marcato-45 - Demolitionist + Hatchling (Enhanced) -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=1906147653,831391274#notes:Marcato-45 - Demolitionist (Enhanced) + Hatchling -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=4233375372&perks=1906147653,102912326#notes:Marcato-45 - Demolitionist (Enhanced) + Hatchling (Enhanced) -- Rank 12, Tier A by TheAegisRelic
+dimwishlist:item=1572896086&perks=1820235745,4049631843#notes:Recurrent Impact - Subsistence + One for All -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=1820235745,859780267#notes:Recurrent Impact - Subsistence + One for All (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=4245865861,4049631843#notes:Recurrent Impact - Subsistence (Enhanced) + One for All -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=4245865861,859780267#notes:Recurrent Impact - Subsistence (Enhanced) + One for All (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=1820235745,124408337#notes:Recurrent Impact - Subsistence + Headstone -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=1820235745,1171887445#notes:Recurrent Impact - Subsistence + Headstone (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=4245865861,124408337#notes:Recurrent Impact - Subsistence (Enhanced) + Headstone -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=4245865861,1171887445#notes:Recurrent Impact - Subsistence (Enhanced) + Headstone (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=777589559,4049631843#notes:Recurrent Impact - Field Prep + One for All -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=777589559,859780267#notes:Recurrent Impact - Field Prep + One for All (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=2308090567,4049631843#notes:Recurrent Impact - Field Prep (Enhanced) + One for All -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=2308090567,859780267#notes:Recurrent Impact - Field Prep (Enhanced) + One for All (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=777589559,124408337#notes:Recurrent Impact - Field Prep + Headstone -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=777589559,1171887445#notes:Recurrent Impact - Field Prep + Headstone (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=2308090567,124408337#notes:Recurrent Impact - Field Prep (Enhanced) + Headstone -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=1572896086&perks=2308090567,1171887445#notes:Recurrent Impact - Field Prep (Enhanced) + Headstone (Enhanced) -- Rank 13, Tier B by TheAegisRelic
+dimwishlist:item=3105930175&perks=11612903,3523296417#notes:Chain of Command - Adrenaline Junkie + Demolitionist -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3105930175&perks=11612903,1906147653#notes:Chain of Command - Adrenaline Junkie + Demolitionist (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3105930175&perks=2422968039,3523296417#notes:Chain of Command - Adrenaline Junkie (Enhanced) + Demolitionist -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=3105930175&perks=2422968039,1906147653#notes:Chain of Command - Adrenaline Junkie (Enhanced) + Demolitionist (Enhanced) -- Rank 14, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2779035018,2848615171#notes:Qua Furor V - Feeding Frenzy + Dragonfly -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2779035018,169755979#notes:Qua Furor V - Feeding Frenzy + Dragonfly (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1171147302,2848615171#notes:Qua Furor V - Feeding Frenzy (Enhanced) + Dragonfly -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1171147302,169755979#notes:Qua Furor V - Feeding Frenzy (Enhanced) + Dragonfly (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2779035018,2610012052#notes:Qua Furor V - Feeding Frenzy + Golden Tricorn -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2779035018,4290541820#notes:Qua Furor V - Feeding Frenzy + Golden Tricorn (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1171147302,2610012052#notes:Qua Furor V - Feeding Frenzy (Enhanced) + Golden Tricorn -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1171147302,4290541820#notes:Qua Furor V - Feeding Frenzy (Enhanced) + Golden Tricorn (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2779035018,4049631843#notes:Qua Furor V - Feeding Frenzy + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2779035018,859780267#notes:Qua Furor V - Feeding Frenzy + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1171147302,4049631843#notes:Qua Furor V - Feeding Frenzy (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1171147302,859780267#notes:Qua Furor V - Feeding Frenzy (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1955165503,2848615171#notes:Qua Furor V - Rimestealer + Dragonfly -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1955165503,169755979#notes:Qua Furor V - Rimestealer + Dragonfly (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2617553311,2848615171#notes:Qua Furor V - Rimestealer (Enhanced) + Dragonfly -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2617553311,169755979#notes:Qua Furor V - Rimestealer (Enhanced) + Dragonfly (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1955165503,2610012052#notes:Qua Furor V - Rimestealer + Golden Tricorn -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1955165503,4290541820#notes:Qua Furor V - Rimestealer + Golden Tricorn (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2617553311,2610012052#notes:Qua Furor V - Rimestealer (Enhanced) + Golden Tricorn -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2617553311,4290541820#notes:Qua Furor V - Rimestealer (Enhanced) + Golden Tricorn (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1955165503,4049631843#notes:Qua Furor V - Rimestealer + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=1955165503,859780267#notes:Qua Furor V - Rimestealer + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2617553311,4049631843#notes:Qua Furor V - Rimestealer (Enhanced) + One for All -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=751880654&perks=2617553311,859780267#notes:Qua Furor V - Rimestealer (Enhanced) + One for All (Enhanced) -- Rank 15, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=3523296417,11612903#notes:Terminus Horizon - Demolitionist + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=3523296417,2422968039#notes:Terminus Horizon - Demolitionist + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=1906147653,11612903#notes:Terminus Horizon - Demolitionist (Enhanced) + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=1906147653,2422968039#notes:Terminus Horizon - Demolitionist (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=3523296417,3751912585#notes:Terminus Horizon - Demolitionist + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=3523296417,331667533#notes:Terminus Horizon - Demolitionist + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=1906147653,3751912585#notes:Terminus Horizon - Demolitionist (Enhanced) + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=1906147653,331667533#notes:Terminus Horizon - Demolitionist (Enhanced) + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=2848615171,11612903#notes:Terminus Horizon - Dragonfly + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=2848615171,2422968039#notes:Terminus Horizon - Dragonfly + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=169755979,11612903#notes:Terminus Horizon - Dragonfly (Enhanced) + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=169755979,2422968039#notes:Terminus Horizon - Dragonfly (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=2848615171,3751912585#notes:Terminus Horizon - Dragonfly + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=2848615171,331667533#notes:Terminus Horizon - Dragonfly + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=169755979,3751912585#notes:Terminus Horizon - Dragonfly (Enhanced) + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=487205709&perks=169755979,331667533#notes:Terminus Horizon - Dragonfly (Enhanced) + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=3523296417,11612903#notes:Terminus Horizon - Demolitionist + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=3523296417,2422968039#notes:Terminus Horizon - Demolitionist + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=1906147653,11612903#notes:Terminus Horizon - Demolitionist (Enhanced) + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=1906147653,2422968039#notes:Terminus Horizon - Demolitionist (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=3523296417,3751912585#notes:Terminus Horizon - Demolitionist + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=3523296417,331667533#notes:Terminus Horizon - Demolitionist + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=1906147653,3751912585#notes:Terminus Horizon - Demolitionist (Enhanced) + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=1906147653,331667533#notes:Terminus Horizon - Demolitionist (Enhanced) + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=2848615171,11612903#notes:Terminus Horizon - Dragonfly + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=2848615171,2422968039#notes:Terminus Horizon - Dragonfly + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=169755979,11612903#notes:Terminus Horizon - Dragonfly (Enhanced) + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=169755979,2422968039#notes:Terminus Horizon - Dragonfly (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=2848615171,3751912585#notes:Terminus Horizon - Dragonfly + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=2848615171,331667533#notes:Terminus Horizon - Dragonfly + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=169755979,3751912585#notes:Terminus Horizon - Dragonfly (Enhanced) + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2210806903&perks=169755979,331667533#notes:Terminus Horizon - Dragonfly (Enhanced) + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=3523296417,11612903#notes:Terminus Horizon - Demolitionist + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=3523296417,2422968039#notes:Terminus Horizon - Demolitionist + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=1906147653,11612903#notes:Terminus Horizon - Demolitionist (Enhanced) + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=1906147653,2422968039#notes:Terminus Horizon - Demolitionist (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=3523296417,3751912585#notes:Terminus Horizon - Demolitionist + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=3523296417,331667533#notes:Terminus Horizon - Demolitionist + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=1906147653,3751912585#notes:Terminus Horizon - Demolitionist (Enhanced) + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=1906147653,331667533#notes:Terminus Horizon - Demolitionist (Enhanced) + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=2848615171,11612903#notes:Terminus Horizon - Dragonfly + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=2848615171,2422968039#notes:Terminus Horizon - Dragonfly + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=169755979,11612903#notes:Terminus Horizon - Dragonfly (Enhanced) + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=169755979,2422968039#notes:Terminus Horizon - Dragonfly (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=2848615171,3751912585#notes:Terminus Horizon - Dragonfly + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=2848615171,331667533#notes:Terminus Horizon - Dragonfly + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=169755979,3751912585#notes:Terminus Horizon - Dragonfly (Enhanced) + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=2730671571&perks=169755979,331667533#notes:Terminus Horizon - Dragonfly (Enhanced) + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=3523296417,11612903#notes:Terminus Horizon - Demolitionist + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=3523296417,2422968039#notes:Terminus Horizon - Demolitionist + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=1906147653,11612903#notes:Terminus Horizon - Demolitionist (Enhanced) + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=1906147653,2422968039#notes:Terminus Horizon - Demolitionist (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=3523296417,3751912585#notes:Terminus Horizon - Demolitionist + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=3523296417,331667533#notes:Terminus Horizon - Demolitionist + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=1906147653,3751912585#notes:Terminus Horizon - Demolitionist (Enhanced) + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=1906147653,331667533#notes:Terminus Horizon - Demolitionist (Enhanced) + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=2848615171,11612903#notes:Terminus Horizon - Dragonfly + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=2848615171,2422968039#notes:Terminus Horizon - Dragonfly + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=169755979,11612903#notes:Terminus Horizon - Dragonfly (Enhanced) + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=169755979,2422968039#notes:Terminus Horizon - Dragonfly (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=2848615171,3751912585#notes:Terminus Horizon - Dragonfly + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=2848615171,331667533#notes:Terminus Horizon - Dragonfly + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=169755979,3751912585#notes:Terminus Horizon - Dragonfly (Enhanced) + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3984556130&perks=169755979,331667533#notes:Terminus Horizon - Dragonfly (Enhanced) + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=3523296417,11612903#notes:Terminus Horizon - Demolitionist + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=3523296417,2422968039#notes:Terminus Horizon - Demolitionist + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=1906147653,11612903#notes:Terminus Horizon - Demolitionist (Enhanced) + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=1906147653,2422968039#notes:Terminus Horizon - Demolitionist (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=3523296417,3751912585#notes:Terminus Horizon - Demolitionist + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=3523296417,331667533#notes:Terminus Horizon - Demolitionist + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=1906147653,3751912585#notes:Terminus Horizon - Demolitionist (Enhanced) + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=1906147653,331667533#notes:Terminus Horizon - Demolitionist (Enhanced) + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=2848615171,11612903#notes:Terminus Horizon - Dragonfly + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=2848615171,2422968039#notes:Terminus Horizon - Dragonfly + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=169755979,11612903#notes:Terminus Horizon - Dragonfly (Enhanced) + Adrenaline Junkie -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=169755979,2422968039#notes:Terminus Horizon - Dragonfly (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=2848615171,3751912585#notes:Terminus Horizon - Dragonfly + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=2848615171,331667533#notes:Terminus Horizon - Dragonfly + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=169755979,3751912585#notes:Terminus Horizon - Dragonfly (Enhanced) + Cascade Point -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=4267192886&perks=169755979,331667533#notes:Terminus Horizon - Dragonfly (Enhanced) + Cascade Point (Enhanced) -- Rank 16, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=1820235745,3523296417#notes:A Fine Memorial - Subsistence + Demolitionist -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=1820235745,1906147653#notes:A Fine Memorial - Subsistence + Demolitionist (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=4245865861,3523296417#notes:A Fine Memorial - Subsistence (Enhanced) + Demolitionist -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=4245865861,1906147653#notes:A Fine Memorial - Subsistence (Enhanced) + Demolitionist (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=1820235745,11612903#notes:A Fine Memorial - Subsistence + Adrenaline Junkie -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=1820235745,2422968039#notes:A Fine Memorial - Subsistence + Adrenaline Junkie (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=4245865861,11612903#notes:A Fine Memorial - Subsistence (Enhanced) + Adrenaline Junkie -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=4245865861,2422968039#notes:A Fine Memorial - Subsistence (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=1820235745,4049631843#notes:A Fine Memorial - Subsistence + One for All -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=1820235745,859780267#notes:A Fine Memorial - Subsistence + One for All (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=4245865861,4049631843#notes:A Fine Memorial - Subsistence (Enhanced) + One for All -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=4245865861,859780267#notes:A Fine Memorial - Subsistence (Enhanced) + One for All (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=777589559,3523296417#notes:A Fine Memorial - Field Prep + Demolitionist -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=777589559,1906147653#notes:A Fine Memorial - Field Prep + Demolitionist (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=2308090567,3523296417#notes:A Fine Memorial - Field Prep (Enhanced) + Demolitionist -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=2308090567,1906147653#notes:A Fine Memorial - Field Prep (Enhanced) + Demolitionist (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=777589559,11612903#notes:A Fine Memorial - Field Prep + Adrenaline Junkie -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=777589559,2422968039#notes:A Fine Memorial - Field Prep + Adrenaline Junkie (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=2308090567,11612903#notes:A Fine Memorial - Field Prep (Enhanced) + Adrenaline Junkie -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=2308090567,2422968039#notes:A Fine Memorial - Field Prep (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=777589559,4049631843#notes:A Fine Memorial - Field Prep + One for All -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=777589559,859780267#notes:A Fine Memorial - Field Prep + One for All (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=2308090567,4049631843#notes:A Fine Memorial - Field Prep (Enhanced) + One for All -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=3325778512&perks=2308090567,859780267#notes:A Fine Memorial - Field Prep (Enhanced) + One for All (Enhanced) -- Rank 17, Tier B by TheAegisRelic
+dimwishlist:item=1642384931&perks=777589559,4293542123#notes:Fixed Odds - Field Prep + Incandescent -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1642384931&perks=777589559,2675184851#notes:Fixed Odds - Field Prep + Incandescent (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1642384931&perks=2308090567,4293542123#notes:Fixed Odds - Field Prep (Enhanced) + Incandescent -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1642384931&perks=2308090567,2675184851#notes:Fixed Odds - Field Prep (Enhanced) + Incandescent (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1642384931&perks=777589559,557221067#notes:Fixed Odds - Field Prep + Killing Tally -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1642384931&perks=777589559,2896748467#notes:Fixed Odds - Field Prep + Killing Tally (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1642384931&perks=2308090567,557221067#notes:Fixed Odds - Field Prep (Enhanced) + Killing Tally -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=1642384931&perks=2308090567,2896748467#notes:Fixed Odds - Field Prep (Enhanced) + Killing Tally (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=2194955522&perks=777589559,4293542123#notes:Fixed Odds - Field Prep + Incandescent -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=2194955522&perks=777589559,2675184851#notes:Fixed Odds - Field Prep + Incandescent (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=2194955522&perks=2308090567,4293542123#notes:Fixed Odds - Field Prep (Enhanced) + Incandescent -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=2194955522&perks=2308090567,2675184851#notes:Fixed Odds - Field Prep (Enhanced) + Incandescent (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=2194955522&perks=777589559,557221067#notes:Fixed Odds - Field Prep + Killing Tally -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=2194955522&perks=777589559,2896748467#notes:Fixed Odds - Field Prep + Killing Tally (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=2194955522&perks=2308090567,557221067#notes:Fixed Odds - Field Prep (Enhanced) + Killing Tally -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=2194955522&perks=2308090567,2896748467#notes:Fixed Odds - Field Prep (Enhanced) + Killing Tally (Enhanced) -- Rank 18, Tier B by TheAegisRelic
+dimwishlist:item=2434225986&perks=3300816228,11612903#notes:Shattered Cipher - Auto-Loading Holster + Adrenaline Junkie -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=3300816228,2422968039#notes:Shattered Cipher - Auto-Loading Holster + Adrenaline Junkie (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=3528046508,11612903#notes:Shattered Cipher - Auto-Loading Holster (Enhanced) + Adrenaline Junkie -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=3528046508,2422968039#notes:Shattered Cipher - Auto-Loading Holster (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=3300816228,3708227201#notes:Shattered Cipher - Auto-Loading Holster + Surrounded -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=3300816228,781192741#notes:Shattered Cipher - Auto-Loading Holster + Surrounded (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=3528046508,3708227201#notes:Shattered Cipher - Auto-Loading Holster (Enhanced) + Surrounded -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=3528046508,781192741#notes:Shattered Cipher - Auto-Loading Holster (Enhanced) + Surrounded (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=777589559,11612903#notes:Shattered Cipher - Field Prep + Adrenaline Junkie -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=777589559,2422968039#notes:Shattered Cipher - Field Prep + Adrenaline Junkie (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=2308090567,11612903#notes:Shattered Cipher - Field Prep (Enhanced) + Adrenaline Junkie -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=2308090567,2422968039#notes:Shattered Cipher - Field Prep (Enhanced) + Adrenaline Junkie (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=777589559,3708227201#notes:Shattered Cipher - Field Prep + Surrounded -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=777589559,781192741#notes:Shattered Cipher - Field Prep + Surrounded (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=2308090567,3708227201#notes:Shattered Cipher - Field Prep (Enhanced) + Surrounded -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=2434225986&perks=2308090567,781192741#notes:Shattered Cipher - Field Prep (Enhanced) + Surrounded (Enhanced) -- Rank 19, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=1354429876,4049631843#notes:Retrofit Escapade - Fourth Time's the Charm + One for All -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=1354429876,859780267#notes:Retrofit Escapade - Fourth Time's the Charm + One for All (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=848860060,4049631843#notes:Retrofit Escapade - Fourth Time's the Charm (Enhanced) + One for All -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=848860060,859780267#notes:Retrofit Escapade - Fourth Time's the Charm (Enhanced) + One for All (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=1354429876,2610012052#notes:Retrofit Escapade - Fourth Time's the Charm + Golden Tricorn -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=1354429876,4290541820#notes:Retrofit Escapade - Fourth Time's the Charm + Golden Tricorn (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=848860060,2610012052#notes:Retrofit Escapade - Fourth Time's the Charm (Enhanced) + Golden Tricorn -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=848860060,4290541820#notes:Retrofit Escapade - Fourth Time's the Charm (Enhanced) + Golden Tricorn (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=777589559,4049631843#notes:Retrofit Escapade - Field Prep + One for All -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=777589559,859780267#notes:Retrofit Escapade - Field Prep + One for All (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=2308090567,4049631843#notes:Retrofit Escapade - Field Prep (Enhanced) + One for All -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=2308090567,859780267#notes:Retrofit Escapade - Field Prep (Enhanced) + One for All (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=777589559,2610012052#notes:Retrofit Escapade - Field Prep + Golden Tricorn -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=777589559,4290541820#notes:Retrofit Escapade - Field Prep + Golden Tricorn (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=2308090567,2610012052#notes:Retrofit Escapade - Field Prep (Enhanced) + Golden Tricorn -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=3103325054&perks=2308090567,4290541820#notes:Retrofit Escapade - Field Prep (Enhanced) + Golden Tricorn (Enhanced) -- Rank 20, Tier C by TheAegisRelic
+dimwishlist:item=820890091&perks=1631667848,4082225868#notes:Planck's Stride - Grave Robber + Swashbuckler -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=820890091&perks=1631667848,1161469972#notes:Planck's Stride - Grave Robber + Swashbuckler (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=820890091&perks=402033656,4082225868#notes:Planck's Stride - Grave Robber (Enhanced) + Swashbuckler -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=820890091&perks=402033656,1161469972#notes:Planck's Stride - Grave Robber (Enhanced) + Swashbuckler (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=820890091&perks=1631667848,691659142#notes:Planck's Stride - Grave Robber + Pugilist -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=820890091&perks=1631667848,536173722#notes:Planck's Stride - Grave Robber + Pugilist (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=820890091&perks=402033656,691659142#notes:Planck's Stride - Grave Robber (Enhanced) + Pugilist -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=820890091&perks=402033656,536173722#notes:Planck's Stride - Grave Robber (Enhanced) + Pugilist (Enhanced) -- Rank 21, Tier C by TheAegisRelic
+dimwishlist:item=1321506184&perks=2621346526,1561789734#notes:Qullim's Terminus - Ensemble + Firefly -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2621346526,1183436451#notes:Qullim's Terminus - Ensemble + Firefly (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2495011826,1561789734#notes:Qullim's Terminus - Ensemble (Enhanced) + Firefly -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2495011826,1183436451#notes:Qullim's Terminus - Ensemble (Enhanced) + Firefly (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2621346526,124408337#notes:Qullim's Terminus - Ensemble + Headstone -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2621346526,1171887445#notes:Qullim's Terminus - Ensemble + Headstone (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2495011826,124408337#notes:Qullim's Terminus - Ensemble (Enhanced) + Headstone -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2495011826,1171887445#notes:Qullim's Terminus - Ensemble (Enhanced) + Headstone (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2621346526,557221067#notes:Qullim's Terminus - Ensemble + Killing Tally -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2621346526,2896748467#notes:Qullim's Terminus - Ensemble + Killing Tally (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2495011826,557221067#notes:Qullim's Terminus - Ensemble (Enhanced) + Killing Tally -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=2495011826,2896748467#notes:Qullim's Terminus - Ensemble (Enhanced) + Killing Tally (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=3108830275,1561789734#notes:Qullim's Terminus - Unrelenting + Firefly -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=3108830275,1183436451#notes:Qullim's Terminus - Unrelenting + Firefly (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=855168139,1561789734#notes:Qullim's Terminus - Unrelenting (Enhanced) + Firefly -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=855168139,1183436451#notes:Qullim's Terminus - Unrelenting (Enhanced) + Firefly (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=3108830275,124408337#notes:Qullim's Terminus - Unrelenting + Headstone -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=3108830275,1171887445#notes:Qullim's Terminus - Unrelenting + Headstone (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=855168139,124408337#notes:Qullim's Terminus - Unrelenting (Enhanced) + Headstone -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=855168139,1171887445#notes:Qullim's Terminus - Unrelenting (Enhanced) + Headstone (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=3108830275,557221067#notes:Qullim's Terminus - Unrelenting + Killing Tally -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=3108830275,2896748467#notes:Qullim's Terminus - Unrelenting + Killing Tally (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=855168139,557221067#notes:Qullim's Terminus - Unrelenting (Enhanced) + Killing Tally -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=1321506184&perks=855168139,2896748467#notes:Qullim's Terminus - Unrelenting (Enhanced) + Killing Tally (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2621346526,1561789734#notes:Qullim's Terminus (Harrowed) - Ensemble + Firefly -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2621346526,1183436451#notes:Qullim's Terminus (Harrowed) - Ensemble + Firefly (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2495011826,1561789734#notes:Qullim's Terminus (Harrowed) - Ensemble (Enhanced) + Firefly -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2495011826,1183436451#notes:Qullim's Terminus (Harrowed) - Ensemble (Enhanced) + Firefly (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2621346526,124408337#notes:Qullim's Terminus (Harrowed) - Ensemble + Headstone -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2621346526,1171887445#notes:Qullim's Terminus (Harrowed) - Ensemble + Headstone (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2495011826,124408337#notes:Qullim's Terminus (Harrowed) - Ensemble (Enhanced) + Headstone -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2495011826,1171887445#notes:Qullim's Terminus (Harrowed) - Ensemble (Enhanced) + Headstone (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2621346526,557221067#notes:Qullim's Terminus (Harrowed) - Ensemble + Killing Tally -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2621346526,2896748467#notes:Qullim's Terminus (Harrowed) - Ensemble + Killing Tally (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2495011826,557221067#notes:Qullim's Terminus (Harrowed) - Ensemble (Enhanced) + Killing Tally -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=2495011826,2896748467#notes:Qullim's Terminus (Harrowed) - Ensemble (Enhanced) + Killing Tally (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=3108830275,1561789734#notes:Qullim's Terminus (Harrowed) - Unrelenting + Firefly -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=3108830275,1183436451#notes:Qullim's Terminus (Harrowed) - Unrelenting + Firefly (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=855168139,1561789734#notes:Qullim's Terminus (Harrowed) - Unrelenting (Enhanced) + Firefly -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=855168139,1183436451#notes:Qullim's Terminus (Harrowed) - Unrelenting (Enhanced) + Firefly (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=3108830275,124408337#notes:Qullim's Terminus (Harrowed) - Unrelenting + Headstone -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=3108830275,1171887445#notes:Qullim's Terminus (Harrowed) - Unrelenting + Headstone (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=855168139,124408337#notes:Qullim's Terminus (Harrowed) - Unrelenting (Enhanced) + Headstone -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=855168139,1171887445#notes:Qullim's Terminus (Harrowed) - Unrelenting (Enhanced) + Headstone (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=3108830275,557221067#notes:Qullim's Terminus (Harrowed) - Unrelenting + Killing Tally -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=3108830275,2896748467#notes:Qullim's Terminus (Harrowed) - Unrelenting + Killing Tally (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=855168139,557221067#notes:Qullim's Terminus (Harrowed) - Unrelenting (Enhanced) + Killing Tally -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=3248429089&perks=855168139,2896748467#notes:Qullim's Terminus (Harrowed) - Unrelenting (Enhanced) + Killing Tally (Enhanced) -- Rank 22, Tier D by TheAegisRelic
+dimwishlist:item=2187717691&perks=968510818,2610012052#notes:Circular Logic - Envious Assassin + Golden Tricorn -- Rank 23, Tier D by TheAegisRelic
+dimwishlist:item=2187717691&perks=968510818,4290541820#notes:Circular Logic - Envious Assassin + Golden Tricorn (Enhanced) -- Rank 23, Tier D by TheAegisRelic
+dimwishlist:item=2187717691&perks=424370782,2610012052#notes:Circular Logic - Envious Assassin (Enhanced) + Golden Tricorn -- Rank 23, Tier D by TheAegisRelic
+dimwishlist:item=2187717691&perks=424370782,4290541820#notes:Circular Logic - Envious Assassin (Enhanced) + Golden Tricorn (Enhanced) -- Rank 23, Tier D by TheAegisRelic
+dimwishlist:item=2187717691&perks=968510818,3523296417#notes:Circular Logic - Envious Assassin + Demolitionist -- Rank 23, Tier D by TheAegisRelic
+dimwishlist:item=2187717691&perks=968510818,1906147653#notes:Circular Logic - Envious Assassin + Demolitionist (Enhanced) -- Rank 23, Tier D by TheAegisRelic
+dimwishlist:item=2187717691&perks=424370782,3523296417#notes:Circular Logic - Envious Assassin (Enhanced) + Demolitionist -- Rank 23, Tier D by TheAegisRelic
+dimwishlist:item=2187717691&perks=424370782,1906147653#notes:Circular Logic - Envious Assassin (Enhanced) + Demolitionist (Enhanced) -- Rank 23, Tier D by TheAegisRelic
+dimwishlist:item=2582755344&perks=3300816228,1771339417#notes:Seventh Seraph SAW - Auto-Loading Holster + Firing Line -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=2582755344&perks=3300816228,395388285#notes:Seventh Seraph SAW - Auto-Loading Holster + Firing Line (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=2582755344&perks=3528046508,1771339417#notes:Seventh Seraph SAW - Auto-Loading Holster (Enhanced) + Firing Line -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=2582755344&perks=3528046508,395388285#notes:Seventh Seraph SAW - Auto-Loading Holster (Enhanced) + Firing Line (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=2582755344&perks=777589559,1771339417#notes:Seventh Seraph SAW - Field Prep + Firing Line -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=2582755344&perks=777589559,395388285#notes:Seventh Seraph SAW - Field Prep + Firing Line (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=2582755344&perks=2308090567,1771339417#notes:Seventh Seraph SAW - Field Prep (Enhanced) + Firing Line -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=2582755344&perks=2308090567,395388285#notes:Seventh Seraph SAW - Field Prep (Enhanced) + Firing Line (Enhanced) -- Rank 24, Tier E by TheAegisRelic
+dimwishlist:item=1766088024&perks=777589559,3523296417#notes:Thermal Erosion - Field Prep + Demolitionist -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=1766088024&perks=777589559,1906147653#notes:Thermal Erosion - Field Prep + Demolitionist (Enhanced) -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=1766088024&perks=2308090567,3523296417#notes:Thermal Erosion - Field Prep (Enhanced) + Demolitionist -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=1766088024&perks=2308090567,1906147653#notes:Thermal Erosion - Field Prep (Enhanced) + Demolitionist (Enhanced) -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=1766088024&perks=777589559,2848615171#notes:Thermal Erosion - Field Prep + Dragonfly -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=1766088024&perks=777589559,169755979#notes:Thermal Erosion - Field Prep + Dragonfly (Enhanced) -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=1766088024&perks=2308090567,2848615171#notes:Thermal Erosion - Field Prep (Enhanced) + Dragonfly -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=1766088024&perks=2308090567,169755979#notes:Thermal Erosion - Field Prep (Enhanced) + Dragonfly (Enhanced) -- Rank 25, Tier E by TheAegisRelic
+dimwishlist:item=47772649&perks=2779035018,2848615171#notes:THE SWARM - Feeding Frenzy + Dragonfly -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=47772649&perks=2779035018,169755979#notes:THE SWARM - Feeding Frenzy + Dragonfly (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=47772649&perks=1171147302,2848615171#notes:THE SWARM - Feeding Frenzy (Enhanced) + Dragonfly -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=47772649&perks=1171147302,169755979#notes:THE SWARM - Feeding Frenzy (Enhanced) + Dragonfly (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=47772649&perks=2779035018,2610012052#notes:THE SWARM - Feeding Frenzy + Golden Tricorn -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=47772649&perks=2779035018,4290541820#notes:THE SWARM - Feeding Frenzy + Golden Tricorn (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=47772649&perks=1171147302,2610012052#notes:THE SWARM - Feeding Frenzy (Enhanced) + Golden Tricorn -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=47772649&perks=1171147302,4290541820#notes:THE SWARM - Feeding Frenzy (Enhanced) + Golden Tricorn (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=566740455&perks=2779035018,2848615171#notes:THE SWARM (Adept) - Feeding Frenzy + Dragonfly -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=566740455&perks=2779035018,169755979#notes:THE SWARM (Adept) - Feeding Frenzy + Dragonfly (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=566740455&perks=1171147302,2848615171#notes:THE SWARM (Adept) - Feeding Frenzy (Enhanced) + Dragonfly -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=566740455&perks=1171147302,169755979#notes:THE SWARM (Adept) - Feeding Frenzy (Enhanced) + Dragonfly (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=566740455&perks=2779035018,2610012052#notes:THE SWARM (Adept) - Feeding Frenzy + Golden Tricorn -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=566740455&perks=2779035018,4290541820#notes:THE SWARM (Adept) - Feeding Frenzy + Golden Tricorn (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=566740455&perks=1171147302,2610012052#notes:THE SWARM (Adept) - Feeding Frenzy (Enhanced) + Golden Tricorn -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=566740455&perks=1171147302,4290541820#notes:THE SWARM (Adept) - Feeding Frenzy (Enhanced) + Golden Tricorn (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=2759590322&perks=2779035018,2848615171#notes:THE SWARM - Feeding Frenzy + Dragonfly -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=2759590322&perks=2779035018,169755979#notes:THE SWARM - Feeding Frenzy + Dragonfly (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=2759590322&perks=1171147302,2848615171#notes:THE SWARM - Feeding Frenzy (Enhanced) + Dragonfly -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=2759590322&perks=1171147302,169755979#notes:THE SWARM - Feeding Frenzy (Enhanced) + Dragonfly (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=2759590322&perks=2779035018,2610012052#notes:THE SWARM - Feeding Frenzy + Golden Tricorn -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=2759590322&perks=2779035018,4290541820#notes:THE SWARM - Feeding Frenzy + Golden Tricorn (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=2759590322&perks=1171147302,2610012052#notes:THE SWARM - Feeding Frenzy (Enhanced) + Golden Tricorn -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=2759590322&perks=1171147302,4290541820#notes:THE SWARM - Feeding Frenzy (Enhanced) + Golden Tricorn (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=3836861464&perks=2779035018,2848615171#notes:THE SWARM (Adept) - Feeding Frenzy + Dragonfly -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=3836861464&perks=2779035018,169755979#notes:THE SWARM (Adept) - Feeding Frenzy + Dragonfly (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=3836861464&perks=1171147302,2848615171#notes:THE SWARM (Adept) - Feeding Frenzy (Enhanced) + Dragonfly -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=3836861464&perks=1171147302,169755979#notes:THE SWARM (Adept) - Feeding Frenzy (Enhanced) + Dragonfly (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=3836861464&perks=2779035018,2610012052#notes:THE SWARM (Adept) - Feeding Frenzy + Golden Tricorn -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=3836861464&perks=2779035018,4290541820#notes:THE SWARM (Adept) - Feeding Frenzy + Golden Tricorn (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=3836861464&perks=1171147302,2610012052#notes:THE SWARM (Adept) - Feeding Frenzy (Enhanced) + Golden Tricorn -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=3836861464&perks=1171147302,4290541820#notes:THE SWARM (Adept) - Feeding Frenzy (Enhanced) + Golden Tricorn (Enhanced) -- Rank 26, Tier F by TheAegisRelic
+dimwishlist:item=105306149&perks=2621346526,2610012052#notes:Eleatic Principle - Ensemble + Golden Tricorn -- Rank 27, Tier F by TheAegisRelic
+dimwishlist:item=105306149&perks=2621346526,4290541820#notes:Eleatic Principle - Ensemble + Golden Tricorn (Enhanced) -- Rank 27, Tier F by TheAegisRelic
+dimwishlist:item=105306149&perks=2495011826,2610012052#notes:Eleatic Principle - Ensemble (Enhanced) + Golden Tricorn -- Rank 27, Tier F by TheAegisRelic
+dimwishlist:item=105306149&perks=2495011826,4290541820#notes:Eleatic Principle - Ensemble (Enhanced) + Golden Tricorn (Enhanced) -- Rank 27, Tier F by TheAegisRelic
+dimwishlist:item=105306149&perks=2621346526,365154968#notes:Eleatic Principle - Ensemble + Target Lock -- Rank 27, Tier F by TheAegisRelic
+dimwishlist:item=105306149&perks=2621346526,2939589096#notes:Eleatic Principle - Ensemble + Target Lock (Enhanced) -- Rank 27, Tier F by TheAegisRelic
+dimwishlist:item=105306149&perks=2495011826,365154968#notes:Eleatic Principle - Ensemble (Enhanced) + Target Lock -- Rank 27, Tier F by TheAegisRelic
+dimwishlist:item=105306149&perks=2495011826,2939589096#notes:Eleatic Principle - Ensemble (Enhanced) + Target Lock (Enhanced) -- Rank 27, Tier F by TheAegisRelic

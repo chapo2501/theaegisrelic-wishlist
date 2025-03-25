@@ -1,0 +1,684 @@
+dimwishlist:item=1039915310&perks=2848615171,2173046394#notes:Non-Denouement (Adept) - Dragonfly + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2848615171,1720528630#notes:Non-Denouement (Adept) - Dragonfly + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=169755979,2173046394#notes:Non-Denouement (Adept) - Dragonfly (Enhanced) + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=169755979,1720528630#notes:Non-Denouement (Adept) - Dragonfly (Enhanced) + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2848615171,3365897133#notes:Non-Denouement (Adept) - Dragonfly + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2848615171,1551736345#notes:Non-Denouement (Adept) - Dragonfly + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=169755979,3365897133#notes:Non-Denouement (Adept) - Dragonfly (Enhanced) + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=169755979,1551736345#notes:Non-Denouement (Adept) - Dragonfly (Enhanced) + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2848615171,3640170453#notes:Non-Denouement (Adept) - Dragonfly + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2848615171,1817983009#notes:Non-Denouement (Adept) - Dragonfly + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=169755979,3640170453#notes:Non-Denouement (Adept) - Dragonfly (Enhanced) + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=169755979,1817983009#notes:Non-Denouement (Adept) - Dragonfly (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=201365942,2173046394#notes:Non-Denouement (Adept) - Archer's Tempo + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=201365942,1720528630#notes:Non-Denouement (Adept) - Archer's Tempo + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3523746922,2173046394#notes:Non-Denouement (Adept) - Archer's Tempo (Enhanced) + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3523746922,1720528630#notes:Non-Denouement (Adept) - Archer's Tempo (Enhanced) + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=201365942,3365897133#notes:Non-Denouement (Adept) - Archer's Tempo + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=201365942,1551736345#notes:Non-Denouement (Adept) - Archer's Tempo + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3523746922,3365897133#notes:Non-Denouement (Adept) - Archer's Tempo (Enhanced) + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3523746922,1551736345#notes:Non-Denouement (Adept) - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=201365942,3640170453#notes:Non-Denouement (Adept) - Archer's Tempo + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=201365942,1817983009#notes:Non-Denouement (Adept) - Archer's Tempo + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3523746922,3640170453#notes:Non-Denouement (Adept) - Archer's Tempo (Enhanced) + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3523746922,1817983009#notes:Non-Denouement (Adept) - Archer's Tempo (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3700496672,2173046394#notes:Non-Denouement (Adept) - Shoot to Loot + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3700496672,1720528630#notes:Non-Denouement (Adept) - Shoot to Loot + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2840833776,2173046394#notes:Non-Denouement (Adept) - Shoot to Loot (Enhanced) + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2840833776,1720528630#notes:Non-Denouement (Adept) - Shoot to Loot (Enhanced) + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3700496672,3365897133#notes:Non-Denouement (Adept) - Shoot to Loot + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3700496672,1551736345#notes:Non-Denouement (Adept) - Shoot to Loot + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2840833776,3365897133#notes:Non-Denouement (Adept) - Shoot to Loot (Enhanced) + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2840833776,1551736345#notes:Non-Denouement (Adept) - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3700496672,3640170453#notes:Non-Denouement (Adept) - Shoot to Loot + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=3700496672,1817983009#notes:Non-Denouement (Adept) - Shoot to Loot + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2840833776,3640170453#notes:Non-Denouement (Adept) - Shoot to Loot (Enhanced) + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1039915310&perks=2840833776,1817983009#notes:Non-Denouement (Adept) - Shoot to Loot (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2848615171,2173046394#notes:Non-Denouement - Dragonfly + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2848615171,1720528630#notes:Non-Denouement - Dragonfly + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=169755979,2173046394#notes:Non-Denouement - Dragonfly (Enhanced) + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=169755979,1720528630#notes:Non-Denouement - Dragonfly (Enhanced) + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2848615171,3365897133#notes:Non-Denouement - Dragonfly + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2848615171,1551736345#notes:Non-Denouement - Dragonfly + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=169755979,3365897133#notes:Non-Denouement - Dragonfly (Enhanced) + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=169755979,1551736345#notes:Non-Denouement - Dragonfly (Enhanced) + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2848615171,3640170453#notes:Non-Denouement - Dragonfly + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2848615171,1817983009#notes:Non-Denouement - Dragonfly + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=169755979,3640170453#notes:Non-Denouement - Dragonfly (Enhanced) + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=169755979,1817983009#notes:Non-Denouement - Dragonfly (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=201365942,2173046394#notes:Non-Denouement - Archer's Tempo + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=201365942,1720528630#notes:Non-Denouement - Archer's Tempo + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3523746922,2173046394#notes:Non-Denouement - Archer's Tempo (Enhanced) + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3523746922,1720528630#notes:Non-Denouement - Archer's Tempo (Enhanced) + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=201365942,3365897133#notes:Non-Denouement - Archer's Tempo + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=201365942,1551736345#notes:Non-Denouement - Archer's Tempo + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3523746922,3365897133#notes:Non-Denouement - Archer's Tempo (Enhanced) + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3523746922,1551736345#notes:Non-Denouement - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=201365942,3640170453#notes:Non-Denouement - Archer's Tempo + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=201365942,1817983009#notes:Non-Denouement - Archer's Tempo + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3523746922,3640170453#notes:Non-Denouement - Archer's Tempo (Enhanced) + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3523746922,1817983009#notes:Non-Denouement - Archer's Tempo (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3700496672,2173046394#notes:Non-Denouement - Shoot to Loot + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3700496672,1720528630#notes:Non-Denouement - Shoot to Loot + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2840833776,2173046394#notes:Non-Denouement - Shoot to Loot (Enhanced) + Voltshot -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2840833776,1720528630#notes:Non-Denouement - Shoot to Loot (Enhanced) + Voltshot (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3700496672,3365897133#notes:Non-Denouement - Shoot to Loot + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3700496672,1551736345#notes:Non-Denouement - Shoot to Loot + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2840833776,3365897133#notes:Non-Denouement - Shoot to Loot (Enhanced) + Explosive Head -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2840833776,1551736345#notes:Non-Denouement - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3700496672,3640170453#notes:Non-Denouement - Shoot to Loot + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=3700496672,1817983009#notes:Non-Denouement - Shoot to Loot + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2840833776,3640170453#notes:Non-Denouement - Shoot to Loot (Enhanced) + Chaos Reshaped -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1770490683&perks=2840833776,1817983009#notes:Non-Denouement - Shoot to Loot (Enhanced) + Chaos Reshaped (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=3621336854&perks=201365942,3891536761#notes:Accrued Redemption - Archer's Tempo + Kinetic Tremors -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=3621336854&perks=201365942,1549370717#notes:Accrued Redemption - Archer's Tempo + Kinetic Tremors (Enhanced) -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=3621336854&perks=3523746922,3891536761#notes:Accrued Redemption - Archer's Tempo (Enhanced) + Kinetic Tremors -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=3621336854&perks=3523746922,1549370717#notes:Accrued Redemption - Archer's Tempo (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=3621336854&perks=201365942,1561789734#notes:Accrued Redemption - Archer's Tempo + Firefly -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=3621336854&perks=201365942,1183436451#notes:Accrued Redemption - Archer's Tempo + Firefly (Enhanced) -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=3621336854&perks=3523746922,1561789734#notes:Accrued Redemption - Archer's Tempo (Enhanced) + Firefly -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=3621336854&perks=3523746922,1183436451#notes:Accrued Redemption - Archer's Tempo (Enhanced) + Firefly (Enhanced) -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=4095896073&perks=201365942,3891536761#notes:Accrued Redemption - Archer's Tempo + Kinetic Tremors -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=4095896073&perks=201365942,1549370717#notes:Accrued Redemption - Archer's Tempo + Kinetic Tremors (Enhanced) -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=4095896073&perks=3523746922,3891536761#notes:Accrued Redemption - Archer's Tempo (Enhanced) + Kinetic Tremors -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=4095896073&perks=3523746922,1549370717#notes:Accrued Redemption - Archer's Tempo (Enhanced) + Kinetic Tremors (Enhanced) -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=4095896073&perks=201365942,1561789734#notes:Accrued Redemption - Archer's Tempo + Firefly -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=4095896073&perks=201365942,1183436451#notes:Accrued Redemption - Archer's Tempo + Firefly (Enhanced) -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=4095896073&perks=3523746922,1561789734#notes:Accrued Redemption - Archer's Tempo (Enhanced) + Firefly -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=4095896073&perks=3523746922,1183436451#notes:Accrued Redemption - Archer's Tempo (Enhanced) + Firefly (Enhanced) -- Rank 2, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=776531651,2048641572#notes:Anamnesis (Adept) - Repulsor Brace + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=776531651,1926441324#notes:Anamnesis (Adept) - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2541826827,2048641572#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2541826827,1926441324#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=776531651,1464081238#notes:Anamnesis (Adept) - Repulsor Brace + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=776531651,2813913866#notes:Anamnesis (Adept) - Repulsor Brace + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2541826827,1464081238#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2541826827,2813913866#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=776531651,3365897133#notes:Anamnesis (Adept) - Repulsor Brace + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=776531651,1551736345#notes:Anamnesis (Adept) - Repulsor Brace + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2541826827,3365897133#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2541826827,1551736345#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2848615171,2048641572#notes:Anamnesis (Adept) - Dragonfly + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2848615171,1926441324#notes:Anamnesis (Adept) - Dragonfly + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=169755979,2048641572#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=169755979,1926441324#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2848615171,1464081238#notes:Anamnesis (Adept) - Dragonfly + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2848615171,2813913866#notes:Anamnesis (Adept) - Dragonfly + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=169755979,1464081238#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=169755979,2813913866#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2848615171,3365897133#notes:Anamnesis (Adept) - Dragonfly + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=2848615171,1551736345#notes:Anamnesis (Adept) - Dragonfly + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=169755979,3365897133#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=169755979,1551736345#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=201365942,2048641572#notes:Anamnesis (Adept) - Archer's Tempo + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=201365942,1926441324#notes:Anamnesis (Adept) - Archer's Tempo + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=3523746922,2048641572#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=3523746922,1926441324#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=201365942,1464081238#notes:Anamnesis (Adept) - Archer's Tempo + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=201365942,2813913866#notes:Anamnesis (Adept) - Archer's Tempo + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=3523746922,1464081238#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=3523746922,2813913866#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=201365942,3365897133#notes:Anamnesis (Adept) - Archer's Tempo + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=201365942,1551736345#notes:Anamnesis (Adept) - Archer's Tempo + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=3523746922,3365897133#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=1536325168&perks=3523746922,1551736345#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=776531651,2048641572#notes:Anamnesis - Repulsor Brace + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=776531651,1926441324#notes:Anamnesis - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2541826827,2048641572#notes:Anamnesis - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2541826827,1926441324#notes:Anamnesis - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=776531651,1464081238#notes:Anamnesis - Repulsor Brace + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=776531651,2813913866#notes:Anamnesis - Repulsor Brace + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2541826827,1464081238#notes:Anamnesis - Repulsor Brace (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2541826827,2813913866#notes:Anamnesis - Repulsor Brace (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=776531651,3365897133#notes:Anamnesis - Repulsor Brace + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=776531651,1551736345#notes:Anamnesis - Repulsor Brace + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2541826827,3365897133#notes:Anamnesis - Repulsor Brace (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2541826827,1551736345#notes:Anamnesis - Repulsor Brace (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2848615171,2048641572#notes:Anamnesis - Dragonfly + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2848615171,1926441324#notes:Anamnesis - Dragonfly + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=169755979,2048641572#notes:Anamnesis - Dragonfly (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=169755979,1926441324#notes:Anamnesis - Dragonfly (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2848615171,1464081238#notes:Anamnesis - Dragonfly + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2848615171,2813913866#notes:Anamnesis - Dragonfly + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=169755979,1464081238#notes:Anamnesis - Dragonfly (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=169755979,2813913866#notes:Anamnesis - Dragonfly (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2848615171,3365897133#notes:Anamnesis - Dragonfly + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=2848615171,1551736345#notes:Anamnesis - Dragonfly + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=169755979,3365897133#notes:Anamnesis - Dragonfly (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=169755979,1551736345#notes:Anamnesis - Dragonfly (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=201365942,2048641572#notes:Anamnesis - Archer's Tempo + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=201365942,1926441324#notes:Anamnesis - Archer's Tempo + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=3523746922,2048641572#notes:Anamnesis - Archer's Tempo (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=3523746922,1926441324#notes:Anamnesis - Archer's Tempo (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=201365942,1464081238#notes:Anamnesis - Archer's Tempo + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=201365942,2813913866#notes:Anamnesis - Archer's Tempo + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=3523746922,1464081238#notes:Anamnesis - Archer's Tempo (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=3523746922,2813913866#notes:Anamnesis - Archer's Tempo (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=201365942,3365897133#notes:Anamnesis - Archer's Tempo + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=201365942,1551736345#notes:Anamnesis - Archer's Tempo + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=3523746922,3365897133#notes:Anamnesis - Archer's Tempo (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2291392465&perks=3523746922,1551736345#notes:Anamnesis - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=776531651,2048641572#notes:Anamnesis - Repulsor Brace + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=776531651,1926441324#notes:Anamnesis - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2541826827,2048641572#notes:Anamnesis - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2541826827,1926441324#notes:Anamnesis - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=776531651,1464081238#notes:Anamnesis - Repulsor Brace + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=776531651,2813913866#notes:Anamnesis - Repulsor Brace + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2541826827,1464081238#notes:Anamnesis - Repulsor Brace (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2541826827,2813913866#notes:Anamnesis - Repulsor Brace (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=776531651,3365897133#notes:Anamnesis - Repulsor Brace + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=776531651,1551736345#notes:Anamnesis - Repulsor Brace + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2541826827,3365897133#notes:Anamnesis - Repulsor Brace (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2541826827,1551736345#notes:Anamnesis - Repulsor Brace (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2848615171,2048641572#notes:Anamnesis - Dragonfly + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2848615171,1926441324#notes:Anamnesis - Dragonfly + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=169755979,2048641572#notes:Anamnesis - Dragonfly (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=169755979,1926441324#notes:Anamnesis - Dragonfly (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2848615171,1464081238#notes:Anamnesis - Dragonfly + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2848615171,2813913866#notes:Anamnesis - Dragonfly + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=169755979,1464081238#notes:Anamnesis - Dragonfly (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=169755979,2813913866#notes:Anamnesis - Dragonfly (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2848615171,3365897133#notes:Anamnesis - Dragonfly + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=2848615171,1551736345#notes:Anamnesis - Dragonfly + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=169755979,3365897133#notes:Anamnesis - Dragonfly (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=169755979,1551736345#notes:Anamnesis - Dragonfly (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=201365942,2048641572#notes:Anamnesis - Archer's Tempo + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=201365942,1926441324#notes:Anamnesis - Archer's Tempo + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=3523746922,2048641572#notes:Anamnesis - Archer's Tempo (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=3523746922,1926441324#notes:Anamnesis - Archer's Tempo (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=201365942,1464081238#notes:Anamnesis - Archer's Tempo + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=201365942,2813913866#notes:Anamnesis - Archer's Tempo + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=3523746922,1464081238#notes:Anamnesis - Archer's Tempo (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=3523746922,2813913866#notes:Anamnesis - Archer's Tempo (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=201365942,3365897133#notes:Anamnesis - Archer's Tempo + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=201365942,1551736345#notes:Anamnesis - Archer's Tempo + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=3523746922,3365897133#notes:Anamnesis - Archer's Tempo (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3417731926&perks=3523746922,1551736345#notes:Anamnesis - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=776531651,2048641572#notes:Anamnesis (Adept) - Repulsor Brace + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=776531651,1926441324#notes:Anamnesis (Adept) - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2541826827,2048641572#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2541826827,1926441324#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=776531651,1464081238#notes:Anamnesis (Adept) - Repulsor Brace + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=776531651,2813913866#notes:Anamnesis (Adept) - Repulsor Brace + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2541826827,1464081238#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2541826827,2813913866#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=776531651,3365897133#notes:Anamnesis (Adept) - Repulsor Brace + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=776531651,1551736345#notes:Anamnesis (Adept) - Repulsor Brace + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2541826827,3365897133#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2541826827,1551736345#notes:Anamnesis (Adept) - Repulsor Brace (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2848615171,2048641572#notes:Anamnesis (Adept) - Dragonfly + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2848615171,1926441324#notes:Anamnesis (Adept) - Dragonfly + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=169755979,2048641572#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=169755979,1926441324#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2848615171,1464081238#notes:Anamnesis (Adept) - Dragonfly + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2848615171,2813913866#notes:Anamnesis (Adept) - Dragonfly + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=169755979,1464081238#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=169755979,2813913866#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2848615171,3365897133#notes:Anamnesis (Adept) - Dragonfly + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=2848615171,1551736345#notes:Anamnesis (Adept) - Dragonfly + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=169755979,3365897133#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=169755979,1551736345#notes:Anamnesis (Adept) - Dragonfly (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=201365942,2048641572#notes:Anamnesis (Adept) - Archer's Tempo + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=201365942,1926441324#notes:Anamnesis (Adept) - Archer's Tempo + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=3523746922,2048641572#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Destabilizing Rounds -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=3523746922,1926441324#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=201365942,1464081238#notes:Anamnesis (Adept) - Archer's Tempo + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=201365942,2813913866#notes:Anamnesis (Adept) - Archer's Tempo + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=3523746922,1464081238#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Demoralize -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=3523746922,2813913866#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Demoralize (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=201365942,3365897133#notes:Anamnesis (Adept) - Archer's Tempo + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=201365942,1551736345#notes:Anamnesis (Adept) - Archer's Tempo + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=3523746922,3365897133#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Explosive Head -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=3949253499&perks=3523746922,1551736345#notes:Anamnesis (Adept) - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=2848615171,4293542123#notes:Tyranny of Heaven - Dragonfly + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=2848615171,2675184851#notes:Tyranny of Heaven - Dragonfly + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=169755979,4293542123#notes:Tyranny of Heaven - Dragonfly (Enhanced) + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=169755979,2675184851#notes:Tyranny of Heaven - Dragonfly (Enhanced) + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=2848615171,4049631843#notes:Tyranny of Heaven - Dragonfly + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=2848615171,859780267#notes:Tyranny of Heaven - Dragonfly + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=169755979,4049631843#notes:Tyranny of Heaven - Dragonfly (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=169755979,859780267#notes:Tyranny of Heaven - Dragonfly (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=3365897133,4293542123#notes:Tyranny of Heaven - Explosive Head + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=3365897133,2675184851#notes:Tyranny of Heaven - Explosive Head + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=1551736345,4293542123#notes:Tyranny of Heaven - Explosive Head (Enhanced) + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=1551736345,2675184851#notes:Tyranny of Heaven - Explosive Head (Enhanced) + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=3365897133,4049631843#notes:Tyranny of Heaven - Explosive Head + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=3365897133,859780267#notes:Tyranny of Heaven - Explosive Head + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=1551736345,4049631843#notes:Tyranny of Heaven - Explosive Head (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=1551736345,859780267#notes:Tyranny of Heaven - Explosive Head (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=201365942,4293542123#notes:Tyranny of Heaven - Archer's Tempo + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=201365942,2675184851#notes:Tyranny of Heaven - Archer's Tempo + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=3523746922,4293542123#notes:Tyranny of Heaven - Archer's Tempo (Enhanced) + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=3523746922,2675184851#notes:Tyranny of Heaven - Archer's Tempo (Enhanced) + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=201365942,4049631843#notes:Tyranny of Heaven - Archer's Tempo + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=201365942,859780267#notes:Tyranny of Heaven - Archer's Tempo + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=3523746922,4049631843#notes:Tyranny of Heaven - Archer's Tempo (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2721249463&perks=3523746922,859780267#notes:Tyranny of Heaven - Archer's Tempo (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=2848615171,4293542123#notes:Tyranny of Heaven - Dragonfly + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=2848615171,2675184851#notes:Tyranny of Heaven - Dragonfly + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=169755979,4293542123#notes:Tyranny of Heaven - Dragonfly (Enhanced) + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=169755979,2675184851#notes:Tyranny of Heaven - Dragonfly (Enhanced) + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=2848615171,4049631843#notes:Tyranny of Heaven - Dragonfly + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=2848615171,859780267#notes:Tyranny of Heaven - Dragonfly + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=169755979,4049631843#notes:Tyranny of Heaven - Dragonfly (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=169755979,859780267#notes:Tyranny of Heaven - Dragonfly (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=3365897133,4293542123#notes:Tyranny of Heaven - Explosive Head + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=3365897133,2675184851#notes:Tyranny of Heaven - Explosive Head + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=1551736345,4293542123#notes:Tyranny of Heaven - Explosive Head (Enhanced) + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=1551736345,2675184851#notes:Tyranny of Heaven - Explosive Head (Enhanced) + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=3365897133,4049631843#notes:Tyranny of Heaven - Explosive Head + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=3365897133,859780267#notes:Tyranny of Heaven - Explosive Head + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=1551736345,4049631843#notes:Tyranny of Heaven - Explosive Head (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=1551736345,859780267#notes:Tyranny of Heaven - Explosive Head (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=201365942,4293542123#notes:Tyranny of Heaven - Archer's Tempo + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=201365942,2675184851#notes:Tyranny of Heaven - Archer's Tempo + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=3523746922,4293542123#notes:Tyranny of Heaven - Archer's Tempo (Enhanced) + Incandescent -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=3523746922,2675184851#notes:Tyranny of Heaven - Archer's Tempo (Enhanced) + Incandescent (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=201365942,4049631843#notes:Tyranny of Heaven - Archer's Tempo + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=201365942,859780267#notes:Tyranny of Heaven - Archer's Tempo + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=3523746922,4049631843#notes:Tyranny of Heaven - Archer's Tempo (Enhanced) + One for All -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=3388655311&perks=3523746922,859780267#notes:Tyranny of Heaven - Archer's Tempo (Enhanced) + One for All (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2326578623&perks=776531651,2048641572#notes:Fortunate Star - Repulsor Brace + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2326578623&perks=776531651,1926441324#notes:Fortunate Star - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2326578623&perks=2541826827,2048641572#notes:Fortunate Star - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2326578623&perks=2541826827,1926441324#notes:Fortunate Star - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2326578623&perks=201365942,2048641572#notes:Fortunate Star - Archer's Tempo + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2326578623&perks=201365942,1926441324#notes:Fortunate Star - Archer's Tempo + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2326578623&perks=3523746922,2048641572#notes:Fortunate Star - Archer's Tempo (Enhanced) + Destabilizing Rounds -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2326578623&perks=3523746922,1926441324#notes:Fortunate Star - Archer's Tempo (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=192784503&perks=201365942,4293542123#notes:Pre Astyanax IV - Archer's Tempo + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=201365942,2675184851#notes:Pre Astyanax IV - Archer's Tempo + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=3523746922,4293542123#notes:Pre Astyanax IV - Archer's Tempo (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=3523746922,2675184851#notes:Pre Astyanax IV - Archer's Tempo (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=201365942,3365897133#notes:Pre Astyanax IV - Archer's Tempo + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=201365942,1551736345#notes:Pre Astyanax IV - Archer's Tempo + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=3523746922,3365897133#notes:Pre Astyanax IV - Archer's Tempo (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=3523746922,1551736345#notes:Pre Astyanax IV - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=3700496672,4293542123#notes:Pre Astyanax IV - Shoot to Loot + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=3700496672,2675184851#notes:Pre Astyanax IV - Shoot to Loot + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=2840833776,4293542123#notes:Pre Astyanax IV - Shoot to Loot (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=2840833776,2675184851#notes:Pre Astyanax IV - Shoot to Loot (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=3700496672,3365897133#notes:Pre Astyanax IV - Shoot to Loot + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=3700496672,1551736345#notes:Pre Astyanax IV - Shoot to Loot + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=2840833776,3365897133#notes:Pre Astyanax IV - Shoot to Loot (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=2840833776,1551736345#notes:Pre Astyanax IV - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=243981275,4293542123#notes:Pre Astyanax IV - Attrition Orbs + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=243981275,2675184851#notes:Pre Astyanax IV - Attrition Orbs + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=984655331,4293542123#notes:Pre Astyanax IV - Attrition Orbs (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=984655331,2675184851#notes:Pre Astyanax IV - Attrition Orbs (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=243981275,3365897133#notes:Pre Astyanax IV - Attrition Orbs + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=243981275,1551736345#notes:Pre Astyanax IV - Attrition Orbs + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=984655331,3365897133#notes:Pre Astyanax IV - Attrition Orbs (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=192784503&perks=984655331,1551736345#notes:Pre Astyanax IV - Attrition Orbs (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=201365942,4293542123#notes:Pre Astyanax IV (Adept) - Archer's Tempo + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=201365942,2675184851#notes:Pre Astyanax IV (Adept) - Archer's Tempo + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=3523746922,4293542123#notes:Pre Astyanax IV (Adept) - Archer's Tempo (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=3523746922,2675184851#notes:Pre Astyanax IV (Adept) - Archer's Tempo (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=201365942,3365897133#notes:Pre Astyanax IV (Adept) - Archer's Tempo + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=201365942,1551736345#notes:Pre Astyanax IV (Adept) - Archer's Tempo + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=3523746922,3365897133#notes:Pre Astyanax IV (Adept) - Archer's Tempo (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=3523746922,1551736345#notes:Pre Astyanax IV (Adept) - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=3700496672,4293542123#notes:Pre Astyanax IV (Adept) - Shoot to Loot + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=3700496672,2675184851#notes:Pre Astyanax IV (Adept) - Shoot to Loot + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=2840833776,4293542123#notes:Pre Astyanax IV (Adept) - Shoot to Loot (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=2840833776,2675184851#notes:Pre Astyanax IV (Adept) - Shoot to Loot (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=3700496672,3365897133#notes:Pre Astyanax IV (Adept) - Shoot to Loot + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=3700496672,1551736345#notes:Pre Astyanax IV (Adept) - Shoot to Loot + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=2840833776,3365897133#notes:Pre Astyanax IV (Adept) - Shoot to Loot (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=2840833776,1551736345#notes:Pre Astyanax IV (Adept) - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=243981275,4293542123#notes:Pre Astyanax IV (Adept) - Attrition Orbs + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=243981275,2675184851#notes:Pre Astyanax IV (Adept) - Attrition Orbs + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=984655331,4293542123#notes:Pre Astyanax IV (Adept) - Attrition Orbs (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=984655331,2675184851#notes:Pre Astyanax IV (Adept) - Attrition Orbs (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=243981275,3365897133#notes:Pre Astyanax IV (Adept) - Attrition Orbs + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=243981275,1551736345#notes:Pre Astyanax IV (Adept) - Attrition Orbs + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=984655331,3365897133#notes:Pre Astyanax IV (Adept) - Attrition Orbs (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=496556698&perks=984655331,1551736345#notes:Pre Astyanax IV (Adept) - Attrition Orbs (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=201365942,4293542123#notes:Pre Astyanax IV (Adept) - Archer's Tempo + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=201365942,2675184851#notes:Pre Astyanax IV (Adept) - Archer's Tempo + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=3523746922,4293542123#notes:Pre Astyanax IV (Adept) - Archer's Tempo (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=3523746922,2675184851#notes:Pre Astyanax IV (Adept) - Archer's Tempo (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=201365942,3365897133#notes:Pre Astyanax IV (Adept) - Archer's Tempo + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=201365942,1551736345#notes:Pre Astyanax IV (Adept) - Archer's Tempo + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=3523746922,3365897133#notes:Pre Astyanax IV (Adept) - Archer's Tempo (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=3523746922,1551736345#notes:Pre Astyanax IV (Adept) - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=3700496672,4293542123#notes:Pre Astyanax IV (Adept) - Shoot to Loot + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=3700496672,2675184851#notes:Pre Astyanax IV (Adept) - Shoot to Loot + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=2840833776,4293542123#notes:Pre Astyanax IV (Adept) - Shoot to Loot (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=2840833776,2675184851#notes:Pre Astyanax IV (Adept) - Shoot to Loot (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=3700496672,3365897133#notes:Pre Astyanax IV (Adept) - Shoot to Loot + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=3700496672,1551736345#notes:Pre Astyanax IV (Adept) - Shoot to Loot + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=2840833776,3365897133#notes:Pre Astyanax IV (Adept) - Shoot to Loot (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=2840833776,1551736345#notes:Pre Astyanax IV (Adept) - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=243981275,4293542123#notes:Pre Astyanax IV (Adept) - Attrition Orbs + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=243981275,2675184851#notes:Pre Astyanax IV (Adept) - Attrition Orbs + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=984655331,4293542123#notes:Pre Astyanax IV (Adept) - Attrition Orbs (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=984655331,2675184851#notes:Pre Astyanax IV (Adept) - Attrition Orbs (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=243981275,3365897133#notes:Pre Astyanax IV (Adept) - Attrition Orbs + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=243981275,1551736345#notes:Pre Astyanax IV (Adept) - Attrition Orbs + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=984655331,3365897133#notes:Pre Astyanax IV (Adept) - Attrition Orbs (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2063217087&perks=984655331,1551736345#notes:Pre Astyanax IV (Adept) - Attrition Orbs (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=201365942,4293542123#notes:Pre Astyanax IV - Archer's Tempo + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=201365942,2675184851#notes:Pre Astyanax IV - Archer's Tempo + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=3523746922,4293542123#notes:Pre Astyanax IV - Archer's Tempo (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=3523746922,2675184851#notes:Pre Astyanax IV - Archer's Tempo (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=201365942,3365897133#notes:Pre Astyanax IV - Archer's Tempo + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=201365942,1551736345#notes:Pre Astyanax IV - Archer's Tempo + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=3523746922,3365897133#notes:Pre Astyanax IV - Archer's Tempo (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=3523746922,1551736345#notes:Pre Astyanax IV - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=3700496672,4293542123#notes:Pre Astyanax IV - Shoot to Loot + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=3700496672,2675184851#notes:Pre Astyanax IV - Shoot to Loot + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=2840833776,4293542123#notes:Pre Astyanax IV - Shoot to Loot (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=2840833776,2675184851#notes:Pre Astyanax IV - Shoot to Loot (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=3700496672,3365897133#notes:Pre Astyanax IV - Shoot to Loot + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=3700496672,1551736345#notes:Pre Astyanax IV - Shoot to Loot + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=2840833776,3365897133#notes:Pre Astyanax IV - Shoot to Loot (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=2840833776,1551736345#notes:Pre Astyanax IV - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=243981275,4293542123#notes:Pre Astyanax IV - Attrition Orbs + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=243981275,2675184851#notes:Pre Astyanax IV - Attrition Orbs + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=984655331,4293542123#notes:Pre Astyanax IV - Attrition Orbs (Enhanced) + Incandescent -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=984655331,2675184851#notes:Pre Astyanax IV - Attrition Orbs (Enhanced) + Incandescent (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=243981275,3365897133#notes:Pre Astyanax IV - Attrition Orbs + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=243981275,1551736345#notes:Pre Astyanax IV - Attrition Orbs + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=984655331,3365897133#notes:Pre Astyanax IV - Attrition Orbs (Enhanced) + Explosive Head -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2932922810&perks=984655331,1551736345#notes:Pre Astyanax IV - Attrition Orbs (Enhanced) + Explosive Head (Enhanced) -- Rank 6, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=201365942,4293542123#notes:Strident Whistle - Archer's Tempo + Incandescent -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=201365942,2675184851#notes:Strident Whistle - Archer's Tempo + Incandescent (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3523746922,4293542123#notes:Strident Whistle - Archer's Tempo (Enhanced) + Incandescent -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3523746922,2675184851#notes:Strident Whistle - Archer's Tempo (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=201365942,3365897133#notes:Strident Whistle - Archer's Tempo + Explosive Head -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=201365942,1551736345#notes:Strident Whistle - Archer's Tempo + Explosive Head (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3523746922,3365897133#notes:Strident Whistle - Archer's Tempo (Enhanced) + Explosive Head -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3523746922,1551736345#notes:Strident Whistle - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=201365942,2848615171#notes:Strident Whistle - Archer's Tempo + Dragonfly -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=201365942,169755979#notes:Strident Whistle - Archer's Tempo + Dragonfly (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3523746922,2848615171#notes:Strident Whistle - Archer's Tempo (Enhanced) + Dragonfly -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3523746922,169755979#notes:Strident Whistle - Archer's Tempo (Enhanced) + Dragonfly (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3700496672,4293542123#notes:Strident Whistle - Shoot to Loot + Incandescent -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3700496672,2675184851#notes:Strident Whistle - Shoot to Loot + Incandescent (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=2840833776,4293542123#notes:Strident Whistle - Shoot to Loot (Enhanced) + Incandescent -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=2840833776,2675184851#notes:Strident Whistle - Shoot to Loot (Enhanced) + Incandescent (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3700496672,3365897133#notes:Strident Whistle - Shoot to Loot + Explosive Head -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3700496672,1551736345#notes:Strident Whistle - Shoot to Loot + Explosive Head (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=2840833776,3365897133#notes:Strident Whistle - Shoot to Loot (Enhanced) + Explosive Head -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=2840833776,1551736345#notes:Strident Whistle - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3700496672,2848615171#notes:Strident Whistle - Shoot to Loot + Dragonfly -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=3700496672,169755979#notes:Strident Whistle - Shoot to Loot + Dragonfly (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=2840833776,2848615171#notes:Strident Whistle - Shoot to Loot (Enhanced) + Dragonfly -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2591241074&perks=2840833776,169755979#notes:Strident Whistle - Shoot to Loot (Enhanced) + Dragonfly (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=201365942,4293542123#notes:Hush - Archer's Tempo + Incandescent -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=201365942,2675184851#notes:Hush - Archer's Tempo + Incandescent (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=3523746922,4293542123#notes:Hush - Archer's Tempo (Enhanced) + Incandescent -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=3523746922,2675184851#notes:Hush - Archer's Tempo (Enhanced) + Incandescent (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=201365942,3365897133#notes:Hush - Archer's Tempo + Explosive Head -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=201365942,1551736345#notes:Hush - Archer's Tempo + Explosive Head (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=3523746922,3365897133#notes:Hush - Archer's Tempo (Enhanced) + Explosive Head -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=3523746922,1551736345#notes:Hush - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=3700496672,4293542123#notes:Hush - Shoot to Loot + Incandescent -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=3700496672,2675184851#notes:Hush - Shoot to Loot + Incandescent (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=2840833776,4293542123#notes:Hush - Shoot to Loot (Enhanced) + Incandescent -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=2840833776,2675184851#notes:Hush - Shoot to Loot (Enhanced) + Incandescent (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=3700496672,3365897133#notes:Hush - Shoot to Loot + Explosive Head -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=3700496672,1551736345#notes:Hush - Shoot to Loot + Explosive Head (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=2840833776,3365897133#notes:Hush - Shoot to Loot (Enhanced) + Explosive Head -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1584643826&perks=2840833776,1551736345#notes:Hush - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=201365942,4293542123#notes:Hush - Archer's Tempo + Incandescent -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=201365942,2675184851#notes:Hush - Archer's Tempo + Incandescent (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=3523746922,4293542123#notes:Hush - Archer's Tempo (Enhanced) + Incandescent -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=3523746922,2675184851#notes:Hush - Archer's Tempo (Enhanced) + Incandescent (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=201365942,3365897133#notes:Hush - Archer's Tempo + Explosive Head -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=201365942,1551736345#notes:Hush - Archer's Tempo + Explosive Head (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=3523746922,3365897133#notes:Hush - Archer's Tempo (Enhanced) + Explosive Head -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=3523746922,1551736345#notes:Hush - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=3700496672,4293542123#notes:Hush - Shoot to Loot + Incandescent -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=3700496672,2675184851#notes:Hush - Shoot to Loot + Incandescent (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=2840833776,4293542123#notes:Hush - Shoot to Loot (Enhanced) + Incandescent -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=2840833776,2675184851#notes:Hush - Shoot to Loot (Enhanced) + Incandescent (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=3700496672,3365897133#notes:Hush - Shoot to Loot + Explosive Head -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=3700496672,1551736345#notes:Hush - Shoot to Loot + Explosive Head (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=2840833776,3365897133#notes:Hush - Shoot to Loot (Enhanced) + Explosive Head -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3962575203&perks=2840833776,1551736345#notes:Hush - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=3849444474&perks=2848615171,3365897133#notes:Tripwire Canary - Dragonfly + Explosive Head -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3849444474&perks=2848615171,1551736345#notes:Tripwire Canary - Dragonfly + Explosive Head (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3849444474&perks=169755979,3365897133#notes:Tripwire Canary - Dragonfly (Enhanced) + Explosive Head -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3849444474&perks=169755979,1551736345#notes:Tripwire Canary - Dragonfly (Enhanced) + Explosive Head (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3849444474&perks=201365942,3365897133#notes:Tripwire Canary - Archer's Tempo + Explosive Head -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3849444474&perks=201365942,1551736345#notes:Tripwire Canary - Archer's Tempo + Explosive Head (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3849444474&perks=3523746922,3365897133#notes:Tripwire Canary - Archer's Tempo (Enhanced) + Explosive Head -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=3849444474&perks=3523746922,1551736345#notes:Tripwire Canary - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 9, Tier B by TheAegisRelic
+dimwishlist:item=720351795&perks=2848615171,3365897133#notes:Arsenic Bite-4b - Dragonfly + Explosive Head -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=720351795&perks=2848615171,1551736345#notes:Arsenic Bite-4b - Dragonfly + Explosive Head (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=720351795&perks=169755979,3365897133#notes:Arsenic Bite-4b - Dragonfly (Enhanced) + Explosive Head -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=720351795&perks=169755979,1551736345#notes:Arsenic Bite-4b - Dragonfly (Enhanced) + Explosive Head (Enhanced) -- Rank 10, Tier B by TheAegisRelic
+dimwishlist:item=232928045&perks=201365942,3365897133#notes:Under Your Skin - Archer's Tempo + Explosive Head -- Rank 11, Tier C by TheAegisRelic
+dimwishlist:item=232928045&perks=201365942,1551736345#notes:Under Your Skin - Archer's Tempo + Explosive Head (Enhanced) -- Rank 11, Tier C by TheAegisRelic
+dimwishlist:item=232928045&perks=3523746922,3365897133#notes:Under Your Skin - Archer's Tempo (Enhanced) + Explosive Head -- Rank 11, Tier C by TheAegisRelic
+dimwishlist:item=232928045&perks=3523746922,1551736345#notes:Under Your Skin - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 11, Tier C by TheAegisRelic
+dimwishlist:item=232928045&perks=201365942,2848615171#notes:Under Your Skin - Archer's Tempo + Dragonfly -- Rank 11, Tier C by TheAegisRelic
+dimwishlist:item=232928045&perks=201365942,169755979#notes:Under Your Skin - Archer's Tempo + Dragonfly (Enhanced) -- Rank 11, Tier C by TheAegisRelic
+dimwishlist:item=232928045&perks=3523746922,2848615171#notes:Under Your Skin - Archer's Tempo (Enhanced) + Dragonfly -- Rank 11, Tier C by TheAegisRelic
+dimwishlist:item=232928045&perks=3523746922,169755979#notes:Under Your Skin - Archer's Tempo (Enhanced) + Dragonfly (Enhanced) -- Rank 11, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=201365942,124408337#notes:Raconteur - Archer's Tempo + Headstone -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=201365942,1171887445#notes:Raconteur - Archer's Tempo + Headstone (Enhanced) -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=3523746922,124408337#notes:Raconteur - Archer's Tempo (Enhanced) + Headstone -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=3523746922,1171887445#notes:Raconteur - Archer's Tempo (Enhanced) + Headstone (Enhanced) -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=201365942,3365897133#notes:Raconteur - Archer's Tempo + Explosive Head -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=201365942,1551736345#notes:Raconteur - Archer's Tempo + Explosive Head (Enhanced) -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=3523746922,3365897133#notes:Raconteur - Archer's Tempo (Enhanced) + Explosive Head -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=3523746922,1551736345#notes:Raconteur - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=3700496672,124408337#notes:Raconteur - Shoot to Loot + Headstone -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=3700496672,1171887445#notes:Raconteur - Shoot to Loot + Headstone (Enhanced) -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=2840833776,124408337#notes:Raconteur - Shoot to Loot (Enhanced) + Headstone -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=2840833776,1171887445#notes:Raconteur - Shoot to Loot (Enhanced) + Headstone (Enhanced) -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=3700496672,3365897133#notes:Raconteur - Shoot to Loot + Explosive Head -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=3700496672,1551736345#notes:Raconteur - Shoot to Loot + Explosive Head (Enhanced) -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=2840833776,3365897133#notes:Raconteur - Shoot to Loot (Enhanced) + Explosive Head -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=45643573&perks=2840833776,1551736345#notes:Raconteur - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 12, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=3365897133,831391274#notes:Vengeful Whisper - Explosive Head + Hatchling -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=3365897133,102912326#notes:Vengeful Whisper - Explosive Head + Hatchling (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=1551736345,831391274#notes:Vengeful Whisper - Explosive Head (Enhanced) + Hatchling -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=1551736345,102912326#notes:Vengeful Whisper - Explosive Head (Enhanced) + Hatchling (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=201365942,831391274#notes:Vengeful Whisper - Archer's Tempo + Hatchling -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=201365942,102912326#notes:Vengeful Whisper - Archer's Tempo + Hatchling (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=3523746922,831391274#notes:Vengeful Whisper - Archer's Tempo (Enhanced) + Hatchling -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=3523746922,102912326#notes:Vengeful Whisper - Archer's Tempo (Enhanced) + Hatchling (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=923806249,831391274#notes:Vengeful Whisper - Slice + Hatchling -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=923806249,102912326#notes:Vengeful Whisper - Slice + Hatchling (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=3422796781,831391274#notes:Vengeful Whisper - Slice (Enhanced) + Hatchling -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=839344841&perks=3422796781,102912326#notes:Vengeful Whisper - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 13, Tier C by TheAegisRelic
+dimwishlist:item=888872889&perks=201365942,2848615171#notes:Point of the Stag - Archer's Tempo + Dragonfly -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=888872889&perks=201365942,169755979#notes:Point of the Stag - Archer's Tempo + Dragonfly (Enhanced) -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=888872889&perks=3523746922,2848615171#notes:Point of the Stag - Archer's Tempo (Enhanced) + Dragonfly -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=888872889&perks=3523746922,169755979#notes:Point of the Stag - Archer's Tempo (Enhanced) + Dragonfly (Enhanced) -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3434944005&perks=201365942,2848615171#notes:Point of the Stag - Archer's Tempo + Dragonfly -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3434944005&perks=201365942,169755979#notes:Point of the Stag - Archer's Tempo + Dragonfly (Enhanced) -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3434944005&perks=3523746922,2848615171#notes:Point of the Stag - Archer's Tempo (Enhanced) + Dragonfly -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3434944005&perks=3523746922,169755979#notes:Point of the Stag - Archer's Tempo (Enhanced) + Dragonfly (Enhanced) -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3465233192&perks=201365942,2848615171#notes:Point of the Stag - Archer's Tempo + Dragonfly -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3465233192&perks=201365942,169755979#notes:Point of the Stag - Archer's Tempo + Dragonfly (Enhanced) -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3465233192&perks=3523746922,2848615171#notes:Point of the Stag - Archer's Tempo (Enhanced) + Dragonfly -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3465233192&perks=3523746922,169755979#notes:Point of the Stag - Archer's Tempo (Enhanced) + Dragonfly (Enhanced) -- Rank 14, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=201365942,2848615171#notes:Wolftone Draw - Archer's Tempo + Dragonfly -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=201365942,169755979#notes:Wolftone Draw - Archer's Tempo + Dragonfly (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=3523746922,2848615171#notes:Wolftone Draw - Archer's Tempo (Enhanced) + Dragonfly -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=3523746922,169755979#notes:Wolftone Draw - Archer's Tempo (Enhanced) + Dragonfly (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=201365942,4104185692#notes:Wolftone Draw - Archer's Tempo + Frenzy -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=201365942,3007133316#notes:Wolftone Draw - Archer's Tempo + Frenzy (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=3523746922,4104185692#notes:Wolftone Draw - Archer's Tempo (Enhanced) + Frenzy -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=3523746922,3007133316#notes:Wolftone Draw - Archer's Tempo (Enhanced) + Frenzy (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=3700496672,2848615171#notes:Wolftone Draw - Shoot to Loot + Dragonfly -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=3700496672,169755979#notes:Wolftone Draw - Shoot to Loot + Dragonfly (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=2840833776,2848615171#notes:Wolftone Draw - Shoot to Loot (Enhanced) + Dragonfly -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=2840833776,169755979#notes:Wolftone Draw - Shoot to Loot (Enhanced) + Dragonfly (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=3700496672,4104185692#notes:Wolftone Draw - Shoot to Loot + Frenzy -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=3700496672,3007133316#notes:Wolftone Draw - Shoot to Loot + Frenzy (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=2840833776,4104185692#notes:Wolftone Draw - Shoot to Loot (Enhanced) + Frenzy -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=3472875143&perks=2840833776,3007133316#notes:Wolftone Draw - Shoot to Loot (Enhanced) + Frenzy (Enhanced) -- Rank 15, Tier C by TheAegisRelic
+dimwishlist:item=1399109800&perks=201365942,3365897133#notes:Fel Taradiddle - Archer's Tempo + Explosive Head -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=1399109800&perks=201365942,1551736345#notes:Fel Taradiddle - Archer's Tempo + Explosive Head (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=1399109800&perks=3523746922,3365897133#notes:Fel Taradiddle - Archer's Tempo (Enhanced) + Explosive Head -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=1399109800&perks=3523746922,1551736345#notes:Fel Taradiddle - Archer's Tempo (Enhanced) + Explosive Head (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=1399109800&perks=3700496672,3365897133#notes:Fel Taradiddle - Shoot to Loot + Explosive Head -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=1399109800&perks=3700496672,1551736345#notes:Fel Taradiddle - Shoot to Loot + Explosive Head (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=1399109800&perks=2840833776,3365897133#notes:Fel Taradiddle - Shoot to Loot (Enhanced) + Explosive Head -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=1399109800&perks=2840833776,1551736345#notes:Fel Taradiddle - Shoot to Loot (Enhanced) + Explosive Head (Enhanced) -- Rank 16, Tier C by TheAegisRelic
+dimwishlist:item=3460122497&perks=201365942,4104185692#notes:Imperial Needle - Archer's Tempo + Frenzy -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3460122497&perks=201365942,3007133316#notes:Imperial Needle - Archer's Tempo + Frenzy (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3460122497&perks=3523746922,4104185692#notes:Imperial Needle - Archer's Tempo (Enhanced) + Frenzy -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3460122497&perks=3523746922,3007133316#notes:Imperial Needle - Archer's Tempo (Enhanced) + Frenzy (Enhanced) -- Rank 17, Tier D by TheAegisRelic
+dimwishlist:item=3710082365&perks=776531651,3365897133#notes:Lethophobia - Repulsor Brace + Explosive Head -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=3710082365&perks=776531651,1551736345#notes:Lethophobia - Repulsor Brace + Explosive Head (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=3710082365&perks=2541826827,3365897133#notes:Lethophobia - Repulsor Brace (Enhanced) + Explosive Head -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=3710082365&perks=2541826827,1551736345#notes:Lethophobia - Repulsor Brace (Enhanced) + Explosive Head (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=3710082365&perks=951095735,3365897133#notes:Lethophobia - Impulse Amplifier + Explosive Head -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=3710082365&perks=951095735,1551736345#notes:Lethophobia - Impulse Amplifier + Explosive Head (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=3710082365&perks=3878366039,3365897133#notes:Lethophobia - Impulse Amplifier (Enhanced) + Explosive Head -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=3710082365&perks=3878366039,1551736345#notes:Lethophobia - Impulse Amplifier (Enhanced) + Explosive Head (Enhanced) -- Rank 18, Tier D by TheAegisRelic
+dimwishlist:item=2513965917&perks=3700496672,124408337#notes:Lunulata-4b - Shoot to Loot + Headstone -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2513965917&perks=3700496672,1171887445#notes:Lunulata-4b - Shoot to Loot + Headstone (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2513965917&perks=2840833776,124408337#notes:Lunulata-4b - Shoot to Loot (Enhanced) + Headstone -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=2513965917&perks=2840833776,1171887445#notes:Lunulata-4b - Shoot to Loot (Enhanced) + Headstone (Enhanced) -- Rank 19, Tier D by TheAegisRelic
+dimwishlist:item=1621657423&perks=247725512,3365897133#notes:Biting Winds - Rapid Hit + Explosive Head -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1621657423&perks=247725512,1551736345#notes:Biting Winds - Rapid Hit + Explosive Head (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1621657423&perks=2938480696,3365897133#notes:Biting Winds - Rapid Hit (Enhanced) + Explosive Head -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=1621657423&perks=2938480696,1551736345#notes:Biting Winds - Rapid Hit (Enhanced) + Explosive Head (Enhanced) -- Rank 20, Tier D by TheAegisRelic
+dimwishlist:item=211938782&perks=201365942,2319119708#notes:Whispering Slab - Archer's Tempo + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=201365942,2140591236#notes:Whispering Slab - Archer's Tempo + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523746922,2319119708#notes:Whispering Slab - Archer's Tempo (Enhanced) + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523746922,2140591236#notes:Whispering Slab - Archer's Tempo (Enhanced) + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=201365942,4082225868#notes:Whispering Slab - Archer's Tempo + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=201365942,1161469972#notes:Whispering Slab - Archer's Tempo + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523746922,4082225868#notes:Whispering Slab - Archer's Tempo (Enhanced) + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523746922,1161469972#notes:Whispering Slab - Archer's Tempo (Enhanced) + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=201365942,1546637391#notes:Whispering Slab - Archer's Tempo + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=201365942,3418165135#notes:Whispering Slab - Archer's Tempo + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523746922,1546637391#notes:Whispering Slab - Archer's Tempo (Enhanced) + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523746922,3418165135#notes:Whispering Slab - Archer's Tempo (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523296417,2319119708#notes:Whispering Slab - Demolitionist + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523296417,2140591236#notes:Whispering Slab - Demolitionist + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=1906147653,2319119708#notes:Whispering Slab - Demolitionist (Enhanced) + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=1906147653,2140591236#notes:Whispering Slab - Demolitionist (Enhanced) + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523296417,4082225868#notes:Whispering Slab - Demolitionist + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523296417,1161469972#notes:Whispering Slab - Demolitionist + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=1906147653,4082225868#notes:Whispering Slab - Demolitionist (Enhanced) + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=1906147653,1161469972#notes:Whispering Slab - Demolitionist (Enhanced) + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523296417,1546637391#notes:Whispering Slab - Demolitionist + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=3523296417,3418165135#notes:Whispering Slab - Demolitionist + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=1906147653,1546637391#notes:Whispering Slab - Demolitionist (Enhanced) + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=1906147653,3418165135#notes:Whispering Slab - Demolitionist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=691659142,2319119708#notes:Whispering Slab - Pugilist + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=691659142,2140591236#notes:Whispering Slab - Pugilist + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=536173722,2319119708#notes:Whispering Slab - Pugilist (Enhanced) + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=536173722,2140591236#notes:Whispering Slab - Pugilist (Enhanced) + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=691659142,4082225868#notes:Whispering Slab - Pugilist + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=691659142,1161469972#notes:Whispering Slab - Pugilist + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=536173722,4082225868#notes:Whispering Slab - Pugilist (Enhanced) + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=536173722,1161469972#notes:Whispering Slab - Pugilist (Enhanced) + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=691659142,1546637391#notes:Whispering Slab - Pugilist + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=691659142,3418165135#notes:Whispering Slab - Pugilist + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=536173722,1546637391#notes:Whispering Slab - Pugilist (Enhanced) + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=211938782&perks=536173722,3418165135#notes:Whispering Slab - Pugilist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=201365942,2319119708#notes:Whispering Slab - Archer's Tempo + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=201365942,2140591236#notes:Whispering Slab - Archer's Tempo + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523746922,2319119708#notes:Whispering Slab - Archer's Tempo (Enhanced) + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523746922,2140591236#notes:Whispering Slab - Archer's Tempo (Enhanced) + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=201365942,4082225868#notes:Whispering Slab - Archer's Tempo + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=201365942,1161469972#notes:Whispering Slab - Archer's Tempo + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523746922,4082225868#notes:Whispering Slab - Archer's Tempo (Enhanced) + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523746922,1161469972#notes:Whispering Slab - Archer's Tempo (Enhanced) + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=201365942,1546637391#notes:Whispering Slab - Archer's Tempo + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=201365942,3418165135#notes:Whispering Slab - Archer's Tempo + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523746922,1546637391#notes:Whispering Slab - Archer's Tempo (Enhanced) + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523746922,3418165135#notes:Whispering Slab - Archer's Tempo (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523296417,2319119708#notes:Whispering Slab - Demolitionist + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523296417,2140591236#notes:Whispering Slab - Demolitionist + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=1906147653,2319119708#notes:Whispering Slab - Demolitionist (Enhanced) + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=1906147653,2140591236#notes:Whispering Slab - Demolitionist (Enhanced) + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523296417,4082225868#notes:Whispering Slab - Demolitionist + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523296417,1161469972#notes:Whispering Slab - Demolitionist + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=1906147653,4082225868#notes:Whispering Slab - Demolitionist (Enhanced) + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=1906147653,1161469972#notes:Whispering Slab - Demolitionist (Enhanced) + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523296417,1546637391#notes:Whispering Slab - Demolitionist + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=3523296417,3418165135#notes:Whispering Slab - Demolitionist + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=1906147653,1546637391#notes:Whispering Slab - Demolitionist (Enhanced) + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=1906147653,3418165135#notes:Whispering Slab - Demolitionist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=691659142,2319119708#notes:Whispering Slab - Pugilist + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=691659142,2140591236#notes:Whispering Slab - Pugilist + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=536173722,2319119708#notes:Whispering Slab - Pugilist (Enhanced) + High Ground -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=536173722,2140591236#notes:Whispering Slab - Pugilist (Enhanced) + High Ground (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=691659142,4082225868#notes:Whispering Slab - Pugilist + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=691659142,1161469972#notes:Whispering Slab - Pugilist + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=536173722,4082225868#notes:Whispering Slab - Pugilist (Enhanced) + Swashbuckler -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=536173722,1161469972#notes:Whispering Slab - Pugilist (Enhanced) + Swashbuckler (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=691659142,1546637391#notes:Whispering Slab - Pugilist + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=691659142,3418165135#notes:Whispering Slab - Pugilist + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=536173722,1546637391#notes:Whispering Slab - Pugilist (Enhanced) + Vorpal Weapon -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=690341468&perks=536173722,3418165135#notes:Whispering Slab - Pugilist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 21, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=247725512,201365942#notes:Whistler's Whim (Adept) - Rapid Hit + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=247725512,3523746922#notes:Whistler's Whim (Adept) - Rapid Hit + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=2938480696,201365942#notes:Whistler's Whim (Adept) - Rapid Hit (Enhanced) + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=2938480696,3523746922#notes:Whistler's Whim (Adept) - Rapid Hit (Enhanced) + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=247725512,1015611457#notes:Whistler's Whim (Adept) - Rapid Hit + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=247725512,2923251173#notes:Whistler's Whim (Adept) - Rapid Hit + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=2938480696,1015611457#notes:Whistler's Whim (Adept) - Rapid Hit (Enhanced) + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=2938480696,2923251173#notes:Whistler's Whim (Adept) - Rapid Hit (Enhanced) + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=1799762209,201365942#notes:Whistler's Whim (Adept) - Cornered + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=1799762209,3523746922#notes:Whistler's Whim (Adept) - Cornered + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=1008128453,201365942#notes:Whistler's Whim (Adept) - Cornered (Enhanced) + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=1008128453,3523746922#notes:Whistler's Whim (Adept) - Cornered (Enhanced) + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=1799762209,1015611457#notes:Whistler's Whim (Adept) - Cornered + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=1799762209,2923251173#notes:Whistler's Whim (Adept) - Cornered + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=1008128453,1015611457#notes:Whistler's Whim (Adept) - Cornered (Enhanced) + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=161675590&perks=1008128453,2923251173#notes:Whistler's Whim (Adept) - Cornered (Enhanced) + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=247725512,201365942#notes:Whistler's Whim (Adept) - Rapid Hit + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=247725512,3523746922#notes:Whistler's Whim (Adept) - Rapid Hit + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=2938480696,201365942#notes:Whistler's Whim (Adept) - Rapid Hit (Enhanced) + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=2938480696,3523746922#notes:Whistler's Whim (Adept) - Rapid Hit (Enhanced) + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=247725512,1015611457#notes:Whistler's Whim (Adept) - Rapid Hit + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=247725512,2923251173#notes:Whistler's Whim (Adept) - Rapid Hit + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=2938480696,1015611457#notes:Whistler's Whim (Adept) - Rapid Hit (Enhanced) + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=2938480696,2923251173#notes:Whistler's Whim (Adept) - Rapid Hit (Enhanced) + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=1799762209,201365942#notes:Whistler's Whim (Adept) - Cornered + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=1799762209,3523746922#notes:Whistler's Whim (Adept) - Cornered + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=1008128453,201365942#notes:Whistler's Whim (Adept) - Cornered (Enhanced) + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=1008128453,3523746922#notes:Whistler's Whim (Adept) - Cornered (Enhanced) + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=1799762209,1015611457#notes:Whistler's Whim (Adept) - Cornered + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=1799762209,2923251173#notes:Whistler's Whim (Adept) - Cornered + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=1008128453,1015611457#notes:Whistler's Whim (Adept) - Cornered (Enhanced) + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=711889599&perks=1008128453,2923251173#notes:Whistler's Whim (Adept) - Cornered (Enhanced) + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=247725512,201365942#notes:Whistler's Whim - Rapid Hit + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=247725512,3523746922#notes:Whistler's Whim - Rapid Hit + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=2938480696,201365942#notes:Whistler's Whim - Rapid Hit (Enhanced) + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=2938480696,3523746922#notes:Whistler's Whim - Rapid Hit (Enhanced) + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=247725512,1015611457#notes:Whistler's Whim - Rapid Hit + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=247725512,2923251173#notes:Whistler's Whim - Rapid Hit + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=2938480696,1015611457#notes:Whistler's Whim - Rapid Hit (Enhanced) + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=2938480696,2923251173#notes:Whistler's Whim - Rapid Hit (Enhanced) + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=1799762209,201365942#notes:Whistler's Whim - Cornered + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=1799762209,3523746922#notes:Whistler's Whim - Cornered + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=1008128453,201365942#notes:Whistler's Whim - Cornered (Enhanced) + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=1008128453,3523746922#notes:Whistler's Whim - Cornered (Enhanced) + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=1799762209,1015611457#notes:Whistler's Whim - Cornered + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=1799762209,2923251173#notes:Whistler's Whim - Cornered + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=1008128453,1015611457#notes:Whistler's Whim - Cornered (Enhanced) + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=1574601402&perks=1008128453,2923251173#notes:Whistler's Whim - Cornered (Enhanced) + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=247725512,201365942#notes:Whistler's Whim - Rapid Hit + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=247725512,3523746922#notes:Whistler's Whim - Rapid Hit + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=2938480696,201365942#notes:Whistler's Whim - Rapid Hit (Enhanced) + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=2938480696,3523746922#notes:Whistler's Whim - Rapid Hit (Enhanced) + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=247725512,1015611457#notes:Whistler's Whim - Rapid Hit + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=247725512,2923251173#notes:Whistler's Whim - Rapid Hit + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=2938480696,1015611457#notes:Whistler's Whim - Rapid Hit (Enhanced) + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=2938480696,2923251173#notes:Whistler's Whim - Rapid Hit (Enhanced) + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=1799762209,201365942#notes:Whistler's Whim - Cornered + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=1799762209,3523746922#notes:Whistler's Whim - Cornered + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=1008128453,201365942#notes:Whistler's Whim - Cornered (Enhanced) + Archer's Tempo -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=1008128453,3523746922#notes:Whistler's Whim - Cornered (Enhanced) + Archer's Tempo (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=1799762209,1015611457#notes:Whistler's Whim - Cornered + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=1799762209,2923251173#notes:Whistler's Whim - Cornered + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=1008128453,1015611457#notes:Whistler's Whim - Cornered (Enhanced) + Kill Clip -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=3165143747&perks=1008128453,2923251173#notes:Whistler's Whim - Cornered (Enhanced) + Kill Clip (Enhanced) -- Rank 22, Tier E by TheAegisRelic
+dimwishlist:item=2848549302&perks=691659142,1546637391#notes:Neoptolemus II - Pugilist + Vorpal Weapon -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2848549302&perks=691659142,3418165135#notes:Neoptolemus II - Pugilist + Vorpal Weapon (Enhanced) -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2848549302&perks=536173722,1546637391#notes:Neoptolemus II - Pugilist (Enhanced) + Vorpal Weapon -- Rank 23, Tier E by TheAegisRelic
+dimwishlist:item=2848549302&perks=536173722,3418165135#notes:Neoptolemus II - Pugilist (Enhanced) + Vorpal Weapon (Enhanced) -- Rank 23, Tier E by TheAegisRelic

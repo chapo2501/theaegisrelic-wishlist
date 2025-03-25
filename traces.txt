@@ -1,0 +1,224 @@
+dimwishlist:item=1886840007&perks=3700496672,2048641572#notes:Chronophage - Shoot to Loot + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=3700496672,1926441324#notes:Chronophage - Shoot to Loot + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2840833776,2048641572#notes:Chronophage - Shoot to Loot (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2840833776,1926441324#notes:Chronophage - Shoot to Loot (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=3700496672,3523296417#notes:Chronophage - Shoot to Loot + Demolitionist -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=3700496672,1906147653#notes:Chronophage - Shoot to Loot + Demolitionist (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2840833776,3523296417#notes:Chronophage - Shoot to Loot (Enhanced) + Demolitionist -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2840833776,1906147653#notes:Chronophage - Shoot to Loot (Enhanced) + Demolitionist (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=3700496672,2109543898#notes:Chronophage - Shoot to Loot + Desperate Measures -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=3700496672,2799030358#notes:Chronophage - Shoot to Loot + Desperate Measures (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2840833776,2109543898#notes:Chronophage - Shoot to Loot (Enhanced) + Desperate Measures -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2840833776,2799030358#notes:Chronophage - Shoot to Loot (Enhanced) + Desperate Measures (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=776531651,2048641572#notes:Chronophage - Repulsor Brace + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=776531651,1926441324#notes:Chronophage - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2541826827,2048641572#notes:Chronophage - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2541826827,1926441324#notes:Chronophage - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=776531651,3523296417#notes:Chronophage - Repulsor Brace + Demolitionist -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=776531651,1906147653#notes:Chronophage - Repulsor Brace + Demolitionist (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2541826827,3523296417#notes:Chronophage - Repulsor Brace (Enhanced) + Demolitionist -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2541826827,1906147653#notes:Chronophage - Repulsor Brace (Enhanced) + Demolitionist (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=776531651,2109543898#notes:Chronophage - Repulsor Brace + Desperate Measures -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=776531651,2799030358#notes:Chronophage - Repulsor Brace + Desperate Measures (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2541826827,2109543898#notes:Chronophage - Repulsor Brace (Enhanced) + Desperate Measures -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1886840007&perks=2541826827,2799030358#notes:Chronophage - Repulsor Brace (Enhanced) + Desperate Measures (Enhanced) -- Rank 1, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3700496672,4198902903#notes:Unsworn - Shoot to Loot + Detonator Beam -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3700496672,222783511#notes:Unsworn - Shoot to Loot + Detonator Beam (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2840833776,4198902903#notes:Unsworn - Shoot to Loot (Enhanced) + Detonator Beam -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2840833776,222783511#notes:Unsworn - Shoot to Loot (Enhanced) + Detonator Beam (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3700496672,1089671869#notes:Unsworn - Shoot to Loot + Elemental Honing -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3700496672,496047945#notes:Unsworn - Shoot to Loot + Elemental Honing (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2840833776,1089671869#notes:Unsworn - Shoot to Loot (Enhanced) + Elemental Honing -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2840833776,496047945#notes:Unsworn - Shoot to Loot (Enhanced) + Elemental Honing (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3700496672,831391274#notes:Unsworn - Shoot to Loot + Hatchling -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3700496672,102912326#notes:Unsworn - Shoot to Loot + Hatchling (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2840833776,831391274#notes:Unsworn - Shoot to Loot (Enhanced) + Hatchling -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2840833776,102912326#notes:Unsworn - Shoot to Loot (Enhanced) + Hatchling (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=960997401,4198902903#notes:Unsworn - Tear + Detonator Beam -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=960997401,222783511#notes:Unsworn - Tear + Detonator Beam (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3244229373,4198902903#notes:Unsworn - Tear (Enhanced) + Detonator Beam -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3244229373,222783511#notes:Unsworn - Tear (Enhanced) + Detonator Beam (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=960997401,1089671869#notes:Unsworn - Tear + Elemental Honing -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=960997401,496047945#notes:Unsworn - Tear + Elemental Honing (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3244229373,1089671869#notes:Unsworn - Tear (Enhanced) + Elemental Honing -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3244229373,496047945#notes:Unsworn - Tear (Enhanced) + Elemental Honing (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=960997401,831391274#notes:Unsworn - Tear + Hatchling -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=960997401,102912326#notes:Unsworn - Tear + Hatchling (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3244229373,831391274#notes:Unsworn - Tear (Enhanced) + Hatchling -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=3244229373,102912326#notes:Unsworn - Tear (Enhanced) + Hatchling (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2578928832,4198902903#notes:Unsworn - Rewind Rounds + Detonator Beam -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2578928832,222783511#notes:Unsworn - Rewind Rounds + Detonator Beam (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=1563455254,4198902903#notes:Unsworn - Rewind Rounds (Enhanced) + Detonator Beam -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=1563455254,222783511#notes:Unsworn - Rewind Rounds (Enhanced) + Detonator Beam (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2578928832,1089671869#notes:Unsworn - Rewind Rounds + Elemental Honing -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2578928832,496047945#notes:Unsworn - Rewind Rounds + Elemental Honing (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=1563455254,1089671869#notes:Unsworn - Rewind Rounds (Enhanced) + Elemental Honing -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=1563455254,496047945#notes:Unsworn - Rewind Rounds (Enhanced) + Elemental Honing (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2578928832,831391274#notes:Unsworn - Rewind Rounds + Hatchling -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=2578928832,102912326#notes:Unsworn - Rewind Rounds + Hatchling (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=1563455254,831391274#notes:Unsworn - Rewind Rounds (Enhanced) + Hatchling -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=1303313141&perks=1563455254,102912326#notes:Unsworn - Rewind Rounds (Enhanced) + Hatchling (Enhanced) -- Rank 2, Tier S by TheAegisRelic
+dimwishlist:item=548958835&perks=3700496672,3523296417#notes:Retraced Path - Shoot to Loot + Demolitionist -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=3700496672,1906147653#notes:Retraced Path - Shoot to Loot + Demolitionist (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=2840833776,3523296417#notes:Retraced Path - Shoot to Loot (Enhanced) + Demolitionist -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=2840833776,1906147653#notes:Retraced Path - Shoot to Loot (Enhanced) + Demolitionist (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=3700496672,4104185692#notes:Retraced Path - Shoot to Loot + Frenzy -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=3700496672,3007133316#notes:Retraced Path - Shoot to Loot + Frenzy (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=2840833776,4104185692#notes:Retraced Path - Shoot to Loot (Enhanced) + Frenzy -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=2840833776,3007133316#notes:Retraced Path - Shoot to Loot (Enhanced) + Frenzy (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=3700496672,4293542123#notes:Retraced Path - Shoot to Loot + Incandescent -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=3700496672,2675184851#notes:Retraced Path - Shoot to Loot + Incandescent (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=2840833776,4293542123#notes:Retraced Path - Shoot to Loot (Enhanced) + Incandescent -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=548958835&perks=2840833776,2675184851#notes:Retraced Path - Shoot to Loot (Enhanced) + Incandescent (Enhanced) -- Rank 3, Tier A by TheAegisRelic
+dimwishlist:item=2827764482&perks=3700496672,2173046394#notes:Path of Least Resistance - Shoot to Loot + Voltshot -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2827764482&perks=3700496672,1720528630#notes:Path of Least Resistance - Shoot to Loot + Voltshot (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2827764482&perks=2840833776,2173046394#notes:Path of Least Resistance - Shoot to Loot (Enhanced) + Voltshot -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2827764482&perks=2840833776,1720528630#notes:Path of Least Resistance - Shoot to Loot (Enhanced) + Voltshot (Enhanced) -- Rank 4, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3400784728,4198902903#notes:Keraunios - Triple Tap + Detonator Beam -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3400784728,222783511#notes:Keraunios - Triple Tap + Detonator Beam (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=573122728,4198902903#notes:Keraunios - Triple Tap (Enhanced) + Detonator Beam -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=573122728,222783511#notes:Keraunios - Triple Tap (Enhanced) + Detonator Beam (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3400784728,3966416502#notes:Keraunios - Triple Tap + Jolting Feedback -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3400784728,717070634#notes:Keraunios - Triple Tap + Jolting Feedback (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=573122728,3966416502#notes:Keraunios - Triple Tap (Enhanced) + Jolting Feedback -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=573122728,717070634#notes:Keraunios - Triple Tap (Enhanced) + Jolting Feedback (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3400784728,3218042543#notes:Keraunios - Triple Tap + Rolling Storm -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3400784728,2633604463#notes:Keraunios - Triple Tap + Rolling Storm (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=573122728,3218042543#notes:Keraunios - Triple Tap (Enhanced) + Rolling Storm -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=573122728,2633604463#notes:Keraunios - Triple Tap (Enhanced) + Rolling Storm (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3643424744,4198902903#notes:Keraunios - Overflow + Detonator Beam -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3643424744,222783511#notes:Keraunios - Overflow + Detonator Beam (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=2682205016,4198902903#notes:Keraunios - Overflow (Enhanced) + Detonator Beam -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=2682205016,222783511#notes:Keraunios - Overflow (Enhanced) + Detonator Beam (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3643424744,3966416502#notes:Keraunios - Overflow + Jolting Feedback -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3643424744,717070634#notes:Keraunios - Overflow + Jolting Feedback (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=2682205016,3966416502#notes:Keraunios - Overflow (Enhanced) + Jolting Feedback -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=2682205016,717070634#notes:Keraunios - Overflow (Enhanced) + Jolting Feedback (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3643424744,3218042543#notes:Keraunios - Overflow + Rolling Storm -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3643424744,2633604463#notes:Keraunios - Overflow + Rolling Storm (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=2682205016,3218042543#notes:Keraunios - Overflow (Enhanced) + Rolling Storm -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=2682205016,2633604463#notes:Keraunios - Overflow (Enhanced) + Rolling Storm (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3713215006,4198902903#notes:Keraunios - Recycled Energy + Detonator Beam -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3713215006,222783511#notes:Keraunios - Recycled Energy + Detonator Beam (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3555252274,4198902903#notes:Keraunios - Recycled Energy (Enhanced) + Detonator Beam -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3555252274,222783511#notes:Keraunios - Recycled Energy (Enhanced) + Detonator Beam (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3713215006,3966416502#notes:Keraunios - Recycled Energy + Jolting Feedback -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3713215006,717070634#notes:Keraunios - Recycled Energy + Jolting Feedback (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3555252274,3966416502#notes:Keraunios - Recycled Energy (Enhanced) + Jolting Feedback -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3555252274,717070634#notes:Keraunios - Recycled Energy (Enhanced) + Jolting Feedback (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3713215006,3218042543#notes:Keraunios - Recycled Energy + Rolling Storm -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3713215006,2633604463#notes:Keraunios - Recycled Energy + Rolling Storm (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3555252274,3218042543#notes:Keraunios - Recycled Energy (Enhanced) + Rolling Storm -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=2029899814&perks=3555252274,2633604463#notes:Keraunios - Recycled Energy (Enhanced) + Rolling Storm (Enhanced) -- Rank 5, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=2578928832,4198902903#notes:Warlord's Spear - Rewind Rounds + Detonator Beam -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=2578928832,222783511#notes:Warlord's Spear - Rewind Rounds + Detonator Beam (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1563455254,4198902903#notes:Warlord's Spear - Rewind Rounds (Enhanced) + Detonator Beam -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1563455254,222783511#notes:Warlord's Spear - Rewind Rounds (Enhanced) + Detonator Beam (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=2578928832,3966416502#notes:Warlord's Spear - Rewind Rounds + Jolting Feedback -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=2578928832,717070634#notes:Warlord's Spear - Rewind Rounds + Jolting Feedback (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1563455254,3966416502#notes:Warlord's Spear - Rewind Rounds (Enhanced) + Jolting Feedback -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1563455254,717070634#notes:Warlord's Spear - Rewind Rounds (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=2578928832,2109543898#notes:Warlord's Spear - Rewind Rounds + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=2578928832,2799030358#notes:Warlord's Spear - Rewind Rounds + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1563455254,2109543898#notes:Warlord's Spear - Rewind Rounds (Enhanced) + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1563455254,2799030358#notes:Warlord's Spear - Rewind Rounds (Enhanced) + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1119449540,4198902903#notes:Warlord's Spear - Loose Change + Detonator Beam -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1119449540,222783511#notes:Warlord's Spear - Loose Change + Detonator Beam (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=561986700,4198902903#notes:Warlord's Spear - Loose Change (Enhanced) + Detonator Beam -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=561986700,222783511#notes:Warlord's Spear - Loose Change (Enhanced) + Detonator Beam (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1119449540,3966416502#notes:Warlord's Spear - Loose Change + Jolting Feedback -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1119449540,717070634#notes:Warlord's Spear - Loose Change + Jolting Feedback (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=561986700,3966416502#notes:Warlord's Spear - Loose Change (Enhanced) + Jolting Feedback -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=561986700,717070634#notes:Warlord's Spear - Loose Change (Enhanced) + Jolting Feedback (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1119449540,2109543898#notes:Warlord's Spear - Loose Change + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=1119449540,2799030358#notes:Warlord's Spear - Loose Change + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=561986700,2109543898#notes:Warlord's Spear - Loose Change (Enhanced) + Desperate Measures -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=1968711238&perks=561986700,2799030358#notes:Warlord's Spear - Loose Change (Enhanced) + Desperate Measures (Enhanced) -- Rank 6, Tier A by TheAegisRelic
+dimwishlist:item=2323544076&perks=1556840489,776531651#notes:Hollow Denial - Lead from Gold + Repulsor Brace -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2323544076&perks=1556840489,2541826827#notes:Hollow Denial - Lead from Gold + Repulsor Brace (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2323544076&perks=3442762221,776531651#notes:Hollow Denial - Lead from Gold (Enhanced) + Repulsor Brace -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=2323544076&perks=3442762221,2541826827#notes:Hollow Denial - Lead from Gold (Enhanced) + Repulsor Brace (Enhanced) -- Rank 7, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=3523296417,124408337#notes:Appetence - Demolitionist + Headstone -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=3523296417,1171887445#notes:Appetence - Demolitionist + Headstone (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=1906147653,124408337#notes:Appetence - Demolitionist (Enhanced) + Headstone -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=1906147653,1171887445#notes:Appetence - Demolitionist (Enhanced) + Headstone (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=3523296417,1164602481#notes:Appetence - Demolitionist + Deconstruct -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=1906147653,1164602481#notes:Appetence - Demolitionist (Enhanced) + Deconstruct -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=3523296417,243981275#notes:Appetence - Demolitionist + Attrition Orbs -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=3523296417,984655331#notes:Appetence - Demolitionist + Attrition Orbs (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=1906147653,243981275#notes:Appetence - Demolitionist (Enhanced) + Attrition Orbs -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=1906147653,984655331#notes:Appetence - Demolitionist (Enhanced) + Attrition Orbs (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=3643424744,124408337#notes:Appetence - Overflow + Headstone -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=3643424744,1171887445#notes:Appetence - Overflow + Headstone (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=2682205016,124408337#notes:Appetence - Overflow (Enhanced) + Headstone -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=2682205016,1171887445#notes:Appetence - Overflow (Enhanced) + Headstone (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=3643424744,1164602481#notes:Appetence - Overflow + Deconstruct -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=2682205016,1164602481#notes:Appetence - Overflow (Enhanced) + Deconstruct -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=3643424744,243981275#notes:Appetence - Overflow + Attrition Orbs -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=3643424744,984655331#notes:Appetence - Overflow + Attrition Orbs (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=2682205016,243981275#notes:Appetence - Overflow (Enhanced) + Attrition Orbs -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=4153087276&perks=2682205016,984655331#notes:Appetence - Overflow (Enhanced) + Attrition Orbs (Enhanced) -- Rank 8, Tier B by TheAegisRelic
+dimwishlist:item=1471212226&perks=1523832109,4104185692#notes:Acasia's Dejection - Reconstruction + Frenzy -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=1523832109,3007133316#notes:Acasia's Dejection - Reconstruction + Frenzy (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=461595545,4104185692#notes:Acasia's Dejection - Reconstruction (Enhanced) + Frenzy -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=461595545,3007133316#notes:Acasia's Dejection - Reconstruction (Enhanced) + Frenzy (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=1523832109,4293542123#notes:Acasia's Dejection - Reconstruction + Incandescent -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=1523832109,2675184851#notes:Acasia's Dejection - Reconstruction + Incandescent (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=461595545,4293542123#notes:Acasia's Dejection - Reconstruction (Enhanced) + Incandescent -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=461595545,2675184851#notes:Acasia's Dejection - Reconstruction (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=777589559,4104185692#notes:Acasia's Dejection - Field Prep + Frenzy -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=777589559,3007133316#notes:Acasia's Dejection - Field Prep + Frenzy (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=2308090567,4104185692#notes:Acasia's Dejection - Field Prep (Enhanced) + Frenzy -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=2308090567,3007133316#notes:Acasia's Dejection - Field Prep (Enhanced) + Frenzy (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=777589559,4293542123#notes:Acasia's Dejection - Field Prep + Incandescent -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=777589559,2675184851#notes:Acasia's Dejection - Field Prep + Incandescent (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=2308090567,4293542123#notes:Acasia's Dejection - Field Prep (Enhanced) + Incandescent -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1471212226&perks=2308090567,2675184851#notes:Acasia's Dejection - Field Prep (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=1523832109,4104185692#notes:Acasia's Dejection (Adept) - Reconstruction + Frenzy -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=1523832109,3007133316#notes:Acasia's Dejection (Adept) - Reconstruction + Frenzy (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=461595545,4104185692#notes:Acasia's Dejection (Adept) - Reconstruction (Enhanced) + Frenzy -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=461595545,3007133316#notes:Acasia's Dejection (Adept) - Reconstruction (Enhanced) + Frenzy (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=1523832109,4293542123#notes:Acasia's Dejection (Adept) - Reconstruction + Incandescent -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=1523832109,2675184851#notes:Acasia's Dejection (Adept) - Reconstruction + Incandescent (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=461595545,4293542123#notes:Acasia's Dejection (Adept) - Reconstruction (Enhanced) + Incandescent -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=461595545,2675184851#notes:Acasia's Dejection (Adept) - Reconstruction (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=777589559,4104185692#notes:Acasia's Dejection (Adept) - Field Prep + Frenzy -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=777589559,3007133316#notes:Acasia's Dejection (Adept) - Field Prep + Frenzy (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=2308090567,4104185692#notes:Acasia's Dejection (Adept) - Field Prep (Enhanced) + Frenzy -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=2308090567,3007133316#notes:Acasia's Dejection (Adept) - Field Prep (Enhanced) + Frenzy (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=777589559,4293542123#notes:Acasia's Dejection (Adept) - Field Prep + Incandescent -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=777589559,2675184851#notes:Acasia's Dejection (Adept) - Field Prep + Incandescent (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=2308090567,4293542123#notes:Acasia's Dejection (Adept) - Field Prep (Enhanced) + Incandescent -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=3493494807&perks=2308090567,2675184851#notes:Acasia's Dejection (Adept) - Field Prep (Enhanced) + Incandescent (Enhanced) -- Rank 9, Tier C by TheAegisRelic
+dimwishlist:item=1711056134&perks=923806249,243981275#notes:Incisor - Slice + Attrition Orbs -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=1711056134&perks=923806249,984655331#notes:Incisor - Slice + Attrition Orbs (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=1711056134&perks=3422796781,243981275#notes:Incisor - Slice (Enhanced) + Attrition Orbs -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=1711056134&perks=3422796781,984655331#notes:Incisor - Slice (Enhanced) + Attrition Orbs (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=1711056134&perks=923806249,831391274#notes:Incisor - Slice + Hatchling -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=1711056134&perks=923806249,102912326#notes:Incisor - Slice + Hatchling (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=1711056134&perks=3422796781,831391274#notes:Incisor - Slice (Enhanced) + Hatchling -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=1711056134&perks=3422796781,102912326#notes:Incisor - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2421180981&perks=923806249,243981275#notes:Incisor (Adept) - Slice + Attrition Orbs -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2421180981&perks=923806249,984655331#notes:Incisor (Adept) - Slice + Attrition Orbs (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2421180981&perks=3422796781,243981275#notes:Incisor (Adept) - Slice (Enhanced) + Attrition Orbs -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2421180981&perks=3422796781,984655331#notes:Incisor (Adept) - Slice (Enhanced) + Attrition Orbs (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2421180981&perks=923806249,831391274#notes:Incisor (Adept) - Slice + Hatchling -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2421180981&perks=923806249,102912326#notes:Incisor (Adept) - Slice + Hatchling (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2421180981&perks=3422796781,831391274#notes:Incisor (Adept) - Slice (Enhanced) + Hatchling -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2421180981&perks=3422796781,102912326#notes:Incisor (Adept) - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2839600459&perks=923806249,243981275#notes:Incisor (Adept) - Slice + Attrition Orbs -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2839600459&perks=923806249,984655331#notes:Incisor (Adept) - Slice + Attrition Orbs (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2839600459&perks=3422796781,243981275#notes:Incisor (Adept) - Slice (Enhanced) + Attrition Orbs -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2839600459&perks=3422796781,984655331#notes:Incisor (Adept) - Slice (Enhanced) + Attrition Orbs (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2839600459&perks=923806249,831391274#notes:Incisor (Adept) - Slice + Hatchling -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2839600459&perks=923806249,102912326#notes:Incisor (Adept) - Slice + Hatchling (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2839600459&perks=3422796781,831391274#notes:Incisor (Adept) - Slice (Enhanced) + Hatchling -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=2839600459&perks=3422796781,102912326#notes:Incisor (Adept) - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=4248997900&perks=923806249,243981275#notes:Incisor - Slice + Attrition Orbs -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=4248997900&perks=923806249,984655331#notes:Incisor - Slice + Attrition Orbs (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=4248997900&perks=3422796781,243981275#notes:Incisor - Slice (Enhanced) + Attrition Orbs -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=4248997900&perks=3422796781,984655331#notes:Incisor - Slice (Enhanced) + Attrition Orbs (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=4248997900&perks=923806249,831391274#notes:Incisor - Slice + Hatchling -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=4248997900&perks=923806249,102912326#notes:Incisor - Slice + Hatchling (Enhanced) -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=4248997900&perks=3422796781,831391274#notes:Incisor - Slice (Enhanced) + Hatchling -- Rank 10, Tier D by TheAegisRelic
+dimwishlist:item=4248997900&perks=3422796781,102912326#notes:Incisor - Slice (Enhanced) + Hatchling (Enhanced) -- Rank 10, Tier D by TheAegisRelic
