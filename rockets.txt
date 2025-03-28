@@ -1,7 +1,7 @@
-// Rockets - 2025-03-28T21:00:18.669Z
-//notes:Hezen Vengeance - Rank 1, Tier S by TheAegisRelic
-Column 1: Envious Arsenal, Cluster Bomb,Overflow
-Column 2: Bait and Switch, Elemental Honing,Bipod
+// Rockets - 2025-03-28T21:24:31.543Z
+//notes:Hezen Vengeance - Rank 1 __  Tier S by TheAegisRelic
+Column 1: Envious Arsenal __  Cluster Bomb __ Overflow
+Column 2: Bait and Switch __  Elemental Honing __ Bipod
 Origin Trait: Timelost Magazine
 dimwishlist:item=1921159786&perks=3987942396,3078487919,2589407652
 dimwishlist:item=1921159786&perks=3987942396,3744057135,2589407652
@@ -150,9 +150,9 @@ dimwishlist:item=4050645223&perks=2682205016,2282937672,2589407652
 
 
 
-//notes:Cynosure - Rank 2, Tier S by TheAegisRelic
-Column 1: Envious Arsenal, Clown Cartridge,Field Prep
-Column 2: Elemental Honing, Explosive Light,Bipod
+//notes:Cynosure - Rank 2 __  Tier S by TheAegisRelic
+Column 1: Envious Arsenal __  Clown Cartridge __ Field Prep
+Column 2: Elemental Honing __  Explosive Light __ Bipod
 Origin Trait: Vanguard's Vindication
 dimwishlist:item=694275488&perks=3987942396,1089671869,744217850
 dimwishlist:item=694275488&perks=3987942396,496047945,744217850
@@ -193,9 +193,9 @@ dimwishlist:item=694275488&perks=2308090567,2282937672,744217850
 
 
 
-//notes:Tomorrow's Answer - Rank 3, Tier A by TheAegisRelic
-Column 1: Envious Arsenal, Air Trigger,Withering Gaze
-Column 2: Bait and Switch, Explosive Light,Bipod
+//notes:Tomorrow's Answer - Rank 3 __  Tier A by TheAegisRelic
+Column 1: Envious Arsenal __  Air Trigger __ Withering Gaze
+Column 2: Bait and Switch __  Explosive Light __ Bipod
 Origin Trait: Wild Card
 dimwishlist:item=303107619&perks=3987942396,3078487919,1050127423
 dimwishlist:item=303107619&perks=3987942396,3744057135,1050127423
@@ -344,9 +344,9 @@ dimwishlist:item=3009199534&perks=2904194311,2282937672,1050127423
 
 
 
-//notes:Apex Predator - Rank 4, Tier A by TheAegisRelic
-Column 1: Reconstruction, Slideways,Demolitionist
-Column 2: Bait and Switch, Surrounded,Bipod
+//notes:Apex Predator - Rank 4 __  Tier A by TheAegisRelic
+Column 1: Reconstruction __  Slideways __ Demolitionist
+Column 2: Bait and Switch __  Surrounded __ Bipod
 Origin Trait: Explosive Pact
 dimwishlist:item=1851777734&perks=1523832109,3078487919,1489048135
 dimwishlist:item=1851777734&perks=1523832109,3744057135,1489048135
@@ -423,9 +423,9 @@ dimwishlist:item=2545083870&perks=1906147653,2282937672,1489048135
 
 
 
-//notes:Crux Termination IV - Rank 5, Tier A by TheAegisRelic
-Column 1: Reconstruction, Clown Cartridge,Slideshot
-Column 2: Bipod, Explosive Light,Surrounded
+//notes:Crux Termination IV - Rank 5 __  Tier A by TheAegisRelic
+Column 1: Reconstruction __  Clown Cartridge __ Slideshot
+Column 2: Bipod __  Explosive Light __ Surrounded
 Origin Trait: Wild Card
 dimwishlist:item=1719687748&perks=1523832109,1439600632,1050127423
 dimwishlist:item=1719687748&perks=1523832109,2282937672,1050127423
@@ -466,9 +466,9 @@ dimwishlist:item=1719687748&perks=191144788,781192741,1050127423
 
 
 
-//notes:Cold Comfort - Rank 6, Tier A by TheAegisRelic
+//notes:Cold Comfort - Rank 6 __  Tier A by TheAegisRelic
 Column 1: Envious Assassin
-Column 2: Bait and Switch, Bipod
+Column 2: Bait and Switch __  Bipod
 Origin Trait: Restoration Ritual
 dimwishlist:item=291447487&perks=968510818,3078487919,398661035
 dimwishlist:item=291447487&perks=968510818,3744057135,398661035
@@ -513,9 +513,9 @@ dimwishlist:item=2760833884&perks=424370782,2282937672,398661035
 
 
 
-//notes:Heretic's Fervor - Rank 7, Tier B by TheAegisRelic
-Column 1: Field Prep, Slideshot,Auto-Loading Holster
-Column 2: Bipod, Explosive Light
+//notes:Heretic's Fervor - Rank 7 __  Tier B by TheAegisRelic
+Column 1: Field Prep __  Slideshot __ Auto-Loading Holster
+Column 2: Bipod __  Explosive Light
 Origin Trait: Dark Ether Reaper
 dimwishlist:item=4224667951&perks=777589559,1439600632,2041432007
 dimwishlist:item=4224667951&perks=777589559,2282937672,2041432007
@@ -544,9 +544,9 @@ dimwishlist:item=4224667951&perks=3528046508,2275087323,2041432007
 
 
 
-//notes:Braytech Osprey - Rank 8, Tier B by TheAegisRelic
-Column 1: Cluster Bomb, Envious Assassin,Field Prep
-Column 2: Bipod, Frenzy
+//notes:Braytech Osprey - Rank 8 __  Tier B by TheAegisRelic
+Column 1: Cluster Bomb __  Envious Assassin __ Field Prep
+Column 2: Bipod __  Frenzy
 Origin Trait: Vanguard's Vindication
 dimwishlist:item=1064132738&perks=1275731761,1439600632,744217850
 dimwishlist:item=1064132738&perks=1275731761,2282937672,744217850
@@ -623,9 +623,9 @@ dimwishlist:item=3667553455&perks=2308090567,3007133316,744217850
 
 
 
-//notes:The Hothead - Rank 9, Tier B by TheAegisRelic
-Column 1: Demolitionist, Field Prep,Auto-Loading Holster
-Column 2: Clown Cartridge, Explosive Light
+//notes:The Hothead - Rank 9 __  Tier B by TheAegisRelic
+Column 1: Demolitionist __  Field Prep __ Auto-Loading Holster
+Column 2: Clown Cartridge __  Explosive Light
 Origin Trait: Vanguard's Vindication
 dimwishlist:item=1866778462&perks=3523296417,2284787283,744217850
 dimwishlist:item=1866778462&perks=3523296417,3563868667,744217850
@@ -678,9 +678,9 @@ dimwishlist:item=4255171531&perks=3528046508,2275087323,744217850
 
 
 
-//notes:Faith-Keeper - Rank 10, Tier B by TheAegisRelic
-Column 1: Clown Cartridge, Auto-Loading Holster,Field Prep
-Column 2: Bipod, Explosive Light
+//notes:Faith-Keeper - Rank 10 __  Tier B by TheAegisRelic
+Column 1: Clown Cartridge __  Auto-Loading Holster __ Field Prep
+Column 2: Bipod __  Explosive Light
 Origin Trait: Radiolaria Transposer
 dimwishlist:item=4195186942&perks=2284787283,1439600632,253121539
 dimwishlist:item=4195186942&perks=2284787283,2282937672,253121539
@@ -709,9 +709,9 @@ dimwishlist:item=4195186942&perks=2308090567,2275087323,253121539
 
 
 
-//notes:Crowning Duologue - Rank 11, Tier B by TheAegisRelic
-Column 1: Reconstruction, Air Trigger,Demolitionist
-Column 2: Bipod, Deconstruct
+//notes:Crowning Duologue - Rank 11 __  Tier B by TheAegisRelic
+Column 1: Reconstruction __  Air Trigger __ Demolitionist
+Column 2: Bipod __  Deconstruct
 Origin Trait: Dream Work
 dimwishlist:item=3256453690&perks=1523832109,1439600632,1380061575
 dimwishlist:item=3256453690&perks=1523832109,2282937672,1380061575
@@ -752,8 +752,8 @@ dimwishlist:item=4106757302&perks=1906147653,1164602481,1380061575
 
 
 
-//notes:Sleepless - Rank 12, Tier B by TheAegisRelic
-Column 1: Field Prep, Auto-Loading Holster
+//notes:Sleepless - Rank 12 __  Tier B by TheAegisRelic
+Column 1: Field Prep __  Auto-Loading Holster
 Column 2: Bipod
 Origin Trait: Advanced Reflexes
 dimwishlist:item=2140635451&perks=777589559,1439600632,930692523
@@ -775,9 +775,9 @@ dimwishlist:item=3740842661&perks=3528046508,2282937672,930692523
 
 
 
-//notes:Semiotician - Rank 13, Tier B by TheAegisRelic
+//notes:Semiotician - Rank 13 __  Tier B by TheAegisRelic
 Column 1: Field Prep
-Column 2: Bipod, Explosive Light
+Column 2: Bipod __  Explosive Light
 Origin Trait: Head Rush
 dimwishlist:item=2922749929&perks=777589559,1439600632,2565067140
 dimwishlist:item=2922749929&perks=777589559,2282937672,2565067140
@@ -790,9 +790,9 @@ dimwishlist:item=2922749929&perks=2308090567,2275087323,2565067140
 
 
 
-//notes:Blowout - Rank 14, Tier B by TheAegisRelic
-Column 1: Field Prep, Demolitionist
-Column 2: Explosive Light, Frenzy
+//notes:Blowout - Rank 14 __  Tier B by TheAegisRelic
+Column 1: Field Prep __  Demolitionist
+Column 2: Explosive Light __  Frenzy
 Origin Trait: One Quiet Moment
 dimwishlist:item=1903182562&perks=777589559,3194351027,4091460919
 dimwishlist:item=1903182562&perks=777589559,2275087323,4091460919
@@ -813,8 +813,8 @@ dimwishlist:item=1903182562&perks=1906147653,3007133316,4091460919
 
 
 
-//notes:Code Duello - Rank 15, Tier C by TheAegisRelic
-Column 1: Auto-Loading Holster, Field Prep
+//notes:Code Duello - Rank 15 __  Tier C by TheAegisRelic
+Column 1: Auto-Loading Holster __  Field Prep
 Column 2: Frenzy
 Origin Trait: None
 dimwishlist:item=2496242052&perks=3300816228,4104185692
@@ -828,9 +828,9 @@ dimwishlist:item=2496242052&perks=2308090567,3007133316
 
 
 
-//notes:Roar of the Bear - Rank 16, Tier C by TheAegisRelic
-Column 1: Field Prep, Demolitionist
-Column 2: Lasting Impression, Cluster Bomb
+//notes:Roar of the Bear - Rank 16 __  Tier C by TheAegisRelic
+Column 1: Field Prep __  Demolitionist
+Column 2: Lasting Impression __  Cluster Bomb
 Origin Trait: Skulking Wolf
 dimwishlist:item=308332265&perks=777589559,3927722942,3989629871
 dimwishlist:item=308332265&perks=777589559,1167468626,3989629871
@@ -883,9 +883,9 @@ dimwishlist:item=4009352833&perks=1906147653,2091001077,3989629871
 
 
 
-//notes:Bump in the Night - Rank 17, Tier C by TheAegisRelic
-Column 1: Demolitionist, Auto-Loading Holster,Field Prep
-Column 2: Frenzy, Chill Clip
+//notes:Bump in the Night - Rank 17 __  Tier C by TheAegisRelic
+Column 1: Demolitionist __  Auto-Loading Holster __ Field Prep
+Column 2: Frenzy __  Chill Clip
 Origin Trait: Extrovert
 dimwishlist:item=1959650777&perks=3523296417,4104185692,1250481499
 dimwishlist:item=1959650777&perks=3523296417,3007133316,1250481499
@@ -914,9 +914,9 @@ dimwishlist:item=1959650777&perks=2308090567,344235611,1250481499
 
 
 
-//notes:Red Herring - Rank 18, Tier C by TheAegisRelic
+//notes:Red Herring - Rank 18 __  Tier C by TheAegisRelic
 Column 1: Field Prep
-Column 2: Golden Tricorn, Frenzy
+Column 2: Golden Tricorn __  Frenzy
 Origin Trait: Psychohack
 dimwishlist:item=3175851496&perks=777589559,2610012052,79448657
 dimwishlist:item=3175851496&perks=777589559,4290541820,79448657
@@ -929,9 +929,9 @@ dimwishlist:item=3175851496&perks=2308090567,3007133316,79448657
 
 
 
-//notes:Hoosegow - Rank 19, Tier C by TheAegisRelic
-Column 1: Field Prep, Auto-Loading Holster
-Column 2: Cluster Bomb, Demolitionist
+//notes:Hoosegow - Rank 19 __  Tier C by TheAegisRelic
+Column 1: Field Prep __  Auto-Loading Holster
+Column 2: Cluster Bomb __  Demolitionist
 Origin Trait: None
 dimwishlist:item=417474224&perks=777589559,1275731761
 dimwishlist:item=417474224&perks=777589559,2091001077
@@ -984,8 +984,8 @@ dimwishlist:item=3669616453&perks=3528046508,1906147653
 
 
 
-//notes:Bad Omens - Rank 20, Tier C by TheAegisRelic
-Column 1: Auto-Loading Holster, Field Prep
+//notes:Bad Omens - Rank 20 __  Tier C by TheAegisRelic
+Column 1: Auto-Loading Holster __  Field Prep
 Column 2: Cluster Bomb
 Origin Trait: None
 dimwishlist:item=991314988&perks=3300816228,1275731761
@@ -999,7 +999,7 @@ dimwishlist:item=991314988&perks=2308090567,2091001077
 
 
 
-//notes:Palmyra-B - Rank 21, Tier D by TheAegisRelic
+//notes:Palmyra-B - Rank 21 __  Tier D by TheAegisRelic
 Column 1: Auto-Loading Holster
 Column 2: Explosive Light
 Origin Trait: Hakke Breach Armaments
@@ -1010,9 +1010,9 @@ dimwishlist:item=3489657138&perks=3528046508,2275087323,1607056502
 
 
 
-//notes:Heretic - Rank 22, Tier D by TheAegisRelic
+//notes:Heretic - Rank 22 __  Tier D by TheAegisRelic
 Column 1: Field Prep
-Column 2: Lasting Impression, Cluster Bomb
+Column 2: Lasting Impression __  Cluster Bomb
 Origin Trait: None
 dimwishlist:item=3067821200&perks=777589559,3927722942
 dimwishlist:item=3067821200&perks=777589559,1167468626
@@ -1033,8 +1033,8 @@ dimwishlist:item=4224667951&perks=2308090567,2091001077
 
 
 
-//notes:Shining Sphere - Rank 23, Tier D by TheAegisRelic
-Column 1: Field Prep, Auto-Loading Holster
+//notes:Shining Sphere - Rank 23 __  Tier D by TheAegisRelic
+Column 1: Field Prep __  Auto-Loading Holster
 Column 2: Demolitionist
 Origin Trait: None
 dimwishlist:item=136525518&perks=777589559,3523296417
@@ -1056,9 +1056,9 @@ dimwishlist:item=432716552&perks=3528046508,1906147653
 
 
 
-//notes:Royal Entry - Rank 24, Tier E by TheAegisRelic
-Column 1: Field Prep, Auto-Loading Holster
-Column 2: Clown Cartridge, Lasting Impression
+//notes:Royal Entry - Rank 24 __  Tier E by TheAegisRelic
+Column 1: Field Prep __  Auto-Loading Holster
+Column 2: Clown Cartridge __  Lasting Impression
 Origin Trait: Vanguard's Vindication
 dimwishlist:item=2448907086&perks=777589559,2284787283,744217850
 dimwishlist:item=2448907086&perks=777589559,3563868667,744217850
@@ -1079,8 +1079,8 @@ dimwishlist:item=2448907086&perks=3528046508,1167468626,744217850
 
 
 
-//notes:Ascendancy - Rank 25, Tier E by TheAegisRelic
-Column 1: Impulse Amplifier, Ambitious Assassin
+//notes:Ascendancy - Rank 25 __  Tier E by TheAegisRelic
+Column 1: Impulse Amplifier __  Ambitious Assassin
 Column 2: Explosive Light
 Origin Trait: None
 dimwishlist:item=725408022&perks=951095735,3194351027
@@ -1094,9 +1094,9 @@ dimwishlist:item=725408022&perks=3797647183,2275087323
 
 
 
-//notes:Subzero Salvo - Rank 26, Tier E by TheAegisRelic
+//notes:Subzero Salvo - Rank 26 __  Tier E by TheAegisRelic
 Column 1: Ambitious Assassin
-Column 2: Cluster Bomb, Demolitionist
+Column 2: Cluster Bomb __  Demolitionist
 Origin Trait: None
 dimwishlist:item=42351395&perks=2010801679,1275731761
 dimwishlist:item=42351395&perks=2010801679,2091001077

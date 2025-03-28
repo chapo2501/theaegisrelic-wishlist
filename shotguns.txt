@@ -1,7 +1,7 @@
-// Shotguns - 2025-03-28T21:00:18.669Z
-//notes:Perfect Paradox - Rank 1, Tier S by TheAegisRelic
-Column 1: Field Prep, Pugilist,Threat Detector
-Column 2: One-Two Punch, Trench Barrel,Vorpal Weapon
+// Shotguns - 2025-03-28T21:24:31.543Z
+//notes:Perfect Paradox - Rank 1 __  Tier S by TheAegisRelic
+Column 1: Field Prep __  Pugilist __ Threat Detector
+Column 2: One-Two Punch __  Trench Barrel __ Vorpal Weapon
 Origin Trait: Cast No Shadows
 dimwishlist:item=1298672084&perks=777589559,2679249093,2838996248
 dimwishlist:item=1298672084&perks=777589559,788178929,2838996248
@@ -114,9 +114,9 @@ dimwishlist:item=3393519051&perks=494941759,3418165135,2838996248
 
 
 
-//notes:Unvoiced - Rank 2, Tier S by TheAegisRelic
-Column 1: Redirection, Envious Arsenal
-Column 2: Bait and Switch, Vorpal Weapon
+//notes:Unvoiced - Rank 2 __  Tier S by TheAegisRelic
+Column 1: Redirection __  Envious Arsenal
+Column 2: Bait and Switch __  Vorpal Weapon
 Origin Trait: Subjugation
 dimwishlist:item=3360937899&perks=3201496230,3078487919,1298135794
 dimwishlist:item=3360937899&perks=3201496230,3744057135,1298135794
@@ -137,9 +137,9 @@ dimwishlist:item=3360937899&perks=2817499044,3418165135,1298135794
 
 
 
-//notes:IKELOS_SG_v1.0.3 - Rank 3, Tier S by TheAegisRelic
-Column 1: Grave Robber, Threat Detector,Pugilist
-Column 2: One-Two Punch, Surrounded,Cascade Point
+//notes:IKELOS_SG_v1.0.3 - Rank 3 __  Tier S by TheAegisRelic
+Column 1: Grave Robber __  Threat Detector __ Pugilist
+Column 2: One-Two Punch __  Surrounded __ Cascade Point
 Origin Trait: Rasputin's Arsenal
 dimwishlist:item=1168625549&perks=1631667848,2679249093,566815328
 dimwishlist:item=1168625549&perks=1631667848,788178929,566815328
@@ -180,9 +180,9 @@ dimwishlist:item=1168625549&perks=536173722,331667533,566815328
 
 
 
-//notes:Until Its Return - Rank 4, Tier S by TheAegisRelic
-Column 1: Auto-Loading Holster, Overflow
-Column 2: Cascade Point, Surrounded,Vorpal Weapon
+//notes:Until Its Return - Rank 4 __  Tier S by TheAegisRelic
+Column 1: Auto-Loading Holster __  Overflow
+Column 2: Cascade Point __  Surrounded __ Vorpal Weapon
 Origin Trait: Unsated Hunger
 dimwishlist:item=2883484461&perks=3300816228,3751912585,2053642371
 dimwishlist:item=2883484461&perks=3300816228,331667533,2053642371
@@ -211,9 +211,9 @@ dimwishlist:item=2883484461&perks=2682205016,3418165135,2053642371
 
 
 
-//notes:Imperial Decree - Rank 5, Tier A by TheAegisRelic
+//notes:Imperial Decree - Rank 5 __  Tier A by TheAegisRelic
 Column 1: Auto-Loading Holster
-Column 2: Trench Barrel, Surrounded
+Column 2: Trench Barrel __  Surrounded
 Origin Trait: To Excess
 dimwishlist:item=318443586&perks=3300816228,2360754333,1905044254
 dimwishlist:item=318443586&perks=3300816228,2459015849,1905044254
@@ -234,9 +234,9 @@ dimwishlist:item=2919334548&perks=3528046508,781192741,1905044254
 
 
 
-//notes:Dead Weight - Rank 6, Tier A by TheAegisRelic
-Column 1: Grave Robber, Auto-Loading Holster,Lead from Gold
-Column 2: One-Two Punch, Frenzy,Surrounded
+//notes:Dead Weight - Rank 6 __  Tier A by TheAegisRelic
+Column 1: Grave Robber __  Auto-Loading Holster __ Lead from Gold
+Column 2: One-Two Punch __  Frenzy __ Surrounded
 Origin Trait: Field-Tested
 dimwishlist:item=3738678140&perks=1631667848,2679249093,43555494
 dimwishlist:item=3738678140&perks=1631667848,788178929,43555494
@@ -277,8 +277,8 @@ dimwishlist:item=3738678140&perks=3442762221,781192741,43555494
 
 
 
-//notes:Swordbreaker - Rank 7, Tier A by TheAegisRelic
-Column 1: Demolitionist, Pugilist
+//notes:Swordbreaker - Rank 7 __  Tier A by TheAegisRelic
+Column 1: Demolitionist __  Pugilist
 Column 2: One-Two Punch
 Origin Trait: Cursed Thrall
 dimwishlist:item=1239700299&perks=3523296417,2679249093,1156201379
@@ -300,8 +300,8 @@ dimwishlist:item=3163900678&perks=536173722,788178929,1156201379
 
 
 
-//notes:Heritage - Rank 8, Tier A by TheAegisRelic
-Column 1: Reconstruction, Demolitionist
+//notes:Heritage - Rank 8 __  Tier A by TheAegisRelic
+Column 1: Reconstruction __  Demolitionist
 Column 2: Recombination
 Origin Trait: Bray Inheritance
 dimwishlist:item=4248569242&perks=1523832109,469285294,766321425
@@ -315,9 +315,9 @@ dimwishlist:item=4248569242&perks=1906147653,3335686050,766321425
 
 
 
-//notes:Arcane Embrace - Rank 9, Tier A by TheAegisRelic
-Column 1: Fourth Time's the Charm, Air Trigger,Grave Robber
-Column 2: Precision Instrument, Surrounded,Voltshot
+//notes:Arcane Embrace - Rank 9 __  Tier A by TheAegisRelic
+Column 1: Fourth Time's the Charm __  Air Trigger __ Grave Robber
+Column 2: Precision Instrument __  Surrounded __ Voltshot
 Origin Trait: Search Party
 dimwishlist:item=3649985571&perks=1354429876,555281244,2250679103
 dimwishlist:item=3649985571&perks=1354429876,332733060,2250679103
@@ -358,9 +358,9 @@ dimwishlist:item=3649985571&perks=402033656,1720528630,2250679103
 
 
 
-//notes:Wastelander M5 - Rank 10, Tier A by TheAegisRelic
-Column 1: Lead from Gold, Pugilist
-Column 2: One-Two Punch, Vorpal Weapon
+//notes:Wastelander M5 - Rank 10 __  Tier A by TheAegisRelic
+Column 1: Lead from Gold __  Pugilist
+Column 2: One-Two Punch __  Vorpal Weapon
 Origin Trait: Hot Swap
 dimwishlist:item=1679868061&perks=1556840489,2679249093,1260401931
 dimwishlist:item=1679868061&perks=1556840489,788178929,1260401931
@@ -381,8 +381,8 @@ dimwishlist:item=1679868061&perks=536173722,3418165135,1260401931
 
 
 
-//notes:Basso Ostinato - Rank 11, Tier A by TheAegisRelic
-Column 1: Grave Robber, Lead from Gold
+//notes:Basso Ostinato - Rank 11 __  Tier A by TheAegisRelic
+Column 1: Grave Robber __  Lead from Gold
 Column 2: One-Two Punch
 Origin Trait: Nanotech Tracer Rockets
 dimwishlist:item=2573900604&perks=1631667848,2679249093,164468655
@@ -396,8 +396,8 @@ dimwishlist:item=2573900604&perks=3442762221,788178929,164468655
 
 
 
-//notes:One Small Step - Rank 12, Tier A by TheAegisRelic
-Column 1: Auto-Loading Holster, Lead from Gold
+//notes:One Small Step - Rank 12 __  Tier A by TheAegisRelic
+Column 1: Auto-Loading Holster __  Lead from Gold
 Column 2: One-Two Punch
 Origin Trait: None
 dimwishlist:item=1016668089&perks=3300816228,2679249093
@@ -411,9 +411,9 @@ dimwishlist:item=1016668089&perks=3442762221,788178929
 
 
 
-//notes:The Deicide - Rank 13, Tier A by TheAegisRelic
-Column 1: Grave Robber, Lead from Gold
-Column 2: One-Two Punch, Demolitionist
+//notes:The Deicide - Rank 13 __  Tier A by TheAegisRelic
+Column 1: Grave Robber __  Lead from Gold
+Column 2: One-Two Punch __  Demolitionist
 Origin Trait: None
 dimwishlist:item=217140611&perks=1631667848,2679249093
 dimwishlist:item=217140611&perks=1631667848,788178929
@@ -450,9 +450,9 @@ dimwishlist:item=3929685100&perks=3442762221,1906147653
 
 
 
-//notes:Someday - Rank 14, Tier B by TheAegisRelic
-Column 1: Lead from Gold, Dual Loader
-Column 2: Recombination, Cascade Point,Vorpal Weapon
+//notes:Someday - Rank 14 __  Tier B by TheAegisRelic
+Column 1: Lead from Gold __  Dual Loader
+Column 2: Recombination __  Cascade Point __ Vorpal Weapon
 Origin Trait: Dealer's Choice
 dimwishlist:item=3232203524&perks=1556840489,469285294,1988485648
 dimwishlist:item=3232203524&perks=1556840489,3335686050,1988485648
@@ -481,9 +481,9 @@ dimwishlist:item=3232203524&perks=3143051906,3418165135,1988485648
 
 
 
-//notes:Supercluster - Rank 15, Tier B by TheAegisRelic
-Column 1: Reconstruction, Fourth Time's the Charm
-Column 2: Vorpal Weapon, Surrounded,Cascade Point
+//notes:Supercluster - Rank 15 __  Tier B by TheAegisRelic
+Column 1: Reconstruction __  Fourth Time's the Charm
+Column 2: Vorpal Weapon __  Surrounded __ Cascade Point
 Origin Trait: Dragon's Vengeance
 dimwishlist:item=92459755&perks=1523832109,1546637391,3978094547
 dimwishlist:item=92459755&perks=1523832109,3418165135,3978094547
@@ -512,9 +512,9 @@ dimwishlist:item=92459755&perks=848860060,331667533,3978094547
 
 
 
-//notes:Retrofuturist - Rank 16, Tier B by TheAegisRelic
-Column 1: Quickdraw, Slickdraw,Auto-Loading Holster
-Column 2: Frenzy, Vorpal Weapon,Trench Barrel
+//notes:Retrofuturist - Rank 16 __  Tier B by TheAegisRelic
+Column 1: Quickdraw __  Slickdraw __ Auto-Loading Holster
+Column 2: Frenzy __  Vorpal Weapon __ Trench Barrel
 Origin Trait: One Quiet Moment
 dimwishlist:item=1325579289&perks=706527188,4104185692,4091460919
 dimwishlist:item=1325579289&perks=706527188,3007133316,4091460919
@@ -627,9 +627,9 @@ dimwishlist:item=1612781792&perks=3528046508,2459015849,4091460919
 
 
 
-//notes:Xenoclast IV - Rank 17, Tier B by TheAegisRelic
-Column 1: Grave Robber, Auto-Loading Holster,Lead from Gold
-Column 2: One-Two Punch, Vorpal Weapon,Demolitionist
+//notes:Xenoclast IV - Rank 17 __  Tier B by TheAegisRelic
+Column 1: Grave Robber __  Auto-Loading Holster __ Lead from Gold
+Column 2: One-Two Punch __  Vorpal Weapon __ Demolitionist
 Origin Trait: Vanguard's Vindication
 dimwishlist:item=2891672170&perks=1631667848,2679249093,744217850
 dimwishlist:item=2891672170&perks=1631667848,788178929,744217850
@@ -670,9 +670,9 @@ dimwishlist:item=2891672170&perks=3442762221,1906147653,744217850
 
 
 
-//notes:Nessa's Oblation - Rank 18, Tier B by TheAegisRelic
-Column 1: Reconstruction, Fourth Time's the Charm,Demolitionist
-Column 2: Frenzy, Vorpal Weapon,Focused Fury
+//notes:Nessa's Oblation - Rank 18 __  Tier B by TheAegisRelic
+Column 1: Reconstruction __  Fourth Time's the Charm __ Demolitionist
+Column 2: Frenzy __  Vorpal Weapon __ Focused Fury
 Origin Trait: Harmonic Resonance
 dimwishlist:item=135029084&perks=1523832109,4104185692,3186078099
 dimwishlist:item=135029084&perks=1523832109,3007133316,3186078099
@@ -749,9 +749,9 @@ dimwishlist:item=522366885&perks=1906147653,2402480669,3186078099
 
 
 
-//notes:Without Remorse - Rank 19, Tier B by TheAegisRelic
-Column 1: Threat Detector, Field Prep
-Column 2: Vorpal Weapon, One-Two Punch
+//notes:Without Remorse - Rank 19 __  Tier B by TheAegisRelic
+Column 1: Threat Detector __  Field Prep
+Column 2: Vorpal Weapon __  One-Two Punch
 Origin Trait: Extrovert
 dimwishlist:item=1478986057&perks=4071163871,1546637391,1250481499
 dimwishlist:item=1478986057&perks=4071163871,3418165135,1250481499
@@ -772,9 +772,9 @@ dimwishlist:item=1478986057&perks=2308090567,788178929,1250481499
 
 
 
-//notes:Prophet of Doom - Rank 20, Tier B by TheAegisRelic
-Column 1: Reconstruction, Envious Arsenal,Pugilist
-Column 2: One-Two Punch, Trench Barrel,Cascade Point
+//notes:Prophet of Doom - Rank 20 __  Tier B by TheAegisRelic
+Column 1: Reconstruction __  Envious Arsenal __ Pugilist
+Column 2: One-Two Punch __  Trench Barrel __ Cascade Point
 Origin Trait: Photoinhibition
 dimwishlist:item=2145441168&perks=1523832109,2679249093,511914882
 dimwishlist:item=2145441168&perks=1523832109,788178929,511914882
@@ -851,9 +851,9 @@ dimwishlist:item=4020742303&perks=536173722,331667533,511914882
 
 
 
-//notes:Compass Rose - Rank 21, Tier B by TheAegisRelic
-Column 1: Grave Robber, Dual Loader
-Column 2: One-Two Punch, Trench Barrel,Vorpal Weapon
+//notes:Compass Rose - Rank 21 __  Tier B by TheAegisRelic
+Column 1: Grave Robber __  Dual Loader
+Column 2: One-Two Punch __  Trench Barrel __ Vorpal Weapon
 Origin Trait: Dream Work
 dimwishlist:item=233896077&perks=1631667848,2679249093,1380061575
 dimwishlist:item=233896077&perks=1631667848,788178929,1380061575
@@ -930,9 +930,9 @@ dimwishlist:item=4169225313&perks=3143051906,3418165135,1380061575
 
 
 
-//notes:Found Verdict - Rank 22, Tier B by TheAegisRelic
-Column 1: Rewind Rounds, Discord
-Column 2: Trench Barrel, Elemental Honing,Voltshot
+//notes:Found Verdict - Rank 22 __  Tier B by TheAegisRelic
+Column 1: Rewind Rounds __  Discord
+Column 2: Trench Barrel __  Elemental Honing __ Voltshot
 Origin Trait: Timelost Magazine
 dimwishlist:item=631439337&perks=2578928832,2360754333,2589407652
 dimwishlist:item=631439337&perks=2578928832,2459015849,2589407652
@@ -1033,9 +1033,9 @@ dimwishlist:item=3197270240&perks=906981559,1720528630,2589407652
 
 
 
-//notes:A Sudden Death - Rank 23, Tier B by TheAegisRelic
-Column 1: Threat Detector, Envious Assassin,Discord
-Column 2: Trench Barrel, One-Two Punch,Cascade Point
+//notes:A Sudden Death - Rank 23 __  Tier B by TheAegisRelic
+Column 1: Threat Detector __  Envious Assassin __ Discord
+Column 2: Trench Barrel __  One-Two Punch __ Cascade Point
 Origin Trait: Crossing Over
 dimwishlist:item=1879212552&perks=4071163871,2360754333,4129855581
 dimwishlist:item=1879212552&perks=4071163871,2459015849,4129855581
@@ -1292,9 +1292,9 @@ dimwishlist:item=4097972038&perks=906981559,331667533,4129855581
 
 
 
-//notes:Deadlock - Rank 24, Tier B by TheAegisRelic
+//notes:Deadlock - Rank 24 __  Tier B by TheAegisRelic
 Column 1: Grave Robber
-Column 2: One-Two Punch, Cascade Point
+Column 2: One-Two Punch __  Cascade Point
 Origin Trait: None
 dimwishlist:item=2035738085&perks=1631667848,2679249093
 dimwishlist:item=2035738085&perks=1631667848,788178929
@@ -1307,9 +1307,9 @@ dimwishlist:item=2035738085&perks=402033656,331667533
 
 
 
-//notes:Legato-11 - Rank 25, Tier C by TheAegisRelic
-Column 1: Auto-Loading Holster, Heal Clip,Deconstruct
-Column 2: Vorpal Weapon, Cascade Point,Incandescent
+//notes:Legato-11 - Rank 25 __  Tier C by TheAegisRelic
+Column 1: Auto-Loading Holster __  Heal Clip __ Deconstruct
+Column 2: Vorpal Weapon __  Cascade Point __ Incandescent
 Origin Trait: Suros Synergy
 dimwishlist:item=3753063346&perks=3300816228,1546637391,4008116374
 dimwishlist:item=3753063346&perks=3300816228,3418165135,4008116374
@@ -1344,9 +1344,9 @@ dimwishlist:item=3753063346&perks=1164602481,2675184851,4008116374
 
 
 
-//notes:Sojourner's Tale - Rank 26, Tier C by TheAegisRelic
-Column 1: Discord, Auto-Loading Holster,Heal Clip
-Column 2: Incandescent, Precision Instrument
+//notes:Sojourner's Tale - Rank 26 __  Tier C by TheAegisRelic
+Column 1: Discord __  Auto-Loading Holster __ Heal Clip
+Column 2: Incandescent __  Precision Instrument
 Origin Trait: Splicer Surge
 dimwishlist:item=599895591&perks=3978468247,4293542123,3404929162
 dimwishlist:item=599895591&perks=3978468247,2675184851,3404929162
@@ -1399,9 +1399,9 @@ dimwishlist:item=2130875369&perks=4223976499,332733060,3404929162
 
 
 
-//notes:Seventh Seraph CQC-12 - Rank 27, Tier C by TheAegisRelic
-Column 1: Auto-Loading Holster, Lead from Gold
-Column 2: Vorpal Weapon, Trench Barrel
+//notes:Seventh Seraph CQC-12 - Rank 27 __  Tier C by TheAegisRelic
+Column 1: Auto-Loading Holster __  Lead from Gold
+Column 2: Vorpal Weapon __  Trench Barrel
 Origin Trait: None
 dimwishlist:item=1821724780&perks=3300816228,1546637391
 dimwishlist:item=1821724780&perks=3300816228,3418165135
@@ -1422,7 +1422,7 @@ dimwishlist:item=1821724780&perks=3442762221,2459015849
 
 
 
-//notes:Retold Tale - Rank 28, Tier C by TheAegisRelic
+//notes:Retold Tale - Rank 28 __  Tier C by TheAegisRelic
 Column 1: Lead from Gold
 Column 2: One-Two Punch
 Origin Trait: Advanced Reflexes
@@ -1437,7 +1437,7 @@ dimwishlist:item=871900124&perks=3442762221,788178929,930692523
 
 
 
-//notes:Matador 64 - Rank 29, Tier C by TheAegisRelic
+//notes:Matador 64 - Rank 29 __  Tier C by TheAegisRelic
 Column 1: Lead from Gold
 Column 2: One-Two Punch
 Origin Trait: None
@@ -1448,9 +1448,9 @@ dimwishlist:item=2563012876&perks=3442762221,788178929
 
 
 
-//notes:The Comedian - Rank 30, Tier C by TheAegisRelic
-Column 1: Ensemble, Lead from Gold
-Column 2: Vorpal Weapon, Trench Barrel
+//notes:The Comedian - Rank 30 __  Tier C by TheAegisRelic
+Column 1: Ensemble __  Lead from Gold
+Column 2: Vorpal Weapon __  Trench Barrel
 Origin Trait: Stunning Recovery
 dimwishlist:item=1028582252&perks=2621346526,1546637391,1281216113
 dimwishlist:item=1028582252&perks=2621346526,3418165135,1281216113
@@ -1487,9 +1487,9 @@ dimwishlist:item=2443900757&perks=3442762221,2459015849,1281216113
 
 
 
-//notes:Deadpan Delivery - Rank 31, Tier C by TheAegisRelic
-Column 1: Surplus, Overflow,Discord
-Column 2: Frenzy, Trench Barrel
+//notes:Deadpan Delivery - Rank 31 __  Tier C by TheAegisRelic
+Column 1: Surplus __  Overflow __ Discord
+Column 2: Frenzy __  Trench Barrel
 Origin Trait: Nadir Focus
 dimwishlist:item=1296429091&perks=3436462433,4104185692,2509860981
 dimwishlist:item=1296429091&perks=3436462433,3007133316,2509860981
@@ -1542,9 +1542,9 @@ dimwishlist:item=3582424018&perks=906981559,2459015849,2509860981
 
 
 
-//notes:Hand in Hand - Rank 32, Tier C by TheAegisRelic
+//notes:Hand in Hand - Rank 32 __  Tier C by TheAegisRelic
 Column 1: Ensemble
-Column 2: Trench Barrel, Cascade Point
+Column 2: Trench Barrel __  Cascade Point
 Origin Trait: Field-Tested
 dimwishlist:item=664109750&perks=2621346526,2360754333,43555494
 dimwishlist:item=664109750&perks=2621346526,2459015849,43555494
@@ -1565,9 +1565,9 @@ dimwishlist:item=4138415948&perks=2495011826,331667533,43555494
 
 
 
-//notes:Fortissimo-11 - Rank 33, Tier C by TheAegisRelic
-Column 1: Demolitionist, Threat Detector,Fourth Time's the Charm
-Column 2: Frenzy, Surrounded
+//notes:Fortissimo-11 - Rank 33 __  Tier C by TheAegisRelic
+Column 1: Demolitionist __  Threat Detector __ Fourth Time's the Charm
+Column 2: Frenzy __  Surrounded
 Origin Trait: Suros Synergy
 dimwishlist:item=2821430069&perks=3523296417,4104185692,4008116374
 dimwishlist:item=2821430069&perks=3523296417,3007133316,4008116374
@@ -1596,9 +1596,9 @@ dimwishlist:item=2821430069&perks=848860060,781192741,4008116374
 
 
 
-//notes:Ded Gramarye IV - Rank 34, Tier C by TheAegisRelic
-Column 1: Discord, Slickdraw
-Column 2: Chain Reaction, Voltshot,Vorpal Weapon
+//notes:Ded Gramarye IV - Rank 34 __  Tier C by TheAegisRelic
+Column 1: Discord __  Slickdraw
+Column 2: Chain Reaction __  Voltshot __ Vorpal Weapon
 Origin Trait: Wild Card
 dimwishlist:item=499245245&perks=3978468247,2396489472,1050127423
 dimwishlist:item=499245245&perks=3978468247,598607952,1050127423
@@ -1627,8 +1627,8 @@ dimwishlist:item=499245245&perks=1942880504,3418165135,1050127423
 
 
 
-//notes:Riiswalker - Rank 35, Tier D by TheAegisRelic
-Column 1: Slickdraw, Discord
+//notes:Riiswalker - Rank 35 __  Tier D by TheAegisRelic
+Column 1: Slickdraw __  Discord
 Column 2: Vorpal Weapon
 Origin Trait: Skulking Wolf
 dimwishlist:item=108221785&perks=1821614984,1546637391,3989629871
@@ -1658,9 +1658,9 @@ dimwishlist:item=1764868900&perks=906981559,3418165135,3989629871
 
 
 
-//notes:The Inquisitor - Rank 36, Tier D by TheAegisRelic
+//notes:The Inquisitor - Rank 36 __  Tier D by TheAegisRelic
 Column 1: Envious Assassin
-Column 2: Bait and Switch, Cascade Point,Precision Instrument
+Column 2: Bait and Switch __  Cascade Point __ Precision Instrument
 Origin Trait: Suros Synergy
 dimwishlist:item=2307365&perks=968510818,3078487919,4008116374
 dimwishlist:item=2307365&perks=968510818,3744057135,4008116374
@@ -1713,9 +1713,9 @@ dimwishlist:item=2653171212&perks=424370782,332733060,4008116374
 
 
 
-//notes:Ragnhild-D - Rank 37, Tier D by TheAegisRelic
+//notes:Ragnhild-D - Rank 37 __  Tier D by TheAegisRelic
 Column 1: Auto-Loading Holster
-Column 2: Frenzy, One-Two Punch
+Column 2: Frenzy __  One-Two Punch
 Origin Trait: Hakke Breach Armaments
 dimwishlist:item=4225322581&perks=3300816228,4104185692,1607056502
 dimwishlist:item=4225322581&perks=3300816228,3007133316,1607056502
@@ -1728,9 +1728,9 @@ dimwishlist:item=4225322581&perks=3528046508,788178929,1607056502
 
 
 
-//notes:Scavenger's Fate - Rank 38, Tier D by TheAegisRelic
-Column 1: Discord, Repulsor Brace
-Column 2: Destabilizing Rounds, Surrounded,Frenzy
+//notes:Scavenger's Fate - Rank 38 __  Tier D by TheAegisRelic
+Column 1: Discord __  Repulsor Brace
+Column 2: Destabilizing Rounds __  Surrounded __ Frenzy
 Origin Trait: Dark Ether Reaper
 dimwishlist:item=2913577176&perks=3978468247,2048641572,2041432007
 dimwishlist:item=2913577176&perks=3978468247,1926441324,2041432007
@@ -1759,9 +1759,9 @@ dimwishlist:item=2913577176&perks=2541826827,3007133316,2041432007
 
 
 
-//notes:First In, Last Out - Rank 39, Tier D by TheAegisRelic
+//notes:First In __  Last Out - Rank 39 __  Tier D by TheAegisRelic
 Column 1: Auto-Loading Holster
-Column 2: Vorpal Weapon, Surrounded,Demolitionist
+Column 2: Vorpal Weapon __  Surrounded __ Demolitionist
 Origin Trait: None
 dimwishlist:item=515224227&perks=3300816228,1546637391
 dimwishlist:item=515224227&perks=3300816228,3418165135
@@ -1790,9 +1790,9 @@ dimwishlist:item=3616586446&perks=3528046508,1906147653
 
 
 
-//notes:Gunnora's Axe - Rank 40, Tier D by TheAegisRelic
+//notes:Gunnora's Axe - Rank 40 __  Tier D by TheAegisRelic
 Column 1: Auto-Loading Holster
-Column 2: Vorpal Weapon, Voltshot
+Column 2: Vorpal Weapon __  Voltshot
 Origin Trait: Suros Synergy
 dimwishlist:item=94729174&perks=3300816228,1546637391,4008116374
 dimwishlist:item=94729174&perks=3300816228,3418165135,4008116374
@@ -1829,7 +1829,7 @@ dimwishlist:item=2326716489&perks=3528046508,1720528630,4008116374
 
 
 
-//notes:Fractethyst - Rank 41, Tier D by TheAegisRelic
+//notes:Fractethyst - Rank 41 __  Tier D by TheAegisRelic
 Column 1: Lead from Gold
 Column 2: Trench Barrel
 Origin Trait: None
@@ -1840,9 +1840,9 @@ dimwishlist:item=3184681056&perks=3442762221,2459015849
 
 
 
-//notes:No Reprieve - Rank 42, Tier E by TheAegisRelic
+//notes:No Reprieve - Rank 42 __  Tier E by TheAegisRelic
 Column 1: Triple Tap
-Column 2: Surrounded, Focused Fury
+Column 2: Surrounded __  Focused Fury
 Origin Trait: Right Hook
 dimwishlist:item=2531963421&perks=3400784728,3708227201,3907865655
 dimwishlist:item=2531963421&perks=3400784728,781192741,3907865655
@@ -1855,7 +1855,7 @@ dimwishlist:item=2531963421&perks=573122728,2402480669,3907865655
 
 
 
-//notes:Last Man Standing - Rank 43, Tier E by TheAegisRelic
+//notes:Last Man Standing - Rank 43 __  Tier E by TheAegisRelic
 Column 1: Threat Detector
 Column 2: One-Two Punch
 Origin Trait: Disaster Plan
@@ -1870,9 +1870,9 @@ dimwishlist:item=4287947559&perks=494941759,788178929,1004814308
 
 
 
-//notes:Astral Horizon - Rank 44, Tier E by TheAegisRelic
+//notes:Astral Horizon - Rank 44 __  Tier E by TheAegisRelic
 Column 1: Threat Detector
-Column 2: Vorpal Weapon, Cascade Point
+Column 2: Vorpal Weapon __  Cascade Point
 Origin Trait: Alacrity
 dimwishlist:item=532746994&perks=4071163871,1546637391,2988596335
 dimwishlist:item=532746994&perks=4071163871,3418165135,2988596335
@@ -1909,7 +1909,7 @@ dimwishlist:item=2653171213&perks=494941759,331667533,2988596335
 
 
 
-//notes:Mindbender's Ambition - Rank 45, Tier E by TheAegisRelic
+//notes:Mindbender's Ambition - Rank 45 __  Tier E by TheAegisRelic
 Column 1: Threat Detector
 Column 2: Vorpal Weapon
 Origin Trait: Stunning Recovery
@@ -1936,7 +1936,7 @@ dimwishlist:item=4117693024&perks=494941759,3418165135,1281216113
 
 
 
-//notes:Felwinter's Lie - Rank 46, Tier E by TheAegisRelic
+//notes:Felwinter's Lie - Rank 46 __  Tier E by TheAegisRelic
 Column 1: Surplus
 Column 2: Vorpal Weapon
 Origin Trait: None
@@ -1947,7 +1947,7 @@ dimwishlist:item=1179141605&perks=2658083589,3418165135
 
 
 
-//notes:Wishbringer - Rank 47, Tier F by TheAegisRelic
+//notes:Wishbringer - Rank 47 __  Tier F by TheAegisRelic
 Column 1: Threat Detector
 Column 2: Auto-Loading Holster
 Origin Trait: None
@@ -1962,7 +1962,7 @@ dimwishlist:item=3356526253&perks=494941759,3528046508
 
 
 
-//notes:Toil and Trouble - Rank 48, Tier F by TheAegisRelic
+//notes:Toil and Trouble - Rank 48 __  Tier F by TheAegisRelic
 Column 1: Threat Detector
 Column 2: Auto-Loading Holster
 Origin Trait: None
@@ -1973,7 +1973,7 @@ dimwishlist:item=2957367743&perks=494941759,3528046508
 
 
 
-//notes:Blasphemer - Rank 49, Tier F by TheAegisRelic
+//notes:Blasphemer - Rank 49 __  Tier F by TheAegisRelic
 Column 1: Fourth Time's the Charm
 Column 2: Swashbuckler
 Origin Trait: None
@@ -1984,8 +1984,8 @@ dimwishlist:item=2782847179&perks=848860060,1161469972
 
 
 
-//notes:Bonechiller - Rank 50, Tier F by TheAegisRelic
-Column 1: Lead from Gold, Triple Tap
+//notes:Bonechiller - Rank 50 __  Tier F by TheAegisRelic
+Column 1: Lead from Gold __  Triple Tap
 Column 2: Demolitionist
 Origin Trait: None
 dimwishlist:item=4037745684&perks=1556840489,3523296417
@@ -1999,7 +1999,7 @@ dimwishlist:item=4037745684&perks=573122728,1906147653
 
 
 
-//notes:Reckless Endangerment - Rank 51, Tier F by TheAegisRelic
+//notes:Reckless Endangerment - Rank 51 __  Tier F by TheAegisRelic
 Column 1: Steady Hands
 Column 2: Swashbuckler
 Origin Trait: One Quiet Moment

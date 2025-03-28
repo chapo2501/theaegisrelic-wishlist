@@ -1,7 +1,7 @@
-// BGLs - 2025-03-28T21:00:18.669Z
-//notes:VS Velocity Baton - Rank 1, Tier S by TheAegisRelic
-Column 1: Repulsor Brace, Demolitionist
-Column 2: Destabilizing Rounds, Attrition Orbs
+// BGLs - 2025-03-28T21:24:31.543Z
+//notes:VS Velocity Baton - Rank 1 __  Tier S by TheAegisRelic
+Column 1: Repulsor Brace __  Demolitionist
+Column 2: Destabilizing Rounds __  Attrition Orbs
 Origin Trait: Bray Legacy
 dimwishlist:item=1762785663&perks=776531651,2048641572,4139916815
 dimwishlist:item=1762785663&perks=776531651,1926441324,4139916815
@@ -22,9 +22,9 @@ dimwishlist:item=1762785663&perks=1906147653,984655331,4139916815
 
 
 
-//notes:The Mountaintop - Rank 2, Tier S by TheAegisRelic
-Column 1: Auto-Loading Holster, Overflow,Impulse Amplifier
-Column 2: Frenzy, Recombination,Vorpal Weapon
+//notes:The Mountaintop - Rank 2 __  Tier S by TheAegisRelic
+Column 1: Auto-Loading Holster __  Overflow __ Impulse Amplifier
+Column 2: Frenzy __  Recombination __ Vorpal Weapon
 Origin Trait: Indomitability
 dimwishlist:item=568611922&perks=3300816228,4104185692,2489430594
 dimwishlist:item=568611922&perks=3300816228,3007133316,2489430594
@@ -137,9 +137,9 @@ dimwishlist:item=4043921923&perks=3878366039,3418165135,2489430594
 
 
 
-//notes:Psychopomp - Rank 3, Tier S by TheAegisRelic
-Column 1: Envious Arsenal, Ambitious Assassin,Pugilist
-Column 2: Elemental Honing, Frenzy,Rolling Storm
+//notes:Psychopomp - Rank 3 __  Tier S by TheAegisRelic
+Column 1: Envious Arsenal __  Ambitious Assassin __ Pugilist
+Column 2: Elemental Honing __  Frenzy __ Rolling Storm
 Origin Trait: Runneth Over
 dimwishlist:item=704410186&perks=3987942396,1089671869,120721526
 dimwishlist:item=704410186&perks=3987942396,496047945,120721526
@@ -288,9 +288,9 @@ dimwishlist:item=4028298892&perks=536173722,2633604463,120721526
 
 
 
-//notes:Lost Signal - Rank 4, Tier S by TheAegisRelic
-Column 1: Auto-Loading Holster, Lead from Gold
-Column 2: Vorpal Weapon, Demolitionist,One for All
+//notes:Lost Signal - Rank 4 __  Tier S by TheAegisRelic
+Column 1: Auto-Loading Holster __  Lead from Gold
+Column 2: Vorpal Weapon __  Demolitionist __ One for All
 Origin Trait: Radiolaria Transposer
 dimwishlist:item=1197771438&perks=3300816228,1546637391,253121539
 dimwishlist:item=1197771438&perks=3300816228,3418165135,253121539
@@ -319,9 +319,9 @@ dimwishlist:item=1197771438&perks=3442762221,859780267,253121539
 
 
 
-//notes:Liturgy - Rank 5, Tier A by TheAegisRelic
-Column 1: Slideways, Envious Arsenal
-Column 2: Chill Clip, Lead from Gold,Chain Reaction
+//notes:Liturgy - Rank 5 __  Tier A by TheAegisRelic
+Column 1: Slideways __  Envious Arsenal
+Column 2: Chill Clip __  Lead from Gold __ Chain Reaction
 Origin Trait: Dark Ether Reaper
 dimwishlist:item=2599338624&perks=2039302152,2978966579,2041432007
 dimwishlist:item=2599338624&perks=2039302152,344235611,2041432007
@@ -350,9 +350,9 @@ dimwishlist:item=2599338624&perks=2817499044,598607952,2041432007
 
 
 
-//notes:Martyr's Retribution - Rank 6, Tier A by TheAegisRelic
-Column 1: Heal Clip, Demolitionist,Auto-Loading Holster
-Column 2: Incandescent, Kill Clip,Desperate Measures
+//notes:Martyr's Retribution - Rank 6 __  Tier A by TheAegisRelic
+Column 1: Heal Clip __  Demolitionist __ Auto-Loading Holster
+Column 2: Incandescent __  Kill Clip __ Desperate Measures
 Origin Trait: Cast No Shadows
 dimwishlist:item=2584830733&perks=3017780555,4293542123,2838996248
 dimwishlist:item=2584830733&perks=3017780555,2675184851,2838996248
@@ -429,9 +429,9 @@ dimwishlist:item=3850168899&perks=3528046508,2799030358,2838996248
 
 
 
-//notes:Forbearance - Rank 7, Tier A by TheAegisRelic
-Column 1: Ambitious Assassin, Unrelenting
-Column 2: Chain Reaction, Wellspring
+//notes:Forbearance - Rank 7 __  Tier A by TheAegisRelic
+Column 1: Ambitious Assassin __  Unrelenting
+Column 2: Chain Reaction __  Wellspring
 Origin Trait: Souldrinker
 dimwishlist:item=568611921&perks=2010801679,2396489472,3363267119
 dimwishlist:item=568611921&perks=2010801679,598607952,3363267119
@@ -500,9 +500,9 @@ dimwishlist:item=4038592169&perks=855168139,2675361166,3363267119
 
 
 
-//notes:Forbearance - Rank 8, Tier A by TheAegisRelic
-Column 1: Ambitious Assassin, Demolitionist,Unrelenting
-Column 2: Chain Reaction, Desperate Measures,Wellspring
+//notes:Forbearance - Rank 8 __  Tier A by TheAegisRelic
+Column 1: Ambitious Assassin __  Demolitionist __ Unrelenting
+Column 2: Chain Reaction __  Desperate Measures __ Wellspring
 Origin Trait: Indomitability
 dimwishlist:item=568611921&perks=2010801679,2396489472,2489430594
 dimwishlist:item=568611921&perks=2010801679,598607952,2489430594
@@ -651,9 +651,9 @@ dimwishlist:item=4038592169&perks=855168139,2675361166,2489430594
 
 
 
-//notes:Wild Style - Rank 9, Tier B by TheAegisRelic
+//notes:Wild Style - Rank 9 __  Tier B by TheAegisRelic
 Column 1: Reconstruction
-Column 2: Bait and Switch, Vorpal Weapon
+Column 2: Bait and Switch __  Vorpal Weapon
 Origin Trait: Tex Balanced Stock
 dimwishlist:item=959037361&perks=1523832109,3078487919,2437618208
 dimwishlist:item=959037361&perks=1523832109,3744057135,2437618208
@@ -674,8 +674,8 @@ dimwishlist:item=1332123064&perks=461595545,3418165135,2437618208
 
 
 
-//notes:New Pacific Epitaph - Rank 10, Tier B by TheAegisRelic
-Column 1: Demolitionist, Lead from Gold
+//notes:New Pacific Epitaph - Rank 10 __  Tier B by TheAegisRelic
+Column 1: Demolitionist __  Lead from Gold
 Column 2: Redirection
 Origin Trait: Restoration Ritual
 dimwishlist:item=233402416&perks=3523296417,3201496230,398661035
@@ -721,9 +721,9 @@ dimwishlist:item=3185151619&perks=3442762221,1545231802,398661035
 
 
 
-//notes:Tusk of the Boar - Rank 11, Tier B by TheAegisRelic
-Column 1: Slideways, Slice
-Column 2: Chain Reaction, Deconstruct
+//notes:Tusk of the Boar - Rank 11 __  Tier B by TheAegisRelic
+Column 1: Slideways __  Slice
+Column 2: Chain Reaction __  Deconstruct
 Origin Trait: Field-Tested
 dimwishlist:item=1218113510&perks=2039302152,2396489472,43555494
 dimwishlist:item=1218113510&perks=2039302152,598607952,43555494
@@ -740,9 +740,9 @@ dimwishlist:item=1218113510&perks=3422796781,1164602481,43555494
 
 
 
-//notes:The Militia's Birthright - Rank 12, Tier B by TheAegisRelic
-Column 1: Lead from Gold, Slideways
-Column 2: Auto-Loading Holster, Frenzy
+//notes:The Militia's Birthright - Rank 12 __  Tier B by TheAegisRelic
+Column 1: Lead from Gold __  Slideways
+Column 2: Auto-Loading Holster __  Frenzy
 Origin Trait: Stunning Recovery
 dimwishlist:item=40394833&perks=1556840489,3300816228,1281216113
 dimwishlist:item=40394833&perks=1556840489,3528046508,1281216113
@@ -827,7 +827,7 @@ dimwishlist:item=4162642204&perks=2396422520,3007133316,1281216113
 
 
 
-//notes:Explosive Personality - Rank 13, Tier B by TheAegisRelic
+//notes:Explosive Personality - Rank 13 __  Tier B by TheAegisRelic
 Column 1: Auto-Loading Holster
 Column 2: Frenzy
 Origin Trait: Land Tank
@@ -838,9 +838,9 @@ dimwishlist:item=4096943616&perks=3528046508,3007133316,1536798515
 
 
 
-//notes:Wilderflight - Rank 14, Tier B by TheAegisRelic
-Column 1: Auto-Loading Holster, Demolitionist
-Column 2: Frenzy, Vorpal Weapon,Lead from Gold
+//notes:Wilderflight - Rank 14 __  Tier B by TheAegisRelic
+Column 1: Auto-Loading Holster __  Demolitionist
+Column 2: Frenzy __  Vorpal Weapon __ Lead from Gold
 Origin Trait: Tex Balanced Stock
 dimwishlist:item=559523765&perks=3300816228,4104185692,2437618208
 dimwishlist:item=559523765&perks=3300816228,3007133316,2437618208
@@ -965,9 +965,9 @@ dimwishlist:item=2982006965&perks=1906147653,3442762221,2437618208
 
 
 
-//notes:Undercurrent - Rank 15, Tier B by TheAegisRelic
-Column 1: Demolitionist, Ambitious Assassin,Lead from Gold
-Column 2: Voltshot, One for All
+//notes:Undercurrent - Rank 15 __  Tier B by TheAegisRelic
+Column 1: Demolitionist __  Ambitious Assassin __ Lead from Gold
+Column 2: Voltshot __  One for All
 Origin Trait: Vanguard's Vindication
 dimwishlist:item=672957262&perks=3523296417,2173046394,744217850
 dimwishlist:item=672957262&perks=3523296417,1720528630,744217850
@@ -1068,8 +1068,8 @@ dimwishlist:item=3686538757&perks=3442762221,859780267,744217850
 
 
 
-//notes:Ignition Code - Rank 16, Tier B by TheAegisRelic
-Column 1: Slideshot, Lead from Gold
+//notes:Ignition Code - Rank 16 __  Tier B by TheAegisRelic
+Column 1: Slideshot __  Lead from Gold
 Column 2: Frenzy
 Origin Trait: Splicer Surge
 dimwishlist:item=304659313&perks=3161816588,4104185692,3404929162
@@ -1091,9 +1091,9 @@ dimwishlist:item=2761869150&perks=3442762221,3007133316,3404929162
 
 
 
-//notes:Pardon Our Dust - Rank 17, Tier B by TheAegisRelic
+//notes:Pardon Our Dust - Rank 17 __  Tier B by TheAegisRelic
 Column 1: Auto-Loading Holster
-Column 2: Demolitionist, Vorpal Weapon
+Column 2: Demolitionist __  Vorpal Weapon
 Origin Trait: Hot Swap
 dimwishlist:item=3849810018&perks=3300816228,3523296417,1260401931
 dimwishlist:item=3849810018&perks=3300816228,1906147653,1260401931
@@ -1106,7 +1106,7 @@ dimwishlist:item=3849810018&perks=3528046508,3418165135,1260401931
 
 
 
-//notes:Lingering Dread - Rank 18, Tier C by TheAegisRelic
+//notes:Lingering Dread - Rank 18 __  Tier C by TheAegisRelic
 Column 1: Auto-Loading Holster
 Column 2: Chill Clip
 Origin Trait: Bitterspite
@@ -1117,9 +1117,9 @@ dimwishlist:item=2026087437&perks=3528046508,344235611,4154828211
 
 
 
-//notes:Harsh Language - Rank 19, Tier C by TheAegisRelic
-Column 1: Wellspring, Envious Assassin
-Column 2: Destabilizing Rounds, Repulsor Brace
+//notes:Harsh Language - Rank 19 __  Tier C by TheAegisRelic
+Column 1: Wellspring __  Envious Assassin
+Column 2: Destabilizing Rounds __  Repulsor Brace
 Origin Trait: Field-Tested
 dimwishlist:item=1606497639&perks=3592538738,2048641572,43555494
 dimwishlist:item=1606497639&perks=3592538738,1926441324,43555494
@@ -1156,9 +1156,9 @@ dimwishlist:item=2936850733&perks=424370782,2541826827,43555494
 
 
 
-//notes:Deafening Whisper - Rank 20, Tier C by TheAegisRelic
-Column 1: Ambitious Assassin, Lead from Gold
-Column 2: Wellspring, Auto-Loading Holster,Rampage
+//notes:Deafening Whisper - Rank 20 __  Tier C by TheAegisRelic
+Column 1: Ambitious Assassin __  Lead from Gold
+Column 2: Wellspring __  Auto-Loading Holster __ Rampage
 Origin Trait: None
 dimwishlist:item=981718087&perks=2010801679,3592538738
 dimwishlist:item=981718087&perks=2010801679,2675361166
@@ -1187,9 +1187,9 @@ dimwishlist:item=981718087&perks=3442762221,288411554
 
 
 
-//notes:Empty Vessel - Rank 21, Tier D by TheAegisRelic
-Column 1: Auto-Loading Holster, Lead from Gold
-Column 2: Demolitionist, Vorpal Weapon
+//notes:Empty Vessel - Rank 21 __  Tier D by TheAegisRelic
+Column 1: Auto-Loading Holster __  Lead from Gold
+Column 2: Demolitionist __  Vorpal Weapon
 Origin Trait: Field-Tested
 dimwishlist:item=4255586669&perks=3300816228,3523296417,43555494
 dimwishlist:item=4255586669&perks=3300816228,1906147653,43555494
@@ -1210,9 +1210,9 @@ dimwishlist:item=4255586669&perks=3442762221,3418165135,43555494
 
 
 
-//notes:Salvager's Salvo - Rank 22, Tier D by TheAegisRelic
-Column 1: Demolitionist, Ambitious Assassin
-Column 2: Chain Reaction, Vorpal Weapon
+//notes:Salvager's Salvo - Rank 22 __  Tier D by TheAegisRelic
+Column 1: Demolitionist __  Ambitious Assassin
+Column 2: Chain Reaction __  Vorpal Weapon
 Origin Trait: None
 dimwishlist:item=2060863616&perks=3523296417,2396489472
 dimwishlist:item=2060863616&perks=3523296417,598607952
@@ -1233,9 +1233,9 @@ dimwishlist:item=2060863616&perks=3797647183,3418165135
 
 
 
-//notes:Orewing's Maul - Rank 23, Tier E by TheAegisRelic
+//notes:Orewing's Maul - Rank 23 __  Tier E by TheAegisRelic
 Column 1: Field Prep
-Column 2: Auto-Loading Holster, Demolitionist
+Column 2: Auto-Loading Holster __  Demolitionist
 Origin Trait: None
 dimwishlist:item=1870979911&perks=777589559,3300816228
 dimwishlist:item=1870979911&perks=777589559,3528046508
@@ -1256,9 +1256,9 @@ dimwishlist:item=2108920981&perks=2308090567,1906147653
 
 
 
-//notes:Prodigal Return - Rank 24, Tier E by TheAegisRelic
-Column 1: Lead from Gold, Envious Assassin
-Column 2: Voltshot, Demolitionist
+//notes:Prodigal Return - Rank 24 __  Tier E by TheAegisRelic
+Column 1: Lead from Gold __  Envious Assassin
+Column 2: Voltshot __  Demolitionist
 Origin Trait: Noble Deeds
 dimwishlist:item=268260373&perks=1556840489,2173046394,1823011807
 dimwishlist:item=268260373&perks=1556840489,1720528630,1823011807
@@ -1279,7 +1279,7 @@ dimwishlist:item=268260373&perks=424370782,1906147653,1823011807
 
 
 
-//notes:Truthteller - Rank 25, Tier F by TheAegisRelic
+//notes:Truthteller - Rank 25 __  Tier F by TheAegisRelic
 Column 1: Grave Robber
 Column 2: Repulsor Brace
 Origin Trait: Field-Tested
