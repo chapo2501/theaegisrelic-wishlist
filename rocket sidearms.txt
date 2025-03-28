@@ -1,4 +1,4 @@
-// Rocket Sidearms - 2025-03-28T21:27:05.697Z
+// Rocket Sidearms - 2025-03-28T21:32:57.369Z
 //notes:Aberrant Action - Rank 1, Tier S by TheAegisRelic __ Column 1: Heal Clip __ Column 2: Incandescent __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=2198166292&perks=3017780555,4293542123,253121539
 dimwishlist:item=2198166292&perks=3017780555,2675184851,253121539
@@ -7,7 +7,7 @@ dimwishlist:item=2198166292&perks=4223976499,2675184851,253121539
 
 
 
-//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Reconstruction,Shoot to Loot __ Column 2: Destabilizing Rounds, Withering Gaze,One for All __ Origin Trait: Stunning Recovery
+//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Reconstruction, Shoot to Loot __ Column 2: Destabilizing Rounds, Withering Gaze, One for All __ Origin Trait: Stunning Recovery
 dimwishlist:item=2697143634&perks=776531651,2048641572,1281216113
 dimwishlist:item=2697143634&perks=776531651,1926441324,1281216113
 dimwishlist:item=2697143634&perks=2541826827,2048641572,1281216113
@@ -83,7 +83,7 @@ dimwishlist:item=3922217119&perks=2840833776,859780267,1281216113
 
 
 
-//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic __ Column 1: Air Trigger, Impulse Amplifier,Deconstruct __ Column 2: Chill Clip, Surrounded,Desperate Measures __ Origin Trait: Skulking Wolf
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic __ Column 1: Air Trigger, Impulse Amplifier, Deconstruct __ Column 2: Chill Clip, Surrounded, Desperate Measures __ Origin Trait: Skulking Wolf
 dimwishlist:item=480368036&perks=1421772400,2978966579,3989629871
 dimwishlist:item=480368036&perks=1421772400,344235611,3989629871
 dimwishlist:item=480368036&perks=3291427296,2978966579,3989629871
@@ -117,7 +117,7 @@ dimwishlist:item=480368036&perks=1164602481,2799030358,3989629871
 
 
 
-//notes:Indebted Kindness - Rank 4, Tier A by TheAegisRelic __ Column 1: Impulse Amplifier, Lead from Gold __ Column 2: Voltshot, Surrounded,Adagio __ Origin Trait: Sundering
+//notes:Indebted Kindness - Rank 4, Tier A by TheAegisRelic __ Column 1: Impulse Amplifier, Lead from Gold __ Column 2: Voltshot, Surrounded, Adagio __ Origin Trait: Sundering
 dimwishlist:item=3381450498&perks=951095735,2173046394,220689851
 dimwishlist:item=3381450498&perks=951095735,1720528630,220689851
 dimwishlist:item=3381450498&perks=3878366039,2173046394,220689851
@@ -145,7 +145,7 @@ dimwishlist:item=3381450498&perks=3442762221,2889515627,220689851
 
 
 
-//notes:The Call - Rank 5, Tier B by TheAegisRelic __ Column 1: Slice, Lead from Gold,Demolitionist __ Column 2: Desperate Measures, Golden Tricorn,One for All __ Origin Trait: Dealer's Choice
+//notes:The Call - Rank 5, Tier B by TheAegisRelic __ Column 1: Slice, Lead from Gold, Demolitionist __ Column 2: Desperate Measures, Golden Tricorn, One for All __ Origin Trait: Dealer's Choice
 dimwishlist:item=3947966653&perks=923806249,2109543898,1988485648
 dimwishlist:item=3947966653&perks=923806249,2799030358,1988485648
 dimwishlist:item=3947966653&perks=3422796781,2109543898,1988485648

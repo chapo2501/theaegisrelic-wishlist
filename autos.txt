@@ -1,5 +1,5 @@
-// Autos - 2025-03-28T21:27:05.697Z
-//notes:No Hesitation - Rank 1, Tier S by TheAegisRelic __ Column 1: Physic, Demolitionist __ Column 2: Incandescent, Attrition Orbs,Circle of Life __ Origin Trait: Dealer's Choice
+// Autos - 2025-03-28T21:32:57.369Z
+//notes:No Hesitation - Rank 1, Tier S by TheAegisRelic __ Column 1: Physic, Demolitionist __ Column 2: Incandescent, Attrition Orbs, Circle of Life __ Origin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,4293542123,1988485648
 dimwishlist:item=1801007332&perks=2980589453,2675184851,1988485648
 dimwishlist:item=1801007332&perks=4063561849,4293542123,1988485648
@@ -27,7 +27,7 @@ dimwishlist:item=1801007332&perks=1906147653,674546187,1988485648
 
 
 
-//notes:Adamantite - Rank 2, Tier A by TheAegisRelic __ Column 1: Reciprocity, Slice,Demolitionist __ Column 2: Attrition Orbs, Tear,Frenzy __ Origin Trait: Runneth Over
+//notes:Adamantite - Rank 2, Tier A by TheAegisRelic __ Column 1: Reciprocity, Slice, Demolitionist __ Column 2: Attrition Orbs, Tear, Frenzy __ Origin Trait: Runneth Over
 dimwishlist:item=601574723&perks=692399809,243981275,120721526
 dimwishlist:item=601574723&perks=692399809,984655331,120721526
 dimwishlist:item=601574723&perks=4070834277,243981275,120721526
@@ -311,7 +311,7 @@ dimwishlist:item=601592879&perks=169755979,1926441324,1489048135
 
 
 
-//notes:Positive Outlook - Rank 9, Tier B by TheAegisRelic __ Column 1: Stats for All __ Column 2: Destabilizing Rounds, Dragonfly,Repulsor Brace __ Origin Trait: Omolon Fluid Dynamics
+//notes:Positive Outlook - Rank 9, Tier B by TheAegisRelic __ Column 1: Stats for All __ Column 2: Destabilizing Rounds, Dragonfly, Repulsor Brace __ Origin Trait: Omolon Fluid Dynamics
 dimwishlist:item=491078457&perks=1583705720,2048641572,2839173408
 dimwishlist:item=491078457&perks=1583705720,1926441324,2839173408
 dimwishlist:item=491078457&perks=1409206216,2048641572,2839173408
@@ -391,7 +391,7 @@ dimwishlist:item=4024037919&perks=1906147653,956288240,744217850
 
 
 
-//notes:Breakneck - Rank 11, Tier B by TheAegisRelic __ Column 1: Enlightened Action, Shoot to Loot,Pugilist __ Column 2: Kinetic Tremors, Onslaught,Attrition Orbs __ Origin Trait: Gun and Run
+//notes:Breakneck - Rank 11, Tier B by TheAegisRelic __ Column 1: Enlightened Action, Shoot to Loot, Pugilist __ Column 2: Kinetic Tremors, Onslaught, Attrition Orbs __ Origin Trait: Gun and Run
 dimwishlist:item=324382200&perks=777589557,3891536761,515704826
 dimwishlist:item=324382200&perks=777589557,1549370717,515704826
 dimwishlist:item=324382200&perks=1771736209,3891536761,515704826
@@ -727,7 +727,7 @@ dimwishlist:item=2598420927&perks=4245865861,3007133316,3404929162
 
 
 
-//notes:Ammit AR2 - Rank 17, Tier C by TheAegisRelic __ Column 1: Stats for All, Turnabout __ Column 2: Incandescent, One for All,Adaptive Munitions __ Origin Trait: Omolon Fluid Dynamics
+//notes:Ammit AR2 - Rank 17, Tier C by TheAegisRelic __ Column 1: Stats for All, Turnabout __ Column 2: Incandescent, One for All, Adaptive Munitions __ Origin Trait: Omolon Fluid Dynamics
 dimwishlist:item=2119346509&perks=1583705720,4293542123,2839173408
 dimwishlist:item=2119346509&perks=1583705720,2675184851,2839173408
 dimwishlist:item=2119346509&perks=1409206216,4293542123,2839173408
@@ -755,7 +755,7 @@ dimwishlist:item=2119346509&perks=2000295559,3431277734,2839173408
 
 
 
-//notes:Krait - Rank 18, Tier C by TheAegisRelic __ Column 1: Stats for All, Auto-Loading Holster,Subsistence __ Column 2: Headstone, One for All __ Origin Trait: Veist Stinger
+//notes:Krait - Rank 18, Tier C by TheAegisRelic __ Column 1: Stats for All, Auto-Loading Holster, Subsistence __ Column 2: Headstone, One for All __ Origin Trait: Veist Stinger
 dimwishlist:item=2852052802&perks=1583705720,124408337,3988215619
 dimwishlist:item=2852052802&perks=1583705720,1171887445,3988215619
 dimwishlist:item=2852052802&perks=1409206216,124408337,3988215619
@@ -795,7 +795,7 @@ dimwishlist:item=4176873718&perks=2617553311,956288240,744217850
 
 
 
-//notes:Horror Story - Rank 20, Tier C by TheAegisRelic __ Column 1: Enlightened Action, Demolitionist,Under-Over __ Column 2: Headstone, Frenzy __ Origin Trait: Nadir Focus
+//notes:Horror Story - Rank 20, Tier C by TheAegisRelic __ Column 1: Enlightened Action, Demolitionist, Under-Over __ Column 2: Headstone, Frenzy __ Origin Trait: Nadir Focus
 dimwishlist:item=177568179&perks=777589557,124408337,2509860981
 dimwishlist:item=177568179&perks=777589557,1171887445,2509860981
 dimwishlist:item=177568179&perks=1771736209,124408337,2509860981
@@ -859,7 +859,7 @@ dimwishlist:item=3143732432&perks=1771736209,1171887445,1600429811
 
 
 
-//notes:Herod-C - Rank 22, Tier C by TheAegisRelic __ Column 1: Shoot to Loot, Stats for All,Auto-Loading Holster __ Column 2: Headstone, One for All,Frenzy __ Origin Trait: Hakke Breach Armaments
+//notes:Herod-C - Rank 22, Tier C by TheAegisRelic __ Column 1: Shoot to Loot, Stats for All, Auto-Loading Holster __ Column 2: Headstone, One for All, Frenzy __ Origin Trait: Hakke Breach Armaments
 dimwishlist:item=1788603939&perks=3700496672,124408337,1607056502
 dimwishlist:item=1788603939&perks=3700496672,1171887445,1607056502
 dimwishlist:item=1788603939&perks=2840833776,124408337,1607056502
@@ -899,7 +899,7 @@ dimwishlist:item=1788603939&perks=3528046508,3007133316,1607056502
 
 
 
-//notes:Tigerspite - Rank 23, Tier C by TheAegisRelic __ Column 1: Subsistence __ Column 2: Kinetic Tremors, Frenzy,Attrition Orbs __ Origin Trait: Advanced Reflexes
+//notes:Tigerspite - Rank 23, Tier C by TheAegisRelic __ Column 1: Subsistence __ Column 2: Kinetic Tremors, Frenzy, Attrition Orbs __ Origin Trait: Advanced Reflexes
 dimwishlist:item=640114618&perks=1820235745,3891536761,930692523
 dimwishlist:item=640114618&perks=1820235745,1549370717,930692523
 dimwishlist:item=640114618&perks=4245865861,3891536761,930692523
@@ -1043,7 +1043,7 @@ dimwishlist:item=484515708&perks=1906147653,102912326,3186078099
 
 
 
-//notes:Come to Pass - Rank 28, Tier D by TheAegisRelic __ Column 1: Shoot to Loot, Stats for All,Genesis __ Column 2: Dragonfly, One for All,Adaptive Munitions __ Origin Trait: Psychohack
+//notes:Come to Pass - Rank 28, Tier D by TheAegisRelic __ Column 1: Shoot to Loot, Stats for All, Genesis __ Column 2: Dragonfly, One for All, Adaptive Munitions __ Origin Trait: Psychohack
 dimwishlist:item=927567426&perks=3700496672,2848615171,79448657
 dimwishlist:item=927567426&perks=3700496672,169755979,79448657
 dimwishlist:item=927567426&perks=2840833776,2848615171,79448657
@@ -1083,7 +1083,7 @@ dimwishlist:item=927567426&perks=1658784563,3431277734,79448657
 
 
 
-//notes:Lethal Abundance - Rank 29, Tier D by TheAegisRelic __ Column 1: Enlightened Action, Slice __ Column 2: Onslaught, Hatchling,Attrition Orbs __ Origin Trait: Skulking Wolf
+//notes:Lethal Abundance - Rank 29, Tier D by TheAegisRelic __ Column 1: Enlightened Action, Slice __ Column 2: Onslaught, Hatchling, Attrition Orbs __ Origin Trait: Skulking Wolf
 dimwishlist:item=2189073092&perks=777589557,95528736,3989629871
 dimwishlist:item=2189073092&perks=777589557,956288240,3989629871
 dimwishlist:item=2189073092&perks=1771736209,95528736,3989629871
@@ -1399,7 +1399,7 @@ dimwishlist:item=2328531378&perks=1906147653,2422968039,1607056502
 
 
 
-//notes:Gnawing Hunger - Rank 42, Tier F by TheAegisRelic __ Column 1: Auto-Loading Holster, Subsistence,Field Prep __ Column 2: Swashbuckler, Kill Clip __ Origin Trait: None
+//notes:Gnawing Hunger - Rank 42, Tier F by TheAegisRelic __ Column 1: Auto-Loading Holster, Subsistence, Field Prep __ Column 2: Swashbuckler, Kill Clip __ Origin Trait: None
 dimwishlist:item=821154603&perks=3300816228,4082225868
 dimwishlist:item=821154603&perks=3300816228,1161469972
 dimwishlist:item=821154603&perks=3528046508,4082225868

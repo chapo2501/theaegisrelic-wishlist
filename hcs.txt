@@ -1,5 +1,5 @@
-// HCs - 2025-03-28T21:27:05.697Z
-//notes:Word of Crota - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Enlightened Action,Dragonfly __ Column 2: Destabilizing Rounds __ Origin Trait: Cursed Thrall
+// HCs - 2025-03-28T21:32:57.369Z
+//notes:Word of Crota - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Enlightened Action, Dragonfly __ Column 2: Destabilizing Rounds __ Origin Trait: Cursed Thrall
 dimwishlist:item=120706239&perks=776531651,2048641572,1156201379
 dimwishlist:item=120706239&perks=776531651,1926441324,1156201379
 dimwishlist:item=120706239&perks=2541826827,2048641572,1156201379
@@ -67,7 +67,7 @@ dimwishlist:item=1246793994&perks=1771736209,169755979,2839173408
 
 
 
-//notes:Exalted Truth - Rank 5, Tier A by TheAegisRelic __ Column 1: Destabilizing Rounds __ Column 2: Repulsor Brace, One for All,Demoralize __ Origin Trait: One Quiet Moment
+//notes:Exalted Truth - Rank 5, Tier A by TheAegisRelic __ Column 1: Destabilizing Rounds __ Column 2: Repulsor Brace, One for All, Demoralize __ Origin Trait: One Quiet Moment
 dimwishlist:item=548809020&perks=2048641572,776531651,4091460919
 dimwishlist:item=548809020&perks=2048641572,2541826827,4091460919
 dimwishlist:item=548809020&perks=1926441324,776531651,4091460919
@@ -195,7 +195,7 @@ dimwishlist:item=431721920&perks=64866129,859780267,120721526
 
 
 
-//notes:Midnight Coup - Rank 9, Tier A by TheAegisRelic __ Column 1: Firefly, Shoot to Loot,Explosive Payload __ Column 2: Kinetic Tremors, Frenzy,One for All __ Origin Trait: Indomitability
+//notes:Midnight Coup - Rank 9, Tier A by TheAegisRelic __ Column 1: Firefly, Shoot to Loot, Explosive Payload __ Column 2: Kinetic Tremors, Frenzy, One for All __ Origin Trait: Indomitability
 dimwishlist:item=1128225405&perks=1561789734,3891536761,2489430594
 dimwishlist:item=1128225405&perks=1561789734,1549370717,2489430594
 dimwishlist:item=1128225405&perks=1183436451,3891536761,2489430594
@@ -307,7 +307,7 @@ dimwishlist:item=2763843898&perks=64866129,859780267,2489430594
 
 
 
-//notes:Fatebringer - Rank 10, Tier A by TheAegisRelic __ Column 1: Explosive Payload, Kinetic Tremors __ Column 2: Firefly, One for All,Frenzy __ Origin Trait: Timelost Magazine
+//notes:Fatebringer - Rank 10, Tier A by TheAegisRelic __ Column 1: Explosive Payload, Kinetic Tremors __ Column 2: Firefly, One for All, Frenzy __ Origin Trait: Timelost Magazine
 dimwishlist:item=1216319404&perks=3038247973,1561789734,2589407652
 dimwishlist:item=1216319404&perks=3038247973,1183436451,2589407652
 dimwishlist:item=1216319404&perks=64866129,1561789734,2589407652
@@ -611,7 +611,7 @@ dimwishlist:item=1123421440&perks=1409206216,2675184851,164468655
 
 
 
-//notes:Trust - Rank 17, Tier C by TheAegisRelic __ Column 1: Rapid Hit, Stats for All __ Column 2: Incandescent, Dragonfly,Explosive Payload __ Origin Trait: Gun and Run
+//notes:Trust - Rank 17, Tier C by TheAegisRelic __ Column 1: Rapid Hit, Stats for All __ Column 2: Incandescent, Dragonfly, Explosive Payload __ Origin Trait: Gun and Run
 dimwishlist:item=1392919471&perks=247725512,4293542123,515704826
 dimwishlist:item=1392919471&perks=247725512,2675184851,515704826
 dimwishlist:item=1392919471&perks=2938480696,4293542123,515704826
@@ -887,7 +887,7 @@ dimwishlist:item=2527666306&perks=2938480696,3007133316,4091460919
 
 
 
-//notes:Something New - Rank 23, Tier D by TheAegisRelic __ Column 1: Rapid Hit, Demolitionist __ Column 2: Headstone, Explosive Payload,Frenzy __ Origin Trait: Dream Work
+//notes:Something New - Rank 23, Tier D by TheAegisRelic __ Column 1: Rapid Hit, Demolitionist __ Column 2: Headstone, Explosive Payload, Frenzy __ Origin Trait: Dream Work
 dimwishlist:item=586671776&perks=247725512,124408337,1380061575
 dimwishlist:item=586671776&perks=247725512,1171887445,1380061575
 dimwishlist:item=586671776&perks=2938480696,124408337,1380061575
@@ -963,7 +963,7 @@ dimwishlist:item=3240434620&perks=1906147653,3007133316,1380061575
 
 
 
-//notes:Judgment - Rank 24, Tier D by TheAegisRelic __ Column 1: Headstone, Enlightened Action,Demolitionist __ Column 2: Timed Payload __ Origin Trait: Crossing Over
+//notes:Judgment - Rank 24, Tier D by TheAegisRelic __ Column 1: Headstone, Enlightened Action, Demolitionist __ Column 2: Timed Payload __ Origin Trait: Crossing Over
 dimwishlist:item=1476654960&perks=124408337,1954620775,4129855581
 dimwishlist:item=1476654960&perks=124408337,1562897767,4129855581
 dimwishlist:item=1476654960&perks=1171887445,1954620775,4129855581
@@ -1075,7 +1075,7 @@ dimwishlist:item=235827225&perks=855168139,1171887445
 
 
 
-//notes:Better Devils - Rank 26, Tier D by TheAegisRelic __ Column 1: Enlightened Action, Demolitionist,Slice __ Column 2: Explosive Payload, Hatchling,Frenzy __ Origin Trait: One Quiet Moment
+//notes:Better Devils - Rank 26, Tier D by TheAegisRelic __ Column 1: Enlightened Action, Demolitionist, Slice __ Column 2: Explosive Payload, Hatchling, Frenzy __ Origin Trait: One Quiet Moment
 dimwishlist:item=153979397&perks=777589557,3038247973,4091460919
 dimwishlist:item=153979397&perks=777589557,64866129,4091460919
 dimwishlist:item=153979397&perks=1771736209,3038247973,4091460919
@@ -1247,7 +1247,7 @@ dimwishlist:item=372697604&perks=2938480696,1562897767,4008116374
 
 
 
-//notes:Optative - Rank 32, Tier E by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist,Attrition Orbs __ Column 2: Golden Tricorn, Wellspring __ Origin Trait: Nano-Munitions
+//notes:Optative - Rank 32, Tier E by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist, Attrition Orbs __ Column 2: Golden Tricorn, Wellspring __ Origin Trait: Nano-Munitions
 dimwishlist:item=2138599001&perks=776531651,2610012052,19542588
 dimwishlist:item=2138599001&perks=776531651,4290541820,19542588
 dimwishlist:item=2138599001&perks=2541826827,2610012052,19542588
@@ -1299,7 +1299,7 @@ dimwishlist:item=2817683783&perks=984655331,2675361166,19542588
 
 
 
-//notes:IKELOS_HC_V1.0.3 - Rank 33, Tier E by TheAegisRelic __ Column 1: Rapid Hit __ Column 2: Repulsor Brace, Golden Tricorn,Frenzy __ Origin Trait: Rasputin's Arsenal
+//notes:IKELOS_HC_V1.0.3 - Rank 33, Tier E by TheAegisRelic __ Column 1: Rapid Hit __ Column 2: Repulsor Brace, Golden Tricorn, Frenzy __ Origin Trait: Rasputin's Arsenal
 dimwishlist:item=1731355324&perks=247725512,776531651,566815328
 dimwishlist:item=1731355324&perks=247725512,2541826827,566815328
 dimwishlist:item=1731355324&perks=2938480696,776531651,566815328
@@ -1555,7 +1555,7 @@ dimwishlist:item=1835747805&perks=4245865861,169755979
 
 
 
-//notes:Crisis Inverted - Rank 47, Tier F by TheAegisRelic __ Column 1: Demolitionist, Shoot to Loot,Rapid Hit __ Column 2: One for All __ Origin Trait: Suros Synergy
+//notes:Crisis Inverted - Rank 47, Tier F by TheAegisRelic __ Column 1: Demolitionist, Shoot to Loot, Rapid Hit __ Column 2: One for All __ Origin Trait: Suros Synergy
 dimwishlist:item=2888266564&perks=3523296417,4049631843,4008116374
 dimwishlist:item=2888266564&perks=3523296417,859780267,4008116374
 dimwishlist:item=2888266564&perks=1906147653,4049631843,4008116374

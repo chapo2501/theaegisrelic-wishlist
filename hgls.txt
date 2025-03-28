@@ -1,5 +1,5 @@
-// HGLs - 2025-03-28T21:27:05.697Z
-//notes:VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cascade Point,Attrition Orbs __ Column 2: Bait and Switch, Explosive Light,Surrounded __ Origin Trait: Bray Legacy
+// HGLs - 2025-03-28T21:32:57.369Z
+//notes:VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cascade Point, Attrition Orbs __ Column 2: Bait and Switch, Explosive Light, Surrounded __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785662&perks=3987942396,3078487919,4139916815
 dimwishlist:item=1762785662&perks=3987942396,3744057135,4139916815
 dimwishlist:item=1762785662&perks=2817499044,3078487919,4139916815
@@ -39,7 +39,7 @@ dimwishlist:item=1762785662&perks=984655331,781192741,4139916815
 
 
 
-//notes:Bitter/Sweet - Rank 2, Tier A by TheAegisRelic __ Column 1: Envious Arsenal __ Column 2: Bait and Switch, Cascade Point,Explosive Light __ Origin Trait: Dark Ether Reaper
+//notes:Bitter/Sweet - Rank 2, Tier A by TheAegisRelic __ Column 1: Envious Arsenal __ Column 2: Bait and Switch, Cascade Point, Explosive Light __ Origin Trait: Dark Ether Reaper
 dimwishlist:item=2599338625&perks=3987942396,3078487919,2041432007
 dimwishlist:item=2599338625&perks=3987942396,3744057135,2041432007
 dimwishlist:item=2599338625&perks=2817499044,3078487919,2041432007
@@ -55,7 +55,7 @@ dimwishlist:item=2599338625&perks=2817499044,2275087323,2041432007
 
 
 
-//notes:Wicked Sister - Rank 3, Tier A by TheAegisRelic __ Column 1: Envious Arsenal __ Column 2: Bait and Switch, Cascade Point,Explosive Light __ Origin Trait: Nadir Focus
+//notes:Wicked Sister - Rank 3, Tier A by TheAegisRelic __ Column 1: Envious Arsenal __ Column 2: Bait and Switch, Cascade Point, Explosive Light __ Origin Trait: Nadir Focus
 dimwishlist:item=2039776723&perks=3987942396,3078487919,2509860981
 dimwishlist:item=2039776723&perks=3987942396,3744057135,2509860981
 dimwishlist:item=2039776723&perks=2817499044,3078487919,2509860981
@@ -83,7 +83,7 @@ dimwishlist:item=2168486467&perks=2817499044,2275087323,2509860981
 
 
 
-//notes:Edge Transit - Rank 4, Tier A by TheAegisRelic __ Column 1: Envious Assassin, Cascade Point,Chain Reaction __ Column 2: Bait and Switch, Explosive Light,Deconstruct __ Origin Trait: Indomitability
+//notes:Edge Transit - Rank 4, Tier A by TheAegisRelic __ Column 1: Envious Assassin, Cascade Point, Chain Reaction __ Column 2: Bait and Switch, Explosive Light, Deconstruct __ Origin Trait: Indomitability
 dimwishlist:item=218335759&perks=968510818,3078487919,2489430594
 dimwishlist:item=218335759&perks=968510818,3744057135,2489430594
 dimwishlist:item=218335759&perks=424370782,3078487919,2489430594
@@ -225,7 +225,7 @@ dimwishlist:item=867154247&perks=424370782,1905598698,1607056502
 
 
 
-//notes:Koraxis's Distress - Rank 7, Tier B by TheAegisRelic __ Column 1: Envious Assassin, Reconstruction __ Column 2: Surrounded, Frenzy,Full Court __ Origin Trait: Harmonic Resonance
+//notes:Koraxis's Distress - Rank 7, Tier B by TheAegisRelic __ Column 1: Envious Assassin, Reconstruction __ Column 2: Surrounded, Frenzy, Full Court __ Origin Trait: Harmonic Resonance
 dimwishlist:item=495442100&perks=968510818,3708227201,3186078099
 dimwishlist:item=495442100&perks=968510818,781192741,3186078099
 dimwishlist:item=495442100&perks=424370782,3708227201,3186078099
@@ -277,7 +277,7 @@ dimwishlist:item=2972949637&perks=461595545,1905598698,3186078099
 
 
 
-//notes:Hullabaloo - Rank 8, Tier B by TheAegisRelic __ Column 1: Envious Arsenal, Envious Assassin,Demolitionist __ Column 2: Chain Reaction, One for All,Rolling Storm __ Origin Trait: Classy Contender
+//notes:Hullabaloo - Rank 8, Tier B by TheAegisRelic __ Column 1: Envious Arsenal, Envious Assassin, Demolitionist __ Column 2: Chain Reaction, One for All, Rolling Storm __ Origin Trait: Classy Contender
 dimwishlist:item=657927352&perks=3987942396,2396489472,1702976605
 dimwishlist:item=657927352&perks=3987942396,598607952,1702976605
 dimwishlist:item=657927352&perks=2817499044,2396489472,1702976605
@@ -353,7 +353,7 @@ dimwishlist:item=2666273249&perks=1906147653,2633604463,1702976605
 
 
 
-//notes:Acosmic - Rank 9, Tier B by TheAegisRelic __ Column 1: Air Trigger, Clown Cartridge,Withering Gaze __ Column 2: Bait and Switch, Cascade Point,Explosive Light __ Origin Trait: Nadir Focus
+//notes:Acosmic - Rank 9, Tier B by TheAegisRelic __ Column 1: Air Trigger, Clown Cartridge, Withering Gaze __ Column 2: Bait and Switch, Cascade Point, Explosive Light __ Origin Trait: Nadir Focus
 dimwishlist:item=413901114&perks=1421772400,3078487919,2509860981
 dimwishlist:item=413901114&perks=1421772400,3744057135,2509860981
 dimwishlist:item=413901114&perks=3291427296,3078487919,2509860981
@@ -449,7 +449,7 @@ dimwishlist:item=268260372&perks=3528046508,2275087323,1823011807
 
 
 
-//notes:Dimensional Hypotrochoid - Rank 11, Tier C by TheAegisRelic __ Column 1: Envious Assassin, Field Prep __ Column 2: One for All, Vorpal Weapon,Chain Reaction __ Origin Trait: Nanotech Tracer Rockets
+//notes:Dimensional Hypotrochoid - Rank 11, Tier C by TheAegisRelic __ Column 1: Envious Assassin, Field Prep __ Column 2: One for All, Vorpal Weapon, Chain Reaction __ Origin Trait: Nanotech Tracer Rockets
 dimwishlist:item=1311684613&perks=968510818,4049631843,164468655
 dimwishlist:item=1311684613&perks=968510818,859780267,164468655
 dimwishlist:item=1311684613&perks=424370782,4049631843,164468655

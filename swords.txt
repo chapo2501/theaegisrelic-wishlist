@@ -1,5 +1,5 @@
-// Swords - 2025-03-28T21:27:05.697Z
-//notes:Falling Guillotine - Rank 1, Tier S by TheAegisRelic __ Column 1: Chain Reaction, Frenzy __ Column 2: Eager Edge, Bait and Switch,Surrounded __ Origin Trait: Indomitability
+// Swords - 2025-03-28T21:32:57.369Z
+//notes:Falling Guillotine - Rank 1, Tier S by TheAegisRelic __ Column 1: Chain Reaction, Frenzy __ Column 2: Eager Edge, Bait and Switch, Surrounded __ Origin Trait: Indomitability
 dimwishlist:item=243425374&perks=2396489472,2077819806,2489430594
 dimwishlist:item=243425374&perks=2396489472,1618208178,2489430594
 dimwishlist:item=243425374&perks=598607952,2077819806,2489430594
@@ -75,7 +75,7 @@ dimwishlist:item=1815105249&perks=3007133316,781192741,2489430594
 
 
 
-//notes:Summum Bonum - Rank 2, Tier S by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs,Deconstruct __ Column 2: Chaos Reshaped, Whirlwind Blade,Surrounded __ Origin Trait: Collective Purpose
+//notes:Summum Bonum - Rank 2, Tier S by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs, Deconstruct __ Column 2: Chaos Reshaped, Whirlwind Blade, Surrounded __ Origin Trait: Collective Purpose
 dimwishlist:item=2001697739&perks=1749209109,3640170453,1878756191
 dimwishlist:item=2001697739&perks=1749209109,1817983009,1878756191
 dimwishlist:item=2001697739&perks=4085959009,3640170453,1878756191
@@ -139,7 +139,7 @@ dimwishlist:item=3569407878&perks=1164602481,781192741,1878756191
 
 
 
-//notes:The Other Half - Rank 3, Tier S by TheAegisRelic __ Column 1: Eager Edge, Relentless Strikes __ Column 2: Surrounded, Frenzy,Whirlwind Blade __ Origin Trait: Hot Swap
+//notes:The Other Half - Rank 3, Tier S by TheAegisRelic __ Column 1: Eager Edge, Relentless Strikes __ Column 2: Surrounded, Frenzy, Whirlwind Blade __ Origin Trait: Hot Swap
 dimwishlist:item=3257091167&perks=2077819806,3708227201,1260401931
 dimwishlist:item=3257091167&perks=2077819806,781192741,1260401931
 dimwishlist:item=3257091167&perks=1618208178,3708227201,1260401931
@@ -219,7 +219,7 @@ dimwishlist:item=1587953057&perks=984655331,147913470,1600429811
 
 
 
-//notes:Abyssal Edge - Rank 7, Tier A by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Elemental Honing, Surrounded,Redirection __ Origin Trait: Willing Vessel
+//notes:Abyssal Edge - Rank 7, Tier A by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Elemental Honing, Surrounded, Redirection __ Origin Trait: Willing Vessel
 dimwishlist:item=547165496&perks=1749209109,1089671869,878237828
 dimwishlist:item=547165496&perks=1749209109,496047945,878237828
 dimwishlist:item=547165496&perks=4085959009,1089671869,878237828
@@ -291,7 +291,7 @@ dimwishlist:item=3794274730&perks=984655331,781192741,253121539
 
 
 
-//notes:Zephyr - Rank 9, Tier A by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs,Rimestealer __ Column 2: Surrounded, Whirlwind Blade,Cold Steel __ Origin Trait: Dawning Surprise
+//notes:Zephyr - Rank 9, Tier A by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs, Rimestealer __ Column 2: Surrounded, Whirlwind Blade, Cold Steel __ Origin Trait: Dawning Surprise
 dimwishlist:item=396910433&perks=1749209109,3708227201,4264904777
 dimwishlist:item=396910433&perks=1749209109,781192741,4264904777
 dimwishlist:item=396910433&perks=4085959009,3708227201,4264904777

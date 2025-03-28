@@ -1,5 +1,5 @@
-// Traces - 2025-03-28T21:27:05.697Z
-//notes:Chronophage - Rank 1, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Repulsor Brace __ Column 2: Destabilizing Rounds, Demolitionist,Desperate Measures __ Origin Trait: Radiolaria Transposer
+// Traces - 2025-03-28T21:32:57.369Z
+//notes:Chronophage - Rank 1, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Repulsor Brace __ Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=1886840007&perks=3700496672,2048641572,253121539
 dimwishlist:item=1886840007&perks=3700496672,1926441324,253121539
 dimwishlist:item=1886840007&perks=2840833776,2048641572,253121539
@@ -27,7 +27,7 @@ dimwishlist:item=1886840007&perks=2541826827,2799030358,253121539
 
 
 
-//notes:Unsworn - Rank 2, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Tear,Rewind Rounds __ Column 2: Detonator Beam, Elemental Honing,Hatchling __ Origin Trait: Subjugation
+//notes:Unsworn - Rank 2, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Tear, Rewind Rounds __ Column 2: Detonator Beam, Elemental Honing, Hatchling __ Origin Trait: Subjugation
 dimwishlist:item=1303313141&perks=3700496672,4198902903,1298135794
 dimwishlist:item=1303313141&perks=3700496672,222783511,1298135794
 dimwishlist:item=1303313141&perks=2840833776,4198902903,1298135794
@@ -67,7 +67,7 @@ dimwishlist:item=1303313141&perks=1563455254,102912326,1298135794
 
 
 
-//notes:Retraced Path - Rank 3, Tier A by TheAegisRelic __ Column 1: Shoot to Loot __ Column 2: Demolitionist, Frenzy,Incandescent __ Origin Trait: Hot Swap
+//notes:Retraced Path - Rank 3, Tier A by TheAegisRelic __ Column 1: Shoot to Loot __ Column 2: Demolitionist, Frenzy, Incandescent __ Origin Trait: Hot Swap
 dimwishlist:item=548958835&perks=3700496672,3523296417,1260401931
 dimwishlist:item=548958835&perks=3700496672,1906147653,1260401931
 dimwishlist:item=548958835&perks=2840833776,3523296417,1260401931
@@ -91,7 +91,7 @@ dimwishlist:item=2827764482&perks=2840833776,1720528630,192157151
 
 
 
-//notes:Keraunios - Rank 5, Tier A by TheAegisRelic __ Column 1: Triple Tap, Overflow,Recycled Energy __ Column 2: Detonator Beam, Jolting Feedback,Rolling Storm __ Origin Trait: Classy Contender
+//notes:Keraunios - Rank 5, Tier A by TheAegisRelic __ Column 1: Triple Tap, Overflow, Recycled Energy __ Column 2: Detonator Beam, Jolting Feedback, Rolling Storm __ Origin Trait: Classy Contender
 dimwishlist:item=2029899814&perks=3400784728,4198902903,1702976605
 dimwishlist:item=2029899814&perks=3400784728,222783511,1702976605
 dimwishlist:item=2029899814&perks=573122728,4198902903,1702976605
@@ -131,7 +131,7 @@ dimwishlist:item=2029899814&perks=3555252274,2633604463,1702976605
 
 
 
-//notes:Warlord's Spear - Rank 6, Tier A by TheAegisRelic __ Column 1: Rewind Rounds, Loose Change __ Column 2: Detonator Beam, Jolting Feedback,Desperate Measures __ Origin Trait: Skulking Wolf
+//notes:Warlord's Spear - Rank 6, Tier A by TheAegisRelic __ Column 1: Rewind Rounds, Loose Change __ Column 2: Detonator Beam, Jolting Feedback, Desperate Measures __ Origin Trait: Skulking Wolf
 dimwishlist:item=1968711238&perks=2578928832,4198902903,3989629871
 dimwishlist:item=1968711238&perks=2578928832,222783511,3989629871
 dimwishlist:item=1968711238&perks=1563455254,4198902903,3989629871
@@ -167,7 +167,7 @@ dimwishlist:item=2323544076&perks=3442762221,2541826827,1250481499
 
 
 
-//notes:Appetence - Rank 8, Tier B by TheAegisRelic __ Column 1: Demolitionist, Overflow __ Column 2: Headstone, Deconstruct,Attrition Orbs __ Origin Trait: Dragon's Vengeance
+//notes:Appetence - Rank 8, Tier B by TheAegisRelic __ Column 1: Demolitionist, Overflow __ Column 2: Headstone, Deconstruct, Attrition Orbs __ Origin Trait: Dragon's Vengeance
 dimwishlist:item=4153087276&perks=3523296417,124408337,3978094547
 dimwishlist:item=4153087276&perks=3523296417,1171887445,3978094547
 dimwishlist:item=4153087276&perks=1906147653,124408337,3978094547

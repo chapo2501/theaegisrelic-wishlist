@@ -1,4 +1,4 @@
-// Scouts - 2025-03-28T21:27:05.697Z
+// Scouts - 2025-03-28T21:32:57.369Z
 //notes:Unworthy - Rank 1, Tier S by TheAegisRelic __ Column 1: Firefly __ Column 2: Voltshot __ Origin Trait: Subjugation
 dimwishlist:item=2226158470&perks=1561789734,2173046394,1298135794
 dimwishlist:item=2226158470&perks=1561789734,1720528630,1298135794
@@ -19,7 +19,7 @@ dimwishlist:item=1392919471&perks=461595545,2675184851,766321425
 
 
 
-//notes:Vouchsafe - Rank 3, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Rapid Hit __ Column 2: Destabilizing Rounds, Dragonfly,Explosive Payload __ Origin Trait: Advanced Reflexes
+//notes:Vouchsafe - Rank 3, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Rapid Hit __ Column 2: Destabilizing Rounds, Dragonfly, Explosive Payload __ Origin Trait: Advanced Reflexes
 dimwishlist:item=355922321&perks=776531651,2048641572,930692523
 dimwishlist:item=355922321&perks=776531651,1926441324,930692523
 dimwishlist:item=355922321&perks=2541826827,2048641572,930692523
@@ -71,7 +71,7 @@ dimwishlist:item=3242168339&perks=2938480696,64866129,930692523
 
 
 
-//notes:Hung Jury SR4 - Rank 4, Tier A by TheAegisRelic __ Column 1: Kinetic Tremors, Shoot to Loot,Enlightened Action __ Column 2: Firefly, Explosive Payload,One for All __ Origin Trait: Indomitability
+//notes:Hung Jury SR4 - Rank 4, Tier A by TheAegisRelic __ Column 1: Kinetic Tremors, Shoot to Loot, Enlightened Action __ Column 2: Firefly, Explosive Payload, One for All __ Origin Trait: Indomitability
 dimwishlist:item=205225492&perks=3891536761,1561789734,2489430594
 dimwishlist:item=205225492&perks=3891536761,1183436451,2489430594
 dimwishlist:item=205225492&perks=1549370717,1561789734,2489430594
@@ -363,7 +363,7 @@ dimwishlist:item=4281371574&perks=1771736209,859780267,2489430594
 
 
 
-//notes:Vision of Confluence - Rank 5, Tier A by TheAegisRelic __ Column 1: Incandescent, Heal Clip,Rewind Rounds __ Column 2: Firefly, Explosive Payload,Frenzy __ Origin Trait: Timelost Magazine
+//notes:Vision of Confluence - Rank 5, Tier A by TheAegisRelic __ Column 1: Incandescent, Heal Clip, Rewind Rounds __ Column 2: Firefly, Explosive Payload, Frenzy __ Origin Trait: Timelost Magazine
 dimwishlist:item=337578911&perks=4293542123,1561789734,2589407652
 dimwishlist:item=337578911&perks=4293542123,1183436451,2589407652
 dimwishlist:item=337578911&perks=2675184851,1561789734,2589407652
@@ -567,7 +567,7 @@ dimwishlist:item=2723241847&perks=3120212825,64866129,2838996248
 
 
 
-//notes:Tarnished Mettle - Rank 8, Tier A by TheAegisRelic __ Column 1: Rapid Hit, Shoot to Loot,Demolitionist __ Column 2: Voltshot, Explosive Payload __ Origin Trait: Right Hook
+//notes:Tarnished Mettle - Rank 8, Tier A by TheAegisRelic __ Column 1: Rapid Hit, Shoot to Loot, Demolitionist __ Column 2: Voltshot, Explosive Payload __ Origin Trait: Right Hook
 dimwishlist:item=2218569744&perks=247725512,2173046394,3907865655
 dimwishlist:item=2218569744&perks=247725512,1720528630,3907865655
 dimwishlist:item=2218569744&perks=2938480696,2173046394,3907865655
@@ -595,7 +595,7 @@ dimwishlist:item=2218569744&perks=1906147653,64866129,3907865655
 
 
 
-//notes:Doom of Chelchis - Rank 9, Tier A by TheAegisRelic __ Column 1: Firefly, Explosive Payload __ Column 2: Frenzy, One for All,Dragonfly __ Origin Trait: Runneth Over
+//notes:Doom of Chelchis - Rank 9, Tier A by TheAegisRelic __ Column 1: Firefly, Explosive Payload __ Column 2: Frenzy, One for All, Dragonfly __ Origin Trait: Runneth Over
 dimwishlist:item=1184692845&perks=1561789734,4104185692,120721526
 dimwishlist:item=1184692845&perks=1561789734,3007133316,120721526
 dimwishlist:item=1184692845&perks=1183436451,4104185692,120721526
@@ -647,7 +647,7 @@ dimwishlist:item=1937552980&perks=64866129,169755979,120721526
 
 
 
-//notes:Timeworn Wayfarer - Rank 10, Tier B by TheAegisRelic __ Column 1: Heal Clip, Shoot to Loot,Dual Loader __ Column 2: Incandescent __ Origin Trait: Radiolaria Transposer
+//notes:Timeworn Wayfarer - Rank 10, Tier B by TheAegisRelic __ Column 1: Heal Clip, Shoot to Loot, Dual Loader __ Column 2: Incandescent __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=1058098236&perks=3017780555,4293542123,253121539
 dimwishlist:item=1058098236&perks=3017780555,2675184851,253121539
 dimwishlist:item=1058098236&perks=4223976499,4293542123,253121539
@@ -699,7 +699,7 @@ dimwishlist:item=2314999489&perks=2938480696,64866129,19542588
 
 
 
-//notes:Brya's Love - Rank 12, Tier B by TheAegisRelic __ Column 1: Loose Change, Shoot to Loot,Rapid Hit __ Column 2: Destabilizing Rounds, Explosive Payload __ Origin Trait: Head Rush
+//notes:Brya's Love - Rank 12, Tier B by TheAegisRelic __ Column 1: Loose Change, Shoot to Loot, Rapid Hit __ Column 2: Destabilizing Rounds, Explosive Payload __ Origin Trait: Head Rush
 dimwishlist:item=2779821308&perks=1119449540,2048641572,2565067140
 dimwishlist:item=2779821308&perks=1119449540,1926441324,2565067140
 dimwishlist:item=2779821308&perks=561986700,2048641572,2565067140
@@ -727,7 +727,7 @@ dimwishlist:item=2779821308&perks=2938480696,64866129,2565067140
 
 
 
-//notes:Transfiguration - Rank 13, Tier B by TheAegisRelic __ Column 1: Demolitionist, Rapid Hit,Rewind Rounds __ Column 2: Kinetic Tremors, Explosive Payload __ Origin Trait: Explosive Pact
+//notes:Transfiguration - Rank 13, Tier B by TheAegisRelic __ Column 1: Demolitionist, Rapid Hit, Rewind Rounds __ Column 2: Kinetic Tremors, Explosive Payload __ Origin Trait: Explosive Pact
 dimwishlist:item=3799980700&perks=3523296417,3891536761,1489048135
 dimwishlist:item=3799980700&perks=3523296417,1549370717,1489048135
 dimwishlist:item=3799980700&perks=1906147653,3891536761,1489048135
@@ -839,7 +839,7 @@ dimwishlist:item=1851521408&perks=2938480696,1171887445,3988215619
 
 
 
-//notes:Red Tape - Rank 16, Tier B by TheAegisRelic __ Column 1: Attrition Orbs, Demolitionist,Rimestealer __ Column 2: Headstone, Explosive Payload __ Origin Trait: Dark Ether Reaper
+//notes:Red Tape - Rank 16, Tier B by TheAegisRelic __ Column 1: Attrition Orbs, Demolitionist, Rimestealer __ Column 2: Headstone, Explosive Payload __ Origin Trait: Dark Ether Reaper
 dimwishlist:item=3423493037&perks=243981275,124408337,2041432007
 dimwishlist:item=3423493037&perks=243981275,1171887445,2041432007
 dimwishlist:item=3423493037&perks=984655331,124408337,2041432007
@@ -923,7 +923,7 @@ dimwishlist:item=1019000888&perks=2840833776,64866129,1607056502
 
 
 
-//notes:Fang of Ir Yût - Rank 19, Tier C by TheAegisRelic __ Column 1: Rapid Hit, Shoot to Loot,Rewind Rounds __ Column 2: Hatchling __ Origin Trait: Cursed Thrall
+//notes:Fang of Ir Yût - Rank 19, Tier C by TheAegisRelic __ Column 1: Rapid Hit, Shoot to Loot, Rewind Rounds __ Column 2: Hatchling __ Origin Trait: Cursed Thrall
 dimwishlist:item=128782990&perks=247725512,831391274,1156201379
 dimwishlist:item=128782990&perks=247725512,102912326,1156201379
 dimwishlist:item=128782990&perks=2938480696,831391274,1156201379
@@ -951,7 +951,7 @@ dimwishlist:item=1432682459&perks=1563455254,102912326,1156201379
 
 
 
-//notes:Staccato-46 - Rank 20, Tier C by TheAegisRelic __ Column 1: Outlaw, Shoot to Loot __ Column 2: Incandescent, Dragonfly,Explosive Payload __ Origin Trait: Suros Synergy
+//notes:Staccato-46 - Rank 20, Tier C by TheAegisRelic __ Column 1: Outlaw, Shoot to Loot __ Column 2: Incandescent, Dragonfly, Explosive Payload __ Origin Trait: Suros Synergy
 dimwishlist:item=4019668921&perks=1168162263,4293542123,4008116374
 dimwishlist:item=4019668921&perks=1168162263,2675184851,4008116374
 dimwishlist:item=4019668921&perks=1347741687,4293542123,4008116374
@@ -1143,7 +1143,7 @@ dimwishlist:item=3007479950&perks=1771736209,102912326,1702976605
 
 
 
-//notes:The Guiding Sight - Rank 26, Tier D by TheAegisRelic __ Column 1: Enlightened Action, Demolitionist,Slice __ Column 2: Hatchling __ Origin Trait: Skulking Wolf
+//notes:The Guiding Sight - Rank 26, Tier D by TheAegisRelic __ Column 1: Enlightened Action, Demolitionist, Slice __ Column 2: Hatchling __ Origin Trait: Skulking Wolf
 dimwishlist:item=417100299&perks=777589557,831391274,3989629871
 dimwishlist:item=417100299&perks=777589557,102912326,3989629871
 dimwishlist:item=417100299&perks=1771736209,831391274,3989629871

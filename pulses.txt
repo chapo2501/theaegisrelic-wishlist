@@ -1,4 +1,4 @@
-// Pulses - 2025-03-28T21:27:05.697Z
+// Pulses - 2025-03-28T21:32:57.369Z
 //notes:Gridskipper - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds __ Origin Trait: Splicer Surge
 dimwishlist:item=1621558458&perks=776531651,2048641572,3404929162
 dimwishlist:item=1621558458&perks=776531651,1926441324,3404929162
@@ -19,7 +19,7 @@ dimwishlist:item=3433930495&perks=1906147653,1926441324,3404929162
 
 
 
-//notes:Joxer's Longsword - Rank 2, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly,Demolitionist __ Column 2: Destabilizing Rounds, Demoralize __ Origin Trait: One Quiet Moment
+//notes:Joxer's Longsword - Rank 2, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly, Demolitionist __ Column 2: Destabilizing Rounds, Demoralize __ Origin Trait: One Quiet Moment
 dimwishlist:item=157601190&perks=776531651,2048641572,4091460919
 dimwishlist:item=157601190&perks=776531651,1926441324,4091460919
 dimwishlist:item=157601190&perks=2541826827,2048641572,4091460919
@@ -95,7 +95,7 @@ dimwishlist:item=1098171824&perks=1906147653,1720528630,1156201379
 
 
 
-//notes:Nullify - Rank 6, Tier S by TheAegisRelic __ Column 1: Firefly, Heal Clip,Demolitionist __ Column 2: Incandescent, Chaos Reshaped,Attrition Orbs __ Origin Trait: Collective Purpose
+//notes:Nullify - Rank 6, Tier S by TheAegisRelic __ Column 1: Firefly, Heal Clip, Demolitionist __ Column 2: Incandescent, Chaos Reshaped, Attrition Orbs __ Origin Trait: Collective Purpose
 dimwishlist:item=859869931&perks=1561789734,4293542123,1878756191
 dimwishlist:item=859869931&perks=1561789734,2675184851,1878756191
 dimwishlist:item=859869931&perks=1183436451,4293542123,1878756191
@@ -171,7 +171,7 @@ dimwishlist:item=892183998&perks=1906147653,984655331,1878756191
 
 
 
-//notes:Elsie's Rifle - Rank 7, Tier A by TheAegisRelic __ Column 1: Repulsor Brace, Rewind Rounds,Loose Change __ Column 2: Destabilizing Rounds, Frenzy __ Origin Trait: Indomitability
+//notes:Elsie's Rifle - Rank 7, Tier A by TheAegisRelic __ Column 1: Repulsor Brace, Rewind Rounds, Loose Change __ Column 2: Destabilizing Rounds, Frenzy __ Origin Trait: Indomitability
 dimwishlist:item=2372514509&perks=776531651,2048641572,2489430594
 dimwishlist:item=2372514509&perks=776531651,1926441324,2489430594
 dimwishlist:item=2372514509&perks=2541826827,2048641572,2489430594
@@ -299,7 +299,7 @@ dimwishlist:item=2481758391&perks=984655331,2675184851,4129855581
 
 
 
-//notes:Adhortative - Rank 11, Tier A by TheAegisRelic __ Column 1: Heal Clip, Attrition Orbs,Shoot to Loot __ Column 2: Incandescent __ Origin Trait: Nano-Munitions
+//notes:Adhortative - Rank 11, Tier A by TheAegisRelic __ Column 1: Heal Clip, Attrition Orbs, Shoot to Loot __ Column 2: Incandescent __ Origin Trait: Nano-Munitions
 dimwishlist:item=1167153950&perks=3017780555,4293542123,19542588
 dimwishlist:item=1167153950&perks=3017780555,2675184851,19542588
 dimwishlist:item=1167153950&perks=4223976499,4293542123,19542588
@@ -327,7 +327,7 @@ dimwishlist:item=2993554824&perks=2840833776,2675184851,19542588
 
 
 
-//notes:Blast Furnace - Rank 12, Tier A by TheAegisRelic __ Column 1: Kinetic Tremors, Shoot to Loot __ Column 2: Firefly, One for All,Frenzy __ Origin Trait: Indomitability
+//notes:Blast Furnace - Rank 12, Tier A by TheAegisRelic __ Column 1: Kinetic Tremors, Shoot to Loot __ Column 2: Firefly, One for All, Frenzy __ Origin Trait: Indomitability
 dimwishlist:item=2372514508&perks=3891536761,1561789734,2489430594
 dimwishlist:item=2372514508&perks=3891536761,1183436451,2489430594
 dimwishlist:item=2372514508&perks=1549370717,1561789734,2489430594
@@ -403,7 +403,7 @@ dimwishlist:item=3843477312&perks=2840833776,3007133316,2489430594
 
 
 
-//notes:BxR-55 Battler - Rank 13, Tier B by TheAegisRelic __ Column 1: Demolitionist, Auto-Loading Holster,Pugilist __ Column 2: Incandescent, Blunt Execution Rounds __ Origin Trait: Hot Swap
+//notes:BxR-55 Battler - Rank 13, Tier B by TheAegisRelic __ Column 1: Demolitionist, Auto-Loading Holster, Pugilist __ Column 2: Incandescent, Blunt Execution Rounds __ Origin Trait: Hot Swap
 dimwishlist:item=2708806099&perks=3523296417,4293542123,1260401931
 dimwishlist:item=2708806099&perks=3523296417,2675184851,1260401931
 dimwishlist:item=2708806099&perks=1906147653,4293542123,1260401931
@@ -451,7 +451,7 @@ dimwishlist:item=568515759&perks=2923251173,1549370717,1489048135
 
 
 
-//notes:Bygones - Rank 15, Tier B by TheAegisRelic __ Column 1: Attrition Orbs, Shoot to Loot,Demolitionist __ Column 2: Kinetic Tremors, Firefly __ Origin Trait: Gun and Run
+//notes:Bygones - Rank 15, Tier B by TheAegisRelic __ Column 1: Attrition Orbs, Shoot to Loot, Demolitionist __ Column 2: Kinetic Tremors, Firefly __ Origin Trait: Gun and Run
 dimwishlist:item=2199554524&perks=243981275,3891536761,515704826
 dimwishlist:item=2199554524&perks=243981275,1549370717,515704826
 dimwishlist:item=2199554524&perks=984655331,3891536761,515704826
@@ -1043,7 +1043,7 @@ dimwishlist:item=962412079&perks=1347741687,2923251173
 
 
 
-//notes:The Time-Worn Spire - Rank 46, Tier F by TheAegisRelic __ Column 1: Feeding Frenzy __ Column 2: Vorpal Weapon, Rampage,One for All __ Origin Trait: None
+//notes:The Time-Worn Spire - Rank 46, Tier F by TheAegisRelic __ Column 1: Feeding Frenzy __ Column 2: Vorpal Weapon, Rampage, One for All __ Origin Trait: None
 dimwishlist:item=4425887&perks=2779035018,1546637391
 dimwishlist:item=4425887&perks=2779035018,3418165135
 dimwishlist:item=4425887&perks=1171147302,1546637391

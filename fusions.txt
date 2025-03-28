@@ -1,4 +1,4 @@
-// Fusions - 2025-03-28T21:27:05.697Z
+// Fusions - 2025-03-28T21:32:57.369Z
 //notes:Scatter Signal - Rank 1, Tier S by TheAegisRelic __ Column 1: Overflow __ Column 2: Controlled Burst __ Origin Trait: Dragon's Vengeance
 dimwishlist:item=2558925366&perks=3643424744,2594592626,3978094547
 dimwishlist:item=2558925366&perks=3643424744,2037312142,3978094547
@@ -7,7 +7,7 @@ dimwishlist:item=2558925366&perks=2682205016,2037312142,3978094547
 
 
 
-//notes:Zealot's Reward - Rank 2, Tier S by TheAegisRelic __ Column 1: Auto-Loading Holster, Lead from Gold,Destabilizing Rounds __ Column 2: Controlled Burst, Reservoir Burst __ Origin Trait: Photoinhibition
+//notes:Zealot's Reward - Rank 2, Tier S by TheAegisRelic __ Column 1: Auto-Loading Holster, Lead from Gold, Destabilizing Rounds __ Column 2: Controlled Burst, Reservoir Burst __ Origin Trait: Photoinhibition
 dimwishlist:item=2209003210&perks=3300816228,2594592626,511914882
 dimwishlist:item=2209003210&perks=3300816228,2037312142,511914882
 dimwishlist:item=2209003210&perks=3528046508,2594592626,511914882
@@ -59,7 +59,7 @@ dimwishlist:item=2720651699&perks=1926441324,254337357,511914882
 
 
 
-//notes:Riptide - Rank 3, Tier S by TheAegisRelic __ Column 1: Auto-Loading Holster, Lead from Gold,Field Prep __ Column 2: Chill Clip, Frenzy,Demolitionist __ Origin Trait: One Quiet Moment
+//notes:Riptide - Rank 3, Tier S by TheAegisRelic __ Column 1: Auto-Loading Holster, Lead from Gold, Field Prep __ Column 2: Chill Clip, Frenzy, Demolitionist __ Origin Trait: One Quiet Moment
 dimwishlist:item=2715240478&perks=3300816228,2978966579,4091460919
 dimwishlist:item=2715240478&perks=3300816228,344235611,4091460919
 dimwishlist:item=2715240478&perks=3528046508,2978966579,4091460919
@@ -119,7 +119,7 @@ dimwishlist:item=1720503118&perks=3442762221,2675184851,1823011807
 
 
 
-//notes:Glacioclasm - Rank 5, Tier A by TheAegisRelic __ Column 1: Envious Assassin, Slideshot,Air Trigger __ Column 2: Controlled Burst, Reservoir Burst,Withering Gaze __ Origin Trait: Dawning Surprise
+//notes:Glacioclasm - Rank 5, Tier A by TheAegisRelic __ Column 1: Envious Assassin, Slideshot, Air Trigger __ Column 2: Controlled Burst, Reservoir Burst, Withering Gaze __ Origin Trait: Dawning Surprise
 dimwishlist:item=1030895163&perks=968510818,2594592626,4264904777
 dimwishlist:item=1030895163&perks=968510818,2037312142,4264904777
 dimwishlist:item=1030895163&perks=424370782,2594592626,4264904777
@@ -279,7 +279,7 @@ dimwishlist:item=4094657108&perks=1563455254,2037312142,1489048135
 
 
 
-//notes:Afterlight - Rank 7, Tier A by TheAegisRelic __ Column 1: Discord, Lead from Gold,Grave Robber __ Column 2: Reservoir Burst, Destabilizing Rounds,Vorpal Weapon __ Origin Trait: Willing Vessel
+//notes:Afterlight - Rank 7, Tier A by TheAegisRelic __ Column 1: Discord, Lead from Gold, Grave Robber __ Column 2: Reservoir Burst, Destabilizing Rounds, Vorpal Weapon __ Origin Trait: Willing Vessel
 dimwishlist:item=861521336&perks=3978468247,1427256713,878237828
 dimwishlist:item=861521336&perks=3978468247,254337357,878237828
 dimwishlist:item=861521336&perks=906981559,1427256713,878237828
@@ -427,7 +427,7 @@ dimwishlist:item=3953163559&perks=402033656,3418165135,878237828
 
 
 
-//notes:PLUG ONE.1 - Rank 8, Tier A by TheAegisRelic __ Column 1: Reconstruction, Slideways __ Column 2: Reservoir Burst, Controlled Burst,Voltshot __ Origin Trait: Stunning Recovery
+//notes:PLUG ONE.1 - Rank 8, Tier A by TheAegisRelic __ Column 1: Reconstruction, Slideways __ Column 2: Reservoir Burst, Controlled Burst, Voltshot __ Origin Trait: Stunning Recovery
 dimwishlist:item=534775659&perks=1523832109,1427256713,1281216113
 dimwishlist:item=534775659&perks=1523832109,254337357,1281216113
 dimwishlist:item=534775659&perks=461595545,1427256713,1281216113
@@ -527,7 +527,7 @@ dimwishlist:item=3293524502&perks=2396422520,1720528630,1281216113
 
 
 
-//notes:Axial Lacuna - Rank 9, Tier A by TheAegisRelic __ Column 1: Reconstruction, Demolitionist,Cornered __ Column 2: Controlled Burst, Surrounded __ Origin Trait: Dealer's Choice
+//notes:Axial Lacuna - Rank 9, Tier A by TheAegisRelic __ Column 1: Reconstruction, Demolitionist, Cornered __ Column 2: Controlled Burst, Surrounded __ Origin Trait: Dealer's Choice
 dimwishlist:item=3867373351&perks=1523832109,2594592626,1988485648
 dimwishlist:item=3867373351&perks=1523832109,2037312142,1988485648
 dimwishlist:item=3867373351&perks=461595545,2594592626,1988485648
@@ -575,7 +575,7 @@ dimwishlist:item=93061497&perks=1906147653,2904194311,4139916815
 
 
 
-//notes:Loaded Question - Rank 12, Tier B by TheAegisRelic __ Column 1: Envious Assassin, Overflow,Demolitionist __ Column 2: Controlled Burst, Reservoir Burst __ Origin Trait: Stunning Recovery
+//notes:Loaded Question - Rank 12, Tier B by TheAegisRelic __ Column 1: Envious Assassin, Overflow, Demolitionist __ Column 2: Controlled Burst, Reservoir Burst __ Origin Trait: Stunning Recovery
 dimwishlist:item=580961571&perks=968510818,2594592626,1281216113
 dimwishlist:item=580961571&perks=968510818,2037312142,1281216113
 dimwishlist:item=580961571&perks=424370782,2594592626,1281216113
@@ -683,7 +683,7 @@ dimwishlist:item=2767393525&perks=3442762221,2037312142,1050127423
 
 
 
-//notes:Cruoris FR4 - Rank 15, Tier B by TheAegisRelic __ Column 1: Discord, Clown Cartridge __ Column 2: Elemental Honing, Rolling Storm,One for All __ Origin Trait: Omolon Fluid Dynamics
+//notes:Cruoris FR4 - Rank 15, Tier B by TheAegisRelic __ Column 1: Discord, Clown Cartridge __ Column 2: Elemental Honing, Rolling Storm, One for All __ Origin Trait: Omolon Fluid Dynamics
 dimwishlist:item=891996636&perks=3978468247,1089671869,2839173408
 dimwishlist:item=891996636&perks=3978468247,496047945,2839173408
 dimwishlist:item=891996636&perks=906981559,1089671869,2839173408
@@ -907,7 +907,7 @@ dimwishlist:item=3445437901&perks=3528046508,2002547233
 
 
 
-//notes:Timelines' Vertex - Rank 33, Tier F by TheAegisRelic __ Column 1: Lead from Gold, Auto-Loading Holster,Field Prep __ Column 2: Demolitionist __ Origin Trait: None
+//notes:Timelines' Vertex - Rank 33, Tier F by TheAegisRelic __ Column 1: Lead from Gold, Auto-Loading Holster, Field Prep __ Column 2: Demolitionist __ Origin Trait: None
 dimwishlist:item=1006783454&perks=1556840489,3523296417
 dimwishlist:item=1006783454&perks=1556840489,1906147653
 dimwishlist:item=1006783454&perks=3442762221,3523296417

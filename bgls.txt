@@ -1,4 +1,4 @@
-// BGLs - 2025-03-28T21:27:05.697Z
+// BGLs - 2025-03-28T21:32:57.369Z
 //notes:VS Velocity Baton - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds, Attrition Orbs __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785663&perks=776531651,2048641572,4139916815
 dimwishlist:item=1762785663&perks=776531651,1926441324,4139916815
@@ -19,7 +19,7 @@ dimwishlist:item=1762785663&perks=1906147653,984655331,4139916815
 
 
 
-//notes:The Mountaintop - Rank 2, Tier S by TheAegisRelic __ Column 1: Auto-Loading Holster, Overflow,Impulse Amplifier __ Column 2: Frenzy, Recombination,Vorpal Weapon __ Origin Trait: Indomitability
+//notes:The Mountaintop - Rank 2, Tier S by TheAegisRelic __ Column 1: Auto-Loading Holster, Overflow, Impulse Amplifier __ Column 2: Frenzy, Recombination, Vorpal Weapon __ Origin Trait: Indomitability
 dimwishlist:item=568611922&perks=3300816228,4104185692,2489430594
 dimwishlist:item=568611922&perks=3300816228,3007133316,2489430594
 dimwishlist:item=568611922&perks=3528046508,4104185692,2489430594
@@ -131,7 +131,7 @@ dimwishlist:item=4043921923&perks=3878366039,3418165135,2489430594
 
 
 
-//notes:Psychopomp - Rank 3, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Ambitious Assassin,Pugilist __ Column 2: Elemental Honing, Frenzy,Rolling Storm __ Origin Trait: Runneth Over
+//notes:Psychopomp - Rank 3, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Ambitious Assassin, Pugilist __ Column 2: Elemental Honing, Frenzy, Rolling Storm __ Origin Trait: Runneth Over
 dimwishlist:item=704410186&perks=3987942396,1089671869,120721526
 dimwishlist:item=704410186&perks=3987942396,496047945,120721526
 dimwishlist:item=704410186&perks=2817499044,1089671869,120721526
@@ -279,7 +279,7 @@ dimwishlist:item=4028298892&perks=536173722,2633604463,120721526
 
 
 
-//notes:Lost Signal - Rank 4, Tier S by TheAegisRelic __ Column 1: Auto-Loading Holster, Lead from Gold __ Column 2: Vorpal Weapon, Demolitionist,One for All __ Origin Trait: Radiolaria Transposer
+//notes:Lost Signal - Rank 4, Tier S by TheAegisRelic __ Column 1: Auto-Loading Holster, Lead from Gold __ Column 2: Vorpal Weapon, Demolitionist, One for All __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=1197771438&perks=3300816228,1546637391,253121539
 dimwishlist:item=1197771438&perks=3300816228,3418165135,253121539
 dimwishlist:item=1197771438&perks=3528046508,1546637391,253121539
@@ -307,7 +307,7 @@ dimwishlist:item=1197771438&perks=3442762221,859780267,253121539
 
 
 
-//notes:Liturgy - Rank 5, Tier A by TheAegisRelic __ Column 1: Slideways, Envious Arsenal __ Column 2: Chill Clip, Lead from Gold,Chain Reaction __ Origin Trait: Dark Ether Reaper
+//notes:Liturgy - Rank 5, Tier A by TheAegisRelic __ Column 1: Slideways, Envious Arsenal __ Column 2: Chill Clip, Lead from Gold, Chain Reaction __ Origin Trait: Dark Ether Reaper
 dimwishlist:item=2599338624&perks=2039302152,2978966579,2041432007
 dimwishlist:item=2599338624&perks=2039302152,344235611,2041432007
 dimwishlist:item=2599338624&perks=2396422520,2978966579,2041432007
@@ -335,7 +335,7 @@ dimwishlist:item=2599338624&perks=2817499044,598607952,2041432007
 
 
 
-//notes:Martyr's Retribution - Rank 6, Tier A by TheAegisRelic __ Column 1: Heal Clip, Demolitionist,Auto-Loading Holster __ Column 2: Incandescent, Kill Clip,Desperate Measures __ Origin Trait: Cast No Shadows
+//notes:Martyr's Retribution - Rank 6, Tier A by TheAegisRelic __ Column 1: Heal Clip, Demolitionist, Auto-Loading Holster __ Column 2: Incandescent, Kill Clip, Desperate Measures __ Origin Trait: Cast No Shadows
 dimwishlist:item=2584830733&perks=3017780555,4293542123,2838996248
 dimwishlist:item=2584830733&perks=3017780555,2675184851,2838996248
 dimwishlist:item=2584830733&perks=4223976499,4293542123,2838996248
@@ -479,7 +479,7 @@ dimwishlist:item=4038592169&perks=855168139,2675361166,3363267119
 
 
 
-//notes:Forbearance - Rank 8, Tier A by TheAegisRelic __ Column 1: Ambitious Assassin, Demolitionist,Unrelenting __ Column 2: Chain Reaction, Desperate Measures,Wellspring __ Origin Trait: Indomitability
+//notes:Forbearance - Rank 8, Tier A by TheAegisRelic __ Column 1: Ambitious Assassin, Demolitionist, Unrelenting __ Column 2: Chain Reaction, Desperate Measures, Wellspring __ Origin Trait: Indomitability
 dimwishlist:item=568611921&perks=2010801679,2396489472,2489430594
 dimwishlist:item=568611921&perks=2010801679,598607952,2489430594
 dimwishlist:item=568611921&perks=3797647183,2396489472,2489430594
@@ -799,7 +799,7 @@ dimwishlist:item=4096943616&perks=3528046508,3007133316,1536798515
 
 
 
-//notes:Wilderflight - Rank 14, Tier B by TheAegisRelic __ Column 1: Auto-Loading Holster, Demolitionist __ Column 2: Frenzy, Vorpal Weapon,Lead from Gold __ Origin Trait: Tex Balanced Stock
+//notes:Wilderflight - Rank 14, Tier B by TheAegisRelic __ Column 1: Auto-Loading Holster, Demolitionist __ Column 2: Frenzy, Vorpal Weapon, Lead from Gold __ Origin Trait: Tex Balanced Stock
 dimwishlist:item=559523765&perks=3300816228,4104185692,2437618208
 dimwishlist:item=559523765&perks=3300816228,3007133316,2437618208
 dimwishlist:item=559523765&perks=3528046508,4104185692,2437618208
@@ -923,7 +923,7 @@ dimwishlist:item=2982006965&perks=1906147653,3442762221,2437618208
 
 
 
-//notes:Undercurrent - Rank 15, Tier B by TheAegisRelic __ Column 1: Demolitionist, Ambitious Assassin,Lead from Gold __ Column 2: Voltshot, One for All __ Origin Trait: Vanguard's Vindication
+//notes:Undercurrent - Rank 15, Tier B by TheAegisRelic __ Column 1: Demolitionist, Ambitious Assassin, Lead from Gold __ Column 2: Voltshot, One for All __ Origin Trait: Vanguard's Vindication
 dimwishlist:item=672957262&perks=3523296417,2173046394,744217850
 dimwishlist:item=672957262&perks=3523296417,1720528630,744217850
 dimwishlist:item=672957262&perks=1906147653,2173046394,744217850
@@ -1099,7 +1099,7 @@ dimwishlist:item=2936850733&perks=424370782,2541826827,43555494
 
 
 
-//notes:Deafening Whisper - Rank 20, Tier C by TheAegisRelic __ Column 1: Ambitious Assassin, Lead from Gold __ Column 2: Wellspring, Auto-Loading Holster,Rampage __ Origin Trait: None
+//notes:Deafening Whisper - Rank 20, Tier C by TheAegisRelic __ Column 1: Ambitious Assassin, Lead from Gold __ Column 2: Wellspring, Auto-Loading Holster, Rampage __ Origin Trait: None
 dimwishlist:item=981718087&perks=2010801679,3592538738
 dimwishlist:item=981718087&perks=2010801679,2675361166
 dimwishlist:item=981718087&perks=3797647183,3592538738

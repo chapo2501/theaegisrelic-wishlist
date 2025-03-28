@@ -1,5 +1,5 @@
-// Sidearms - 2025-03-28T21:27:05.697Z
-//notes:Insurmountable - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Attrition Orbs,Demolitionist __ Column 2: Destabilizing Rounds, Surrounded __ Origin Trait: Dark Ether Reaper
+// Sidearms - 2025-03-28T21:32:57.369Z
+//notes:Insurmountable - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Attrition Orbs, Demolitionist __ Column 2: Destabilizing Rounds, Surrounded __ Origin Trait: Dark Ether Reaper
 dimwishlist:item=414045521&perks=776531651,2048641572,2041432007
 dimwishlist:item=414045521&perks=776531651,1926441324,2041432007
 dimwishlist:item=414045521&perks=2541826827,2048641572,2041432007
@@ -27,7 +27,7 @@ dimwishlist:item=414045521&perks=1906147653,781192741,2041432007
 
 
 
-//notes:Heliocentric QSc - Rank 2, Tier S by TheAegisRelic __ Column 1: Heal Clip, Demolitionist __ Column 2: Incandescent, Frenzy,Surrounded __ Origin Trait: Nadir Focus
+//notes:Heliocentric QSc - Rank 2, Tier S by TheAegisRelic __ Column 1: Heal Clip, Demolitionist __ Column 2: Incandescent, Frenzy, Surrounded __ Origin Trait: Nadir Focus
 dimwishlist:item=3998080529&perks=3017780555,4293542123,2509860981
 dimwishlist:item=3998080529&perks=3017780555,2675184851,2509860981
 dimwishlist:item=3998080529&perks=4223976499,4293542123,2509860981
@@ -55,7 +55,7 @@ dimwishlist:item=3998080529&perks=1906147653,781192741,2509860981
 
 
 
-//notes:Division - Rank 3, Tier A by TheAegisRelic __ Column 1: Eddy Current, Pugilist,Grave Robber __ Column 2: Voltshot, Surrounded __ Origin Trait: Runneth Over
+//notes:Division - Rank 3, Tier A by TheAegisRelic __ Column 1: Eddy Current, Pugilist, Grave Robber __ Column 2: Voltshot, Surrounded __ Origin Trait: Runneth Over
 dimwishlist:item=2501377328&perks=684456054,2173046394,120721526
 dimwishlist:item=2501377328&perks=684456054,1720528630,120721526
 dimwishlist:item=2501377328&perks=2785334058,2173046394,120721526
@@ -175,7 +175,7 @@ dimwishlist:item=3222518097&perks=1906147653,1720528630,43555494
 
 
 
-//notes:Brigand's Law - Rank 5, Tier A by TheAegisRelic __ Column 1: Threat Detector, Feeding Frenzy,Pugilist __ Column 2: Voltshot, Swashbuckler __ Origin Trait: Right Hook
+//notes:Brigand's Law - Rank 5, Tier A by TheAegisRelic __ Column 1: Threat Detector, Feeding Frenzy, Pugilist __ Column 2: Voltshot, Swashbuckler __ Origin Trait: Right Hook
 dimwishlist:item=1298815317&perks=4071163871,2173046394,3907865655
 dimwishlist:item=1298815317&perks=4071163871,1720528630,3907865655
 dimwishlist:item=1298815317&perks=494941759,2173046394,3907865655
@@ -267,7 +267,7 @@ dimwishlist:item=927835311&perks=848860060,1549370717,1281216113
 
 
 
-//notes:Breachlight - Rank 8, Tier B by TheAegisRelic __ Column 1: Demolitionist, Pugilist,Slice __ Column 2: Hatchling, Swashbuckler __ Origin Trait: Cast No Shadows
+//notes:Breachlight - Rank 8, Tier B by TheAegisRelic __ Column 1: Demolitionist, Pugilist, Slice __ Column 2: Hatchling, Swashbuckler __ Origin Trait: Cast No Shadows
 dimwishlist:item=1289997971&perks=3523296417,831391274,2838996248
 dimwishlist:item=1289997971&perks=3523296417,102912326,2838996248
 dimwishlist:item=1289997971&perks=1906147653,831391274,2838996248
@@ -319,7 +319,7 @@ dimwishlist:item=2328923181&perks=3422796781,1161469972,2838996248
 
 
 
-//notes:Peacebond - Rank 9, Tier B by TheAegisRelic __ Column 1: Headstone __ Column 2: Rimestealer, Demolitionist,Desperado __ Origin Trait: Skulking Wolf
+//notes:Peacebond - Rank 9, Tier B by TheAegisRelic __ Column 1: Headstone __ Column 2: Rimestealer, Demolitionist, Desperado __ Origin Trait: Skulking Wolf
 dimwishlist:item=829330711&perks=124408337,1955165503,3989629871
 dimwishlist:item=829330711&perks=124408337,2617553311,3989629871
 dimwishlist:item=829330711&perks=1171887445,1955165503,3989629871
@@ -347,7 +347,7 @@ dimwishlist:item=3437370193&perks=1171887445,624891305,3989629871
 
 
 
-//notes:Mykel's Reverence - Rank 10, Tier B by TheAegisRelic __ Column 1: Rewind Rounds, Pugilist __ Column 2: Hatchling, Frenzy,Swashbuckler __ Origin Trait: Harmonic Resonance
+//notes:Mykel's Reverence - Rank 10, Tier B by TheAegisRelic __ Column 1: Rewind Rounds, Pugilist __ Column 2: Hatchling, Frenzy, Swashbuckler __ Origin Trait: Harmonic Resonance
 dimwishlist:item=231031173&perks=2578928832,831391274,3186078099
 dimwishlist:item=231031173&perks=2578928832,102912326,3186078099
 dimwishlist:item=231031173&perks=1563455254,831391274,3186078099
@@ -399,7 +399,7 @@ dimwishlist:item=1986287028&perks=536173722,1161469972,3186078099
 
 
 
-//notes:Liminal Vigil - Rank 11, Tier B by TheAegisRelic __ Column 1: Headstone, Pugilist __ Column 2: Surrounded, Swashbuckler,Kill Clip __ Origin Trait: Tex Balanced Stock
+//notes:Liminal Vigil - Rank 11, Tier B by TheAegisRelic __ Column 1: Headstone, Pugilist __ Column 2: Surrounded, Swashbuckler, Kill Clip __ Origin Trait: Tex Balanced Stock
 dimwishlist:item=1460079227&perks=124408337,3708227201,2437618208
 dimwishlist:item=1460079227&perks=124408337,781192741,2437618208
 dimwishlist:item=1460079227&perks=1171887445,3708227201,2437618208
@@ -587,7 +587,7 @@ dimwishlist:item=3166250992&perks=3528046508,183938251,43555494
 
 
 
-//notes:Punching Out - Rank 14, Tier C by TheAegisRelic __ Column 1: Threat Detector, Grave Robber __ Column 2: Surrounded, Frenzy,Swashbuckler __ Origin Trait: Vanguard's Vindication
+//notes:Punching Out - Rank 14, Tier C by TheAegisRelic __ Column 1: Threat Detector, Grave Robber __ Column 2: Surrounded, Frenzy, Swashbuckler __ Origin Trait: Vanguard's Vindication
 dimwishlist:item=378498222&perks=4071163871,3708227201,744217850
 dimwishlist:item=378498222&perks=4071163871,781192741,744217850
 dimwishlist:item=378498222&perks=494941759,3708227201,744217850

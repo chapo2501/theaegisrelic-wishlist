@@ -1,5 +1,5 @@
-// Bows - 2025-03-28T21:27:05.697Z
-//notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic __ Column 1: Dragonfly, Archer's Tempo,Shoot to Loot __ Column 2: Voltshot, Explosive Head,Chaos Reshaped __ Origin Trait: Collective Purpose
+// Bows - 2025-03-28T21:32:57.369Z
+//notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic __ Column 1: Dragonfly, Archer's Tempo, Shoot to Loot __ Column 2: Voltshot, Explosive Head, Chaos Reshaped __ Origin Trait: Collective Purpose
 dimwishlist:item=1039915310&perks=2848615171,2173046394,1878756191
 dimwishlist:item=1039915310&perks=2848615171,1720528630,1878756191
 dimwishlist:item=1039915310&perks=169755979,2173046394,1878756191
@@ -95,7 +95,7 @@ dimwishlist:item=4095896073&perks=3523746922,1183436451,511914882
 
 
 
-//notes:Anamnesis - Rank 3, Tier A by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly,Archer's Tempo __ Column 2: Destabilizing Rounds, Demoralize,Explosive Head __ Origin Trait: Runneth Over
+//notes:Anamnesis - Rank 3, Tier A by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly, Archer's Tempo __ Column 2: Destabilizing Rounds, Demoralize, Explosive Head __ Origin Trait: Runneth Over
 dimwishlist:item=1536325168&perks=776531651,2048641572,120721526
 dimwishlist:item=1536325168&perks=776531651,1926441324,120721526
 dimwishlist:item=1536325168&perks=2541826827,2048641572,120721526
@@ -243,7 +243,7 @@ dimwishlist:item=3949253499&perks=3523746922,1551736345,120721526
 
 
 
-//notes:Tyranny of Heaven - Rank 4, Tier A by TheAegisRelic __ Column 1: Dragonfly, Explosive Head,Archer's Tempo __ Column 2: Incandescent, One for All __ Origin Trait: Explosive Pact
+//notes:Tyranny of Heaven - Rank 4, Tier A by TheAegisRelic __ Column 1: Dragonfly, Explosive Head, Archer's Tempo __ Column 2: Incandescent, One for All __ Origin Trait: Explosive Pact
 dimwishlist:item=2721249463&perks=2848615171,4293542123,1489048135
 dimwishlist:item=2721249463&perks=2848615171,2675184851,1489048135
 dimwishlist:item=2721249463&perks=169755979,4293542123,1489048135
@@ -307,7 +307,7 @@ dimwishlist:item=2326578623&perks=3523746922,1926441324,3988215619
 
 
 
-//notes:Pre Astyanax IV - Rank 6, Tier B by TheAegisRelic __ Column 1: Archer's Tempo, Shoot to Loot,Attrition Orbs __ Column 2: Incandescent, Explosive Head __ Origin Trait: Wild Card
+//notes:Pre Astyanax IV - Rank 6, Tier B by TheAegisRelic __ Column 1: Archer's Tempo, Shoot to Loot, Attrition Orbs __ Column 2: Incandescent, Explosive Head __ Origin Trait: Wild Card
 dimwishlist:item=192784503&perks=201365942,4293542123,1050127423
 dimwishlist:item=192784503&perks=201365942,2675184851,1050127423
 dimwishlist:item=192784503&perks=3523746922,4293542123,1050127423
@@ -407,7 +407,7 @@ dimwishlist:item=2932922810&perks=984655331,1551736345,1050127423
 
 
 
-//notes:Strident Whistle - Rank 7, Tier B by TheAegisRelic __ Column 1: Archer's Tempo, Shoot to Loot __ Column 2: Incandescent, Explosive Head,Dragonfly __ Origin Trait: Vanguard's Vindication
+//notes:Strident Whistle - Rank 7, Tier B by TheAegisRelic __ Column 1: Archer's Tempo, Shoot to Loot __ Column 2: Incandescent, Explosive Head, Dragonfly __ Origin Trait: Vanguard's Vindication
 dimwishlist:item=2591241074&perks=201365942,4293542123,744217850
 dimwishlist:item=2591241074&perks=201365942,2675184851,744217850
 dimwishlist:item=2591241074&perks=3523746922,4293542123,744217850
@@ -523,7 +523,7 @@ dimwishlist:item=45643573&perks=2840833776,1551736345,1823011807
 
 
 
-//notes:Vengeful Whisper - Rank 13, Tier C by TheAegisRelic __ Column 1: Explosive Head, Archer's Tempo,Slice __ Column 2: Hatchling __ Origin Trait: Sundering
+//notes:Vengeful Whisper - Rank 13, Tier C by TheAegisRelic __ Column 1: Explosive Head, Archer's Tempo, Slice __ Column 2: Hatchling __ Origin Trait: Sundering
 dimwishlist:item=839344841&perks=3365897133,831391274,220689851
 dimwishlist:item=839344841&perks=3365897133,102912326,220689851
 dimwishlist:item=839344841&perks=1551736345,831391274,220689851
@@ -623,7 +623,7 @@ dimwishlist:item=1621657423&perks=2938480696,1551736345
 
 
 
-//notes:Whispering Slab - Rank 21, Tier E by TheAegisRelic __ Column 1: Archer's Tempo, Demolitionist,Pugilist __ Column 2: High Ground, Swashbuckler,Vorpal Weapon __ Origin Trait: Paracausal Fluid
+//notes:Whispering Slab - Rank 21, Tier E by TheAegisRelic __ Column 1: Archer's Tempo, Demolitionist, Pugilist __ Column 2: High Ground, Swashbuckler, Vorpal Weapon __ Origin Trait: Paracausal Fluid
 dimwishlist:item=211938782&perks=201365942,2319119708,1600429811
 dimwishlist:item=211938782&perks=201365942,2140591236,1600429811
 dimwishlist:item=211938782&perks=3523746922,2319119708,1600429811
