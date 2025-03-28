@@ -1,167 +1,210 @@
-// Rocket Sidearms - 2025-03-25T16:24:33.933Z
-dimwishlist:item=2198166292&perks=3017780555,4293542123#notes:Aberrant Action - Heal Clip + Incandescent -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2198166292&perks=3017780555,2675184851#notes:Aberrant Action - Heal Clip + Incandescent (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2198166292&perks=4223976499,4293542123#notes:Aberrant Action - Heal Clip (Enhanced) + Incandescent -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2198166292&perks=4223976499,2675184851#notes:Aberrant Action - Heal Clip (Enhanced) + Incandescent (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=776531651,2048641572#notes:Lotus-Eater (Adept) - Repulsor Brace + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=776531651,1926441324#notes:Lotus-Eater (Adept) - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2541826827,2048641572#notes:Lotus-Eater (Adept) - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2541826827,1926441324#notes:Lotus-Eater (Adept) - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=776531651,1134488199#notes:Lotus-Eater (Adept) - Repulsor Brace + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=776531651,2904194311#notes:Lotus-Eater (Adept) - Repulsor Brace + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2541826827,1134488199#notes:Lotus-Eater (Adept) - Repulsor Brace (Enhanced) + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2541826827,2904194311#notes:Lotus-Eater (Adept) - Repulsor Brace (Enhanced) + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=776531651,4049631843#notes:Lotus-Eater (Adept) - Repulsor Brace + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=776531651,859780267#notes:Lotus-Eater (Adept) - Repulsor Brace + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2541826827,4049631843#notes:Lotus-Eater (Adept) - Repulsor Brace (Enhanced) + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2541826827,859780267#notes:Lotus-Eater (Adept) - Repulsor Brace (Enhanced) + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=1523832109,2048641572#notes:Lotus-Eater (Adept) - Reconstruction + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=1523832109,1926441324#notes:Lotus-Eater (Adept) - Reconstruction + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=461595545,2048641572#notes:Lotus-Eater (Adept) - Reconstruction (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=461595545,1926441324#notes:Lotus-Eater (Adept) - Reconstruction (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=1523832109,1134488199#notes:Lotus-Eater (Adept) - Reconstruction + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=1523832109,2904194311#notes:Lotus-Eater (Adept) - Reconstruction + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=461595545,1134488199#notes:Lotus-Eater (Adept) - Reconstruction (Enhanced) + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=461595545,2904194311#notes:Lotus-Eater (Adept) - Reconstruction (Enhanced) + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=1523832109,4049631843#notes:Lotus-Eater (Adept) - Reconstruction + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=1523832109,859780267#notes:Lotus-Eater (Adept) - Reconstruction + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=461595545,4049631843#notes:Lotus-Eater (Adept) - Reconstruction (Enhanced) + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=461595545,859780267#notes:Lotus-Eater (Adept) - Reconstruction (Enhanced) + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=3700496672,2048641572#notes:Lotus-Eater (Adept) - Shoot to Loot + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=3700496672,1926441324#notes:Lotus-Eater (Adept) - Shoot to Loot + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2840833776,2048641572#notes:Lotus-Eater (Adept) - Shoot to Loot (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2840833776,1926441324#notes:Lotus-Eater (Adept) - Shoot to Loot (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=3700496672,1134488199#notes:Lotus-Eater (Adept) - Shoot to Loot + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=3700496672,2904194311#notes:Lotus-Eater (Adept) - Shoot to Loot + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2840833776,1134488199#notes:Lotus-Eater (Adept) - Shoot to Loot (Enhanced) + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2840833776,2904194311#notes:Lotus-Eater (Adept) - Shoot to Loot (Enhanced) + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=3700496672,4049631843#notes:Lotus-Eater (Adept) - Shoot to Loot + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=3700496672,859780267#notes:Lotus-Eater (Adept) - Shoot to Loot + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2840833776,4049631843#notes:Lotus-Eater (Adept) - Shoot to Loot (Enhanced) + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=2697143634&perks=2840833776,859780267#notes:Lotus-Eater (Adept) - Shoot to Loot (Enhanced) + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=776531651,2048641572#notes:Lotus-Eater - Repulsor Brace + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=776531651,1926441324#notes:Lotus-Eater - Repulsor Brace + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2541826827,2048641572#notes:Lotus-Eater - Repulsor Brace (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2541826827,1926441324#notes:Lotus-Eater - Repulsor Brace (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=776531651,1134488199#notes:Lotus-Eater - Repulsor Brace + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=776531651,2904194311#notes:Lotus-Eater - Repulsor Brace + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2541826827,1134488199#notes:Lotus-Eater - Repulsor Brace (Enhanced) + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2541826827,2904194311#notes:Lotus-Eater - Repulsor Brace (Enhanced) + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=776531651,4049631843#notes:Lotus-Eater - Repulsor Brace + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=776531651,859780267#notes:Lotus-Eater - Repulsor Brace + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2541826827,4049631843#notes:Lotus-Eater - Repulsor Brace (Enhanced) + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2541826827,859780267#notes:Lotus-Eater - Repulsor Brace (Enhanced) + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=1523832109,2048641572#notes:Lotus-Eater - Reconstruction + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=1523832109,1926441324#notes:Lotus-Eater - Reconstruction + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=461595545,2048641572#notes:Lotus-Eater - Reconstruction (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=461595545,1926441324#notes:Lotus-Eater - Reconstruction (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=1523832109,1134488199#notes:Lotus-Eater - Reconstruction + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=1523832109,2904194311#notes:Lotus-Eater - Reconstruction + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=461595545,1134488199#notes:Lotus-Eater - Reconstruction (Enhanced) + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=461595545,2904194311#notes:Lotus-Eater - Reconstruction (Enhanced) + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=1523832109,4049631843#notes:Lotus-Eater - Reconstruction + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=1523832109,859780267#notes:Lotus-Eater - Reconstruction + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=461595545,4049631843#notes:Lotus-Eater - Reconstruction (Enhanced) + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=461595545,859780267#notes:Lotus-Eater - Reconstruction (Enhanced) + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=3700496672,2048641572#notes:Lotus-Eater - Shoot to Loot + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=3700496672,1926441324#notes:Lotus-Eater - Shoot to Loot + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2840833776,2048641572#notes:Lotus-Eater - Shoot to Loot (Enhanced) + Destabilizing Rounds -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2840833776,1926441324#notes:Lotus-Eater - Shoot to Loot (Enhanced) + Destabilizing Rounds (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=3700496672,1134488199#notes:Lotus-Eater - Shoot to Loot + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=3700496672,2904194311#notes:Lotus-Eater - Shoot to Loot + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2840833776,1134488199#notes:Lotus-Eater - Shoot to Loot (Enhanced) + Withering Gaze -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2840833776,2904194311#notes:Lotus-Eater - Shoot to Loot (Enhanced) + Withering Gaze (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=3700496672,4049631843#notes:Lotus-Eater - Shoot to Loot + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=3700496672,859780267#notes:Lotus-Eater - Shoot to Loot + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2840833776,4049631843#notes:Lotus-Eater - Shoot to Loot (Enhanced) + One for All -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3922217119&perks=2840833776,859780267#notes:Lotus-Eater - Shoot to Loot (Enhanced) + One for All (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1421772400,2978966579#notes:Tinasha's Mastery - Air Trigger + Chill Clip -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1421772400,344235611#notes:Tinasha's Mastery - Air Trigger + Chill Clip (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3291427296,2978966579#notes:Tinasha's Mastery - Air Trigger (Enhanced) + Chill Clip -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3291427296,344235611#notes:Tinasha's Mastery - Air Trigger (Enhanced) + Chill Clip (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1421772400,3708227201#notes:Tinasha's Mastery - Air Trigger + Surrounded -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1421772400,781192741#notes:Tinasha's Mastery - Air Trigger + Surrounded (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3291427296,3708227201#notes:Tinasha's Mastery - Air Trigger (Enhanced) + Surrounded -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3291427296,781192741#notes:Tinasha's Mastery - Air Trigger (Enhanced) + Surrounded (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1421772400,2109543898#notes:Tinasha's Mastery - Air Trigger + Desperate Measures -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1421772400,2799030358#notes:Tinasha's Mastery - Air Trigger + Desperate Measures (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3291427296,2109543898#notes:Tinasha's Mastery - Air Trigger (Enhanced) + Desperate Measures -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3291427296,2799030358#notes:Tinasha's Mastery - Air Trigger (Enhanced) + Desperate Measures (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=951095735,2978966579#notes:Tinasha's Mastery - Impulse Amplifier + Chill Clip -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=951095735,344235611#notes:Tinasha's Mastery - Impulse Amplifier + Chill Clip (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3878366039,2978966579#notes:Tinasha's Mastery - Impulse Amplifier (Enhanced) + Chill Clip -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3878366039,344235611#notes:Tinasha's Mastery - Impulse Amplifier (Enhanced) + Chill Clip (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=951095735,3708227201#notes:Tinasha's Mastery - Impulse Amplifier + Surrounded -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=951095735,781192741#notes:Tinasha's Mastery - Impulse Amplifier + Surrounded (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3878366039,3708227201#notes:Tinasha's Mastery - Impulse Amplifier (Enhanced) + Surrounded -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3878366039,781192741#notes:Tinasha's Mastery - Impulse Amplifier (Enhanced) + Surrounded (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=951095735,2109543898#notes:Tinasha's Mastery - Impulse Amplifier + Desperate Measures -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=951095735,2799030358#notes:Tinasha's Mastery - Impulse Amplifier + Desperate Measures (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3878366039,2109543898#notes:Tinasha's Mastery - Impulse Amplifier (Enhanced) + Desperate Measures -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=3878366039,2799030358#notes:Tinasha's Mastery - Impulse Amplifier (Enhanced) + Desperate Measures (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1164602481,2978966579#notes:Tinasha's Mastery - Deconstruct + Chill Clip -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1164602481,344235611#notes:Tinasha's Mastery - Deconstruct + Chill Clip (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1164602481,3708227201#notes:Tinasha's Mastery - Deconstruct + Surrounded -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1164602481,781192741#notes:Tinasha's Mastery - Deconstruct + Surrounded (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1164602481,2109543898#notes:Tinasha's Mastery - Deconstruct + Desperate Measures -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=480368036&perks=1164602481,2799030358#notes:Tinasha's Mastery - Deconstruct + Desperate Measures (Enhanced) -- Rank 3, Tier S by TheAegisRelic
-dimwishlist:item=3381450498&perks=951095735,2173046394#notes:Indebted Kindness - Impulse Amplifier + Voltshot -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=951095735,1720528630#notes:Indebted Kindness - Impulse Amplifier + Voltshot (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3878366039,2173046394#notes:Indebted Kindness - Impulse Amplifier (Enhanced) + Voltshot -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3878366039,1720528630#notes:Indebted Kindness - Impulse Amplifier (Enhanced) + Voltshot (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=951095735,3708227201#notes:Indebted Kindness - Impulse Amplifier + Surrounded -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=951095735,781192741#notes:Indebted Kindness - Impulse Amplifier + Surrounded (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3878366039,3708227201#notes:Indebted Kindness - Impulse Amplifier (Enhanced) + Surrounded -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3878366039,781192741#notes:Indebted Kindness - Impulse Amplifier (Enhanced) + Surrounded (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=951095735,3673922083#notes:Indebted Kindness - Impulse Amplifier + Adagio -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=951095735,2889515627#notes:Indebted Kindness - Impulse Amplifier + Adagio (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3878366039,3673922083#notes:Indebted Kindness - Impulse Amplifier (Enhanced) + Adagio -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3878366039,2889515627#notes:Indebted Kindness - Impulse Amplifier (Enhanced) + Adagio (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=1556840489,2173046394#notes:Indebted Kindness - Lead from Gold + Voltshot -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=1556840489,1720528630#notes:Indebted Kindness - Lead from Gold + Voltshot (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3442762221,2173046394#notes:Indebted Kindness - Lead from Gold (Enhanced) + Voltshot -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3442762221,1720528630#notes:Indebted Kindness - Lead from Gold (Enhanced) + Voltshot (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=1556840489,3708227201#notes:Indebted Kindness - Lead from Gold + Surrounded -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=1556840489,781192741#notes:Indebted Kindness - Lead from Gold + Surrounded (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3442762221,3708227201#notes:Indebted Kindness - Lead from Gold (Enhanced) + Surrounded -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3442762221,781192741#notes:Indebted Kindness - Lead from Gold (Enhanced) + Surrounded (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=1556840489,3673922083#notes:Indebted Kindness - Lead from Gold + Adagio -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=1556840489,2889515627#notes:Indebted Kindness - Lead from Gold + Adagio (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3442762221,3673922083#notes:Indebted Kindness - Lead from Gold (Enhanced) + Adagio -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3381450498&perks=3442762221,2889515627#notes:Indebted Kindness - Lead from Gold (Enhanced) + Adagio (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=3947966653&perks=923806249,2109543898#notes:The Call - Slice + Desperate Measures -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=923806249,2799030358#notes:The Call - Slice + Desperate Measures (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3422796781,2109543898#notes:The Call - Slice (Enhanced) + Desperate Measures -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3422796781,2799030358#notes:The Call - Slice (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=923806249,2610012052#notes:The Call - Slice + Golden Tricorn -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=923806249,4290541820#notes:The Call - Slice + Golden Tricorn (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3422796781,2610012052#notes:The Call - Slice (Enhanced) + Golden Tricorn -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3422796781,4290541820#notes:The Call - Slice (Enhanced) + Golden Tricorn (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=923806249,4049631843#notes:The Call - Slice + One for All -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=923806249,859780267#notes:The Call - Slice + One for All (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3422796781,4049631843#notes:The Call - Slice (Enhanced) + One for All -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3422796781,859780267#notes:The Call - Slice (Enhanced) + One for All (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1556840489,2109543898#notes:The Call - Lead from Gold + Desperate Measures -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1556840489,2799030358#notes:The Call - Lead from Gold + Desperate Measures (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3442762221,2109543898#notes:The Call - Lead from Gold (Enhanced) + Desperate Measures -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3442762221,2799030358#notes:The Call - Lead from Gold (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1556840489,2610012052#notes:The Call - Lead from Gold + Golden Tricorn -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1556840489,4290541820#notes:The Call - Lead from Gold + Golden Tricorn (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3442762221,2610012052#notes:The Call - Lead from Gold (Enhanced) + Golden Tricorn -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3442762221,4290541820#notes:The Call - Lead from Gold (Enhanced) + Golden Tricorn (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1556840489,4049631843#notes:The Call - Lead from Gold + One for All -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1556840489,859780267#notes:The Call - Lead from Gold + One for All (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3442762221,4049631843#notes:The Call - Lead from Gold (Enhanced) + One for All -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3442762221,859780267#notes:The Call - Lead from Gold (Enhanced) + One for All (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3523296417,2109543898#notes:The Call - Demolitionist + Desperate Measures -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3523296417,2799030358#notes:The Call - Demolitionist + Desperate Measures (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1906147653,2109543898#notes:The Call - Demolitionist (Enhanced) + Desperate Measures -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1906147653,2799030358#notes:The Call - Demolitionist (Enhanced) + Desperate Measures (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3523296417,2610012052#notes:The Call - Demolitionist + Golden Tricorn -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3523296417,4290541820#notes:The Call - Demolitionist + Golden Tricorn (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1906147653,2610012052#notes:The Call - Demolitionist (Enhanced) + Golden Tricorn -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1906147653,4290541820#notes:The Call - Demolitionist (Enhanced) + Golden Tricorn (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3523296417,4049631843#notes:The Call - Demolitionist + One for All -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=3523296417,859780267#notes:The Call - Demolitionist + One for All (Enhanced) -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1906147653,4049631843#notes:The Call - Demolitionist (Enhanced) + One for All -- Rank 5, Tier B by TheAegisRelic
-dimwishlist:item=3947966653&perks=1906147653,859780267#notes:The Call - Demolitionist (Enhanced) + One for All (Enhanced) -- Rank 5, Tier B by TheAegisRelic
+// Rocket Sidearms - 2025-03-28T19:49:47.154Z
+//notes:Aberrant Action - Rank 1, Tier S by TheAegisRelic\nColumn 1: Heal Clip\nColumn 2: Incandescent\nOrigin Trait: Radiolaria Transposer
+dimwishlist:item=2198166292&perks=3017780555,4293542123,253121539
+dimwishlist:item=2198166292&perks=3017780555,2675184851,253121539
+dimwishlist:item=2198166292&perks=4223976499,4293542123,253121539
+dimwishlist:item=2198166292&perks=4223976499,2675184851,253121539
+//notes:Lotus-Eater (Adept) - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=2697143634&perks=776531651,2048641572,1281216113
+dimwishlist:item=2697143634&perks=776531651,1926441324,1281216113
+dimwishlist:item=2697143634&perks=2541826827,2048641572,1281216113
+dimwishlist:item=2697143634&perks=2541826827,1926441324,1281216113
+//notes:Lotus-Eater (Adept) - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=2697143634&perks=776531651,1134488199,1281216113
+dimwishlist:item=2697143634&perks=776531651,2904194311,1281216113
+dimwishlist:item=2697143634&perks=2541826827,1134488199,1281216113
+dimwishlist:item=2697143634&perks=2541826827,2904194311,1281216113
+//notes:Lotus-Eater (Adept) - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=2697143634&perks=776531651,4049631843,1281216113
+dimwishlist:item=2697143634&perks=776531651,859780267,1281216113
+dimwishlist:item=2697143634&perks=2541826827,4049631843,1281216113
+dimwishlist:item=2697143634&perks=2541826827,859780267,1281216113
+//notes:Lotus-Eater (Adept) - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=2697143634&perks=1523832109,2048641572,1281216113
+dimwishlist:item=2697143634&perks=1523832109,1926441324,1281216113
+dimwishlist:item=2697143634&perks=461595545,2048641572,1281216113
+dimwishlist:item=2697143634&perks=461595545,1926441324,1281216113
+//notes:Lotus-Eater (Adept) - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=2697143634&perks=1523832109,1134488199,1281216113
+dimwishlist:item=2697143634&perks=1523832109,2904194311,1281216113
+dimwishlist:item=2697143634&perks=461595545,1134488199,1281216113
+dimwishlist:item=2697143634&perks=461595545,2904194311,1281216113
+//notes:Lotus-Eater (Adept) - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=2697143634&perks=1523832109,4049631843,1281216113
+dimwishlist:item=2697143634&perks=1523832109,859780267,1281216113
+dimwishlist:item=2697143634&perks=461595545,4049631843,1281216113
+dimwishlist:item=2697143634&perks=461595545,859780267,1281216113
+//notes:Lotus-Eater (Adept) - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=2697143634&perks=3700496672,2048641572,1281216113
+dimwishlist:item=2697143634&perks=3700496672,1926441324,1281216113
+dimwishlist:item=2697143634&perks=2840833776,2048641572,1281216113
+dimwishlist:item=2697143634&perks=2840833776,1926441324,1281216113
+//notes:Lotus-Eater (Adept) - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=2697143634&perks=3700496672,1134488199,1281216113
+dimwishlist:item=2697143634&perks=3700496672,2904194311,1281216113
+dimwishlist:item=2697143634&perks=2840833776,1134488199,1281216113
+dimwishlist:item=2697143634&perks=2840833776,2904194311,1281216113
+//notes:Lotus-Eater (Adept) - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=2697143634&perks=3700496672,4049631843,1281216113
+dimwishlist:item=2697143634&perks=3700496672,859780267,1281216113
+dimwishlist:item=2697143634&perks=2840833776,4049631843,1281216113
+dimwishlist:item=2697143634&perks=2840833776,859780267,1281216113
+//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=3922217119&perks=776531651,2048641572,1281216113
+dimwishlist:item=3922217119&perks=776531651,1926441324,1281216113
+dimwishlist:item=3922217119&perks=2541826827,2048641572,1281216113
+dimwishlist:item=3922217119&perks=2541826827,1926441324,1281216113
+//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=3922217119&perks=776531651,1134488199,1281216113
+dimwishlist:item=3922217119&perks=776531651,2904194311,1281216113
+dimwishlist:item=3922217119&perks=2541826827,1134488199,1281216113
+dimwishlist:item=3922217119&perks=2541826827,2904194311,1281216113
+//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=3922217119&perks=776531651,4049631843,1281216113
+dimwishlist:item=3922217119&perks=776531651,859780267,1281216113
+dimwishlist:item=3922217119&perks=2541826827,4049631843,1281216113
+dimwishlist:item=3922217119&perks=2541826827,859780267,1281216113
+//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=3922217119&perks=1523832109,2048641572,1281216113
+dimwishlist:item=3922217119&perks=1523832109,1926441324,1281216113
+dimwishlist:item=3922217119&perks=461595545,2048641572,1281216113
+dimwishlist:item=3922217119&perks=461595545,1926441324,1281216113
+//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=3922217119&perks=1523832109,1134488199,1281216113
+dimwishlist:item=3922217119&perks=1523832109,2904194311,1281216113
+dimwishlist:item=3922217119&perks=461595545,1134488199,1281216113
+dimwishlist:item=3922217119&perks=461595545,2904194311,1281216113
+//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=3922217119&perks=1523832109,4049631843,1281216113
+dimwishlist:item=3922217119&perks=1523832109,859780267,1281216113
+dimwishlist:item=3922217119&perks=461595545,4049631843,1281216113
+dimwishlist:item=3922217119&perks=461595545,859780267,1281216113
+//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=3922217119&perks=3700496672,2048641572,1281216113
+dimwishlist:item=3922217119&perks=3700496672,1926441324,1281216113
+dimwishlist:item=3922217119&perks=2840833776,2048641572,1281216113
+dimwishlist:item=3922217119&perks=2840833776,1926441324,1281216113
+//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=3922217119&perks=3700496672,1134488199,1281216113
+dimwishlist:item=3922217119&perks=3700496672,2904194311,1281216113
+dimwishlist:item=3922217119&perks=2840833776,1134488199,1281216113
+dimwishlist:item=3922217119&perks=2840833776,2904194311,1281216113
+//notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace,Reconstruction,Shoot to Loot\nColumn 2: Destabilizing Rounds,Withering Gaze,One for All\nOrigin Trait: Stunning Recovery
+dimwishlist:item=3922217119&perks=3700496672,4049631843,1281216113
+dimwishlist:item=3922217119&perks=3700496672,859780267,1281216113
+dimwishlist:item=3922217119&perks=2840833776,4049631843,1281216113
+dimwishlist:item=3922217119&perks=2840833776,859780267,1281216113
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic\nColumn 1: Air Trigger,Impulse Amplifier,Deconstruct\nColumn 2: Chill Clip,Surrounded,Desperate Measures\nOrigin Trait: Skulking Wolf
+dimwishlist:item=480368036&perks=1421772400,2978966579,3989629871
+dimwishlist:item=480368036&perks=1421772400,344235611,3989629871
+dimwishlist:item=480368036&perks=3291427296,2978966579,3989629871
+dimwishlist:item=480368036&perks=3291427296,344235611,3989629871
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic\nColumn 1: Air Trigger,Impulse Amplifier,Deconstruct\nColumn 2: Chill Clip,Surrounded,Desperate Measures\nOrigin Trait: Skulking Wolf
+dimwishlist:item=480368036&perks=1421772400,3708227201,3989629871
+dimwishlist:item=480368036&perks=1421772400,781192741,3989629871
+dimwishlist:item=480368036&perks=3291427296,3708227201,3989629871
+dimwishlist:item=480368036&perks=3291427296,781192741,3989629871
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic\nColumn 1: Air Trigger,Impulse Amplifier,Deconstruct\nColumn 2: Chill Clip,Surrounded,Desperate Measures\nOrigin Trait: Skulking Wolf
+dimwishlist:item=480368036&perks=1421772400,2109543898,3989629871
+dimwishlist:item=480368036&perks=1421772400,2799030358,3989629871
+dimwishlist:item=480368036&perks=3291427296,2109543898,3989629871
+dimwishlist:item=480368036&perks=3291427296,2799030358,3989629871
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic\nColumn 1: Air Trigger,Impulse Amplifier,Deconstruct\nColumn 2: Chill Clip,Surrounded,Desperate Measures\nOrigin Trait: Skulking Wolf
+dimwishlist:item=480368036&perks=951095735,2978966579,3989629871
+dimwishlist:item=480368036&perks=951095735,344235611,3989629871
+dimwishlist:item=480368036&perks=3878366039,2978966579,3989629871
+dimwishlist:item=480368036&perks=3878366039,344235611,3989629871
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic\nColumn 1: Air Trigger,Impulse Amplifier,Deconstruct\nColumn 2: Chill Clip,Surrounded,Desperate Measures\nOrigin Trait: Skulking Wolf
+dimwishlist:item=480368036&perks=951095735,3708227201,3989629871
+dimwishlist:item=480368036&perks=951095735,781192741,3989629871
+dimwishlist:item=480368036&perks=3878366039,3708227201,3989629871
+dimwishlist:item=480368036&perks=3878366039,781192741,3989629871
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic\nColumn 1: Air Trigger,Impulse Amplifier,Deconstruct\nColumn 2: Chill Clip,Surrounded,Desperate Measures\nOrigin Trait: Skulking Wolf
+dimwishlist:item=480368036&perks=951095735,2109543898,3989629871
+dimwishlist:item=480368036&perks=951095735,2799030358,3989629871
+dimwishlist:item=480368036&perks=3878366039,2109543898,3989629871
+dimwishlist:item=480368036&perks=3878366039,2799030358,3989629871
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic\nColumn 1: Air Trigger,Impulse Amplifier,Deconstruct\nColumn 2: Chill Clip,Surrounded,Desperate Measures\nOrigin Trait: Skulking Wolf
+dimwishlist:item=480368036&perks=1164602481,2978966579,3989629871
+dimwishlist:item=480368036&perks=1164602481,344235611,3989629871
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic\nColumn 1: Air Trigger,Impulse Amplifier,Deconstruct\nColumn 2: Chill Clip,Surrounded,Desperate Measures\nOrigin Trait: Skulking Wolf
+dimwishlist:item=480368036&perks=1164602481,3708227201,3989629871
+dimwishlist:item=480368036&perks=1164602481,781192741,3989629871
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic\nColumn 1: Air Trigger,Impulse Amplifier,Deconstruct\nColumn 2: Chill Clip,Surrounded,Desperate Measures\nOrigin Trait: Skulking Wolf
+dimwishlist:item=480368036&perks=1164602481,2109543898,3989629871
+dimwishlist:item=480368036&perks=1164602481,2799030358,3989629871
+//notes:Indebted Kindness - Rank 4, Tier A by TheAegisRelic\nColumn 1: Impulse Amplifier,Lead from Gold\nColumn 2: Voltshot,Surrounded,Adagio\nOrigin Trait: Sundering
+dimwishlist:item=3381450498&perks=951095735,2173046394,220689851
+dimwishlist:item=3381450498&perks=951095735,1720528630,220689851
+dimwishlist:item=3381450498&perks=3878366039,2173046394,220689851
+dimwishlist:item=3381450498&perks=3878366039,1720528630,220689851
+//notes:Indebted Kindness - Rank 4, Tier A by TheAegisRelic\nColumn 1: Impulse Amplifier,Lead from Gold\nColumn 2: Voltshot,Surrounded,Adagio\nOrigin Trait: Sundering
+dimwishlist:item=3381450498&perks=951095735,3708227201,220689851
+dimwishlist:item=3381450498&perks=951095735,781192741,220689851
+dimwishlist:item=3381450498&perks=3878366039,3708227201,220689851
+dimwishlist:item=3381450498&perks=3878366039,781192741,220689851
+//notes:Indebted Kindness - Rank 4, Tier A by TheAegisRelic\nColumn 1: Impulse Amplifier,Lead from Gold\nColumn 2: Voltshot,Surrounded,Adagio\nOrigin Trait: Sundering
+dimwishlist:item=3381450498&perks=951095735,3673922083,220689851
+dimwishlist:item=3381450498&perks=951095735,2889515627,220689851
+dimwishlist:item=3381450498&perks=3878366039,3673922083,220689851
+dimwishlist:item=3381450498&perks=3878366039,2889515627,220689851
+//notes:Indebted Kindness - Rank 4, Tier A by TheAegisRelic\nColumn 1: Impulse Amplifier,Lead from Gold\nColumn 2: Voltshot,Surrounded,Adagio\nOrigin Trait: Sundering
+dimwishlist:item=3381450498&perks=1556840489,2173046394,220689851
+dimwishlist:item=3381450498&perks=1556840489,1720528630,220689851
+dimwishlist:item=3381450498&perks=3442762221,2173046394,220689851
+dimwishlist:item=3381450498&perks=3442762221,1720528630,220689851
+//notes:Indebted Kindness - Rank 4, Tier A by TheAegisRelic\nColumn 1: Impulse Amplifier,Lead from Gold\nColumn 2: Voltshot,Surrounded,Adagio\nOrigin Trait: Sundering
+dimwishlist:item=3381450498&perks=1556840489,3708227201,220689851
+dimwishlist:item=3381450498&perks=1556840489,781192741,220689851
+dimwishlist:item=3381450498&perks=3442762221,3708227201,220689851
+dimwishlist:item=3381450498&perks=3442762221,781192741,220689851
+//notes:Indebted Kindness - Rank 4, Tier A by TheAegisRelic\nColumn 1: Impulse Amplifier,Lead from Gold\nColumn 2: Voltshot,Surrounded,Adagio\nOrigin Trait: Sundering
+dimwishlist:item=3381450498&perks=1556840489,3673922083,220689851
+dimwishlist:item=3381450498&perks=1556840489,2889515627,220689851
+dimwishlist:item=3381450498&perks=3442762221,3673922083,220689851
+dimwishlist:item=3381450498&perks=3442762221,2889515627,220689851
+//notes:The Call - Rank 5, Tier B by TheAegisRelic\nColumn 1: Slice,Lead from Gold,Demolitionist\nColumn 2: Desperate Measures,Golden Tricorn,One for All\nOrigin Trait: Dealer's Choice
+dimwishlist:item=3947966653&perks=923806249,2109543898,1988485648
+dimwishlist:item=3947966653&perks=923806249,2799030358,1988485648
+dimwishlist:item=3947966653&perks=3422796781,2109543898,1988485648
+dimwishlist:item=3947966653&perks=3422796781,2799030358,1988485648
+//notes:The Call - Rank 5, Tier B by TheAegisRelic\nColumn 1: Slice,Lead from Gold,Demolitionist\nColumn 2: Desperate Measures,Golden Tricorn,One for All\nOrigin Trait: Dealer's Choice
+dimwishlist:item=3947966653&perks=923806249,2610012052,1988485648
+dimwishlist:item=3947966653&perks=923806249,4290541820,1988485648
+dimwishlist:item=3947966653&perks=3422796781,2610012052,1988485648
+dimwishlist:item=3947966653&perks=3422796781,4290541820,1988485648
+//notes:The Call - Rank 5, Tier B by TheAegisRelic\nColumn 1: Slice,Lead from Gold,Demolitionist\nColumn 2: Desperate Measures,Golden Tricorn,One for All\nOrigin Trait: Dealer's Choice
+dimwishlist:item=3947966653&perks=923806249,4049631843,1988485648
+dimwishlist:item=3947966653&perks=923806249,859780267,1988485648
+dimwishlist:item=3947966653&perks=3422796781,4049631843,1988485648
+dimwishlist:item=3947966653&perks=3422796781,859780267,1988485648
+//notes:The Call - Rank 5, Tier B by TheAegisRelic\nColumn 1: Slice,Lead from Gold,Demolitionist\nColumn 2: Desperate Measures,Golden Tricorn,One for All\nOrigin Trait: Dealer's Choice
+dimwishlist:item=3947966653&perks=1556840489,2109543898,1988485648
+dimwishlist:item=3947966653&perks=1556840489,2799030358,1988485648
+dimwishlist:item=3947966653&perks=3442762221,2109543898,1988485648
+dimwishlist:item=3947966653&perks=3442762221,2799030358,1988485648
+//notes:The Call - Rank 5, Tier B by TheAegisRelic\nColumn 1: Slice,Lead from Gold,Demolitionist\nColumn 2: Desperate Measures,Golden Tricorn,One for All\nOrigin Trait: Dealer's Choice
+dimwishlist:item=3947966653&perks=1556840489,2610012052,1988485648
+dimwishlist:item=3947966653&perks=1556840489,4290541820,1988485648
+dimwishlist:item=3947966653&perks=3442762221,2610012052,1988485648
+dimwishlist:item=3947966653&perks=3442762221,4290541820,1988485648
+//notes:The Call - Rank 5, Tier B by TheAegisRelic\nColumn 1: Slice,Lead from Gold,Demolitionist\nColumn 2: Desperate Measures,Golden Tricorn,One for All\nOrigin Trait: Dealer's Choice
+dimwishlist:item=3947966653&perks=1556840489,4049631843,1988485648
+dimwishlist:item=3947966653&perks=1556840489,859780267,1988485648
+dimwishlist:item=3947966653&perks=3442762221,4049631843,1988485648
+dimwishlist:item=3947966653&perks=3442762221,859780267,1988485648
+//notes:The Call - Rank 5, Tier B by TheAegisRelic\nColumn 1: Slice,Lead from Gold,Demolitionist\nColumn 2: Desperate Measures,Golden Tricorn,One for All\nOrigin Trait: Dealer's Choice
+dimwishlist:item=3947966653&perks=3523296417,2109543898,1988485648
+dimwishlist:item=3947966653&perks=3523296417,2799030358,1988485648
+dimwishlist:item=3947966653&perks=1906147653,2109543898,1988485648
+dimwishlist:item=3947966653&perks=1906147653,2799030358,1988485648
+//notes:The Call - Rank 5, Tier B by TheAegisRelic\nColumn 1: Slice,Lead from Gold,Demolitionist\nColumn 2: Desperate Measures,Golden Tricorn,One for All\nOrigin Trait: Dealer's Choice
+dimwishlist:item=3947966653&perks=3523296417,2610012052,1988485648
+dimwishlist:item=3947966653&perks=3523296417,4290541820,1988485648
+dimwishlist:item=3947966653&perks=1906147653,2610012052,1988485648
+dimwishlist:item=3947966653&perks=1906147653,4290541820,1988485648
+//notes:The Call - Rank 5, Tier B by TheAegisRelic\nColumn 1: Slice,Lead from Gold,Demolitionist\nColumn 2: Desperate Measures,Golden Tricorn,One for All\nOrigin Trait: Dealer's Choice
+dimwishlist:item=3947966653&perks=3523296417,4049631843,1988485648
+dimwishlist:item=3947966653&perks=3523296417,859780267,1988485648
+dimwishlist:item=3947966653&perks=1906147653,4049631843,1988485648
+dimwishlist:item=3947966653&perks=1906147653,859780267,1988485648

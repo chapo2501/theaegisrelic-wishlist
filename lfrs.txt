@@ -1,229 +1,287 @@
-// LFRs - 2025-03-25T16:24:33.933Z
-dimwishlist:item=1492522228&perks=2578928832,3078487919#notes:Scintillation (Adept) - Rewind Rounds + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=2578928832,3744057135#notes:Scintillation (Adept) - Rewind Rounds + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1563455254,3078487919#notes:Scintillation (Adept) - Rewind Rounds (Enhanced) + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1563455254,3744057135#notes:Scintillation (Adept) - Rewind Rounds (Enhanced) + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=2578928832,3708227201#notes:Scintillation (Adept) - Rewind Rounds + Surrounded -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=2578928832,781192741#notes:Scintillation (Adept) - Rewind Rounds + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1563455254,3708227201#notes:Scintillation (Adept) - Rewind Rounds (Enhanced) + Surrounded -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1563455254,781192741#notes:Scintillation (Adept) - Rewind Rounds (Enhanced) + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1799762209,3078487919#notes:Scintillation (Adept) - Cornered + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1799762209,3744057135#notes:Scintillation (Adept) - Cornered + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1008128453,3078487919#notes:Scintillation (Adept) - Cornered (Enhanced) + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1008128453,3744057135#notes:Scintillation (Adept) - Cornered (Enhanced) + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1799762209,3708227201#notes:Scintillation (Adept) - Cornered + Surrounded -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1799762209,781192741#notes:Scintillation (Adept) - Cornered + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1008128453,3708227201#notes:Scintillation (Adept) - Cornered (Enhanced) + Surrounded -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=1492522228&perks=1008128453,781192741#notes:Scintillation (Adept) - Cornered (Enhanced) + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=2578928832,3078487919#notes:Scintillation - Rewind Rounds + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=2578928832,3744057135#notes:Scintillation - Rewind Rounds + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1563455254,3078487919#notes:Scintillation - Rewind Rounds (Enhanced) + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1563455254,3744057135#notes:Scintillation - Rewind Rounds (Enhanced) + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=2578928832,3708227201#notes:Scintillation - Rewind Rounds + Surrounded -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=2578928832,781192741#notes:Scintillation - Rewind Rounds + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1563455254,3708227201#notes:Scintillation - Rewind Rounds (Enhanced) + Surrounded -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1563455254,781192741#notes:Scintillation - Rewind Rounds (Enhanced) + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1799762209,3078487919#notes:Scintillation - Cornered + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1799762209,3744057135#notes:Scintillation - Cornered + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1008128453,3078487919#notes:Scintillation - Cornered (Enhanced) + Bait and Switch -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1008128453,3744057135#notes:Scintillation - Cornered (Enhanced) + Bait and Switch (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1799762209,3708227201#notes:Scintillation - Cornered + Surrounded -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1799762209,781192741#notes:Scintillation - Cornered + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1008128453,3708227201#notes:Scintillation - Cornered (Enhanced) + Surrounded -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=2591257541&perks=1008128453,781192741#notes:Scintillation - Cornered (Enhanced) + Surrounded (Enhanced) -- Rank 1, Tier S by TheAegisRelic
-dimwishlist:item=3483485727&perks=3987942396,3078487919#notes:Mistral Lift - Envious Arsenal + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3483485727&perks=3987942396,3744057135#notes:Mistral Lift - Envious Arsenal + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3483485727&perks=2817499044,3078487919#notes:Mistral Lift - Envious Arsenal (Enhanced) + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3483485727&perks=2817499044,3744057135#notes:Mistral Lift - Envious Arsenal (Enhanced) + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3483485727&perks=968510818,3078487919#notes:Mistral Lift - Envious Assassin + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3483485727&perks=968510818,3744057135#notes:Mistral Lift - Envious Assassin + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3483485727&perks=424370782,3078487919#notes:Mistral Lift - Envious Assassin (Enhanced) + Bait and Switch -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=3483485727&perks=424370782,3744057135#notes:Mistral Lift - Envious Assassin (Enhanced) + Bait and Switch (Enhanced) -- Rank 2, Tier S by TheAegisRelic
-dimwishlist:item=1501688142&perks=968510818,3708227201#notes:Doomed Petitioner - Envious Assassin + Surrounded -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=968510818,781192741#notes:Doomed Petitioner - Envious Assassin + Surrounded (Enhanced) -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=424370782,3708227201#notes:Doomed Petitioner - Envious Assassin (Enhanced) + Surrounded -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=424370782,781192741#notes:Doomed Petitioner - Envious Assassin (Enhanced) + Surrounded (Enhanced) -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=968510818,555281244#notes:Doomed Petitioner - Envious Assassin + Precision Instrument -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=968510818,332733060#notes:Doomed Petitioner - Envious Assassin + Precision Instrument (Enhanced) -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=424370782,555281244#notes:Doomed Petitioner - Envious Assassin (Enhanced) + Precision Instrument -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=424370782,332733060#notes:Doomed Petitioner - Envious Assassin (Enhanced) + Precision Instrument (Enhanced) -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=1523832109,3708227201#notes:Doomed Petitioner - Reconstruction + Surrounded -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=1523832109,781192741#notes:Doomed Petitioner - Reconstruction + Surrounded (Enhanced) -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=461595545,3708227201#notes:Doomed Petitioner - Reconstruction (Enhanced) + Surrounded -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=461595545,781192741#notes:Doomed Petitioner - Reconstruction (Enhanced) + Surrounded (Enhanced) -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=1523832109,555281244#notes:Doomed Petitioner - Reconstruction + Precision Instrument -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=1523832109,332733060#notes:Doomed Petitioner - Reconstruction + Precision Instrument (Enhanced) -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=461595545,555281244#notes:Doomed Petitioner - Reconstruction (Enhanced) + Precision Instrument -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=1501688142&perks=461595545,332733060#notes:Doomed Petitioner - Reconstruction (Enhanced) + Precision Instrument (Enhanced) -- Rank 3, Tier A by TheAegisRelic
-dimwishlist:item=999767358&perks=1354429876,3078487919#notes:Cataclysmic - Fourth Time's the Charm + Bait and Switch -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=999767358&perks=1354429876,3744057135#notes:Cataclysmic - Fourth Time's the Charm + Bait and Switch (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=999767358&perks=848860060,3078487919#notes:Cataclysmic - Fourth Time's the Charm (Enhanced) + Bait and Switch -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=999767358&perks=848860060,3744057135#notes:Cataclysmic - Fourth Time's the Charm (Enhanced) + Bait and Switch (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=2886339027&perks=1354429876,3078487919#notes:Cataclysmic (Adept) - Fourth Time's the Charm + Bait and Switch -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=2886339027&perks=1354429876,3744057135#notes:Cataclysmic (Adept) - Fourth Time's the Charm + Bait and Switch (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=2886339027&perks=848860060,3078487919#notes:Cataclysmic (Adept) - Fourth Time's the Charm (Enhanced) + Bait and Switch -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=2886339027&perks=848860060,3744057135#notes:Cataclysmic (Adept) - Fourth Time's the Charm (Enhanced) + Bait and Switch (Enhanced) -- Rank 4, Tier A by TheAegisRelic
-dimwishlist:item=1491665733&perks=2578928832,3708227201#notes:Briar's Contempt - Rewind Rounds + Surrounded -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=1491665733&perks=2578928832,781192741#notes:Briar's Contempt - Rewind Rounds + Surrounded (Enhanced) -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=1491665733&perks=1563455254,3708227201#notes:Briar's Contempt - Rewind Rounds (Enhanced) + Surrounded -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=1491665733&perks=1563455254,781192741#notes:Briar's Contempt - Rewind Rounds (Enhanced) + Surrounded (Enhanced) -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=1491665733&perks=2578928832,2896038713#notes:Briar's Contempt - Rewind Rounds + Focused Fury -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=1491665733&perks=2578928832,2402480669#notes:Briar's Contempt - Rewind Rounds + Focused Fury (Enhanced) -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=1491665733&perks=1563455254,2896038713#notes:Briar's Contempt - Rewind Rounds (Enhanced) + Focused Fury -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=1491665733&perks=1563455254,2402480669#notes:Briar's Contempt - Rewind Rounds (Enhanced) + Focused Fury (Enhanced) -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=2890082420&perks=2578928832,3708227201#notes:Briar's Contempt (Adept) - Rewind Rounds + Surrounded -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=2890082420&perks=2578928832,781192741#notes:Briar's Contempt (Adept) - Rewind Rounds + Surrounded (Enhanced) -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=2890082420&perks=1563455254,3708227201#notes:Briar's Contempt (Adept) - Rewind Rounds (Enhanced) + Surrounded -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=2890082420&perks=1563455254,781192741#notes:Briar's Contempt (Adept) - Rewind Rounds (Enhanced) + Surrounded (Enhanced) -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=2890082420&perks=2578928832,2896038713#notes:Briar's Contempt (Adept) - Rewind Rounds + Focused Fury -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=2890082420&perks=2578928832,2402480669#notes:Briar's Contempt (Adept) - Rewind Rounds + Focused Fury (Enhanced) -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=2890082420&perks=1563455254,2896038713#notes:Briar's Contempt (Adept) - Rewind Rounds (Enhanced) + Focused Fury -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=2890082420&perks=1563455254,2402480669#notes:Briar's Contempt (Adept) - Rewind Rounds (Enhanced) + Focused Fury (Enhanced) -- Rank 5, Tier A by TheAegisRelic
-dimwishlist:item=3652506829&perks=2284787283,1771339417#notes:Stormchaser - Clown Cartridge + Firing Line -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=2284787283,395388285#notes:Stormchaser - Clown Cartridge + Firing Line (Enhanced) -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3563868667,1771339417#notes:Stormchaser - Clown Cartridge (Enhanced) + Firing Line -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3563868667,395388285#notes:Stormchaser - Clown Cartridge (Enhanced) + Firing Line (Enhanced) -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=2284787283,4104185692#notes:Stormchaser - Clown Cartridge + Frenzy -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=2284787283,3007133316#notes:Stormchaser - Clown Cartridge + Frenzy (Enhanced) -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3563868667,4104185692#notes:Stormchaser - Clown Cartridge (Enhanced) + Frenzy -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3563868667,3007133316#notes:Stormchaser - Clown Cartridge (Enhanced) + Frenzy (Enhanced) -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3300816228,1771339417#notes:Stormchaser - Auto-Loading Holster + Firing Line -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3300816228,395388285#notes:Stormchaser - Auto-Loading Holster + Firing Line (Enhanced) -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3528046508,1771339417#notes:Stormchaser - Auto-Loading Holster (Enhanced) + Firing Line -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3528046508,395388285#notes:Stormchaser - Auto-Loading Holster (Enhanced) + Firing Line (Enhanced) -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3300816228,4104185692#notes:Stormchaser - Auto-Loading Holster + Frenzy -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3300816228,3007133316#notes:Stormchaser - Auto-Loading Holster + Frenzy (Enhanced) -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3528046508,4104185692#notes:Stormchaser - Auto-Loading Holster (Enhanced) + Frenzy -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=3652506829&perks=3528046508,3007133316#notes:Stormchaser - Auto-Loading Holster (Enhanced) + Frenzy (Enhanced) -- Rank 6, Tier B by TheAegisRelic
-dimwishlist:item=946443267&perks=2284787283,3078487919#notes:Line in the Sand - Clown Cartridge + Bait and Switch -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=946443267&perks=2284787283,3744057135#notes:Line in the Sand - Clown Cartridge + Bait and Switch (Enhanced) -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=946443267&perks=3563868667,3078487919#notes:Line in the Sand - Clown Cartridge (Enhanced) + Bait and Switch -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=946443267&perks=3563868667,3744057135#notes:Line in the Sand - Clown Cartridge (Enhanced) + Bait and Switch (Enhanced) -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=946443267&perks=1164602481,3078487919#notes:Line in the Sand - Deconstruct + Bait and Switch -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=946443267&perks=1164602481,3744057135#notes:Line in the Sand - Deconstruct + Bait and Switch (Enhanced) -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=2450049485&perks=2284787283,3078487919#notes:Line in the Sand - Clown Cartridge + Bait and Switch -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=2450049485&perks=2284787283,3744057135#notes:Line in the Sand - Clown Cartridge + Bait and Switch (Enhanced) -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=2450049485&perks=3563868667,3078487919#notes:Line in the Sand - Clown Cartridge (Enhanced) + Bait and Switch -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=2450049485&perks=3563868667,3744057135#notes:Line in the Sand - Clown Cartridge (Enhanced) + Bait and Switch (Enhanced) -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=2450049485&perks=1164602481,3078487919#notes:Line in the Sand - Deconstruct + Bait and Switch -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=2450049485&perks=1164602481,3744057135#notes:Line in the Sand - Deconstruct + Bait and Switch (Enhanced) -- Rank 7, Tier B by TheAegisRelic
-dimwishlist:item=3615421669&perks=968510818,555281244#notes:Suspectum-4fr - Envious Assassin + Precision Instrument -- Rank 8, Tier C by TheAegisRelic
-dimwishlist:item=3615421669&perks=968510818,332733060#notes:Suspectum-4fr - Envious Assassin + Precision Instrument (Enhanced) -- Rank 8, Tier C by TheAegisRelic
-dimwishlist:item=3615421669&perks=424370782,555281244#notes:Suspectum-4fr - Envious Assassin (Enhanced) + Precision Instrument -- Rank 8, Tier C by TheAegisRelic
-dimwishlist:item=3615421669&perks=424370782,332733060#notes:Suspectum-4fr - Envious Assassin (Enhanced) + Precision Instrument (Enhanced) -- Rank 8, Tier C by TheAegisRelic
-dimwishlist:item=3615421669&perks=968510818,1771339417#notes:Suspectum-4fr - Envious Assassin + Firing Line -- Rank 8, Tier C by TheAegisRelic
-dimwishlist:item=3615421669&perks=968510818,395388285#notes:Suspectum-4fr - Envious Assassin + Firing Line (Enhanced) -- Rank 8, Tier C by TheAegisRelic
-dimwishlist:item=3615421669&perks=424370782,1771339417#notes:Suspectum-4fr - Envious Assassin (Enhanced) + Firing Line -- Rank 8, Tier C by TheAegisRelic
-dimwishlist:item=3615421669&perks=424370782,395388285#notes:Suspectum-4fr - Envious Assassin (Enhanced) + Firing Line (Enhanced) -- Rank 8, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=1820235745,3978468247#notes:Eyes Unveiled (Adept) - Subsistence + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=1820235745,906981559#notes:Eyes Unveiled (Adept) - Subsistence + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=4245865861,3978468247#notes:Eyes Unveiled (Adept) - Subsistence (Enhanced) + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=4245865861,906981559#notes:Eyes Unveiled (Adept) - Subsistence (Enhanced) + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=1820235745,1427256713#notes:Eyes Unveiled (Adept) - Subsistence + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=1820235745,254337357#notes:Eyes Unveiled (Adept) - Subsistence + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=4245865861,1427256713#notes:Eyes Unveiled (Adept) - Subsistence (Enhanced) + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=4245865861,254337357#notes:Eyes Unveiled (Adept) - Subsistence (Enhanced) + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=3400784728,3978468247#notes:Eyes Unveiled (Adept) - Triple Tap + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=3400784728,906981559#notes:Eyes Unveiled (Adept) - Triple Tap + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=573122728,3978468247#notes:Eyes Unveiled (Adept) - Triple Tap (Enhanced) + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=573122728,906981559#notes:Eyes Unveiled (Adept) - Triple Tap (Enhanced) + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=3400784728,1427256713#notes:Eyes Unveiled (Adept) - Triple Tap + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=3400784728,254337357#notes:Eyes Unveiled (Adept) - Triple Tap + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=573122728,1427256713#notes:Eyes Unveiled (Adept) - Triple Tap (Enhanced) + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=282549639&perks=573122728,254337357#notes:Eyes Unveiled (Adept) - Triple Tap (Enhanced) + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=1820235745,3978468247#notes:Eyes Unveiled - Subsistence + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=1820235745,906981559#notes:Eyes Unveiled - Subsistence + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=4245865861,3978468247#notes:Eyes Unveiled - Subsistence (Enhanced) + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=4245865861,906981559#notes:Eyes Unveiled - Subsistence (Enhanced) + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=1820235745,1427256713#notes:Eyes Unveiled - Subsistence + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=1820235745,254337357#notes:Eyes Unveiled - Subsistence + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=4245865861,1427256713#notes:Eyes Unveiled - Subsistence (Enhanced) + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=4245865861,254337357#notes:Eyes Unveiled - Subsistence (Enhanced) + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=3400784728,3978468247#notes:Eyes Unveiled - Triple Tap + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=3400784728,906981559#notes:Eyes Unveiled - Triple Tap + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=573122728,3978468247#notes:Eyes Unveiled - Triple Tap (Enhanced) + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=573122728,906981559#notes:Eyes Unveiled - Triple Tap (Enhanced) + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=3400784728,1427256713#notes:Eyes Unveiled - Triple Tap + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=3400784728,254337357#notes:Eyes Unveiled - Triple Tap + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=573122728,1427256713#notes:Eyes Unveiled - Triple Tap (Enhanced) + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=615373993&perks=573122728,254337357#notes:Eyes Unveiled - Triple Tap (Enhanced) + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=1820235745,3978468247#notes:Eyes Unveiled - Subsistence + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=1820235745,906981559#notes:Eyes Unveiled - Subsistence + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=4245865861,3978468247#notes:Eyes Unveiled - Subsistence (Enhanced) + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=4245865861,906981559#notes:Eyes Unveiled - Subsistence (Enhanced) + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=1820235745,1427256713#notes:Eyes Unveiled - Subsistence + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=1820235745,254337357#notes:Eyes Unveiled - Subsistence + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=4245865861,1427256713#notes:Eyes Unveiled - Subsistence (Enhanced) + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=4245865861,254337357#notes:Eyes Unveiled - Subsistence (Enhanced) + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=3400784728,3978468247#notes:Eyes Unveiled - Triple Tap + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=3400784728,906981559#notes:Eyes Unveiled - Triple Tap + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=573122728,3978468247#notes:Eyes Unveiled - Triple Tap (Enhanced) + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=573122728,906981559#notes:Eyes Unveiled - Triple Tap (Enhanced) + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=3400784728,1427256713#notes:Eyes Unveiled - Triple Tap + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=3400784728,254337357#notes:Eyes Unveiled - Triple Tap + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=573122728,1427256713#notes:Eyes Unveiled - Triple Tap (Enhanced) + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=727781522&perks=573122728,254337357#notes:Eyes Unveiled - Triple Tap (Enhanced) + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=1820235745,3978468247#notes:Eyes Unveiled (Adept) - Subsistence + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=1820235745,906981559#notes:Eyes Unveiled (Adept) - Subsistence + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=4245865861,3978468247#notes:Eyes Unveiled (Adept) - Subsistence (Enhanced) + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=4245865861,906981559#notes:Eyes Unveiled (Adept) - Subsistence (Enhanced) + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=1820235745,1427256713#notes:Eyes Unveiled (Adept) - Subsistence + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=1820235745,254337357#notes:Eyes Unveiled (Adept) - Subsistence + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=4245865861,1427256713#notes:Eyes Unveiled (Adept) - Subsistence (Enhanced) + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=4245865861,254337357#notes:Eyes Unveiled (Adept) - Subsistence (Enhanced) + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=3400784728,3978468247#notes:Eyes Unveiled (Adept) - Triple Tap + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=3400784728,906981559#notes:Eyes Unveiled (Adept) - Triple Tap + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=573122728,3978468247#notes:Eyes Unveiled (Adept) - Triple Tap (Enhanced) + Discord -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=573122728,906981559#notes:Eyes Unveiled (Adept) - Triple Tap (Enhanced) + Discord (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=3400784728,1427256713#notes:Eyes Unveiled (Adept) - Triple Tap + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=3400784728,254337357#notes:Eyes Unveiled (Adept) - Triple Tap + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=573122728,1427256713#notes:Eyes Unveiled (Adept) - Triple Tap (Enhanced) + Reservoir Burst -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=4173311704&perks=573122728,254337357#notes:Eyes Unveiled (Adept) - Triple Tap (Enhanced) + Reservoir Burst (Enhanced) -- Rank 9, Tier C by TheAegisRelic
-dimwishlist:item=1399243961&perks=3400784728,1771339417#notes:Reed's Regret - Triple Tap + Firing Line -- Rank 10, Tier C by TheAegisRelic
-dimwishlist:item=1399243961&perks=3400784728,395388285#notes:Reed's Regret - Triple Tap + Firing Line (Enhanced) -- Rank 10, Tier C by TheAegisRelic
-dimwishlist:item=1399243961&perks=573122728,1771339417#notes:Reed's Regret - Triple Tap (Enhanced) + Firing Line -- Rank 10, Tier C by TheAegisRelic
-dimwishlist:item=1399243961&perks=573122728,395388285#notes:Reed's Regret - Triple Tap (Enhanced) + Firing Line (Enhanced) -- Rank 10, Tier C by TheAegisRelic
-dimwishlist:item=2475355656&perks=3400784728,1771339417#notes:Reed's Regret (Adept) - Triple Tap + Firing Line -- Rank 10, Tier C by TheAegisRelic
-dimwishlist:item=2475355656&perks=3400784728,395388285#notes:Reed's Regret (Adept) - Triple Tap + Firing Line (Enhanced) -- Rank 10, Tier C by TheAegisRelic
-dimwishlist:item=2475355656&perks=573122728,1771339417#notes:Reed's Regret (Adept) - Triple Tap (Enhanced) + Firing Line -- Rank 10, Tier C by TheAegisRelic
-dimwishlist:item=2475355656&perks=573122728,395388285#notes:Reed's Regret (Adept) - Triple Tap (Enhanced) + Firing Line (Enhanced) -- Rank 10, Tier C by TheAegisRelic
-dimwishlist:item=1911060537&perks=3400784728,1771339417#notes:Taipan-4fr - Triple Tap + Firing Line -- Rank 11, Tier C by TheAegisRelic
-dimwishlist:item=1911060537&perks=3400784728,395388285#notes:Taipan-4fr - Triple Tap + Firing Line (Enhanced) -- Rank 11, Tier C by TheAegisRelic
-dimwishlist:item=1911060537&perks=573122728,1771339417#notes:Taipan-4fr - Triple Tap (Enhanced) + Firing Line -- Rank 11, Tier C by TheAegisRelic
-dimwishlist:item=1911060537&perks=573122728,395388285#notes:Taipan-4fr - Triple Tap (Enhanced) + Firing Line (Enhanced) -- Rank 11, Tier C by TheAegisRelic
-dimwishlist:item=2272041093&perks=777589559,4104185692#notes:Fire and Forget - Field Prep + Frenzy -- Rank 12, Tier C by TheAegisRelic
-dimwishlist:item=2272041093&perks=777589559,3007133316#notes:Fire and Forget - Field Prep + Frenzy (Enhanced) -- Rank 12, Tier C by TheAegisRelic
-dimwishlist:item=2272041093&perks=2308090567,4104185692#notes:Fire and Forget - Field Prep (Enhanced) + Frenzy -- Rank 12, Tier C by TheAegisRelic
-dimwishlist:item=2272041093&perks=2308090567,3007133316#notes:Fire and Forget - Field Prep (Enhanced) + Frenzy (Enhanced) -- Rank 12, Tier C by TheAegisRelic
-dimwishlist:item=1184309824&perks=2284787283,2896038713#notes:Sailspy Pitchglass - Clown Cartridge + Focused Fury -- Rank 13, Tier D by TheAegisRelic
-dimwishlist:item=1184309824&perks=2284787283,2402480669#notes:Sailspy Pitchglass - Clown Cartridge + Focused Fury (Enhanced) -- Rank 13, Tier D by TheAegisRelic
-dimwishlist:item=1184309824&perks=3563868667,2896038713#notes:Sailspy Pitchglass - Clown Cartridge (Enhanced) + Focused Fury -- Rank 13, Tier D by TheAegisRelic
-dimwishlist:item=1184309824&perks=3563868667,2402480669#notes:Sailspy Pitchglass - Clown Cartridge (Enhanced) + Focused Fury (Enhanced) -- Rank 13, Tier D by TheAegisRelic
-dimwishlist:item=1184309824&perks=2284787283,4104185692#notes:Sailspy Pitchglass - Clown Cartridge + Frenzy -- Rank 13, Tier D by TheAegisRelic
-dimwishlist:item=1184309824&perks=2284787283,3007133316#notes:Sailspy Pitchglass - Clown Cartridge + Frenzy (Enhanced) -- Rank 13, Tier D by TheAegisRelic
-dimwishlist:item=1184309824&perks=3563868667,4104185692#notes:Sailspy Pitchglass - Clown Cartridge (Enhanced) + Frenzy -- Rank 13, Tier D by TheAegisRelic
-dimwishlist:item=1184309824&perks=3563868667,3007133316#notes:Sailspy Pitchglass - Clown Cartridge (Enhanced) + Frenzy (Enhanced) -- Rank 13, Tier D by TheAegisRelic
-dimwishlist:item=3221722018&perks=2284787283,2896038713#notes:Laser Painter - Clown Cartridge + Focused Fury -- Rank 14, Tier D by TheAegisRelic
-dimwishlist:item=3221722018&perks=2284787283,2402480669#notes:Laser Painter - Clown Cartridge + Focused Fury (Enhanced) -- Rank 14, Tier D by TheAegisRelic
-dimwishlist:item=3221722018&perks=3563868667,2896038713#notes:Laser Painter - Clown Cartridge (Enhanced) + Focused Fury -- Rank 14, Tier D by TheAegisRelic
-dimwishlist:item=3221722018&perks=3563868667,2402480669#notes:Laser Painter - Clown Cartridge (Enhanced) + Focused Fury (Enhanced) -- Rank 14, Tier D by TheAegisRelic
-dimwishlist:item=3221722018&perks=3300816228,2896038713#notes:Laser Painter - Auto-Loading Holster + Focused Fury -- Rank 14, Tier D by TheAegisRelic
-dimwishlist:item=3221722018&perks=3300816228,2402480669#notes:Laser Painter - Auto-Loading Holster + Focused Fury (Enhanced) -- Rank 14, Tier D by TheAegisRelic
-dimwishlist:item=3221722018&perks=3528046508,2896038713#notes:Laser Painter - Auto-Loading Holster (Enhanced) + Focused Fury -- Rank 14, Tier D by TheAegisRelic
-dimwishlist:item=3221722018&perks=3528046508,2402480669#notes:Laser Painter - Auto-Loading Holster (Enhanced) + Focused Fury (Enhanced) -- Rank 14, Tier D by TheAegisRelic
-dimwishlist:item=3075224551&perks=2284787283,4104185692#notes:Threaded Needle - Clown Cartridge + Frenzy -- Rank 15, Tier D by TheAegisRelic
-dimwishlist:item=3075224551&perks=2284787283,3007133316#notes:Threaded Needle - Clown Cartridge + Frenzy (Enhanced) -- Rank 15, Tier D by TheAegisRelic
-dimwishlist:item=3075224551&perks=3563868667,4104185692#notes:Threaded Needle - Clown Cartridge (Enhanced) + Frenzy -- Rank 15, Tier D by TheAegisRelic
-dimwishlist:item=3075224551&perks=3563868667,3007133316#notes:Threaded Needle - Clown Cartridge (Enhanced) + Frenzy (Enhanced) -- Rank 15, Tier D by TheAegisRelic
-dimwishlist:item=2502422775&perks=777589559,2551157718#notes:Tarantula - Field Prep + Box Breathing -- Rank 16, Tier E by TheAegisRelic
-dimwishlist:item=2502422775&perks=777589559,23371658#notes:Tarantula - Field Prep + Box Breathing (Enhanced) -- Rank 16, Tier E by TheAegisRelic
-dimwishlist:item=2502422775&perks=2308090567,2551157718#notes:Tarantula - Field Prep (Enhanced) + Box Breathing -- Rank 16, Tier E by TheAegisRelic
-dimwishlist:item=2502422775&perks=2308090567,23371658#notes:Tarantula - Field Prep (Enhanced) + Box Breathing (Enhanced) -- Rank 16, Tier E by TheAegisRelic
-dimwishlist:item=3335343363&perks=777589559,2551157718#notes:Tarantula - Field Prep + Box Breathing -- Rank 16, Tier E by TheAegisRelic
-dimwishlist:item=3335343363&perks=777589559,23371658#notes:Tarantula - Field Prep + Box Breathing (Enhanced) -- Rank 16, Tier E by TheAegisRelic
-dimwishlist:item=3335343363&perks=2308090567,2551157718#notes:Tarantula - Field Prep (Enhanced) + Box Breathing -- Rank 16, Tier E by TheAegisRelic
-dimwishlist:item=3335343363&perks=2308090567,23371658#notes:Tarantula - Field Prep (Enhanced) + Box Breathing (Enhanced) -- Rank 16, Tier E by TheAegisRelic
-dimwishlist:item=2714022207&perks=588594999,2213355989#notes:Corsair's Wrath - Moving Target + High-Impact Reserves -- Rank 17, Tier E by TheAegisRelic
-dimwishlist:item=2714022207&perks=588594999,2002547233#notes:Corsair's Wrath - Moving Target + High-Impact Reserves (Enhanced) -- Rank 17, Tier E by TheAegisRelic
-dimwishlist:item=2714022207&perks=2717805783,2213355989#notes:Corsair's Wrath - Moving Target (Enhanced) + High-Impact Reserves -- Rank 17, Tier E by TheAegisRelic
-dimwishlist:item=2714022207&perks=2717805783,2002547233#notes:Corsair's Wrath - Moving Target (Enhanced) + High-Impact Reserves (Enhanced) -- Rank 17, Tier E by TheAegisRelic
+// LFRs - 2025-03-28T19:49:47.154Z
+//notes:Scintillation (Adept) - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds,Cornered\nColumn 2: Bait and Switch,Surrounded\nOrigin Trait: Veist Stinger
+dimwishlist:item=1492522228&perks=2578928832,3078487919,3988215619
+dimwishlist:item=1492522228&perks=2578928832,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1563455254,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1563455254,3744057135,3988215619
+//notes:Scintillation (Adept) - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds,Cornered\nColumn 2: Bait and Switch,Surrounded\nOrigin Trait: Veist Stinger
+dimwishlist:item=1492522228&perks=2578928832,3708227201,3988215619
+dimwishlist:item=1492522228&perks=2578928832,781192741,3988215619
+dimwishlist:item=1492522228&perks=1563455254,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1563455254,781192741,3988215619
+//notes:Scintillation (Adept) - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds,Cornered\nColumn 2: Bait and Switch,Surrounded\nOrigin Trait: Veist Stinger
+dimwishlist:item=1492522228&perks=1799762209,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1799762209,3744057135,3988215619
+dimwishlist:item=1492522228&perks=1008128453,3078487919,3988215619
+dimwishlist:item=1492522228&perks=1008128453,3744057135,3988215619
+//notes:Scintillation (Adept) - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds,Cornered\nColumn 2: Bait and Switch,Surrounded\nOrigin Trait: Veist Stinger
+dimwishlist:item=1492522228&perks=1799762209,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1799762209,781192741,3988215619
+dimwishlist:item=1492522228&perks=1008128453,3708227201,3988215619
+dimwishlist:item=1492522228&perks=1008128453,781192741,3988215619
+//notes:Scintillation - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds,Cornered\nColumn 2: Bait and Switch,Surrounded\nOrigin Trait: Veist Stinger
+dimwishlist:item=2591257541&perks=2578928832,3078487919,3988215619
+dimwishlist:item=2591257541&perks=2578928832,3744057135,3988215619
+dimwishlist:item=2591257541&perks=1563455254,3078487919,3988215619
+dimwishlist:item=2591257541&perks=1563455254,3744057135,3988215619
+//notes:Scintillation - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds,Cornered\nColumn 2: Bait and Switch,Surrounded\nOrigin Trait: Veist Stinger
+dimwishlist:item=2591257541&perks=2578928832,3708227201,3988215619
+dimwishlist:item=2591257541&perks=2578928832,781192741,3988215619
+dimwishlist:item=2591257541&perks=1563455254,3708227201,3988215619
+dimwishlist:item=2591257541&perks=1563455254,781192741,3988215619
+//notes:Scintillation - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds,Cornered\nColumn 2: Bait and Switch,Surrounded\nOrigin Trait: Veist Stinger
+dimwishlist:item=2591257541&perks=1799762209,3078487919,3988215619
+dimwishlist:item=2591257541&perks=1799762209,3744057135,3988215619
+dimwishlist:item=2591257541&perks=1008128453,3078487919,3988215619
+dimwishlist:item=2591257541&perks=1008128453,3744057135,3988215619
+//notes:Scintillation - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds,Cornered\nColumn 2: Bait and Switch,Surrounded\nOrigin Trait: Veist Stinger
+dimwishlist:item=2591257541&perks=1799762209,3708227201,3988215619
+dimwishlist:item=2591257541&perks=1799762209,781192741,3988215619
+dimwishlist:item=2591257541&perks=1008128453,3708227201,3988215619
+dimwishlist:item=2591257541&perks=1008128453,781192741,3988215619
+//notes:Mistral Lift - Rank 2, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal,Envious Assassin\nColumn 2: Bait and Switch\nOrigin Trait: Veist Stinger
+dimwishlist:item=3483485727&perks=3987942396,3078487919,3988215619
+dimwishlist:item=3483485727&perks=3987942396,3744057135,3988215619
+dimwishlist:item=3483485727&perks=2817499044,3078487919,3988215619
+dimwishlist:item=3483485727&perks=2817499044,3744057135,3988215619
+//notes:Mistral Lift - Rank 2, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal,Envious Assassin\nColumn 2: Bait and Switch\nOrigin Trait: Veist Stinger
+dimwishlist:item=3483485727&perks=968510818,3078487919,3988215619
+dimwishlist:item=3483485727&perks=968510818,3744057135,3988215619
+dimwishlist:item=3483485727&perks=424370782,3078487919,3988215619
+dimwishlist:item=3483485727&perks=424370782,3744057135,3988215619
+//notes:Doomed Petitioner - Rank 3, Tier A by TheAegisRelic\nColumn 1: Envious Assassin,Reconstruction\nColumn 2: Surrounded,Precision Instrument\nOrigin Trait: Dragon's Vengeance
+dimwishlist:item=1501688142&perks=968510818,3708227201,3978094547
+dimwishlist:item=1501688142&perks=968510818,781192741,3978094547
+dimwishlist:item=1501688142&perks=424370782,3708227201,3978094547
+dimwishlist:item=1501688142&perks=424370782,781192741,3978094547
+//notes:Doomed Petitioner - Rank 3, Tier A by TheAegisRelic\nColumn 1: Envious Assassin,Reconstruction\nColumn 2: Surrounded,Precision Instrument\nOrigin Trait: Dragon's Vengeance
+dimwishlist:item=1501688142&perks=968510818,555281244,3978094547
+dimwishlist:item=1501688142&perks=968510818,332733060,3978094547
+dimwishlist:item=1501688142&perks=424370782,555281244,3978094547
+dimwishlist:item=1501688142&perks=424370782,332733060,3978094547
+//notes:Doomed Petitioner - Rank 3, Tier A by TheAegisRelic\nColumn 1: Envious Assassin,Reconstruction\nColumn 2: Surrounded,Precision Instrument\nOrigin Trait: Dragon's Vengeance
+dimwishlist:item=1501688142&perks=1523832109,3708227201,3978094547
+dimwishlist:item=1501688142&perks=1523832109,781192741,3978094547
+dimwishlist:item=1501688142&perks=461595545,3708227201,3978094547
+dimwishlist:item=1501688142&perks=461595545,781192741,3978094547
+//notes:Doomed Petitioner - Rank 3, Tier A by TheAegisRelic\nColumn 1: Envious Assassin,Reconstruction\nColumn 2: Surrounded,Precision Instrument\nOrigin Trait: Dragon's Vengeance
+dimwishlist:item=1501688142&perks=1523832109,555281244,3978094547
+dimwishlist:item=1501688142&perks=1523832109,332733060,3978094547
+dimwishlist:item=1501688142&perks=461595545,555281244,3978094547
+dimwishlist:item=1501688142&perks=461595545,332733060,3978094547
+//notes:Cataclysmic - Rank 4, Tier A by TheAegisRelic\nColumn 1: Fourth Time's the Charm\nColumn 2: Bait and Switch\nOrigin Trait: Souldrinker
+dimwishlist:item=999767358&perks=1354429876,3078487919,3363267119
+dimwishlist:item=999767358&perks=1354429876,3744057135,3363267119
+dimwishlist:item=999767358&perks=848860060,3078487919,3363267119
+dimwishlist:item=999767358&perks=848860060,3744057135,3363267119
+//notes:Cataclysmic (Adept) - Rank 4, Tier A by TheAegisRelic\nColumn 1: Fourth Time's the Charm\nColumn 2: Bait and Switch\nOrigin Trait: Souldrinker
+dimwishlist:item=2886339027&perks=1354429876,3078487919,3363267119
+dimwishlist:item=2886339027&perks=1354429876,3744057135,3363267119
+dimwishlist:item=2886339027&perks=848860060,3078487919,3363267119
+dimwishlist:item=2886339027&perks=848860060,3744057135,3363267119
+//notes:Briar's Contempt - Rank 5, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Surrounded,Focused Fury\nOrigin Trait: Harmonic Resonance
+dimwishlist:item=1491665733&perks=2578928832,3708227201,3186078099
+dimwishlist:item=1491665733&perks=2578928832,781192741,3186078099
+dimwishlist:item=1491665733&perks=1563455254,3708227201,3186078099
+dimwishlist:item=1491665733&perks=1563455254,781192741,3186078099
+//notes:Briar's Contempt - Rank 5, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Surrounded,Focused Fury\nOrigin Trait: Harmonic Resonance
+dimwishlist:item=1491665733&perks=2578928832,2896038713,3186078099
+dimwishlist:item=1491665733&perks=2578928832,2402480669,3186078099
+dimwishlist:item=1491665733&perks=1563455254,2896038713,3186078099
+dimwishlist:item=1491665733&perks=1563455254,2402480669,3186078099
+//notes:Briar's Contempt (Adept) - Rank 5, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Surrounded,Focused Fury\nOrigin Trait: Harmonic Resonance
+dimwishlist:item=2890082420&perks=2578928832,3708227201,3186078099
+dimwishlist:item=2890082420&perks=2578928832,781192741,3186078099
+dimwishlist:item=2890082420&perks=1563455254,3708227201,3186078099
+dimwishlist:item=2890082420&perks=1563455254,781192741,3186078099
+//notes:Briar's Contempt (Adept) - Rank 5, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Surrounded,Focused Fury\nOrigin Trait: Harmonic Resonance
+dimwishlist:item=2890082420&perks=2578928832,2896038713,3186078099
+dimwishlist:item=2890082420&perks=2578928832,2402480669,3186078099
+dimwishlist:item=2890082420&perks=1563455254,2896038713,3186078099
+dimwishlist:item=2890082420&perks=1563455254,2402480669,3186078099
+//notes:Stormchaser - Rank 6, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge,Auto-Loading Holster\nColumn 2: Firing Line,Frenzy\nOrigin Trait: Bitterspite
+dimwishlist:item=3652506829&perks=2284787283,1771339417,4154828211
+dimwishlist:item=3652506829&perks=2284787283,395388285,4154828211
+dimwishlist:item=3652506829&perks=3563868667,1771339417,4154828211
+dimwishlist:item=3652506829&perks=3563868667,395388285,4154828211
+//notes:Stormchaser - Rank 6, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge,Auto-Loading Holster\nColumn 2: Firing Line,Frenzy\nOrigin Trait: Bitterspite
+dimwishlist:item=3652506829&perks=2284787283,4104185692,4154828211
+dimwishlist:item=3652506829&perks=2284787283,3007133316,4154828211
+dimwishlist:item=3652506829&perks=3563868667,4104185692,4154828211
+dimwishlist:item=3652506829&perks=3563868667,3007133316,4154828211
+//notes:Stormchaser - Rank 6, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge,Auto-Loading Holster\nColumn 2: Firing Line,Frenzy\nOrigin Trait: Bitterspite
+dimwishlist:item=3652506829&perks=3300816228,1771339417,4154828211
+dimwishlist:item=3652506829&perks=3300816228,395388285,4154828211
+dimwishlist:item=3652506829&perks=3528046508,1771339417,4154828211
+dimwishlist:item=3652506829&perks=3528046508,395388285,4154828211
+//notes:Stormchaser - Rank 6, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge,Auto-Loading Holster\nColumn 2: Firing Line,Frenzy\nOrigin Trait: Bitterspite
+dimwishlist:item=3652506829&perks=3300816228,4104185692,4154828211
+dimwishlist:item=3652506829&perks=3300816228,3007133316,4154828211
+dimwishlist:item=3652506829&perks=3528046508,4104185692,4154828211
+dimwishlist:item=3652506829&perks=3528046508,3007133316,4154828211
+//notes:Line in the Sand - Rank 7, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge,Deconstruct\nColumn 2: Bait and Switch\nOrigin Trait: Cast No Shadows
+dimwishlist:item=946443267&perks=2284787283,3078487919,2838996248
+dimwishlist:item=946443267&perks=2284787283,3744057135,2838996248
+dimwishlist:item=946443267&perks=3563868667,3078487919,2838996248
+dimwishlist:item=946443267&perks=3563868667,3744057135,2838996248
+//notes:Line in the Sand - Rank 7, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge,Deconstruct\nColumn 2: Bait and Switch\nOrigin Trait: Cast No Shadows
+dimwishlist:item=946443267&perks=1164602481,3078487919,2838996248
+dimwishlist:item=946443267&perks=1164602481,3744057135,2838996248
+//notes:Line in the Sand - Rank 7, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge,Deconstruct\nColumn 2: Bait and Switch\nOrigin Trait: Cast No Shadows
+dimwishlist:item=2450049485&perks=2284787283,3078487919,2838996248
+dimwishlist:item=2450049485&perks=2284787283,3744057135,2838996248
+dimwishlist:item=2450049485&perks=3563868667,3078487919,2838996248
+dimwishlist:item=2450049485&perks=3563868667,3744057135,2838996248
+//notes:Line in the Sand - Rank 7, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge,Deconstruct\nColumn 2: Bait and Switch\nOrigin Trait: Cast No Shadows
+dimwishlist:item=2450049485&perks=1164602481,3078487919,2838996248
+dimwishlist:item=2450049485&perks=1164602481,3744057135,2838996248
+//notes:Suspectum-4fr - Rank 8, Tier C by TheAegisRelic\nColumn 1: Envious Assassin\nColumn 2: Precision Instrument,Firing Line\nOrigin Trait: Veist Stinger
+dimwishlist:item=3615421669&perks=968510818,555281244,3988215619
+dimwishlist:item=3615421669&perks=968510818,332733060,3988215619
+dimwishlist:item=3615421669&perks=424370782,555281244,3988215619
+dimwishlist:item=3615421669&perks=424370782,332733060,3988215619
+//notes:Suspectum-4fr - Rank 8, Tier C by TheAegisRelic\nColumn 1: Envious Assassin\nColumn 2: Precision Instrument,Firing Line\nOrigin Trait: Veist Stinger
+dimwishlist:item=3615421669&perks=968510818,1771339417,3988215619
+dimwishlist:item=3615421669&perks=968510818,395388285,3988215619
+dimwishlist:item=3615421669&perks=424370782,1771339417,3988215619
+dimwishlist:item=3615421669&perks=424370782,395388285,3988215619
+//notes:Eyes Unveiled (Adept) - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=282549639&perks=1820235745,3978468247,878237828
+dimwishlist:item=282549639&perks=1820235745,906981559,878237828
+dimwishlist:item=282549639&perks=4245865861,3978468247,878237828
+dimwishlist:item=282549639&perks=4245865861,906981559,878237828
+//notes:Eyes Unveiled (Adept) - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=282549639&perks=1820235745,1427256713,878237828
+dimwishlist:item=282549639&perks=1820235745,254337357,878237828
+dimwishlist:item=282549639&perks=4245865861,1427256713,878237828
+dimwishlist:item=282549639&perks=4245865861,254337357,878237828
+//notes:Eyes Unveiled (Adept) - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=282549639&perks=3400784728,3978468247,878237828
+dimwishlist:item=282549639&perks=3400784728,906981559,878237828
+dimwishlist:item=282549639&perks=573122728,3978468247,878237828
+dimwishlist:item=282549639&perks=573122728,906981559,878237828
+//notes:Eyes Unveiled (Adept) - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=282549639&perks=3400784728,1427256713,878237828
+dimwishlist:item=282549639&perks=3400784728,254337357,878237828
+dimwishlist:item=282549639&perks=573122728,1427256713,878237828
+dimwishlist:item=282549639&perks=573122728,254337357,878237828
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=615373993&perks=1820235745,3978468247,878237828
+dimwishlist:item=615373993&perks=1820235745,906981559,878237828
+dimwishlist:item=615373993&perks=4245865861,3978468247,878237828
+dimwishlist:item=615373993&perks=4245865861,906981559,878237828
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=615373993&perks=1820235745,1427256713,878237828
+dimwishlist:item=615373993&perks=1820235745,254337357,878237828
+dimwishlist:item=615373993&perks=4245865861,1427256713,878237828
+dimwishlist:item=615373993&perks=4245865861,254337357,878237828
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=615373993&perks=3400784728,3978468247,878237828
+dimwishlist:item=615373993&perks=3400784728,906981559,878237828
+dimwishlist:item=615373993&perks=573122728,3978468247,878237828
+dimwishlist:item=615373993&perks=573122728,906981559,878237828
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=615373993&perks=3400784728,1427256713,878237828
+dimwishlist:item=615373993&perks=3400784728,254337357,878237828
+dimwishlist:item=615373993&perks=573122728,1427256713,878237828
+dimwishlist:item=615373993&perks=573122728,254337357,878237828
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=727781522&perks=1820235745,3978468247,878237828
+dimwishlist:item=727781522&perks=1820235745,906981559,878237828
+dimwishlist:item=727781522&perks=4245865861,3978468247,878237828
+dimwishlist:item=727781522&perks=4245865861,906981559,878237828
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=727781522&perks=1820235745,1427256713,878237828
+dimwishlist:item=727781522&perks=1820235745,254337357,878237828
+dimwishlist:item=727781522&perks=4245865861,1427256713,878237828
+dimwishlist:item=727781522&perks=4245865861,254337357,878237828
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=727781522&perks=3400784728,3978468247,878237828
+dimwishlist:item=727781522&perks=3400784728,906981559,878237828
+dimwishlist:item=727781522&perks=573122728,3978468247,878237828
+dimwishlist:item=727781522&perks=573122728,906981559,878237828
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=727781522&perks=3400784728,1427256713,878237828
+dimwishlist:item=727781522&perks=3400784728,254337357,878237828
+dimwishlist:item=727781522&perks=573122728,1427256713,878237828
+dimwishlist:item=727781522&perks=573122728,254337357,878237828
+//notes:Eyes Unveiled (Adept) - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=4173311704&perks=1820235745,3978468247,878237828
+dimwishlist:item=4173311704&perks=1820235745,906981559,878237828
+dimwishlist:item=4173311704&perks=4245865861,3978468247,878237828
+dimwishlist:item=4173311704&perks=4245865861,906981559,878237828
+//notes:Eyes Unveiled (Adept) - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=4173311704&perks=1820235745,1427256713,878237828
+dimwishlist:item=4173311704&perks=1820235745,254337357,878237828
+dimwishlist:item=4173311704&perks=4245865861,1427256713,878237828
+dimwishlist:item=4173311704&perks=4245865861,254337357,878237828
+//notes:Eyes Unveiled (Adept) - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=4173311704&perks=3400784728,3978468247,878237828
+dimwishlist:item=4173311704&perks=3400784728,906981559,878237828
+dimwishlist:item=4173311704&perks=573122728,3978468247,878237828
+dimwishlist:item=4173311704&perks=573122728,906981559,878237828
+//notes:Eyes Unveiled (Adept) - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence,Triple Tap\nColumn 2: Discord,Reservoir Burst\nOrigin Trait: Willing Vessel
+dimwishlist:item=4173311704&perks=3400784728,1427256713,878237828
+dimwishlist:item=4173311704&perks=3400784728,254337357,878237828
+dimwishlist:item=4173311704&perks=573122728,1427256713,878237828
+dimwishlist:item=4173311704&perks=573122728,254337357,878237828
+//notes:Reed's Regret - Rank 10, Tier C by TheAegisRelic\nColumn 1: Triple Tap\nColumn 2: Firing Line\nOrigin Trait: Veist Stinger
+dimwishlist:item=1399243961&perks=3400784728,1771339417,3988215619
+dimwishlist:item=1399243961&perks=3400784728,395388285,3988215619
+dimwishlist:item=1399243961&perks=573122728,1771339417,3988215619
+dimwishlist:item=1399243961&perks=573122728,395388285,3988215619
+//notes:Reed's Regret (Adept) - Rank 10, Tier C by TheAegisRelic\nColumn 1: Triple Tap\nColumn 2: Firing Line\nOrigin Trait: Veist Stinger
+dimwishlist:item=2475355656&perks=3400784728,1771339417,3988215619
+dimwishlist:item=2475355656&perks=3400784728,395388285,3988215619
+dimwishlist:item=2475355656&perks=573122728,1771339417,3988215619
+dimwishlist:item=2475355656&perks=573122728,395388285,3988215619
+//notes:Taipan-4fr - Rank 11, Tier C by TheAegisRelic\nColumn 1: Triple Tap\nColumn 2: Firing Line\nOrigin Trait: Veist Stinger
+dimwishlist:item=1911060537&perks=3400784728,1771339417,3988215619
+dimwishlist:item=1911060537&perks=3400784728,395388285,3988215619
+dimwishlist:item=1911060537&perks=573122728,1771339417,3988215619
+dimwishlist:item=1911060537&perks=573122728,395388285,3988215619
+//notes:Fire and Forget - Rank 12, Tier C by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Frenzy\nOrigin Trait: Veist Stinger
+dimwishlist:item=2272041093&perks=777589559,4104185692,3988215619
+dimwishlist:item=2272041093&perks=777589559,3007133316,3988215619
+dimwishlist:item=2272041093&perks=2308090567,4104185692,3988215619
+dimwishlist:item=2272041093&perks=2308090567,3007133316,3988215619
+//notes:Sailspy Pitchglass - Rank 13, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Focused Fury,Frenzy\nOrigin Trait: Right Hook
+dimwishlist:item=1184309824&perks=2284787283,2896038713,3907865655
+dimwishlist:item=1184309824&perks=2284787283,2402480669,3907865655
+dimwishlist:item=1184309824&perks=3563868667,2896038713,3907865655
+dimwishlist:item=1184309824&perks=3563868667,2402480669,3907865655
+//notes:Sailspy Pitchglass - Rank 13, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Focused Fury,Frenzy\nOrigin Trait: Right Hook
+dimwishlist:item=1184309824&perks=2284787283,4104185692,3907865655
+dimwishlist:item=1184309824&perks=2284787283,3007133316,3907865655
+dimwishlist:item=1184309824&perks=3563868667,4104185692,3907865655
+dimwishlist:item=1184309824&perks=3563868667,3007133316,3907865655
+//notes:Laser Painter - Rank 14, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge,Auto-Loading Holster\nColumn 2: Focused Fury\nOrigin Trait: Veist Stinger
+dimwishlist:item=3221722018&perks=2284787283,2896038713,3988215619
+dimwishlist:item=3221722018&perks=2284787283,2402480669,3988215619
+dimwishlist:item=3221722018&perks=3563868667,2896038713,3988215619
+dimwishlist:item=3221722018&perks=3563868667,2402480669,3988215619
+//notes:Laser Painter - Rank 14, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge,Auto-Loading Holster\nColumn 2: Focused Fury\nOrigin Trait: Veist Stinger
+dimwishlist:item=3221722018&perks=3300816228,2896038713,3988215619
+dimwishlist:item=3221722018&perks=3300816228,2402480669,3988215619
+dimwishlist:item=3221722018&perks=3528046508,2896038713,3988215619
+dimwishlist:item=3221722018&perks=3528046508,2402480669,3988215619
+//notes:Threaded Needle - Rank 15, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Frenzy
+dimwishlist:item=3075224551&perks=2284787283,4104185692
+dimwishlist:item=3075224551&perks=2284787283,3007133316
+dimwishlist:item=3075224551&perks=3563868667,4104185692
+dimwishlist:item=3075224551&perks=3563868667,3007133316
+//notes:Tarantula - Rank 16, Tier E by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Box Breathing
+dimwishlist:item=2502422775&perks=777589559,2551157718
+dimwishlist:item=2502422775&perks=777589559,23371658
+dimwishlist:item=2502422775&perks=2308090567,2551157718
+dimwishlist:item=2502422775&perks=2308090567,23371658
+//notes:Tarantula - Rank 16, Tier E by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Box Breathing
+dimwishlist:item=3335343363&perks=777589559,2551157718
+dimwishlist:item=3335343363&perks=777589559,23371658
+dimwishlist:item=3335343363&perks=2308090567,2551157718
+dimwishlist:item=3335343363&perks=2308090567,23371658
+//notes:Corsair's Wrath - Rank 17, Tier E by TheAegisRelic\nColumn 1: Moving Target\nColumn 2: High-Impact Reserves
+dimwishlist:item=2714022207&perks=588594999,2213355989
+dimwishlist:item=2714022207&perks=588594999,2002547233
+dimwishlist:item=2714022207&perks=2717805783,2213355989
+dimwishlist:item=2714022207&perks=2717805783,2002547233
