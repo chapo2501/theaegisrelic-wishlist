@@ -1,4 +1,4 @@
-// SMGs - 2025-03-28T21:32:57.369Z
+// SMGs - 2025-03-29T00:36:30.149Z
 //notes:The Recluse - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Enlightened Action __ Column 2: Destabilizing Rounds, Surrounded __ Origin Trait: Indomitability
 dimwishlist:item=1050806815&perks=776531651,2048641572,2489430594
 dimwishlist:item=1050806815&perks=776531651,1926441324,2489430594
