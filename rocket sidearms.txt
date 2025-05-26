@@ -1,4 +1,4 @@
-// Rocket Sidearms - 2025-05-07T20:43:51.224Z
+// Rocket Sidearms - 2025-05-26T19:53:56.240Z
 //notes:Aberrant Action - Rank 1, Tier S by TheAegisRelic __ Column 1: Heal Clip __ Column 2: Incandescent __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=2198166292&perks=3017780555,4293542123,253121539
 dimwishlist:item=2198166292&perks=3017780555,2675184851,253121539
