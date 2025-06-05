@@ -1,4 +1,4 @@
-// Swords - 2025-05-26T19:53:56.240Z
+// Swords - 2025-06-05T23:44:59.921Z
 //notes:Falling Guillotine - Rank 1, Tier S by TheAegisRelic __ Column 1: Chain Reaction, Frenzy __ Column 2: Eager Edge, Bait and Switch, Surrounded __ Origin Trait: Indomitability
 dimwishlist:item=243425374&perks=2396489472,2077819806,2489430594
 dimwishlist:item=243425374&perks=2396489472,1618208178,2489430594

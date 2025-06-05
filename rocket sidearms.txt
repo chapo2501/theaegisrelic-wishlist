@@ -1,4 +1,4 @@
-// Rocket Sidearms - 2025-05-26T19:53:56.240Z
+// Rocket Sidearms - 2025-06-05T23:44:59.921Z
 //notes:Aberrant Action - Rank 1, Tier S by TheAegisRelic __ Column 1: Heal Clip __ Column 2: Incandescent __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=2198166292&perks=3017780555,4293542123,253121539
 dimwishlist:item=2198166292&perks=3017780555,2675184851,253121539
@@ -83,7 +83,7 @@ dimwishlist:item=3922217119&perks=2840833776,859780267,1281216113
 
 
 
-//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic __ Column 1: Air Trigger, Impulse Amplifier, Deconstruct __ Column 2: Chill Clip, Surrounded, Desperate Measures __ Origin Trait: Skulking Wolf
+//notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic __ Column 1: Air Trigger, Impulse Amplifier, Loose Change __ Column 2: Chill Clip, Surrounded, Desperate Measures __ Origin Trait: Skulking Wolf
 dimwishlist:item=480368036&perks=1421772400,2978966579,3989629871
 dimwishlist:item=480368036&perks=1421772400,344235611,3989629871
 dimwishlist:item=480368036&perks=3291427296,2978966579,3989629871
@@ -108,12 +108,18 @@ dimwishlist:item=480368036&perks=951095735,2109543898,3989629871
 dimwishlist:item=480368036&perks=951095735,2799030358,3989629871
 dimwishlist:item=480368036&perks=3878366039,2109543898,3989629871
 dimwishlist:item=480368036&perks=3878366039,2799030358,3989629871
-dimwishlist:item=480368036&perks=1164602481,2978966579,3989629871
-dimwishlist:item=480368036&perks=1164602481,344235611,3989629871
-dimwishlist:item=480368036&perks=1164602481,3708227201,3989629871
-dimwishlist:item=480368036&perks=1164602481,781192741,3989629871
-dimwishlist:item=480368036&perks=1164602481,2109543898,3989629871
-dimwishlist:item=480368036&perks=1164602481,2799030358,3989629871
+dimwishlist:item=480368036&perks=1119449540,2978966579,3989629871
+dimwishlist:item=480368036&perks=1119449540,344235611,3989629871
+dimwishlist:item=480368036&perks=561986700,2978966579,3989629871
+dimwishlist:item=480368036&perks=561986700,344235611,3989629871
+dimwishlist:item=480368036&perks=1119449540,3708227201,3989629871
+dimwishlist:item=480368036&perks=1119449540,781192741,3989629871
+dimwishlist:item=480368036&perks=561986700,3708227201,3989629871
+dimwishlist:item=480368036&perks=561986700,781192741,3989629871
+dimwishlist:item=480368036&perks=1119449540,2109543898,3989629871
+dimwishlist:item=480368036&perks=1119449540,2799030358,3989629871
+dimwishlist:item=480368036&perks=561986700,2109543898,3989629871
+dimwishlist:item=480368036&perks=561986700,2799030358,3989629871
 
 
 
