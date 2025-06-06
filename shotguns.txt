@@ -1,4 +1,4 @@
-// Shotguns - 2025-06-05T23:44:59.921Z
+// Shotguns - 2025-06-06T00:09:10.025Z
 //notes:Perfect Paradox - Rank 1, Tier S by TheAegisRelic __ Column 1: Field Prep, Pugilist, Threat Detector __ Column 2: One-Two Punch, Trench Barrel, Vorpal Weapon __ Origin Trait: Cast No Shadows
 dimwishlist:item=1298672084&perks=777589559,2679249093,2838996248
 dimwishlist:item=1298672084&perks=777589559,788178929,2838996248
