@@ -1,4 +1,4 @@
-// Autos - 2025-06-06T00:09:10.025Z
+// Autos - 2025-07-03T18:36:31.126Z
 //notes:No Hesitation - Rank 1, Tier S by TheAegisRelic __ Column 1: Physic, Demolitionist __ Column 2: Incandescent, Attrition Orbs, Circle of Life __ Origin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,4293542123,1988485648
 dimwishlist:item=1801007332&perks=2980589453,2675184851,1988485648
@@ -755,7 +755,7 @@ dimwishlist:item=3685470415&perks=2840833776,2799030358,253121539
 
 
 
-//notes:Chroma Rush - Rank 16, Tier C by TheAegisRelic __ Column 1: Subsistence __ Column 2: Kinetic Tremors, Frenzy __ Origin Trait: Splicer Surge
+//notes:Chroma Rush - Rank 16, Tier B by TheAegisRelic __ Column 1: Subsistence __ Column 2: Kinetic Tremors, Frenzy __ Origin Trait: Splicer Surge
 dimwishlist:item=1119734784&perks=1820235745,3891536761,3404929162
 dimwishlist:item=1119734784&perks=1820235745,1549370717,3404929162
 dimwishlist:item=1119734784&perks=4245865861,3891536761,3404929162

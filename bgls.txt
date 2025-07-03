@@ -1,4 +1,4 @@
-// BGLs - 2025-06-06T00:09:10.025Z
+// BGLs - 2025-07-03T18:36:31.126Z
 //notes:VS Velocity Baton - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds, Attrition Orbs __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785663&perks=776531651,2048641572,4139916815
 dimwishlist:item=1762785663&perks=776531651,1926441324,4139916815
@@ -935,7 +935,7 @@ dimwishlist:item=4038592169&perks=855168139,2675361166,2489430594
 
 
 
-//notes:Wild Style - Rank 10, Tier B by TheAegisRelic __ Column 1: Reconstruction __ Column 2: Bait and Switch, Vorpal Weapon __ Origin Trait: Tex Balanced Stock
+//notes:Wild Style - Rank 11, Tier B by TheAegisRelic __ Column 1: Reconstruction __ Column 2: Bait and Switch, Vorpal Weapon __ Origin Trait: Tex Balanced Stock
 dimwishlist:item=959037361&perks=1523832109,3078487919,2437618208
 dimwishlist:item=959037361&perks=1523832109,3744057135,2437618208
 dimwishlist:item=959037361&perks=461595545,3078487919,2437618208
@@ -955,7 +955,7 @@ dimwishlist:item=1332123064&perks=461595545,3418165135,2437618208
 
 
 
-//notes:Tusk of the Boar - Rank 11, Tier B by TheAegisRelic __ Column 1: Slideways, Slice __ Column 2: Chain Reaction, Deconstruct __ Origin Trait: Field-Tested
+//notes:Tusk of the Boar - Rank 12, Tier B by TheAegisRelic __ Column 1: Slideways, Slice __ Column 2: Chain Reaction, Deconstruct __ Origin Trait: Field-Tested
 dimwishlist:item=1218113510&perks=2039302152,2396489472,43555494
 dimwishlist:item=1218113510&perks=2039302152,598607952,43555494
 dimwishlist:item=1218113510&perks=2396422520,2396489472,43555494
@@ -971,7 +971,7 @@ dimwishlist:item=1218113510&perks=3422796781,1164602481,43555494
 
 
 
-//notes:The Militia's Birthright - Rank 12, Tier B by TheAegisRelic __ Column 1: Lead from Gold, Slideways __ Column 2: Auto-Loading Holster, Frenzy __ Origin Trait: Stunning Recovery
+//notes:The Militia's Birthright - Rank 13, Tier B by TheAegisRelic __ Column 1: Lead from Gold, Slideways __ Column 2: Auto-Loading Holster, Frenzy __ Origin Trait: Stunning Recovery
 dimwishlist:item=40394833&perks=1556840489,3300816228,1281216113
 dimwishlist:item=40394833&perks=1556840489,3528046508,1281216113
 dimwishlist:item=40394833&perks=3442762221,3300816228,1281216113
@@ -1055,7 +1055,7 @@ dimwishlist:item=4162642204&perks=2396422520,3007133316,1281216113
 
 
 
-//notes:Explosive Personality - Rank 13, Tier B by TheAegisRelic __ Column 1: Auto-Loading Holster __ Column 2: Frenzy __ Origin Trait: Land Tank
+//notes:Explosive Personality - Rank 14, Tier B by TheAegisRelic __ Column 1: Auto-Loading Holster __ Column 2: Frenzy __ Origin Trait: Land Tank
 dimwishlist:item=4096943616&perks=3300816228,4104185692,1536798515
 dimwishlist:item=4096943616&perks=3300816228,3007133316,1536798515
 dimwishlist:item=4096943616&perks=3528046508,4104185692,1536798515

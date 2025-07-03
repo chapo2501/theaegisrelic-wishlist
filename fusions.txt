@@ -1,4 +1,4 @@
-// Fusions - 2025-06-06T00:09:10.025Z
+// Fusions - 2025-07-03T18:36:31.126Z
 //notes:Scatter Signal - Rank 1, Tier S by TheAegisRelic __ Column 1: Overflow __ Column 2: Controlled Burst __ Origin Trait: Dragon's Vengeance
 dimwishlist:item=2558925366&perks=3643424744,2594592626,3978094547
 dimwishlist:item=2558925366&perks=3643424744,2037312142,3978094547

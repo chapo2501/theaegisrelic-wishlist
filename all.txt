@@ -1,17 +1,5 @@
-// Shotguns - 2025-06-06T00:09:10.025Z
-//notes:Perfect Paradox - Rank 1, Tier S by TheAegisRelic __ Column 1: Field Prep, Pugilist, Threat Detector __ Column 2: One-Two Punch, Trench Barrel, Vorpal Weapon __ Origin Trait: Cast No Shadows
-dimwishlist:item=1298672084&perks=777589559,2679249093,2838996248
-dimwishlist:item=1298672084&perks=777589559,788178929,2838996248
-dimwishlist:item=1298672084&perks=2308090567,2679249093,2838996248
-dimwishlist:item=1298672084&perks=2308090567,788178929,2838996248
-dimwishlist:item=1298672084&perks=777589559,2360754333,2838996248
-dimwishlist:item=1298672084&perks=777589559,2459015849,2838996248
-dimwishlist:item=1298672084&perks=2308090567,2360754333,2838996248
-dimwishlist:item=1298672084&perks=2308090567,2459015849,2838996248
-dimwishlist:item=1298672084&perks=777589559,1546637391,2838996248
-dimwishlist:item=1298672084&perks=777589559,3418165135,2838996248
-dimwishlist:item=1298672084&perks=2308090567,1546637391,2838996248
-dimwishlist:item=1298672084&perks=2308090567,3418165135,2838996248
+// Shotguns - 2025-07-03T18:36:31.126Z
+//notes:Perfect Paradox - Rank 1, Tier S by TheAegisRelic __ Column 1: Pugilist, Field Prep, Threat Detector __ Column 2: One-Two Punch, Trench Barrel, Vorpal Weapon __ Origin Trait: Cast No Shadows
 dimwishlist:item=1298672084&perks=691659142,2679249093,2838996248
 dimwishlist:item=1298672084&perks=691659142,788178929,2838996248
 dimwishlist:item=1298672084&perks=536173722,2679249093,2838996248
@@ -24,6 +12,18 @@ dimwishlist:item=1298672084&perks=691659142,1546637391,2838996248
 dimwishlist:item=1298672084&perks=691659142,3418165135,2838996248
 dimwishlist:item=1298672084&perks=536173722,1546637391,2838996248
 dimwishlist:item=1298672084&perks=536173722,3418165135,2838996248
+dimwishlist:item=1298672084&perks=777589559,2679249093,2838996248
+dimwishlist:item=1298672084&perks=777589559,788178929,2838996248
+dimwishlist:item=1298672084&perks=2308090567,2679249093,2838996248
+dimwishlist:item=1298672084&perks=2308090567,788178929,2838996248
+dimwishlist:item=1298672084&perks=777589559,2360754333,2838996248
+dimwishlist:item=1298672084&perks=777589559,2459015849,2838996248
+dimwishlist:item=1298672084&perks=2308090567,2360754333,2838996248
+dimwishlist:item=1298672084&perks=2308090567,2459015849,2838996248
+dimwishlist:item=1298672084&perks=777589559,1546637391,2838996248
+dimwishlist:item=1298672084&perks=777589559,3418165135,2838996248
+dimwishlist:item=1298672084&perks=2308090567,1546637391,2838996248
+dimwishlist:item=1298672084&perks=2308090567,3418165135,2838996248
 dimwishlist:item=1298672084&perks=4071163871,2679249093,2838996248
 dimwishlist:item=1298672084&perks=4071163871,788178929,2838996248
 dimwishlist:item=1298672084&perks=494941759,2679249093,2838996248
@@ -36,18 +36,6 @@ dimwishlist:item=1298672084&perks=4071163871,1546637391,2838996248
 dimwishlist:item=1298672084&perks=4071163871,3418165135,2838996248
 dimwishlist:item=1298672084&perks=494941759,1546637391,2838996248
 dimwishlist:item=1298672084&perks=494941759,3418165135,2838996248
-dimwishlist:item=2248667690&perks=777589559,2679249093,2838996248
-dimwishlist:item=2248667690&perks=777589559,788178929,2838996248
-dimwishlist:item=2248667690&perks=2308090567,2679249093,2838996248
-dimwishlist:item=2248667690&perks=2308090567,788178929,2838996248
-dimwishlist:item=2248667690&perks=777589559,2360754333,2838996248
-dimwishlist:item=2248667690&perks=777589559,2459015849,2838996248
-dimwishlist:item=2248667690&perks=2308090567,2360754333,2838996248
-dimwishlist:item=2248667690&perks=2308090567,2459015849,2838996248
-dimwishlist:item=2248667690&perks=777589559,1546637391,2838996248
-dimwishlist:item=2248667690&perks=777589559,3418165135,2838996248
-dimwishlist:item=2248667690&perks=2308090567,1546637391,2838996248
-dimwishlist:item=2248667690&perks=2308090567,3418165135,2838996248
 dimwishlist:item=2248667690&perks=691659142,2679249093,2838996248
 dimwishlist:item=2248667690&perks=691659142,788178929,2838996248
 dimwishlist:item=2248667690&perks=536173722,2679249093,2838996248
@@ -60,6 +48,18 @@ dimwishlist:item=2248667690&perks=691659142,1546637391,2838996248
 dimwishlist:item=2248667690&perks=691659142,3418165135,2838996248
 dimwishlist:item=2248667690&perks=536173722,1546637391,2838996248
 dimwishlist:item=2248667690&perks=536173722,3418165135,2838996248
+dimwishlist:item=2248667690&perks=777589559,2679249093,2838996248
+dimwishlist:item=2248667690&perks=777589559,788178929,2838996248
+dimwishlist:item=2248667690&perks=2308090567,2679249093,2838996248
+dimwishlist:item=2248667690&perks=2308090567,788178929,2838996248
+dimwishlist:item=2248667690&perks=777589559,2360754333,2838996248
+dimwishlist:item=2248667690&perks=777589559,2459015849,2838996248
+dimwishlist:item=2248667690&perks=2308090567,2360754333,2838996248
+dimwishlist:item=2248667690&perks=2308090567,2459015849,2838996248
+dimwishlist:item=2248667690&perks=777589559,1546637391,2838996248
+dimwishlist:item=2248667690&perks=777589559,3418165135,2838996248
+dimwishlist:item=2248667690&perks=2308090567,1546637391,2838996248
+dimwishlist:item=2248667690&perks=2308090567,3418165135,2838996248
 dimwishlist:item=2248667690&perks=4071163871,2679249093,2838996248
 dimwishlist:item=2248667690&perks=4071163871,788178929,2838996248
 dimwishlist:item=2248667690&perks=494941759,2679249093,2838996248
@@ -72,18 +72,6 @@ dimwishlist:item=2248667690&perks=4071163871,1546637391,2838996248
 dimwishlist:item=2248667690&perks=4071163871,3418165135,2838996248
 dimwishlist:item=2248667690&perks=494941759,1546637391,2838996248
 dimwishlist:item=2248667690&perks=494941759,3418165135,2838996248
-dimwishlist:item=3393519051&perks=777589559,2679249093,2838996248
-dimwishlist:item=3393519051&perks=777589559,788178929,2838996248
-dimwishlist:item=3393519051&perks=2308090567,2679249093,2838996248
-dimwishlist:item=3393519051&perks=2308090567,788178929,2838996248
-dimwishlist:item=3393519051&perks=777589559,2360754333,2838996248
-dimwishlist:item=3393519051&perks=777589559,2459015849,2838996248
-dimwishlist:item=3393519051&perks=2308090567,2360754333,2838996248
-dimwishlist:item=3393519051&perks=2308090567,2459015849,2838996248
-dimwishlist:item=3393519051&perks=777589559,1546637391,2838996248
-dimwishlist:item=3393519051&perks=777589559,3418165135,2838996248
-dimwishlist:item=3393519051&perks=2308090567,1546637391,2838996248
-dimwishlist:item=3393519051&perks=2308090567,3418165135,2838996248
 dimwishlist:item=3393519051&perks=691659142,2679249093,2838996248
 dimwishlist:item=3393519051&perks=691659142,788178929,2838996248
 dimwishlist:item=3393519051&perks=536173722,2679249093,2838996248
@@ -96,6 +84,18 @@ dimwishlist:item=3393519051&perks=691659142,1546637391,2838996248
 dimwishlist:item=3393519051&perks=691659142,3418165135,2838996248
 dimwishlist:item=3393519051&perks=536173722,1546637391,2838996248
 dimwishlist:item=3393519051&perks=536173722,3418165135,2838996248
+dimwishlist:item=3393519051&perks=777589559,2679249093,2838996248
+dimwishlist:item=3393519051&perks=777589559,788178929,2838996248
+dimwishlist:item=3393519051&perks=2308090567,2679249093,2838996248
+dimwishlist:item=3393519051&perks=2308090567,788178929,2838996248
+dimwishlist:item=3393519051&perks=777589559,2360754333,2838996248
+dimwishlist:item=3393519051&perks=777589559,2459015849,2838996248
+dimwishlist:item=3393519051&perks=2308090567,2360754333,2838996248
+dimwishlist:item=3393519051&perks=2308090567,2459015849,2838996248
+dimwishlist:item=3393519051&perks=777589559,1546637391,2838996248
+dimwishlist:item=3393519051&perks=777589559,3418165135,2838996248
+dimwishlist:item=3393519051&perks=2308090567,1546637391,2838996248
+dimwishlist:item=3393519051&perks=2308090567,3418165135,2838996248
 dimwishlist:item=3393519051&perks=4071163871,2679249093,2838996248
 dimwishlist:item=3393519051&perks=4071163871,788178929,2838996248
 dimwishlist:item=3393519051&perks=494941759,2679249093,2838996248
@@ -111,7 +111,7 @@ dimwishlist:item=3393519051&perks=494941759,3418165135,2838996248
 
 
 
-//notes:Unvoiced - Rank 2, Tier S by TheAegisRelic __ Column 1: Redirection, Envious Arsenal __ Column 2: Elemental Honing, Bait and Switch, Vorpal Weapon __ Origin Trait: Subjugation
+//notes:Unvoiced - Rank 2, Tier S by TheAegisRelic __ Column 1: Redirection, Fourth Time's the Charm, Envious Arsenal __ Column 2: Elemental Honing, Bait and Switch, Vorpal Weapon __ Origin Trait: Subjugation
 dimwishlist:item=3360937899&perks=3201496230,1089671869,1298135794
 dimwishlist:item=3360937899&perks=3201496230,496047945,1298135794
 dimwishlist:item=3360937899&perks=1545231802,1089671869,1298135794
@@ -124,6 +124,18 @@ dimwishlist:item=3360937899&perks=3201496230,1546637391,1298135794
 dimwishlist:item=3360937899&perks=3201496230,3418165135,1298135794
 dimwishlist:item=3360937899&perks=1545231802,1546637391,1298135794
 dimwishlist:item=3360937899&perks=1545231802,3418165135,1298135794
+dimwishlist:item=3360937899&perks=1354429876,1089671869,1298135794
+dimwishlist:item=3360937899&perks=1354429876,496047945,1298135794
+dimwishlist:item=3360937899&perks=848860060,1089671869,1298135794
+dimwishlist:item=3360937899&perks=848860060,496047945,1298135794
+dimwishlist:item=3360937899&perks=1354429876,3078487919,1298135794
+dimwishlist:item=3360937899&perks=1354429876,3744057135,1298135794
+dimwishlist:item=3360937899&perks=848860060,3078487919,1298135794
+dimwishlist:item=3360937899&perks=848860060,3744057135,1298135794
+dimwishlist:item=3360937899&perks=1354429876,1546637391,1298135794
+dimwishlist:item=3360937899&perks=1354429876,3418165135,1298135794
+dimwishlist:item=3360937899&perks=848860060,1546637391,1298135794
+dimwishlist:item=3360937899&perks=848860060,3418165135,1298135794
 dimwishlist:item=3360937899&perks=3987942396,1089671869,1298135794
 dimwishlist:item=3360937899&perks=3987942396,496047945,1298135794
 dimwishlist:item=3360937899&perks=2817499044,1089671869,1298135794
@@ -1750,7 +1762,7 @@ dimwishlist:item=3216652511&perks=843318450,1161469972,4091460919
 
 
 
-// Snipers - 2025-06-06T00:09:10.025Z
+// Snipers - 2025-07-03T18:36:31.126Z
 //notes:Praedyth's Revenge - Rank 1, Tier S by TheAegisRelic __ Column 1: Fourth Time's the Charm, Kinetic Tremors, Discord __ Column 2: Bait and Switch, Elemental Honing, Firefly __ Origin Trait: Timelost Magazine
 dimwishlist:item=1987769101&perks=1354429876,3078487919,2589407652
 dimwishlist:item=1987769101&perks=1354429876,3744057135,2589407652
@@ -3348,7 +3360,7 @@ dimwishlist:item=2164448701&perks=3442762221,2675361166
 
 
 
-// Fusions - 2025-06-06T00:09:10.025Z
+// Fusions - 2025-07-03T18:36:31.126Z
 //notes:Scatter Signal - Rank 1, Tier S by TheAegisRelic __ Column 1: Overflow __ Column 2: Controlled Burst __ Origin Trait: Dragon's Vengeance
 dimwishlist:item=2558925366&perks=3643424744,2594592626,3978094547
 dimwishlist:item=2558925366&perks=3643424744,2037312142,3978094547
@@ -4306,7 +4318,7 @@ dimwishlist:item=3512349612&perks=3797647183,859780267
 
 
 
-// BGLs - 2025-06-06T00:09:10.025Z
+// BGLs - 2025-07-03T18:36:31.126Z
 //notes:VS Velocity Baton - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds, Attrition Orbs __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785663&perks=776531651,2048641572,4139916815
 dimwishlist:item=1762785663&perks=776531651,1926441324,4139916815
@@ -5243,7 +5255,7 @@ dimwishlist:item=4038592169&perks=855168139,2675361166,2489430594
 
 
 
-//notes:Wild Style - Rank 10, Tier B by TheAegisRelic __ Column 1: Reconstruction __ Column 2: Bait and Switch, Vorpal Weapon __ Origin Trait: Tex Balanced Stock
+//notes:Wild Style - Rank 11, Tier B by TheAegisRelic __ Column 1: Reconstruction __ Column 2: Bait and Switch, Vorpal Weapon __ Origin Trait: Tex Balanced Stock
 dimwishlist:item=959037361&perks=1523832109,3078487919,2437618208
 dimwishlist:item=959037361&perks=1523832109,3744057135,2437618208
 dimwishlist:item=959037361&perks=461595545,3078487919,2437618208
@@ -5263,7 +5275,7 @@ dimwishlist:item=1332123064&perks=461595545,3418165135,2437618208
 
 
 
-//notes:Tusk of the Boar - Rank 11, Tier B by TheAegisRelic __ Column 1: Slideways, Slice __ Column 2: Chain Reaction, Deconstruct __ Origin Trait: Field-Tested
+//notes:Tusk of the Boar - Rank 12, Tier B by TheAegisRelic __ Column 1: Slideways, Slice __ Column 2: Chain Reaction, Deconstruct __ Origin Trait: Field-Tested
 dimwishlist:item=1218113510&perks=2039302152,2396489472,43555494
 dimwishlist:item=1218113510&perks=2039302152,598607952,43555494
 dimwishlist:item=1218113510&perks=2396422520,2396489472,43555494
@@ -5279,7 +5291,7 @@ dimwishlist:item=1218113510&perks=3422796781,1164602481,43555494
 
 
 
-//notes:The Militia's Birthright - Rank 12, Tier B by TheAegisRelic __ Column 1: Lead from Gold, Slideways __ Column 2: Auto-Loading Holster, Frenzy __ Origin Trait: Stunning Recovery
+//notes:The Militia's Birthright - Rank 13, Tier B by TheAegisRelic __ Column 1: Lead from Gold, Slideways __ Column 2: Auto-Loading Holster, Frenzy __ Origin Trait: Stunning Recovery
 dimwishlist:item=40394833&perks=1556840489,3300816228,1281216113
 dimwishlist:item=40394833&perks=1556840489,3528046508,1281216113
 dimwishlist:item=40394833&perks=3442762221,3300816228,1281216113
@@ -5363,7 +5375,7 @@ dimwishlist:item=4162642204&perks=2396422520,3007133316,1281216113
 
 
 
-//notes:Explosive Personality - Rank 13, Tier B by TheAegisRelic __ Column 1: Auto-Loading Holster __ Column 2: Frenzy __ Origin Trait: Land Tank
+//notes:Explosive Personality - Rank 14, Tier B by TheAegisRelic __ Column 1: Auto-Loading Holster __ Column 2: Frenzy __ Origin Trait: Land Tank
 dimwishlist:item=4096943616&perks=3300816228,4104185692,1536798515
 dimwishlist:item=4096943616&perks=3300816228,3007133316,1536798515
 dimwishlist:item=4096943616&perks=3528046508,4104185692,1536798515
@@ -5672,7 +5684,7 @@ dimwishlist:item=3252697558&perks=402033656,2541826827,43555494
 
 
 
-// Glaives - 2025-06-06T00:09:10.025Z
+// Glaives - 2025-07-03T18:36:31.126Z
 //notes:Rake Angle - Rank 1, Tier S by TheAegisRelic __ Column 1: Overflow, Impulse Amplifier, Lead from Gold __ Column 2: Chill Clip, Close to Melee __ Origin Trait: Stunning Recovery
 dimwishlist:item=2298039571&perks=3643424744,2978966579,1281216113
 dimwishlist:item=2298039571&perks=3643424744,344235611,1281216113
@@ -6326,7 +6338,7 @@ dimwishlist:item=2534546147&perks=1172098417,3102670337,3363267119
 
 
 
-// Traces - 2025-06-06T00:09:10.025Z
+// Traces - 2025-07-03T18:36:31.126Z
 //notes:Chronophage - Rank 1, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Repulsor Brace __ Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=1886840007&perks=3700496672,2048641572,253121539
 dimwishlist:item=1886840007&perks=3700496672,1926441324,253121539
@@ -6592,7 +6604,7 @@ dimwishlist:item=4248997900&perks=3422796781,102912326,4091460919
 
 
 
-// Rocket Sidearms - 2025-06-06T00:09:10.025Z
+// Rocket Sidearms - 2025-07-03T18:36:31.126Z
 //notes:Aberrant Action - Rank 1, Tier S by TheAegisRelic __ Column 1: Heal Clip __ Column 2: Incandescent __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=2198166292&perks=3017780555,4293542123,253121539
 dimwishlist:item=2198166292&perks=3017780555,2675184851,253121539
@@ -6786,36 +6798,8 @@ dimwishlist:item=3947966653&perks=1906147653,859780267,1988485648
 
 
 
-// LMGs - 2025-06-06T00:09:10.025Z
-//notes:Commemoration - Rank 1, Tier S by TheAegisRelic __ Column 1: Reconstruction, Dragonfly, Subsistence __ Column 2: Killing Tally, Repulsor Brace __ Origin Trait: Bray Inheritance
-dimwishlist:item=4230965989&perks=1523832109,557221067,766321425
-dimwishlist:item=4230965989&perks=1523832109,2896748467,766321425
-dimwishlist:item=4230965989&perks=461595545,557221067,766321425
-dimwishlist:item=4230965989&perks=461595545,2896748467,766321425
-dimwishlist:item=4230965989&perks=1523832109,776531651,766321425
-dimwishlist:item=4230965989&perks=1523832109,2541826827,766321425
-dimwishlist:item=4230965989&perks=461595545,776531651,766321425
-dimwishlist:item=4230965989&perks=461595545,2541826827,766321425
-dimwishlist:item=4230965989&perks=2848615171,557221067,766321425
-dimwishlist:item=4230965989&perks=2848615171,2896748467,766321425
-dimwishlist:item=4230965989&perks=169755979,557221067,766321425
-dimwishlist:item=4230965989&perks=169755979,2896748467,766321425
-dimwishlist:item=4230965989&perks=2848615171,776531651,766321425
-dimwishlist:item=4230965989&perks=2848615171,2541826827,766321425
-dimwishlist:item=4230965989&perks=169755979,776531651,766321425
-dimwishlist:item=4230965989&perks=169755979,2541826827,766321425
-dimwishlist:item=4230965989&perks=1820235745,557221067,766321425
-dimwishlist:item=4230965989&perks=1820235745,2896748467,766321425
-dimwishlist:item=4230965989&perks=4245865861,557221067,766321425
-dimwishlist:item=4230965989&perks=4245865861,2896748467,766321425
-dimwishlist:item=4230965989&perks=1820235745,776531651,766321425
-dimwishlist:item=4230965989&perks=1820235745,2541826827,766321425
-dimwishlist:item=4230965989&perks=4245865861,776531651,766321425
-dimwishlist:item=4230965989&perks=4245865861,2541826827,766321425
-
-
-
-//notes:Song of Ir Yût - Rank 2, Tier S by TheAegisRelic __ Column 1: Demolitionist, Reconstruction __ Column 2: High Ground, Bait and Switch __ Origin Trait: Cursed Thrall
+// LMGs - 2025-07-03T18:36:31.126Z
+//notes:Song of Ir Yût - Rank 1, Tier S by TheAegisRelic __ Column 1: Demolitionist, Reconstruction __ Column 2: High Ground, Bait and Switch __ Origin Trait: Cursed Thrall
 dimwishlist:item=407511664&perks=3523296417,2319119708,1156201379
 dimwishlist:item=407511664&perks=3523296417,2140591236,1156201379
 dimwishlist:item=407511664&perks=1906147653,2319119708,1156201379
@@ -6848,6 +6832,34 @@ dimwishlist:item=2828278545&perks=1523832109,3078487919,1156201379
 dimwishlist:item=2828278545&perks=1523832109,3744057135,1156201379
 dimwishlist:item=2828278545&perks=461595545,3078487919,1156201379
 dimwishlist:item=2828278545&perks=461595545,3744057135,1156201379
+
+
+
+//notes:Commemoration - Rank 2, Tier S by TheAegisRelic __ Column 1: Reconstruction, Dragonfly, Subsistence __ Column 2: Killing Tally, Repulsor Brace __ Origin Trait: Bray Inheritance
+dimwishlist:item=4230965989&perks=1523832109,557221067,766321425
+dimwishlist:item=4230965989&perks=1523832109,2896748467,766321425
+dimwishlist:item=4230965989&perks=461595545,557221067,766321425
+dimwishlist:item=4230965989&perks=461595545,2896748467,766321425
+dimwishlist:item=4230965989&perks=1523832109,776531651,766321425
+dimwishlist:item=4230965989&perks=1523832109,2541826827,766321425
+dimwishlist:item=4230965989&perks=461595545,776531651,766321425
+dimwishlist:item=4230965989&perks=461595545,2541826827,766321425
+dimwishlist:item=4230965989&perks=2848615171,557221067,766321425
+dimwishlist:item=4230965989&perks=2848615171,2896748467,766321425
+dimwishlist:item=4230965989&perks=169755979,557221067,766321425
+dimwishlist:item=4230965989&perks=169755979,2896748467,766321425
+dimwishlist:item=4230965989&perks=2848615171,776531651,766321425
+dimwishlist:item=4230965989&perks=2848615171,2541826827,766321425
+dimwishlist:item=4230965989&perks=169755979,776531651,766321425
+dimwishlist:item=4230965989&perks=169755979,2541826827,766321425
+dimwishlist:item=4230965989&perks=1820235745,557221067,766321425
+dimwishlist:item=4230965989&perks=1820235745,2896748467,766321425
+dimwishlist:item=4230965989&perks=4245865861,557221067,766321425
+dimwishlist:item=4230965989&perks=4245865861,2896748467,766321425
+dimwishlist:item=4230965989&perks=1820235745,776531651,766321425
+dimwishlist:item=4230965989&perks=1820235745,2541826827,766321425
+dimwishlist:item=4230965989&perks=4245865861,776531651,766321425
+dimwishlist:item=4230965989&perks=4245865861,2541826827,766321425
 
 
 
@@ -8142,7 +8154,7 @@ dimwishlist:item=105306149&perks=2495011826,2939589096,2565067140
 
 
 
-// HGLs - 2025-06-06T00:09:10.025Z
+// HGLs - 2025-07-03T18:36:31.126Z
 //notes:VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cascade Point, Attrition Orbs __ Column 2: Bait and Switch, Explosive Light, Surrounded __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785662&perks=3987942396,3078487919,4139916815
 dimwishlist:item=1762785662&perks=3987942396,3744057135,4139916815
@@ -8818,7 +8830,7 @@ dimwishlist:item=1983332562&perks=2308090567,3528046508
 
 
 
-// Swords - 2025-06-06T00:09:10.025Z
+// Swords - 2025-07-03T18:36:31.126Z
 //notes:Falling Guillotine - Rank 1, Tier S by TheAegisRelic __ Column 1: Chain Reaction, Frenzy __ Column 2: Eager Edge, Bait and Switch, Surrounded __ Origin Trait: Indomitability
 dimwishlist:item=243425374&perks=2396489472,2077819806,2489430594
 dimwishlist:item=243425374&perks=2396489472,1618208178,2489430594
@@ -9632,7 +9644,7 @@ dimwishlist:item=4066778670&perks=4085959009,4290541820,2053642371
 
 
 
-// Rockets - 2025-06-06T00:09:10.025Z
+// Rockets - 2025-07-03T18:36:31.126Z
 //notes:Hezen Vengeance - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cluster Bomb, Overflow __ Column 2: Bait and Switch, Elemental Honing, Bipod __ Origin Trait: Timelost Magazine
 dimwishlist:item=1921159786&perks=3987942396,3078487919,2589407652
 dimwishlist:item=1921159786&perks=3987942396,3744057135,2589407652
@@ -10746,7 +10758,7 @@ dimwishlist:item=42351395&perks=3797647183,1906147653
 
 
 
-// LFRs - 2025-06-06T00:09:10.025Z
+// LFRs - 2025-07-03T18:36:31.126Z
 //notes:Scintillation - Rank 1, Tier S by TheAegisRelic __ Column 1: Rewind Rounds, Cornered __ Column 2: Bait and Switch, Surrounded __ Origin Trait: Veist Stinger
 dimwishlist:item=1492522228&perks=2578928832,3078487919,3988215619
 dimwishlist:item=1492522228&perks=2578928832,3744057135,3988215619
@@ -11044,7 +11056,7 @@ dimwishlist:item=2714022207&perks=2717805783,2002547233
 
 
 
-// Autos - 2025-06-06T00:09:10.025Z
+// Autos - 2025-07-03T18:36:31.126Z
 //notes:No Hesitation - Rank 1, Tier S by TheAegisRelic __ Column 1: Physic, Demolitionist __ Column 2: Incandescent, Attrition Orbs, Circle of Life __ Origin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,4293542123,1988485648
 dimwishlist:item=1801007332&perks=2980589453,2675184851,1988485648
@@ -11801,7 +11813,7 @@ dimwishlist:item=3685470415&perks=2840833776,2799030358,253121539
 
 
 
-//notes:Chroma Rush - Rank 16, Tier C by TheAegisRelic __ Column 1: Subsistence __ Column 2: Kinetic Tremors, Frenzy __ Origin Trait: Splicer Surge
+//notes:Chroma Rush - Rank 16, Tier B by TheAegisRelic __ Column 1: Subsistence __ Column 2: Kinetic Tremors, Frenzy __ Origin Trait: Splicer Surge
 dimwishlist:item=1119734784&perks=1820235745,3891536761,3404929162
 dimwishlist:item=1119734784&perks=1820235745,1549370717,3404929162
 dimwishlist:item=1119734784&perks=4245865861,3891536761,3404929162
@@ -12562,7 +12574,7 @@ dimwishlist:item=3762467078&perks=4245865861,2422968039
 
 
 
-// Bows - 2025-06-06T00:09:10.025Z
+// Bows - 2025-07-03T18:36:31.126Z
 //notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic __ Column 1: Dragonfly, Archer's Tempo, Shoot to Loot __ Column 2: Voltshot, Explosive Head, Chaos Reshaped __ Origin Trait: Collective Purpose
 dimwishlist:item=1039915310&perks=2848615171,2173046394,1878756191
 dimwishlist:item=1039915310&perks=2848615171,1720528630,1878756191
@@ -13340,7 +13352,7 @@ dimwishlist:item=2848549302&perks=536173722,3418165135,1050127423
 
 
 
-// HCs - 2025-06-06T00:09:10.025Z
+// HCs - 2025-07-03T18:36:31.126Z
 //notes:Word of Crota - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly __ Column 2: Destabilizing Rounds __ Origin Trait: Cursed Thrall
 dimwishlist:item=120706239&perks=776531651,2048641572,1156201379
 dimwishlist:item=120706239&perks=776531651,1926441324,1156201379
@@ -15054,7 +15066,7 @@ dimwishlist:item=1875512595&perks=561986700,2562668800,2565067140
 
 
 
-// Pulses - 2025-06-06T00:09:10.025Z
+// Pulses - 2025-07-03T18:36:31.126Z
 //notes:Gridskipper - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds __ Origin Trait: Splicer Surge
 dimwishlist:item=1621558458&perks=776531651,2048641572,3404929162
 dimwishlist:item=1621558458&perks=776531651,1926441324,3404929162
@@ -16296,7 +16308,7 @@ dimwishlist:item=2870169846&perks=1347741687,1906147653
 
 
 
-// Scouts - 2025-06-06T00:09:10.025Z
+// Scouts - 2025-07-03T18:36:31.126Z
 //notes:Unworthy - Rank 1, Tier S by TheAegisRelic __ Column 1: Firefly __ Column 2: Voltshot __ Origin Trait: Subjugation
 dimwishlist:item=2226158470&perks=1561789734,2173046394,1298135794
 dimwishlist:item=2226158470&perks=1561789734,1720528630,1298135794
@@ -17726,7 +17738,7 @@ dimwishlist:item=2478792241&perks=2396422520,3418165135
 
 
 
-// Sidearms - 2025-06-06T00:09:10.025Z
+// Sidearms - 2025-07-03T18:36:31.126Z
 //notes:Insurmountable - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Attrition Orbs, Demolitionist __ Column 2: Destabilizing Rounds, Surrounded __ Origin Trait: Dark Ether Reaper
 dimwishlist:item=414045521&perks=776531651,2048641572,2041432007
 dimwishlist:item=414045521&perks=776531651,1926441324,2041432007
@@ -18680,7 +18692,7 @@ dimwishlist:item=1197486957&perks=494941759,1906147653
 
 
 
-// SMGs - 2025-06-06T00:09:10.025Z
+// SMGs - 2025-07-03T18:36:31.126Z
 //notes:Multimach CCX - Rank 1, Tier S by TheAegisRelic __ Column 1: Attrition Orbs __ Column 2: Kinetic Tremors, Frenzy __ Origin Trait: Field-Tested
 dimwishlist:item=3211624072&perks=243981275,3891536761,43555494
 dimwishlist:item=3211624072&perks=243981275,1549370717,43555494
