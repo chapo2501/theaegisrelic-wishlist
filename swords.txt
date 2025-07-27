@@ -1,4 +1,4 @@
-// Swords - 2025-07-03T18:36:31.126Z
+// Swords - 2025-07-27T18:46:05.492Z
 //notes:Falling Guillotine - Rank 1, Tier S by TheAegisRelic __ Column 1: Chain Reaction, Frenzy __ Column 2: Eager Edge, Bait and Switch, Surrounded __ Origin Trait: Indomitability
 dimwishlist:item=243425374&perks=2396489472,2077819806,2489430594
 dimwishlist:item=243425374&perks=2396489472,1618208178,2489430594
@@ -199,7 +199,119 @@ dimwishlist:item=3366545721&perks=4085959009,3418165135,766321425
 
 
 
-//notes:Temptation's Hook - Rank 6, Tier A by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs __ Column 2: Whirlwind Blade __ Origin Trait: Paracausal Fluid
+//notes:Synanceia - Rank 6, Tier A by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs, Sharp Harvest __ Column 2: Elemental Honing, Surrounded, Eager Edge __ Origin Trait: Tenacity
+dimwishlist:item=1823308496&perks=1749209109,1089671869,3911709647
+dimwishlist:item=1823308496&perks=1749209109,496047945,3911709647
+dimwishlist:item=1823308496&perks=4085959009,1089671869,3911709647
+dimwishlist:item=1823308496&perks=4085959009,496047945,3911709647
+dimwishlist:item=1823308496&perks=1749209109,3708227201,3911709647
+dimwishlist:item=1823308496&perks=1749209109,781192741,3911709647
+dimwishlist:item=1823308496&perks=4085959009,3708227201,3911709647
+dimwishlist:item=1823308496&perks=4085959009,781192741,3911709647
+dimwishlist:item=1823308496&perks=1749209109,2077819806,3911709647
+dimwishlist:item=1823308496&perks=1749209109,1618208178,3911709647
+dimwishlist:item=1823308496&perks=4085959009,2077819806,3911709647
+dimwishlist:item=1823308496&perks=4085959009,1618208178,3911709647
+dimwishlist:item=1823308496&perks=243981275,1089671869,3911709647
+dimwishlist:item=1823308496&perks=243981275,496047945,3911709647
+dimwishlist:item=1823308496&perks=984655331,1089671869,3911709647
+dimwishlist:item=1823308496&perks=984655331,496047945,3911709647
+dimwishlist:item=1823308496&perks=243981275,3708227201,3911709647
+dimwishlist:item=1823308496&perks=243981275,781192741,3911709647
+dimwishlist:item=1823308496&perks=984655331,3708227201,3911709647
+dimwishlist:item=1823308496&perks=984655331,781192741,3911709647
+dimwishlist:item=1823308496&perks=243981275,2077819806,3911709647
+dimwishlist:item=1823308496&perks=243981275,1618208178,3911709647
+dimwishlist:item=1823308496&perks=984655331,2077819806,3911709647
+dimwishlist:item=1823308496&perks=984655331,1618208178,3911709647
+dimwishlist:item=1823308496&perks=4132187021,1089671869,3911709647
+dimwishlist:item=1823308496&perks=4132187021,496047945,3911709647
+dimwishlist:item=1823308496&perks=2581144697,1089671869,3911709647
+dimwishlist:item=1823308496&perks=2581144697,496047945,3911709647
+dimwishlist:item=1823308496&perks=4132187021,3708227201,3911709647
+dimwishlist:item=1823308496&perks=4132187021,781192741,3911709647
+dimwishlist:item=1823308496&perks=2581144697,3708227201,3911709647
+dimwishlist:item=1823308496&perks=2581144697,781192741,3911709647
+dimwishlist:item=1823308496&perks=4132187021,2077819806,3911709647
+dimwishlist:item=1823308496&perks=4132187021,1618208178,3911709647
+dimwishlist:item=1823308496&perks=2581144697,2077819806,3911709647
+dimwishlist:item=1823308496&perks=2581144697,1618208178,3911709647
+dimwishlist:item=2765451290&perks=1749209109,1089671869,3911709647
+dimwishlist:item=2765451290&perks=1749209109,496047945,3911709647
+dimwishlist:item=2765451290&perks=4085959009,1089671869,3911709647
+dimwishlist:item=2765451290&perks=4085959009,496047945,3911709647
+dimwishlist:item=2765451290&perks=1749209109,3708227201,3911709647
+dimwishlist:item=2765451290&perks=1749209109,781192741,3911709647
+dimwishlist:item=2765451290&perks=4085959009,3708227201,3911709647
+dimwishlist:item=2765451290&perks=4085959009,781192741,3911709647
+dimwishlist:item=2765451290&perks=1749209109,2077819806,3911709647
+dimwishlist:item=2765451290&perks=1749209109,1618208178,3911709647
+dimwishlist:item=2765451290&perks=4085959009,2077819806,3911709647
+dimwishlist:item=2765451290&perks=4085959009,1618208178,3911709647
+dimwishlist:item=2765451290&perks=243981275,1089671869,3911709647
+dimwishlist:item=2765451290&perks=243981275,496047945,3911709647
+dimwishlist:item=2765451290&perks=984655331,1089671869,3911709647
+dimwishlist:item=2765451290&perks=984655331,496047945,3911709647
+dimwishlist:item=2765451290&perks=243981275,3708227201,3911709647
+dimwishlist:item=2765451290&perks=243981275,781192741,3911709647
+dimwishlist:item=2765451290&perks=984655331,3708227201,3911709647
+dimwishlist:item=2765451290&perks=984655331,781192741,3911709647
+dimwishlist:item=2765451290&perks=243981275,2077819806,3911709647
+dimwishlist:item=2765451290&perks=243981275,1618208178,3911709647
+dimwishlist:item=2765451290&perks=984655331,2077819806,3911709647
+dimwishlist:item=2765451290&perks=984655331,1618208178,3911709647
+dimwishlist:item=2765451290&perks=4132187021,1089671869,3911709647
+dimwishlist:item=2765451290&perks=4132187021,496047945,3911709647
+dimwishlist:item=2765451290&perks=2581144697,1089671869,3911709647
+dimwishlist:item=2765451290&perks=2581144697,496047945,3911709647
+dimwishlist:item=2765451290&perks=4132187021,3708227201,3911709647
+dimwishlist:item=2765451290&perks=4132187021,781192741,3911709647
+dimwishlist:item=2765451290&perks=2581144697,3708227201,3911709647
+dimwishlist:item=2765451290&perks=2581144697,781192741,3911709647
+dimwishlist:item=2765451290&perks=4132187021,2077819806,3911709647
+dimwishlist:item=2765451290&perks=4132187021,1618208178,3911709647
+dimwishlist:item=2765451290&perks=2581144697,2077819806,3911709647
+dimwishlist:item=2765451290&perks=2581144697,1618208178,3911709647
+dimwishlist:item=2765451291&perks=1749209109,1089671869,3911709647
+dimwishlist:item=2765451291&perks=1749209109,496047945,3911709647
+dimwishlist:item=2765451291&perks=4085959009,1089671869,3911709647
+dimwishlist:item=2765451291&perks=4085959009,496047945,3911709647
+dimwishlist:item=2765451291&perks=1749209109,3708227201,3911709647
+dimwishlist:item=2765451291&perks=1749209109,781192741,3911709647
+dimwishlist:item=2765451291&perks=4085959009,3708227201,3911709647
+dimwishlist:item=2765451291&perks=4085959009,781192741,3911709647
+dimwishlist:item=2765451291&perks=1749209109,2077819806,3911709647
+dimwishlist:item=2765451291&perks=1749209109,1618208178,3911709647
+dimwishlist:item=2765451291&perks=4085959009,2077819806,3911709647
+dimwishlist:item=2765451291&perks=4085959009,1618208178,3911709647
+dimwishlist:item=2765451291&perks=243981275,1089671869,3911709647
+dimwishlist:item=2765451291&perks=243981275,496047945,3911709647
+dimwishlist:item=2765451291&perks=984655331,1089671869,3911709647
+dimwishlist:item=2765451291&perks=984655331,496047945,3911709647
+dimwishlist:item=2765451291&perks=243981275,3708227201,3911709647
+dimwishlist:item=2765451291&perks=243981275,781192741,3911709647
+dimwishlist:item=2765451291&perks=984655331,3708227201,3911709647
+dimwishlist:item=2765451291&perks=984655331,781192741,3911709647
+dimwishlist:item=2765451291&perks=243981275,2077819806,3911709647
+dimwishlist:item=2765451291&perks=243981275,1618208178,3911709647
+dimwishlist:item=2765451291&perks=984655331,2077819806,3911709647
+dimwishlist:item=2765451291&perks=984655331,1618208178,3911709647
+dimwishlist:item=2765451291&perks=4132187021,1089671869,3911709647
+dimwishlist:item=2765451291&perks=4132187021,496047945,3911709647
+dimwishlist:item=2765451291&perks=2581144697,1089671869,3911709647
+dimwishlist:item=2765451291&perks=2581144697,496047945,3911709647
+dimwishlist:item=2765451291&perks=4132187021,3708227201,3911709647
+dimwishlist:item=2765451291&perks=4132187021,781192741,3911709647
+dimwishlist:item=2765451291&perks=2581144697,3708227201,3911709647
+dimwishlist:item=2765451291&perks=2581144697,781192741,3911709647
+dimwishlist:item=2765451291&perks=4132187021,2077819806,3911709647
+dimwishlist:item=2765451291&perks=4132187021,1618208178,3911709647
+dimwishlist:item=2765451291&perks=2581144697,2077819806,3911709647
+dimwishlist:item=2765451291&perks=2581144697,1618208178,3911709647
+
+
+
+//notes:Temptation's Hook - Rank 7, Tier A by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs __ Column 2: Whirlwind Blade __ Origin Trait: Paracausal Fluid
 dimwishlist:item=35794111&perks=1749209109,3913600130,1600429811
 dimwishlist:item=35794111&perks=1749209109,147913470,1600429811
 dimwishlist:item=35794111&perks=4085959009,3913600130,1600429811
@@ -219,7 +331,7 @@ dimwishlist:item=1587953057&perks=984655331,147913470,1600429811
 
 
 
-//notes:Abyssal Edge - Rank 7, Tier A by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Elemental Honing, Surrounded, Redirection __ Origin Trait: Willing Vessel
+//notes:Abyssal Edge - Rank 8, Tier A by TheAegisRelic __ Column 1: Relentless Strikes, Flash Counter __ Column 2: Elemental Honing, Surrounded, Redirection __ Origin Trait: Willing Vessel
 dimwishlist:item=547165496&perks=1749209109,1089671869,878237828
 dimwishlist:item=547165496&perks=1749209109,496047945,878237828
 dimwishlist:item=547165496&perks=4085959009,1089671869,878237828
@@ -232,6 +344,18 @@ dimwishlist:item=547165496&perks=1749209109,3201496230,878237828
 dimwishlist:item=547165496&perks=1749209109,1545231802,878237828
 dimwishlist:item=547165496&perks=4085959009,3201496230,878237828
 dimwishlist:item=547165496&perks=4085959009,1545231802,878237828
+dimwishlist:item=547165496&perks=2244851822,1089671869,878237828
+dimwishlist:item=547165496&perks=2244851822,496047945,878237828
+dimwishlist:item=547165496&perks=2860991074,1089671869,878237828
+dimwishlist:item=547165496&perks=2860991074,496047945,878237828
+dimwishlist:item=547165496&perks=2244851822,3708227201,878237828
+dimwishlist:item=547165496&perks=2244851822,781192741,878237828
+dimwishlist:item=547165496&perks=2860991074,3708227201,878237828
+dimwishlist:item=547165496&perks=2860991074,781192741,878237828
+dimwishlist:item=547165496&perks=2244851822,3201496230,878237828
+dimwishlist:item=547165496&perks=2244851822,1545231802,878237828
+dimwishlist:item=547165496&perks=2860991074,3201496230,878237828
+dimwishlist:item=547165496&perks=2860991074,1545231802,878237828
 dimwishlist:item=2712683313&perks=1749209109,1089671869,878237828
 dimwishlist:item=2712683313&perks=1749209109,496047945,878237828
 dimwishlist:item=2712683313&perks=4085959009,1089671869,878237828
@@ -244,6 +368,18 @@ dimwishlist:item=2712683313&perks=1749209109,3201496230,878237828
 dimwishlist:item=2712683313&perks=1749209109,1545231802,878237828
 dimwishlist:item=2712683313&perks=4085959009,3201496230,878237828
 dimwishlist:item=2712683313&perks=4085959009,1545231802,878237828
+dimwishlist:item=2712683313&perks=2244851822,1089671869,878237828
+dimwishlist:item=2712683313&perks=2244851822,496047945,878237828
+dimwishlist:item=2712683313&perks=2860991074,1089671869,878237828
+dimwishlist:item=2712683313&perks=2860991074,496047945,878237828
+dimwishlist:item=2712683313&perks=2244851822,3708227201,878237828
+dimwishlist:item=2712683313&perks=2244851822,781192741,878237828
+dimwishlist:item=2712683313&perks=2860991074,3708227201,878237828
+dimwishlist:item=2712683313&perks=2860991074,781192741,878237828
+dimwishlist:item=2712683313&perks=2244851822,3201496230,878237828
+dimwishlist:item=2712683313&perks=2244851822,1545231802,878237828
+dimwishlist:item=2712683313&perks=2860991074,3201496230,878237828
+dimwishlist:item=2712683313&perks=2860991074,1545231802,878237828
 dimwishlist:item=3054597646&perks=1749209109,1089671869,878237828
 dimwishlist:item=3054597646&perks=1749209109,496047945,878237828
 dimwishlist:item=3054597646&perks=4085959009,1089671869,878237828
@@ -256,6 +392,18 @@ dimwishlist:item=3054597646&perks=1749209109,3201496230,878237828
 dimwishlist:item=3054597646&perks=1749209109,1545231802,878237828
 dimwishlist:item=3054597646&perks=4085959009,3201496230,878237828
 dimwishlist:item=3054597646&perks=4085959009,1545231802,878237828
+dimwishlist:item=3054597646&perks=2244851822,1089671869,878237828
+dimwishlist:item=3054597646&perks=2244851822,496047945,878237828
+dimwishlist:item=3054597646&perks=2860991074,1089671869,878237828
+dimwishlist:item=3054597646&perks=2860991074,496047945,878237828
+dimwishlist:item=3054597646&perks=2244851822,3708227201,878237828
+dimwishlist:item=3054597646&perks=2244851822,781192741,878237828
+dimwishlist:item=3054597646&perks=2860991074,3708227201,878237828
+dimwishlist:item=3054597646&perks=2860991074,781192741,878237828
+dimwishlist:item=3054597646&perks=2244851822,3201496230,878237828
+dimwishlist:item=3054597646&perks=2244851822,1545231802,878237828
+dimwishlist:item=3054597646&perks=2860991074,3201496230,878237828
+dimwishlist:item=3054597646&perks=2860991074,1545231802,878237828
 dimwishlist:item=4221591387&perks=1749209109,1089671869,878237828
 dimwishlist:item=4221591387&perks=1749209109,496047945,878237828
 dimwishlist:item=4221591387&perks=4085959009,1089671869,878237828
@@ -268,10 +416,22 @@ dimwishlist:item=4221591387&perks=1749209109,3201496230,878237828
 dimwishlist:item=4221591387&perks=1749209109,1545231802,878237828
 dimwishlist:item=4221591387&perks=4085959009,3201496230,878237828
 dimwishlist:item=4221591387&perks=4085959009,1545231802,878237828
+dimwishlist:item=4221591387&perks=2244851822,1089671869,878237828
+dimwishlist:item=4221591387&perks=2244851822,496047945,878237828
+dimwishlist:item=4221591387&perks=2860991074,1089671869,878237828
+dimwishlist:item=4221591387&perks=2860991074,496047945,878237828
+dimwishlist:item=4221591387&perks=2244851822,3708227201,878237828
+dimwishlist:item=4221591387&perks=2244851822,781192741,878237828
+dimwishlist:item=4221591387&perks=2860991074,3708227201,878237828
+dimwishlist:item=4221591387&perks=2860991074,781192741,878237828
+dimwishlist:item=4221591387&perks=2244851822,3201496230,878237828
+dimwishlist:item=4221591387&perks=2244851822,1545231802,878237828
+dimwishlist:item=4221591387&perks=2860991074,3201496230,878237828
+dimwishlist:item=4221591387&perks=2860991074,1545231802,878237828
 
 
 
-//notes:Ill Omen - Rank 8, Tier A by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs __ Column 2: Whirlwind Blade, Surrounded __ Origin Trait: Radiolaria Transposer
+//notes:Ill Omen - Rank 9, Tier A by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs __ Column 2: Whirlwind Blade, Surrounded __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=3794274730&perks=1749209109,3913600130,253121539
 dimwishlist:item=3794274730&perks=1749209109,147913470,253121539
 dimwishlist:item=3794274730&perks=4085959009,3913600130,253121539
@@ -291,7 +451,43 @@ dimwishlist:item=3794274730&perks=984655331,781192741,253121539
 
 
 
-//notes:Zephyr - Rank 9, Tier A by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs, Rimestealer __ Column 2: Surrounded, Whirlwind Blade, Cold Steel __ Origin Trait: Dawning Surprise
+//notes:Aurora Dawn - Rank 10, Tier A by TheAegisRelic __ Column 1: Rimestealer, Flash Counter, Sharp Harvest __ Column 2: Cold Steel, Elemental Honing __ Origin Trait: Vanguard Determination
+dimwishlist:item=2111625436&perks=1955165503,3650930298,3846229553
+dimwishlist:item=2111625436&perks=1955165503,405677814,3846229553
+dimwishlist:item=2111625436&perks=2617553311,3650930298,3846229553
+dimwishlist:item=2111625436&perks=2617553311,405677814,3846229553
+dimwishlist:item=2111625436&perks=1955165503,1089671869,3846229553
+dimwishlist:item=2111625436&perks=1955165503,496047945,3846229553
+dimwishlist:item=2111625436&perks=2617553311,1089671869,3846229553
+dimwishlist:item=2111625436&perks=2617553311,496047945,3846229553
+dimwishlist:item=2111625436&perks=2244851822,3650930298,3846229553
+dimwishlist:item=2111625436&perks=2244851822,405677814,3846229553
+dimwishlist:item=2111625436&perks=2860991074,3650930298,3846229553
+dimwishlist:item=2111625436&perks=2860991074,405677814,3846229553
+dimwishlist:item=2111625436&perks=2244851822,1089671869,3846229553
+dimwishlist:item=2111625436&perks=2244851822,496047945,3846229553
+dimwishlist:item=2111625436&perks=2860991074,1089671869,3846229553
+dimwishlist:item=2111625436&perks=2860991074,496047945,3846229553
+dimwishlist:item=2111625436&perks=4132187021,3650930298,3846229553
+dimwishlist:item=2111625436&perks=4132187021,405677814,3846229553
+dimwishlist:item=2111625436&perks=2581144697,3650930298,3846229553
+dimwishlist:item=2111625436&perks=2581144697,405677814,3846229553
+dimwishlist:item=2111625436&perks=4132187021,1089671869,3846229553
+dimwishlist:item=2111625436&perks=4132187021,496047945,3846229553
+dimwishlist:item=2111625436&perks=2581144697,1089671869,3846229553
+dimwishlist:item=2111625436&perks=2581144697,496047945,3846229553
+
+
+
+//notes:Geodetic HSm - Rank 11, Tier A by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Whirlwind Blade __ Origin Trait: Nadir Focus
+dimwishlist:item=3637669759&perks=1749209109,3913600130,2509860981
+dimwishlist:item=3637669759&perks=1749209109,147913470,2509860981
+dimwishlist:item=3637669759&perks=4085959009,3913600130,2509860981
+dimwishlist:item=3637669759&perks=4085959009,147913470,2509860981
+
+
+
+//notes:Zephyr - Rank 12, Tier A by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs, Rimestealer __ Column 2: Surrounded, Whirlwind Blade, Cold Steel __ Origin Trait: Dawning Surprise
 dimwishlist:item=396910433&perks=1749209109,3708227201,4264904777
 dimwishlist:item=396910433&perks=1749209109,781192741,4264904777
 dimwishlist:item=396910433&perks=4085959009,3708227201,4264904777
@@ -475,15 +671,7 @@ dimwishlist:item=4203034886&perks=2617553311,405677814,4264904777
 
 
 
-//notes:Geodetic HSm - Rank 10, Tier A by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Whirlwind Blade __ Origin Trait: Nadir Focus
-dimwishlist:item=3637669759&perks=1749209109,3913600130,2509860981
-dimwishlist:item=3637669759&perks=1749209109,147913470,2509860981
-dimwishlist:item=3637669759&perks=4085959009,3913600130,2509860981
-dimwishlist:item=3637669759&perks=4085959009,147913470,2509860981
-
-
-
-//notes:Double-Edged Answer - Rank 11, Tier B by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: Nadir Focus
+//notes:Double-Edged Answer - Rank 13, Tier B by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: Nadir Focus
 dimwishlist:item=105164264&perks=1749209109,3708227201,2509860981
 dimwishlist:item=105164264&perks=1749209109,781192741,2509860981
 dimwishlist:item=105164264&perks=4085959009,3708227201,2509860981
@@ -503,27 +691,27 @@ dimwishlist:item=3551104348&perks=4085959009,147913470,2509860981
 
 
 
-//notes:Nasreddin - Rank 12, Tier B by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: Field-Tested
-dimwishlist:item=1270948323&perks=1749209109,3708227201,43555494
-dimwishlist:item=1270948323&perks=1749209109,781192741,43555494
-dimwishlist:item=1270948323&perks=4085959009,3708227201,43555494
-dimwishlist:item=1270948323&perks=4085959009,781192741,43555494
-dimwishlist:item=1270948323&perks=1749209109,3913600130,43555494
-dimwishlist:item=1270948323&perks=1749209109,147913470,43555494
-dimwishlist:item=1270948323&perks=4085959009,3913600130,43555494
-dimwishlist:item=1270948323&perks=4085959009,147913470,43555494
-dimwishlist:item=1456017061&perks=1749209109,3708227201,43555494
-dimwishlist:item=1456017061&perks=1749209109,781192741,43555494
-dimwishlist:item=1456017061&perks=4085959009,3708227201,43555494
-dimwishlist:item=1456017061&perks=4085959009,781192741,43555494
-dimwishlist:item=1456017061&perks=1749209109,3913600130,43555494
-dimwishlist:item=1456017061&perks=1749209109,147913470,43555494
-dimwishlist:item=1456017061&perks=4085959009,3913600130,43555494
-dimwishlist:item=1456017061&perks=4085959009,147913470,43555494
+//notes:Nasreddin - Rank 14, Tier B by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: Field-Tested
+dimwishlist:item=1270948323&perks=1749209109,3708227201,2120661319
+dimwishlist:item=1270948323&perks=1749209109,781192741,2120661319
+dimwishlist:item=1270948323&perks=4085959009,3708227201,2120661319
+dimwishlist:item=1270948323&perks=4085959009,781192741,2120661319
+dimwishlist:item=1270948323&perks=1749209109,3913600130,2120661319
+dimwishlist:item=1270948323&perks=1749209109,147913470,2120661319
+dimwishlist:item=1270948323&perks=4085959009,3913600130,2120661319
+dimwishlist:item=1270948323&perks=4085959009,147913470,2120661319
+dimwishlist:item=1456017061&perks=1749209109,3708227201,2120661319
+dimwishlist:item=1456017061&perks=1749209109,781192741,2120661319
+dimwishlist:item=1456017061&perks=4085959009,3708227201,2120661319
+dimwishlist:item=1456017061&perks=4085959009,781192741,2120661319
+dimwishlist:item=1456017061&perks=1749209109,3913600130,2120661319
+dimwishlist:item=1456017061&perks=1749209109,147913470,2120661319
+dimwishlist:item=1456017061&perks=4085959009,3913600130,2120661319
+dimwishlist:item=1456017061&perks=4085959009,147913470,2120661319
 
 
 
-//notes:Negative Space - Rank 13, Tier B by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: None
+//notes:Negative Space - Rank 15, Tier B by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: None
 dimwishlist:item=287042892&perks=1749209109,3708227201
 dimwishlist:item=287042892&perks=1749209109,781192741
 dimwishlist:item=287042892&perks=4085959009,3708227201
@@ -543,7 +731,7 @@ dimwishlist:item=3629968765&perks=4085959009,147913470
 
 
 
-//notes:Night Terror - Rank 14, Tier B by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: None
+//notes:Night Terror - Rank 16, Tier B by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: None
 dimwishlist:item=3870811754&perks=1749209109,3708227201
 dimwishlist:item=3870811754&perks=1749209109,781192741
 dimwishlist:item=3870811754&perks=4085959009,3708227201
@@ -555,7 +743,7 @@ dimwishlist:item=3870811754&perks=4085959009,147913470
 
 
 
-//notes:False Idols - Rank 15, Tier B by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs __ Column 2: Bait and Switch, Surrounded __ Origin Trait: Dealer's Choice
+//notes:False Idols - Rank 17, Tier B by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs __ Column 2: Bait and Switch, Surrounded __ Origin Trait: Dealer's Choice
 dimwishlist:item=4207120603&perks=1749209109,3078487919,1988485648
 dimwishlist:item=4207120603&perks=1749209109,3744057135,1988485648
 dimwishlist:item=4207120603&perks=4085959009,3078487919,1988485648
@@ -575,7 +763,7 @@ dimwishlist:item=4207120603&perks=984655331,781192741,1988485648
 
 
 
-//notes:Goldtusk - Rank 16, Tier B by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Whirlwind Blade __ Origin Trait: Veist Stinger
+//notes:Goldtusk - Rank 18, Tier B by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Whirlwind Blade __ Origin Trait: Veist Stinger
 dimwishlist:item=569799275&perks=1749209109,3913600130,3988215619
 dimwishlist:item=569799275&perks=1749209109,147913470,3988215619
 dimwishlist:item=569799275&perks=4085959009,3913600130,3988215619
@@ -587,7 +775,7 @@ dimwishlist:item=3371413057&perks=4085959009,147913470,3988215619
 
 
 
-//notes:Just In Case - Rank 17, Tier C by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Whirlwind Blade __ Origin Trait: Disaster Plan
+//notes:Just In Case - Rank 19, Tier C by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Whirlwind Blade __ Origin Trait: Disaster Plan
 dimwishlist:item=715338174&perks=1749209109,3913600130,1004814308
 dimwishlist:item=715338174&perks=1749209109,147913470,1004814308
 dimwishlist:item=715338174&perks=4085959009,3913600130,1004814308
@@ -599,7 +787,7 @@ dimwishlist:item=1139727256&perks=4085959009,147913470,1004814308
 
 
 
-//notes:Abide the Return - Rank 18, Tier C by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Whirlwind Blade __ Origin Trait: None
+//notes:Abide the Return - Rank 20, Tier C by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Whirlwind Blade __ Origin Trait: None
 dimwishlist:item=250721843&perks=1749209109,3913600130
 dimwishlist:item=250721843&perks=1749209109,147913470
 dimwishlist:item=250721843&perks=4085959009,3913600130
@@ -611,7 +799,7 @@ dimwishlist:item=1644160541&perks=4085959009,147913470
 
 
 
-//notes:Steel Sybil Z-14 - Rank 19, Tier C by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Whirlwind Blade __ Origin Trait: None
+//notes:Steel Sybil Z-14 - Rank 21, Tier C by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Whirlwind Blade __ Origin Trait: None
 dimwishlist:item=4174481098&perks=1749209109,3913600130
 dimwishlist:item=4174481098&perks=1749209109,147913470
 dimwishlist:item=4174481098&perks=4085959009,3913600130
@@ -623,7 +811,7 @@ dimwishlist:item=4230993599&perks=4085959009,147913470
 
 
 
-//notes:Death's Razor - Rank 20, Tier C by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: To Excess
+//notes:Death's Razor - Rank 22, Tier C by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: To Excess
 dimwishlist:item=569799274&perks=1749209109,3708227201,1905044254
 dimwishlist:item=569799274&perks=1749209109,781192741,1905044254
 dimwishlist:item=569799274&perks=4085959009,3708227201,1905044254
@@ -643,7 +831,7 @@ dimwishlist:item=3371413056&perks=4085959009,147913470,1905044254
 
 
 
-//notes:Falling Guillotine - Rank 21, Tier C by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: None
+//notes:Falling Guillotine - Rank 23, Tier C by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: None
 dimwishlist:item=243425374&perks=1749209109,3708227201
 dimwishlist:item=243425374&perks=1749209109,781192741
 dimwishlist:item=243425374&perks=4085959009,3708227201
@@ -671,7 +859,7 @@ dimwishlist:item=1815105249&perks=4085959009,147913470
 
 
 
-//notes:Half-Truths - Rank 22, Tier D by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Eager Edge __ Origin Trait: Hot Swap
+//notes:Half-Truths - Rank 24, Tier D by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Eager Edge __ Origin Trait: Hot Swap
 dimwishlist:item=3257091166&perks=1749209109,2077819806,1260401931
 dimwishlist:item=3257091166&perks=1749209109,1618208178,1260401931
 dimwishlist:item=3257091166&perks=4085959009,2077819806,1260401931
@@ -679,7 +867,7 @@ dimwishlist:item=3257091166&perks=4085959009,1618208178,1260401931
 
 
 
-//notes:Caretaker - Rank 23, Tier D by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded __ Origin Trait: Noble Deeds
+//notes:Caretaker - Rank 25, Tier D by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded __ Origin Trait: Noble Deeds
 dimwishlist:item=2508948099&perks=1749209109,3708227201,1823011807
 dimwishlist:item=2508948099&perks=1749209109,781192741,1823011807
 dimwishlist:item=2508948099&perks=4085959009,3708227201,1823011807
@@ -687,7 +875,7 @@ dimwishlist:item=2508948099&perks=4085959009,781192741,1823011807
 
 
 
-//notes:Honor's Edge - Rank 24, Tier D by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded __ Origin Trait: None
+//notes:Honor's Edge - Rank 26, Tier D by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded __ Origin Trait: None
 dimwishlist:item=2276266837&perks=1749209109,3708227201
 dimwishlist:item=2276266837&perks=1749209109,781192741
 dimwishlist:item=2276266837&perks=4085959009,3708227201
@@ -699,7 +887,7 @@ dimwishlist:item=2857348871&perks=4085959009,781192741
 
 
 
-//notes:Eternity's Edge - Rank 25, Tier D by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded __ Origin Trait: None
+//notes:Eternity's Edge - Rank 27, Tier D by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded __ Origin Trait: None
 dimwishlist:item=1180270693&perks=1749209109,3708227201
 dimwishlist:item=1180270693&perks=1749209109,781192741
 dimwishlist:item=1180270693&perks=4085959009,3708227201
@@ -711,7 +899,7 @@ dimwishlist:item=2782325301&perks=4085959009,781192741
 
 
 
-//notes:Crown-Splitter - Rank 26, Tier D by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: None
+//notes:Crown-Splitter - Rank 28, Tier D by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: None
 dimwishlist:item=1180270694&perks=1749209109,3708227201
 dimwishlist:item=1180270694&perks=1749209109,781192741
 dimwishlist:item=1180270694&perks=4085959009,3708227201
@@ -731,7 +919,7 @@ dimwishlist:item=2782325302&perks=4085959009,147913470
 
 
 
-//notes:Throne-Cleaver - Rank 27, Tier D by TheAegisRelic __ Column 1: Duelist's Trance __ Column 2: Surrounded __ Origin Trait: To Excess
+//notes:Throne-Cleaver - Rank 29, Tier D by TheAegisRelic __ Column 1: Duelist's Trance __ Column 2: Surrounded __ Origin Trait: To Excess
 dimwishlist:item=569799273&perks=3705817207,3708227201,1905044254
 dimwishlist:item=569799273&perks=3705817207,781192741,1905044254
 dimwishlist:item=569799273&perks=1646437399,3708227201,1905044254
@@ -743,7 +931,7 @@ dimwishlist:item=3371413059&perks=1646437399,781192741,1905044254
 
 
 
-//notes:Dragoncult Sickle - Rank 28, Tier E by TheAegisRelic __ Column 1: Duelist's Trance __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: Sundering
+//notes:Dragoncult Sickle - Rank 30, Tier E by TheAegisRelic __ Column 1: Duelist's Trance __ Column 2: Surrounded, Whirlwind Blade __ Origin Trait: Sundering
 dimwishlist:item=3668817296&perks=3705817207,3708227201,220689851
 dimwishlist:item=3668817296&perks=3705817207,781192741,220689851
 dimwishlist:item=3668817296&perks=1646437399,3708227201,220689851
@@ -755,7 +943,7 @@ dimwishlist:item=3668817296&perks=1646437399,147913470,220689851
 
 
 
-//notes:Sola's Scar - Rank 29, Tier E by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Frenzy __ Origin Trait: None
+//notes:Sola's Scar - Rank 31, Tier E by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Frenzy __ Origin Trait: None
 dimwishlist:item=1313528549&perks=1749209109,4104185692
 dimwishlist:item=1313528549&perks=1749209109,3007133316
 dimwishlist:item=1313528549&perks=4085959009,4104185692
@@ -767,7 +955,7 @@ dimwishlist:item=3847137620&perks=4085959009,3007133316
 
 
 
-//notes:Quickfang - Rank 30, Tier E by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: En Garde __ Origin Trait: None
+//notes:Quickfang - Rank 32, Tier E by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: En Garde __ Origin Trait: None
 dimwishlist:item=1180270692&perks=1749209109,1685431615
 dimwishlist:item=1180270692&perks=1749209109,3406782879
 dimwishlist:item=1180270692&perks=4085959009,1685431615
@@ -779,7 +967,7 @@ dimwishlist:item=2782325300&perks=4085959009,3406782879
 
 
 
-//notes:Razor's Edge - Rank 31, Tier E by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Frenzy __ Origin Trait: Skulking Wolf
+//notes:Razor's Edge - Rank 33, Tier E by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Frenzy __ Origin Trait: Skulking Wolf
 dimwishlist:item=1796949035&perks=1749209109,4104185692,3989629871
 dimwishlist:item=1796949035&perks=1749209109,3007133316,3989629871
 dimwishlist:item=1796949035&perks=4085959009,4104185692,3989629871
@@ -787,7 +975,7 @@ dimwishlist:item=1796949035&perks=4085959009,3007133316,3989629871
 
 
 
-//notes:Hero of Ages - Rank 32, Tier E by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: En Garde __ Origin Trait: None
+//notes:Hero of Ages - Rank 34, Tier E by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: En Garde __ Origin Trait: None
 dimwishlist:item=2139640995&perks=1749209109,1685431615
 dimwishlist:item=2139640995&perks=1749209109,3406782879
 dimwishlist:item=2139640995&perks=4085959009,1685431615
@@ -795,7 +983,7 @@ dimwishlist:item=2139640995&perks=4085959009,3406782879
 
 
 
-//notes:Chivalric Fire - Rank 33, Tier F by TheAegisRelic __ Column 1: Repulsor Brace __ Column 2: Destabilizing Rounds __ Origin Trait: One Quiet Moment
+//notes:Chivalric Fire - Rank 35, Tier F by TheAegisRelic __ Column 1: Repulsor Brace __ Column 2: Destabilizing Rounds __ Origin Trait: One Quiet Moment
 dimwishlist:item=3438139008&perks=776531651,2048641572,4091460919
 dimwishlist:item=3438139008&perks=776531651,1926441324,4091460919
 dimwishlist:item=3438139008&perks=2541826827,2048641572,4091460919
@@ -803,7 +991,7 @@ dimwishlist:item=3438139008&perks=2541826827,1926441324,4091460919
 
 
 
-//notes:Thin Precipice - Rank 34, Tier F by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Golden Tricorn __ Origin Trait: Unsated Hunger
+//notes:Thin Precipice - Rank 36, Tier F by TheAegisRelic __ Column 1: Relentless Strikes __ Column 2: Golden Tricorn __ Origin Trait: Unsated Hunger
 dimwishlist:item=4066778670&perks=1749209109,2610012052,2053642371
 dimwishlist:item=4066778670&perks=1749209109,4290541820,2053642371
 dimwishlist:item=4066778670&perks=4085959009,2610012052,2053642371
