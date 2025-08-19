@@ -1,4 +1,4 @@
-// LFRs - 2025-08-04T18:11:16.250Z
+// LFRs - 2025-08-19T06:52:20.850Z
 //notes:Scintillation - Rank 1, Tier S by TheAegisRelic __ Column 1: Rewind Rounds, Cornered __ Column 2: Bait and Switch, Surrounded __ Origin Trait: Veist Stinger
 dimwishlist:item=1492522228&perks=2578928832,3078487919,3988215619
 dimwishlist:item=1492522228&perks=2578928832,3744057135,3988215619
@@ -155,19 +155,7 @@ dimwishlist:item=2450049485&perks=1164602481,3744057135,2838996248
 
 
 
-//notes:Suspectum-4fr - Rank 9, Tier C by TheAegisRelic __ Column 1: Envious Assassin __ Column 2: Precision Instrument, Firing Line __ Origin Trait: Veist Stinger
-dimwishlist:item=3615421669&perks=968510818,555281244,3988215619
-dimwishlist:item=3615421669&perks=968510818,332733060,3988215619
-dimwishlist:item=3615421669&perks=424370782,555281244,3988215619
-dimwishlist:item=3615421669&perks=424370782,332733060,3988215619
-dimwishlist:item=3615421669&perks=968510818,1771339417,3988215619
-dimwishlist:item=3615421669&perks=968510818,395388285,3988215619
-dimwishlist:item=3615421669&perks=424370782,1771339417,3988215619
-dimwishlist:item=3615421669&perks=424370782,395388285,3988215619
-
-
-
-//notes:Eyes Unveiled - Rank 10, Tier C by TheAegisRelic __ Column 1: Subsistence, Triple Tap __ Column 2: Discord, Reservoir Burst __ Origin Trait: Willing Vessel
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic __ Column 1: Subsistence, Triple Tap __ Column 2: Discord, Reservoir Burst __ Origin Trait: Willing Vessel
 dimwishlist:item=282549639&perks=1820235745,3978468247,878237828
 dimwishlist:item=282549639&perks=1820235745,906981559,878237828
 dimwishlist:item=282549639&perks=4245865861,3978468247,878237828
@@ -235,6 +223,14 @@ dimwishlist:item=4173311704&perks=573122728,254337357,878237828
 
 
 
+//notes:Taipan-4fr - Rank 10, Tier C by TheAegisRelic __ Column 1: Triple Tap __ Column 2: Firing Line __ Origin Trait: Veist Stinger
+dimwishlist:item=1911060537&perks=3400784728,1771339417,3988215619
+dimwishlist:item=1911060537&perks=3400784728,395388285,3988215619
+dimwishlist:item=1911060537&perks=573122728,1771339417,3988215619
+dimwishlist:item=1911060537&perks=573122728,395388285,3988215619
+
+
+
 //notes:Reed's Regret - Rank 11, Tier C by TheAegisRelic __ Column 1: Triple Tap __ Column 2: Firing Line __ Origin Trait: Veist Stinger
 dimwishlist:item=1399243961&perks=3400784728,1771339417,3988215619
 dimwishlist:item=1399243961&perks=3400784728,395388285,3988215619
@@ -247,19 +243,23 @@ dimwishlist:item=2475355656&perks=573122728,395388285,3988215619
 
 
 
-//notes:Taipan-4fr - Rank 12, Tier C by TheAegisRelic __ Column 1: Triple Tap __ Column 2: Firing Line __ Origin Trait: Veist Stinger
-dimwishlist:item=1911060537&perks=3400784728,1771339417,3988215619
-dimwishlist:item=1911060537&perks=3400784728,395388285,3988215619
-dimwishlist:item=1911060537&perks=573122728,1771339417,3988215619
-dimwishlist:item=1911060537&perks=573122728,395388285,3988215619
-
-
-
-//notes:Fire and Forget - Rank 13, Tier C by TheAegisRelic __ Column 1: Field Prep __ Column 2: Frenzy __ Origin Trait: Veist Stinger
+//notes:Fire and Forget - Rank 12, Tier C by TheAegisRelic __ Column 1: Field Prep __ Column 2: Frenzy __ Origin Trait: Veist Stinger
 dimwishlist:item=2272041093&perks=777589559,4104185692,3988215619
 dimwishlist:item=2272041093&perks=777589559,3007133316,3988215619
 dimwishlist:item=2272041093&perks=2308090567,4104185692,3988215619
 dimwishlist:item=2272041093&perks=2308090567,3007133316,3988215619
+
+
+
+//notes:Suspectum-4fr - Rank 13, Tier C by TheAegisRelic __ Column 1: Envious Assassin __ Column 2: Precision Instrument, Firing Line __ Origin Trait: Veist Stinger
+dimwishlist:item=3615421669&perks=968510818,555281244,3988215619
+dimwishlist:item=3615421669&perks=968510818,332733060,3988215619
+dimwishlist:item=3615421669&perks=424370782,555281244,3988215619
+dimwishlist:item=3615421669&perks=424370782,332733060,3988215619
+dimwishlist:item=3615421669&perks=968510818,1771339417,3988215619
+dimwishlist:item=3615421669&perks=968510818,395388285,3988215619
+dimwishlist:item=3615421669&perks=424370782,1771339417,3988215619
+dimwishlist:item=3615421669&perks=424370782,395388285,3988215619
 
 
 
