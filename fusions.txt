@@ -1,4 +1,4 @@
-// Fusions - 2025-08-19T06:52:20.850Z
+// Fusions - 2025-09-05T20:16:52.829Z
 //notes:Lionfish-4fr - Rank 1, Tier S by TheAegisRelic __ Column 1: Reconstruction, Lead from Gold __ Column 2: Chill Clip, Controlled Burst, Elemental Honing __ Origin Trait: Problem Solver
 dimwishlist:item=2423071981&perks=1523832109,2978966579,3454102905
 dimwishlist:item=2423071981&perks=1523832109,344235611,3454102905
@@ -39,7 +39,7 @@ dimwishlist:item=2558925366&perks=3422796781,2037312142,3978094547
 
 
 
-//notes:Finite Maybe - Rank 3, Tier S by TheAegisRelic __ Column 1: Reconstruction, Incandescent __ Column 2: Bait and Switch, Controlled Burst, Discord __ Origin Trait: Frame of Reference
+//notes:Finite Maybe - Rank 3, Tier S by TheAegisRelic __ Column 1: Reconstruction, Incandescent, Demolitionist __ Column 2: Bait and Switch, Controlled Burst, Discord __ Origin Trait: Frame of Reference
 dimwishlist:item=3241217409&perks=1523832109,3078487919,2597494435
 dimwishlist:item=3241217409&perks=1523832109,3744057135,2597494435
 dimwishlist:item=3241217409&perks=461595545,3078487919,2597494435
@@ -64,6 +64,18 @@ dimwishlist:item=3241217409&perks=4293542123,3978468247,2597494435
 dimwishlist:item=3241217409&perks=4293542123,906981559,2597494435
 dimwishlist:item=3241217409&perks=2675184851,3978468247,2597494435
 dimwishlist:item=3241217409&perks=2675184851,906981559,2597494435
+dimwishlist:item=3241217409&perks=3523296417,3078487919,2597494435
+dimwishlist:item=3241217409&perks=3523296417,3744057135,2597494435
+dimwishlist:item=3241217409&perks=1906147653,3078487919,2597494435
+dimwishlist:item=3241217409&perks=1906147653,3744057135,2597494435
+dimwishlist:item=3241217409&perks=3523296417,2594592626,2597494435
+dimwishlist:item=3241217409&perks=3523296417,2037312142,2597494435
+dimwishlist:item=3241217409&perks=1906147653,2594592626,2597494435
+dimwishlist:item=3241217409&perks=1906147653,2037312142,2597494435
+dimwishlist:item=3241217409&perks=3523296417,3978468247,2597494435
+dimwishlist:item=3241217409&perks=3523296417,906981559,2597494435
+dimwishlist:item=3241217409&perks=1906147653,3978468247,2597494435
+dimwishlist:item=3241217409&perks=1906147653,906981559,2597494435
 
 
 

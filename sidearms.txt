@@ -1,4 +1,4 @@
-// Sidearms - 2025-08-19T06:52:20.850Z
+// Sidearms - 2025-09-05T20:16:52.829Z
 //notes:Insurmountable - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Attrition Orbs, Demolitionist __ Column 2: Destabilizing Rounds, Surrounded __ Origin Trait: Dark Ether Reaper
 dimwishlist:item=414045521&perks=776531651,2048641572,2041432007
 dimwishlist:item=414045521&perks=776531651,1926441324,2041432007
@@ -195,11 +195,15 @@ dimwishlist:item=3734001727&perks=402033656,781192741,120721526
 
 
 
-//notes:Anonymous Autumn - Rank 5, Tier A by TheAegisRelic __ Column 1: Eddy Current, Demolitionist __ Column 2: Voltshot __ Origin Trait: Field-Tested
+//notes:Anonymous Autumn - Rank 5, Tier A by TheAegisRelic __ Column 1: Eddy Current, Attrition Orbs, Demolitionist __ Column 2: Voltshot __ Origin Trait: Field-Tested
 dimwishlist:item=1051949956&perks=684456054,2173046394,2120661319
 dimwishlist:item=1051949956&perks=684456054,1720528630,2120661319
 dimwishlist:item=1051949956&perks=2785334058,2173046394,2120661319
 dimwishlist:item=1051949956&perks=2785334058,1720528630,2120661319
+dimwishlist:item=1051949956&perks=243981275,2173046394,2120661319
+dimwishlist:item=1051949956&perks=243981275,1720528630,2120661319
+dimwishlist:item=1051949956&perks=984655331,2173046394,2120661319
+dimwishlist:item=1051949956&perks=984655331,1720528630,2120661319
 dimwishlist:item=1051949956&perks=3523296417,2173046394,2120661319
 dimwishlist:item=1051949956&perks=3523296417,1720528630,2120661319
 dimwishlist:item=1051949956&perks=1906147653,2173046394,2120661319
@@ -208,6 +212,10 @@ dimwishlist:item=3222518097&perks=684456054,2173046394,2120661319
 dimwishlist:item=3222518097&perks=684456054,1720528630,2120661319
 dimwishlist:item=3222518097&perks=2785334058,2173046394,2120661319
 dimwishlist:item=3222518097&perks=2785334058,1720528630,2120661319
+dimwishlist:item=3222518097&perks=243981275,2173046394,2120661319
+dimwishlist:item=3222518097&perks=243981275,1720528630,2120661319
+dimwishlist:item=3222518097&perks=984655331,2173046394,2120661319
+dimwishlist:item=3222518097&perks=984655331,1720528630,2120661319
 dimwishlist:item=3222518097&perks=3523296417,2173046394,2120661319
 dimwishlist:item=3222518097&perks=3523296417,1720528630,2120661319
 dimwishlist:item=3222518097&perks=1906147653,2173046394,2120661319

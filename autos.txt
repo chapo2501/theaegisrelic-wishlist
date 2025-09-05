@@ -1,4 +1,4 @@
-// Autos - 2025-08-19T06:52:20.850Z
+// Autos - 2025-09-05T20:16:52.829Z
 //notes:No Hesitation - Rank 1, Tier S by TheAegisRelic __ Column 1: Physic, Demolitionist __ Column 2: Incandescent, Attrition Orbs, Circle of Life __ Origin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,4293542123,1988485648
 dimwishlist:item=1801007332&perks=2980589453,2675184851,1988485648
@@ -291,7 +291,7 @@ dimwishlist:item=4232480042&perks=2785334058,717070634,4139916815
 
 
 
-//notes:Age-Old Bond - Rank 8, Tier A by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly __ Column 2: Destabilizing Rounds __ Origin Trait: Explosive Pact
+//notes:Age-Old Bond - Rank 8, Tier B by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly __ Column 2: Destabilizing Rounds __ Origin Trait: Explosive Pact
 dimwishlist:item=424291879&perks=776531651,2048641572,1489048135
 dimwishlist:item=424291879&perks=776531651,1926441324,1489048135
 dimwishlist:item=424291879&perks=2541826827,2048641572,1489048135
@@ -807,7 +807,7 @@ dimwishlist:item=702001725&perks=3422796781,956288240,2839173408
 
 
 
-//notes:Ahab Char - Rank 22, Tier C by TheAegisRelic __ Column 1: Heal Clip, Recycled Energy __ Column 2: Burning Ambition, Binary Orbit, Kill Clip __ Origin Trait: Bray Legacy
+//notes:Ahab Char - Rank 22, Tier C by TheAegisRelic __ Column 1: Heal Clip, Proximity Power, Recycled Energy __ Column 2: Burning Ambition, Binary Orbit, Kill Clip __ Origin Trait: Bray Legacy
 dimwishlist:item=1411560894&perks=3017780555,2890807135,4139916815
 dimwishlist:item=1411560894&perks=3017780555,3581929919,4139916815
 dimwishlist:item=1411560894&perks=4223976499,2890807135,4139916815
@@ -820,6 +820,18 @@ dimwishlist:item=1411560894&perks=3017780555,1015611457,4139916815
 dimwishlist:item=1411560894&perks=3017780555,2923251173,4139916815
 dimwishlist:item=1411560894&perks=4223976499,1015611457,4139916815
 dimwishlist:item=1411560894&perks=4223976499,2923251173,4139916815
+dimwishlist:item=1411560894&perks=4190679284,2890807135,4139916815
+dimwishlist:item=1411560894&perks=4190679284,3581929919,4139916815
+dimwishlist:item=1411560894&perks=820036316,2890807135,4139916815
+dimwishlist:item=1411560894&perks=820036316,3581929919,4139916815
+dimwishlist:item=1411560894&perks=4190679284,1546142478,4139916815
+dimwishlist:item=1411560894&perks=4190679284,983853954,4139916815
+dimwishlist:item=1411560894&perks=820036316,1546142478,4139916815
+dimwishlist:item=1411560894&perks=820036316,983853954,4139916815
+dimwishlist:item=1411560894&perks=4190679284,1015611457,4139916815
+dimwishlist:item=1411560894&perks=4190679284,2923251173,4139916815
+dimwishlist:item=1411560894&perks=820036316,1015611457,4139916815
+dimwishlist:item=1411560894&perks=820036316,2923251173,4139916815
 dimwishlist:item=1411560894&perks=3713215006,2890807135,4139916815
 dimwishlist:item=1411560894&perks=3713215006,3581929919,4139916815
 dimwishlist:item=1411560894&perks=3555252274,2890807135,4139916815
