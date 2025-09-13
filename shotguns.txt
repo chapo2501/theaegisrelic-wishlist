@@ -1,4 +1,4 @@
-// Shotguns - 2025-09-13T18:00:17.853Z
+// Shotguns - 2025-09-13T18:16:27.959Z
 //notes:Perfect Paradox - Rank 1, Tier S by TheAegisRelic __ Column 1: Pugilist, Field Prep, Threat Detector __ Column 2: One-Two Punch, Trench Barrel, Vorpal Weapon __ Origin Trait: Cast No Shadows
 dimwishlist:item=1298672084&perks=691659142,2679249093,2838996248
 dimwishlist:item=1298672084&perks=691659142,788178929,2838996248
@@ -720,14 +720,14 @@ dimwishlist:item=3738678140&perks=3442762221,781192741,2120661319
 
 
 //notes:Basso Ostinato - Rank 15, Tier B by TheAegisRelic __ Column 1: Grave Robber, Lead from Gold __ Column 2: One-Two Punch __ Origin Trait: Nanotech Tracer Rockets
-dimwishlist:item=2573900604&perks=1631667848,2679249093
-dimwishlist:item=2573900604&perks=1631667848,788178929
-dimwishlist:item=2573900604&perks=402033656,2679249093
-dimwishlist:item=2573900604&perks=402033656,788178929
-dimwishlist:item=2573900604&perks=1556840489,2679249093
-dimwishlist:item=2573900604&perks=1556840489,788178929
-dimwishlist:item=2573900604&perks=3442762221,2679249093
-dimwishlist:item=2573900604&perks=3442762221,788178929
+dimwishlist:item=2573900604&perks=1631667848,2679249093,164468655
+dimwishlist:item=2573900604&perks=1631667848,788178929,164468655
+dimwishlist:item=2573900604&perks=402033656,2679249093,164468655
+dimwishlist:item=2573900604&perks=402033656,788178929,164468655
+dimwishlist:item=2573900604&perks=1556840489,2679249093,164468655
+dimwishlist:item=2573900604&perks=1556840489,788178929,164468655
+dimwishlist:item=2573900604&perks=3442762221,2679249093,164468655
+dimwishlist:item=2573900604&perks=3442762221,788178929,164468655
 
 
 
