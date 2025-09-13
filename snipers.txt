@@ -1,4 +1,4 @@
-// Snipers - 2025-09-05T20:39:10.043Z
+// Snipers - 2025-09-13T17:52:38.392Z
 //notes:Praedyth's Revenge - Rank 1, Tier S by TheAegisRelic __ Column 1: Fourth Time's the Charm, Kinetic Tremors, Discord __ Column 2: Bait and Switch, Elemental Honing, Firefly __ Origin Trait: Timelost Magazine
 dimwishlist:item=1987769101&perks=1354429876,3078487919,2589407652
 dimwishlist:item=1987769101&perks=1354429876,3744057135,2589407652
