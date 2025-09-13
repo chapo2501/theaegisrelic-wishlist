@@ -1,4 +1,4 @@
-// LMGs - 2025-09-13T18:16:27.959Z
+// LMGs - 2025-09-13T18:18:32.409Z
 //notes:Song of Ir Yût - Rank 1, Tier S by TheAegisRelic __ Column 1: Demolitionist, Reconstruction __ Column 2: High Ground, Bait and Switch __ Origin Trait: Cursed Thrall
 dimwishlist:item=407511664&perks=3523296417,2319119708,1156201379
 dimwishlist:item=407511664&perks=3523296417,2140591236,1156201379
@@ -1485,7 +1485,7 @@ dimwishlist:item=3248429089&perks=855168139,2896748467,120721526
 
 
 
-//notes:Circular Logic - Rank 25, Tier D by TheAegisRelic __ Column 1: Envious Assassin, Feeding Frenzy __ Column 2: Golden Tricorn, Demolitionist __ Origin Trait: Nanotech Tracer Rockets
+//notes:Circular Logic - Rank 25, Tier D by TheAegisRelic __ Column 1: Envious Assassin, Feeding Frenzy __ Column 2: Golden Tricorn, Demolitionist __ Origin Trait: Nanotech Tracer Missiles
 dimwishlist:item=2187717691&perks=968510818,2610012052,164468655
 dimwishlist:item=2187717691&perks=968510818,4290541820,164468655
 dimwishlist:item=2187717691&perks=424370782,2610012052,164468655

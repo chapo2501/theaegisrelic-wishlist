@@ -1,4 +1,4 @@
-// HGLs - 2025-09-13T18:16:27.959Z
+// HGLs - 2025-09-13T18:18:32.409Z
 //notes:VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cascade Point, Attrition Orbs __ Column 2: Bait and Switch, Explosive Light, Surrounded __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785662&perks=3987942396,3078487919,4139916815
 dimwishlist:item=1762785662&perks=3987942396,3744057135,4139916815
@@ -429,7 +429,7 @@ dimwishlist:item=268260372&perks=3528046508,2275087323,1823011807
 
 
 
-//notes:Dimensional Hypotrochoid - Rank 11, Tier B by TheAegisRelic __ Column 1: Field Prep, Envious Assassin __ Column 2: Chain Reaction, One for All, Vorpal Weapon __ Origin Trait: Nanotech Tracer Rockets
+//notes:Dimensional Hypotrochoid - Rank 11, Tier B by TheAegisRelic __ Column 1: Field Prep, Envious Assassin __ Column 2: Chain Reaction, One for All, Vorpal Weapon __ Origin Trait: Nanotech Tracer Missiles
 dimwishlist:item=1311684613&perks=777589559,2396489472,164468655
 dimwishlist:item=1311684613&perks=777589559,598607952,164468655
 dimwishlist:item=1311684613&perks=2308090567,2396489472,164468655

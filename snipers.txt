@@ -1,4 +1,4 @@
-// Snipers - 2025-09-13T18:16:27.959Z
+// Snipers - 2025-09-13T18:18:32.409Z
 //notes:Praedyth's Revenge - Rank 1, Tier S by TheAegisRelic __ Column 1: Fourth Time's the Charm, Kinetic Tremors, Discord __ Column 2: Bait and Switch, Elemental Honing, Firefly __ Origin Trait: Timelost Magazine
 dimwishlist:item=1987769101&perks=1354429876,3078487919,2589407652
 dimwishlist:item=1987769101&perks=1354429876,3744057135,2589407652
@@ -1131,7 +1131,7 @@ dimwishlist:item=4132072834&perks=906981559,2140591236,2565067140
 
 
 
-//notes:Volta Bracket - Rank 26, Tier D by TheAegisRelic __ Column 1: Envious Assassin, Shoot to Loot __ Column 2: Cascade Point, Firing Line, Explosive Payload __ Origin Trait: Nanotech Tracer Rockets
+//notes:Volta Bracket - Rank 26, Tier D by TheAegisRelic __ Column 1: Envious Assassin, Shoot to Loot __ Column 2: Cascade Point, Firing Line, Explosive Payload __ Origin Trait: Nanotech Tracer Missiles
 dimwishlist:item=3920310144&perks=968510818,3751912585,164468655
 dimwishlist:item=3920310144&perks=968510818,331667533,164468655
 dimwishlist:item=3920310144&perks=424370782,3751912585,164468655

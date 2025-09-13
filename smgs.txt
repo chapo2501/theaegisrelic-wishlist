@@ -1,4 +1,4 @@
-// SMGs - 2025-09-13T18:16:27.959Z
+// SMGs - 2025-09-13T18:18:32.409Z
 //notes:Multimach CCX - Rank 1, Tier S by TheAegisRelic __ Column 1: Attrition Orbs __ Column 2: Kinetic Tremors, Frenzy __ Origin Trait: Field-Tested
 dimwishlist:item=3211624072&perks=243981275,3891536761,2120661319
 dimwishlist:item=3211624072&perks=243981275,1549370717,2120661319
@@ -1383,7 +1383,7 @@ dimwishlist:item=4039572196&perks=494941759,102912326,2120661319
 
 
 
-//notes:Synchronic Roulette - Rank 32, Tier E by TheAegisRelic __ Column 1: Keep Away, Envious Assassin __ Column 2: Hatchling __ Origin Trait: Nanotech Tracer Rockets
+//notes:Synchronic Roulette - Rank 32, Tier E by TheAegisRelic __ Column 1: Keep Away, Envious Assassin __ Column 2: Hatchling __ Origin Trait: Nanotech Tracer Missiles
 dimwishlist:item=811403305&perks=3619207468,831391274,164468655
 dimwishlist:item=811403305&perks=3619207468,102912326,164468655
 dimwishlist:item=811403305&perks=3198323828,831391274,164468655

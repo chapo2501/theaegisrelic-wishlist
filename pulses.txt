@@ -1,4 +1,4 @@
-// Pulses - 2025-09-13T18:16:27.959Z
+// Pulses - 2025-09-13T18:18:32.409Z
 //notes:Gridskipper - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds __ Origin Trait: Splicer Surge
 dimwishlist:item=1621558458&perks=776531651,2048641572,3404929162
 dimwishlist:item=1621558458&perks=776531651,1926441324,3404929162
@@ -823,7 +823,7 @@ dimwishlist:item=622058944&perks=1347741687,2675184851,3989629871
 
 
 
-//notes:Phyllotactic Spiral - Rank 22, Tier C by TheAegisRelic __ Column 1: Compulsive Reloader, Keep Away __ Column 2: Voltshot __ Origin Trait: Nanotech Tracer Rockets
+//notes:Phyllotactic Spiral - Rank 22, Tier C by TheAegisRelic __ Column 1: Compulsive Reloader, Keep Away __ Column 2: Voltshot __ Origin Trait: Nanotech Tracer Missiles
 dimwishlist:item=3635821806&perks=671806388,2173046394,164468655
 dimwishlist:item=3635821806&perks=671806388,1720528630,164468655
 dimwishlist:item=3635821806&perks=595108252,2173046394,164468655
