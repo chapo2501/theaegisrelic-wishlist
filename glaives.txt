@@ -1,4 +1,4 @@
-// Glaives - 2025-09-13T18:18:32.409Z
+// Glaives - 2025-09-19T21:43:29.655Z
 //notes:Rake Angle - Rank 1, Tier S by TheAegisRelic __ Column 1: Overflow, Impulse Amplifier, Lead from Gold __ Column 2: Chill Clip, Close to Melee __ Origin Trait: Stunning Recovery
 dimwishlist:item=2298039571&perks=3643424744,2978966579,1281216113
 dimwishlist:item=2298039571&perks=3643424744,344235611,1281216113
@@ -51,6 +51,8 @@ dimwishlist:item=3997086838&perks=3442762221,2241043034,1281216113
 
 
 
+dimwishlist:item=2298039571&perks=2682205016,2682205016,344235611,2241043034
+dimwishlist:item=3997086838&perks=2682205016,2682205016,344235611,2241043034
 //notes:Forthcoming Deviance - Rank 2, Tier S by TheAegisRelic __ Column 1: Impulse Amplifier, Grave Robber, Demolitionist __ Column 2: Close to Melee, Chaos Reshaped, Destabilizing Rounds __ Origin Trait: Collective Purpose
 dimwishlist:item=535198113&perks=951095735,1782407750,1878756191
 dimwishlist:item=535198113&perks=951095735,2241043034,1878756191
@@ -127,6 +129,8 @@ dimwishlist:item=3123651616&perks=1906147653,1926441324,1878756191
 
 
 
+dimwishlist:item=535198113&perks=3878366039,3878366039,2241043034,1817983009
+dimwishlist:item=3123651616&perks=3878366039,3878366039,2241043034,1817983009
 //notes:Nezarec's Whisper - Rank 3, Tier S by TheAegisRelic __ Column 1: Demolitionist, Impulse Amplifier, Lead from Gold __ Column 2: Frenzy __ Origin Trait: Extrovert
 dimwishlist:item=254636484&perks=3523296417,4104185692,1250481499
 dimwishlist:item=254636484&perks=3523296417,3007133316,1250481499
@@ -143,6 +147,7 @@ dimwishlist:item=254636484&perks=3442762221,3007133316,1250481499
 
 
 
+dimwishlist:item=254636484&perks=1906147653,3878366039,3007133316,3007133316
 //notes:Refusal of the Call - Rank 4, Tier S by TheAegisRelic __ Column 1: Impulse Amplifier, Slice, Discord __ Column 2: Close to Melee, Melee Momentum __ Origin Trait: Runneth Over
 dimwishlist:item=25228802&perks=951095735,1782407750,120721526
 dimwishlist:item=25228802&perks=951095735,2241043034,120721526
@@ -243,6 +248,10 @@ dimwishlist:item=3269398063&perks=906981559,2817677128,120721526
 
 
 
+dimwishlist:item=25228802&perks=3878366039,3878366039,2241043034,2817677128
+dimwishlist:item=2671849376&perks=3878366039,3878366039,2241043034,2817677128
+dimwishlist:item=2755584425&perks=3878366039,3878366039,2241043034,2817677128
+dimwishlist:item=3269398063&perks=3878366039,3878366039,2241043034,2817677128
 //notes:Unexpected Resurgence - Rank 5, Tier A by TheAegisRelic __ Column 1: Auto-Loading Holster, Impulse Amplifier, Replenishing Aegis __ Column 2: Frenzy, Close to Melee, Voltshot __ Origin Trait: Alacrity
 dimwishlist:item=1141586039&perks=3300816228,4104185692,2988596335
 dimwishlist:item=1141586039&perks=3300816228,3007133316,2988596335
@@ -319,6 +328,8 @@ dimwishlist:item=4005780578&perks=1592669035,1720528630,2988596335
 
 
 
+dimwishlist:item=1141586039&perks=3528046508,3528046508,3007133316,2241043034
+dimwishlist:item=4005780578&perks=3528046508,3528046508,3007133316,2241043034
 //notes:The Enigma - Rank 6, Tier A by TheAegisRelic __ Column 1: Impulse Amplifier __ Column 2: Frenzy __ Origin Trait: Psychohack
 dimwishlist:item=2595497736&perks=951095735,4104185692,79448657
 dimwishlist:item=2595497736&perks=951095735,3007133316,79448657
@@ -367,6 +378,7 @@ dimwishlist:item=267672635&perks=3442762221,1720528630,515704826
 
 
 
+dimwishlist:item=267672635&perks=3878366039,3878366039,781192741,2241043034
 //notes:Greasy Luck __ RotN version - Rank 8, Tier A by TheAegisRelic __ Column 1: Reconstruction, Lead from Gold, Heal Clip __ Column 2: Incandescent, Redirection, Close to Melee __ Origin Trait: Restoration Ritual
 dimwishlist:item=1050582210&perks=1523832109,4293542123,398661035
 dimwishlist:item=1050582210&perks=1523832109,2675184851,398661035
@@ -551,6 +563,11 @@ dimwishlist:item=3210739171&perks=4223976499,2241043034,398661035
 
 
 
+dimwishlist:item=1050582210&perks=461595545,461595545,2675184851,1545231802
+dimwishlist:item=1685406703&perks=461595545,461595545,2675184851,1545231802
+dimwishlist:item=1757202961&perks=461595545,461595545,2675184851,1545231802
+dimwishlist:item=2934305134&perks=461595545,461595545,2675184851,1545231802
+dimwishlist:item=3210739171&perks=461595545,461595545,2675184851,1545231802
 //notes:Greasy Luck - Rank 9, Tier A by TheAegisRelic __ Column 1: Lead from Gold, Impulse Amplifier, Replenishing Aegis __ Column 2: Incandescent, Redirection, Close to Melee __ Origin Trait: Restoration Ritual
 dimwishlist:item=1050582210&perks=1556840489,4293542123,398661035
 dimwishlist:item=1050582210&perks=1556840489,2675184851,398661035
@@ -735,6 +752,11 @@ dimwishlist:item=3210739171&perks=1592669035,2241043034,398661035
 
 
 
+dimwishlist:item=1050582210&perks=3442762221,3442762221,2675184851,1545231802
+dimwishlist:item=1685406703&perks=3442762221,3442762221,2675184851,1545231802
+dimwishlist:item=1757202961&perks=3442762221,3442762221,2675184851,1545231802
+dimwishlist:item=2934305134&perks=3442762221,3442762221,2675184851,1545231802
+dimwishlist:item=3210739171&perks=3442762221,3442762221,2675184851,1545231802
 //notes:Lubrae's Ruin - Rank 10, Tier B by TheAegisRelic __ Column 1: Immovable Object, Sleight of Hand, Grave Robber __ Column 2: Unstoppable Force, Surrounded, Swashbuckler __ Origin Trait: Souldrinker
 dimwishlist:item=1466006054&perks=3800201097,2224838837,3363267119
 dimwishlist:item=1466006054&perks=3800201097,3102670337,3363267119
@@ -811,6 +833,8 @@ dimwishlist:item=2534546147&perks=402033656,1161469972,3363267119
 
 
 
+dimwishlist:item=1466006054&perks=3674673997,3674673997,3102670337,781192741
+dimwishlist:item=2534546147&perks=3674673997,3674673997,3102670337,781192741
 //notes:Ecliptic Distaff - Rank 11, Tier B by TheAegisRelic __ Column 1: Immovable Object, Replenishing Aegis __ Column 2: Close to Melee, Destabilizing Rounds __ Origin Trait: One Quiet Moment
 dimwishlist:item=3001205424&perks=3800201097,1782407750,4091460919
 dimwishlist:item=3001205424&perks=3800201097,2241043034,4091460919
@@ -831,6 +855,7 @@ dimwishlist:item=3001205424&perks=1592669035,1926441324,4091460919
 
 
 
+dimwishlist:item=3001205424&perks=3674673997,3674673997,2241043034,1926441324
 //notes:Judgment of Kelgorath - Rank 12, Tier B by TheAegisRelic __ Column 1: Overflow, Demolitionist, Immovable Object __ Column 2: Close to Melee, Unstoppable Force, Impulse Amplifier __ Origin Trait: Ambush
 dimwishlist:item=2978226043&perks=3643424744,1782407750,192157151
 dimwishlist:item=2978226043&perks=3643424744,2241043034,192157151
@@ -871,6 +896,7 @@ dimwishlist:item=2978226043&perks=3674673997,3878366039,192157151
 
 
 
+dimwishlist:item=2978226043&perks=2682205016,2682205016,2241043034,3102670337
 //notes:Albedo Wing - Rank 13, Tier B by TheAegisRelic __ Column 1: Grave Robber, Replenishing Aegis, Air Trigger __ Column 2: Lead from Gold, Demolitionist, Close to Melee __ Origin Trait: Dawning Surprise
 dimwishlist:item=1845372864&perks=1631667848,1556840489,4264904777
 dimwishlist:item=1845372864&perks=1631667848,3442762221,4264904777
@@ -946,3 +972,6 @@ dimwishlist:item=2680976411&perks=3291427296,1782407750,4264904777
 dimwishlist:item=2680976411&perks=3291427296,2241043034,4264904777
 
 
+
+dimwishlist:item=1845372864&perks=402033656,402033656,3442762221,1906147653
+dimwishlist:item=2680976411&perks=402033656,402033656,3442762221,1906147653

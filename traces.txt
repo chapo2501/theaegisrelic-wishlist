@@ -1,4 +1,4 @@
-// Traces - 2025-09-13T18:18:32.409Z
+// Traces - 2025-09-19T21:43:29.655Z
 //notes:Chronophage - Rank 1, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Repulsor Brace __ Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=1886840007&perks=3700496672,2048641572,253121539
 dimwishlist:item=1886840007&perks=3700496672,1926441324,253121539
@@ -27,6 +27,7 @@ dimwishlist:item=1886840007&perks=2541826827,2799030358,253121539
 
 
 
+dimwishlist:item=1886840007&perks=2840833776,2840833776,1926441324,1906147653
 //notes:Unsworn - Rank 2, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Tear, Rewind Rounds __ Column 2: Detonator Beam, Elemental Honing, Hatchling __ Origin Trait: Subjugation
 dimwishlist:item=1303313141&perks=3700496672,4198902903,1298135794
 dimwishlist:item=1303313141&perks=3700496672,222783511,1298135794
@@ -67,6 +68,7 @@ dimwishlist:item=1303313141&perks=1563455254,102912326,1298135794
 
 
 
+dimwishlist:item=1303313141&perks=2840833776,2840833776,222783511,496047945
 //notes:Retraced Path - Rank 3, Tier A by TheAegisRelic __ Column 1: Shoot to Loot __ Column 2: Demolitionist, Frenzy, Incandescent __ Origin Trait: Hot Swap
 dimwishlist:item=548958835&perks=3700496672,3523296417,1260401931
 dimwishlist:item=548958835&perks=3700496672,1906147653,1260401931
@@ -83,6 +85,7 @@ dimwishlist:item=548958835&perks=2840833776,2675184851,1260401931
 
 
 
+dimwishlist:item=548958835&perks=2840833776,2840833776,1906147653,3007133316
 //notes:Path of Least Resistance - Rank 4, Tier A by TheAegisRelic __ Column 1: Shoot to Loot __ Column 2: Voltshot __ Origin Trait: Ambush
 dimwishlist:item=2827764482&perks=3700496672,2173046394,192157151
 dimwishlist:item=2827764482&perks=3700496672,1720528630,192157151
@@ -127,6 +130,10 @@ dimwishlist:item=4248997900&perks=3422796781,102912326,4091460919
 
 
 
+dimwishlist:item=1711056134&perks=3422796781,3422796781,984655331,102912326
+dimwishlist:item=2421180981&perks=3422796781,3422796781,984655331,102912326
+dimwishlist:item=2839600459&perks=3422796781,3422796781,984655331,102912326
+dimwishlist:item=4248997900&perks=3422796781,3422796781,984655331,102912326
 //notes:Hollow Denial - Rank 6, Tier B by TheAegisRelic __ Column 1: Lead from Gold __ Column 2: Repulsor Brace __ Origin Trait: Extrovert
 dimwishlist:item=2323544076&perks=1556840489,776531651,1250481499
 dimwishlist:item=2323544076&perks=1556840489,2541826827,1250481499
@@ -175,6 +182,7 @@ dimwishlist:item=2029899814&perks=3555252274,2633604463,1702976605
 
 
 
+dimwishlist:item=2029899814&perks=573122728,573122728,222783511,717070634
 //notes:Warlord's Spear - Rank 8, Tier B by TheAegisRelic __ Column 1: Rewind Rounds, Loose Change __ Column 2: Detonator Beam, Jolting Feedback, Desperate Measures __ Origin Trait: Skulking Wolf
 dimwishlist:item=1968711238&perks=2578928832,4198902903,3989629871
 dimwishlist:item=1968711238&perks=2578928832,222783511,3989629871
@@ -203,6 +211,7 @@ dimwishlist:item=1968711238&perks=561986700,2799030358,3989629871
 
 
 
+dimwishlist:item=1968711238&perks=1563455254,1563455254,222783511,717070634
 //notes:Appetence - Rank 9, Tier B by TheAegisRelic __ Column 1: Demolitionist, Overflow __ Column 2: Headstone, Deconstruct, Attrition Orbs __ Origin Trait: Dragon's Vengeance
 dimwishlist:item=4153087276&perks=3523296417,124408337,3978094547
 dimwishlist:item=4153087276&perks=3523296417,1171887445,3978094547
@@ -227,6 +236,7 @@ dimwishlist:item=4153087276&perks=2682205016,984655331,3978094547
 
 
 
+dimwishlist:item=4153087276&perks=1906147653,1906147653,1171887445,984655331
 //notes:Ribbontail - Rank 10, Tier B by TheAegisRelic __ Column 1: Envious Arsenal, Wellspring __ Column 2: Detonator Beam, Tear, Redirection __ Origin Trait: Tenacity
 dimwishlist:item=407150808&perks=3987942396,4198902903,3911709647
 dimwishlist:item=407150808&perks=3987942396,222783511,3911709647
@@ -351,6 +361,11 @@ dimwishlist:item=3576134513&perks=2675361166,1545231802,3911709647
 
 
 
+dimwishlist:item=407150808&perks=2817499044,2817499044,222783511,3244229373
+dimwishlist:item=407150809&perks=2817499044,2817499044,222783511,3244229373
+dimwishlist:item=407150810&perks=2817499044,2817499044,222783511,3244229373
+dimwishlist:item=407150811&perks=2817499044,2817499044,222783511,3244229373
+dimwishlist:item=3576134513&perks=2817499044,2817499044,222783511,3244229373
 //notes:Acasia's Dejection - Rank 11, Tier B by TheAegisRelic __ Column 1: Reconstruction, Field Prep __ Column 2: Frenzy, Incandescent __ Origin Trait: Harmonic Resonance
 dimwishlist:item=1471212226&perks=1523832109,4104185692,3186078099
 dimwishlist:item=1471212226&perks=1523832109,3007133316,3186078099
@@ -386,3 +401,6 @@ dimwishlist:item=3493494807&perks=2308090567,4293542123,3186078099
 dimwishlist:item=3493494807&perks=2308090567,2675184851,3186078099
 
 
+
+dimwishlist:item=1471212226&perks=461595545,461595545,3007133316,2675184851
+dimwishlist:item=3493494807&perks=461595545,461595545,3007133316,2675184851

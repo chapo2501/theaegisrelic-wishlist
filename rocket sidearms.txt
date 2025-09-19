@@ -1,4 +1,4 @@
-// Rocket Sidearms - 2025-09-13T18:18:32.409Z
+// Rocket Sidearms - 2025-09-19T21:43:29.655Z
 //notes:Returned Memory - Rank 1, Tier S by TheAegisRelic __ Column 1: Heal Clip, Lead from Gold, Impromptu Ammunition __ Column 2: Incandescent, Redirection, Desperate Measures __ Origin Trait: Tenacity
 dimwishlist:item=4049127142&perks=3017780555,4293542123,3911709647
 dimwishlist:item=4049127142&perks=3017780555,2675184851,3911709647
@@ -39,6 +39,7 @@ dimwishlist:item=4049127142&perks=4096144819,2799030358,3911709647
 
 
 
+dimwishlist:item=4049127142&perks=4223976499,4223976499,2675184851,1545231802
 //notes:Lotus-Eater - Rank 2, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Reconstruction, Shoot to Loot __ Column 2: Destabilizing Rounds, Withering Gaze, High Ground __ Origin Trait: Stunning Recovery
 dimwishlist:item=2697143634&perks=776531651,2048641572,1281216113
 dimwishlist:item=2697143634&perks=776531651,1926441324,1281216113
@@ -115,6 +116,8 @@ dimwishlist:item=3922217119&perks=2840833776,2140591236,1281216113
 
 
 
+dimwishlist:item=2697143634&perks=2541826827,2541826827,1926441324,2904194311
+dimwishlist:item=3922217119&perks=2541826827,2541826827,1926441324,2904194311
 //notes:Tinasha's Mastery - Rank 3, Tier S by TheAegisRelic __ Column 1: Air Trigger, Impulse Amplifier, Loose Change __ Column 2: Chill Clip, Surrounded, Desperate Measures __ Origin Trait: Skulking Wolf
 dimwishlist:item=480368036&perks=1421772400,2978966579,3989629871
 dimwishlist:item=480368036&perks=1421772400,344235611,3989629871
@@ -155,6 +158,7 @@ dimwishlist:item=480368036&perks=561986700,2799030358,3989629871
 
 
 
+dimwishlist:item=480368036&perks=3291427296,3291427296,344235611,781192741
 //notes:Aberrant Action - Rank 4, Tier S by TheAegisRelic __ Column 1: Heal Clip, Field Prep __ Column 2: Incandescent, Demolitionist __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=2198166292&perks=3017780555,4293542123,253121539
 dimwishlist:item=2198166292&perks=3017780555,2675184851,253121539
@@ -175,6 +179,7 @@ dimwishlist:item=2198166292&perks=2308090567,1906147653,253121539
 
 
 
+dimwishlist:item=2198166292&perks=4223976499,4223976499,2675184851,1906147653
 //notes:Indebted Kindness - Rank 5, Tier A by TheAegisRelic __ Column 1: Impulse Amplifier, Lead from Gold __ Column 2: Voltshot, Surrounded, Adagio __ Origin Trait: Sundering
 dimwishlist:item=3381450498&perks=951095735,2173046394,220689851
 dimwishlist:item=3381450498&perks=951095735,1720528630,220689851
@@ -203,6 +208,7 @@ dimwishlist:item=3381450498&perks=3442762221,2889515627,220689851
 
 
 
+dimwishlist:item=3381450498&perks=3878366039,3878366039,1720528630,781192741
 //notes:The Call - Rank 6, Tier A by TheAegisRelic __ Column 1: Slice, Lead from Gold, Demolitionist __ Column 2: Desperate Measures, Golden Tricorn, One for All __ Origin Trait: Dealer's Choice
 dimwishlist:item=3947966653&perks=923806249,2109543898,1988485648
 dimwishlist:item=3947966653&perks=923806249,2799030358,1988485648
@@ -243,6 +249,7 @@ dimwishlist:item=3947966653&perks=1906147653,859780267,1988485648
 
 
 
+dimwishlist:item=3947966653&perks=3422796781,3422796781,2799030358,4290541820
 //notes:Unfall - Rank 7, Tier A by TheAegisRelic __ Column 1: Lead from Gold, Impulse Amplifier, Beacon Rounds __ Column 2: Jolting Feedback, Rolling Storm, Deconstruct __ Origin Trait: Vanguard Determination
 dimwishlist:item=738446555&perks=1556840489,3966416502,3846229553
 dimwishlist:item=738446555&perks=1556840489,717070634,3846229553
@@ -276,3 +283,5 @@ dimwishlist:item=738446555&perks=2859149211,1164602481,3846229553
 dimwishlist:item=738446555&perks=1135494563,1164602481,3846229553
 
 
+
+dimwishlist:item=738446555&perks=3442762221,3442762221,717070634,2633604463
