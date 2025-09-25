@@ -1,4 +1,4 @@
-// Traces - 2025-09-20T00:36:43.432Z
+// Traces - 2025-09-25T00:50:02.098Z
 //notes:Chronophage - Rank 1, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Repulsor Brace __ Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=1886840007&perks=2840833776,2541826827,1926441324,1906147653,253121539
 dimwishlist:item=1886840007&perks=3700496672,2048641572,253121539

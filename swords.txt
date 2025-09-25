@@ -1,4 +1,4 @@
-// Swords - 2025-09-20T00:36:43.432Z
+// Swords - 2025-09-25T00:50:02.098Z
 //notes:Synanceia - Rank 1, Tier S by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs, Sharp Harvest __ Column 2: Elemental Honing, Eager Edge, Burning Ambition __ Origin Trait: Tenacity
 dimwishlist:item=2765451291&perks=4085959009,984655331,496047945,1618208178,3911709647
 dimwishlist:item=2765451290&perks=4085959009,984655331,496047945,1618208178,3911709647

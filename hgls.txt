@@ -1,4 +1,4 @@
-// HGLs - 2025-09-20T00:36:43.432Z
+// HGLs - 2025-09-25T00:50:02.098Z
 //notes:VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cascade Point, Attrition Orbs __ Column 2: Bait and Switch, Explosive Light, Surrounded __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785662&perks=2817499044,331667533,3744057135,2275087323,4139916815
 dimwishlist:item=1762785662&perks=3987942396,3078487919,4139916815

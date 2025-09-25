@@ -1,4 +1,4 @@
-// Pulses - 2025-09-20T00:36:43.432Z
+// Pulses - 2025-09-25T00:50:02.098Z
 //notes:Gridskipper - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds __ Origin Trait: Splicer Surge
 dimwishlist:item=3433930495&perks=2541826827,1906147653,1926441324,3404929162
 dimwishlist:item=1621558458&perks=2541826827,1906147653,1926441324,3404929162
