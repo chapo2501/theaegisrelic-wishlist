@@ -1,47 +1,26 @@
-// Other - 2025-10-03T23:04:00.032Z
+// Other - 2025-10-03T23:06:51.128Z
 //notes:Opaque Hourglass - Rank 0, Tier  by TheAegisRelic __ Column 1: Impulse Amplifier, Firefly, Bolt Scavenger __ Column 2: Elemental Honing, Dragonfly, Firing Line __ Origin Trait: Frame of Reference
 
-
-
 dimwishlist:item=1553681400&perks=3878366039,1183436451,883665727,496047945,169755979,395388285
-
-
 
 dimwishlist:item=1553681400&perks=3878366039,1183436451,496047945,169755979,2597494435
 
 
 
-
-
-
 //notes:Submersion - Rank 0, Tier  by TheAegisRelic __ Column 1: Auto-Loading Holster, Bolt Scavenger, Lead from Light __ Column 2: Aggregate Charge, Headstone, Chill Clip __ Origin Trait: Contending Cascade
-
-
 
 dimwishlist:item=1724104236&perks=3528046508,883665727,1661646271,3192447905,1171887445,344235611
 dimwishlist:item=3524386983&perks=3528046508,883665727,1661646271,3192447905,1171887445,344235611
-
-
 
 dimwishlist:item=1724104236&perks=3528046508,883665727,3192447905,1171887445,934928524
 dimwishlist:item=3524386983&perks=3528046508,883665727,3192447905,1171887445,934928524
 
 
 
-
-
-
 //notes:Mint Retrograde - Rank 0, Tier  by TheAegisRelic __ Column 1: Rewind Rounds, Envious Arsenal, Hatchling __ Column 2: Bait and Switch, Elemental Honing, Chain Reaction __ Origin Trait: Problem Solver
-
-
 
 dimwishlist:item=42435996&perks=1563455254,2817499044,102912326,3744057135,496047945,598607952
 
-
-
 dimwishlist:item=42435996&perks=1563455254,2817499044,3744057135,496047945,3454102905
-
-
-
 
 
