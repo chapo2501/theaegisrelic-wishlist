@@ -1,4 +1,4 @@
-// Rocket Sidearms - 2025-10-21T20:07:54.481Z
+// Rocket Sidearms - 2025-10-21T21:32:52.676Z
 //notes:Godroll! Returned Memory - Rank 1, Tier S by TheAegisRelic __ Column 1: Heal Clip, Lead from Gold, Impromptu Ammunition __ Column 2: Incandescent, Redirection, Desperate Measures __ Origin Trait: Tenacity
 dimwishlist:item=4049127142&perks=3017780555,1556840489,2360347339,4293542123,3201496230,2109543898,3911709647
 

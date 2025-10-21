@@ -1,4 +1,4 @@
-// HGLs - 2025-10-21T20:07:54.481Z
+// HGLs - 2025-10-21T21:32:52.676Z
 //notes:Godroll! VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cascade Point, Attrition Orbs __ Column 2: Bait and Switch, Explosive Light, Surrounded __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785662&perks=3987942396,3751912585,243981275,3078487919,3194351027,3708227201,4139916815
 

@@ -1,4 +1,4 @@
-// Other - 2025-10-21T20:07:54.481Z
+// Other - 2025-10-21T21:32:52.676Z
 //notes:Godroll! Opaque Hourglass - Rank 0, Tier  by TheAegisRelic __ Column 1: Impulse Amplifier, Firefly, Bolt Scavenger __ Column 2: Elemental Honing, Dragonfly, Firing Line __ Origin Trait: Frame of Reference
 dimwishlist:item=1553681400&perks=951095735,1561789734,4042220767,1089671869,2848615171,1771339417,2597494435
 

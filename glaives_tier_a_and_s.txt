@@ -1,4 +1,4 @@
-// Glaives - 2025-10-21T20:07:54.481Z
+// Glaives - 2025-10-21T21:32:52.676Z
 //notes:Godroll! Rake Angle - Rank 1, Tier S by TheAegisRelic __ Column 1: Overflow, Impulse Amplifier, Lead from Gold __ Column 2: Chill Clip, Close to Melee __ Origin Trait: Stunning Recovery
 dimwishlist:item=2298039571&perks=3643424744,951095735,1556840489,2978966579,1782407750,1281216113
 dimwishlist:item=3997086838&perks=3643424744,951095735,1556840489,2978966579,1782407750,1281216113
