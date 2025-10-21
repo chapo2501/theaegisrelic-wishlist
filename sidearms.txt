@@ -1,4 +1,4 @@
-// Sidearms - 2025-10-21T19:32:17.520Z
+// Sidearms - 2025-10-21T19:37:39.575Z
 //noted:Godroll Tier 5 - Insurmountable - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Attrition Orbs, Demolitionist __ Column 2: Destabilizing Rounds, Surrounded __ Origin Trait: Dark Ether Reaper
 dimwishlist:item=414045521&perks=776531651,243981275,3523296417,2048641572,3708227201,2041432007
 //notes:Insurmountable - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Attrition Orbs, Demolitionist __ Column 2: Destabilizing Rounds, Surrounded __ Origin Trait: Dark Ether Reaper

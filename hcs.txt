@@ -1,4 +1,4 @@
-// HCs - 2025-10-21T19:32:17.520Z
+// HCs - 2025-10-21T19:37:39.575Z
 //noted:Godroll Tier 5 - Word of Crota - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly __ Column 2: Destabilizing Rounds __ Origin Trait: Cursed Thrall
 dimwishlist:item=120706239&perks=776531651,2848615171,2048641572,1156201379
 dimwishlist:item=3926103986&perks=776531651,2848615171,2048641572,1156201379

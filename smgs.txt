@@ -1,4 +1,4 @@
-// SMGs - 2025-10-21T19:32:17.520Z
+// SMGs - 2025-10-21T19:37:39.575Z
 //noted:Godroll Tier 5 - Multimach CCX - Rank 1, Tier S by TheAegisRelic __ Column 1: Attrition Orbs __ Column 2: Kinetic Tremors, Frenzy __ Origin Trait: Field-Tested
 dimwishlist:item=3211624072&perks=243981275,3891536761,4104185692,2120661319
 dimwishlist:item=3717177717&perks=243981275,3891536761,4104185692,2120661319
