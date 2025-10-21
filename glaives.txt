@@ -1,4 +1,4 @@
-// Glaives - 2025-10-04T01:10:06.819Z
+// Glaives - 2025-10-21T14:30:01.537Z
 //notes:Rake Angle - Rank 1, Tier S by TheAegisRelic __ Column 1: Overflow, Impulse Amplifier, Lead from Gold __ Column 2: Chill Clip, Close to Melee __ Origin Trait: Stunning Recovery
 dimwishlist:item=2298039571&perks=2682205016,3878366039,344235611,2241043034,1281216113&tier=3
 dimwishlist:item=3997086838&perks=2682205016,3878366039,344235611,2241043034,1281216113&tier=3

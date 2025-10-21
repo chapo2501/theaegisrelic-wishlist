@@ -1,4 +1,4 @@
-// Scouts - 2025-10-04T01:10:06.819Z
+// Scouts - 2025-10-21T14:30:01.537Z
 //notes:Unworthy - Rank 1, Tier S by TheAegisRelic __ Column 1: Firefly __ Column 2: Voltshot, Frenzy, Paracausal Affinity __ Origin Trait: Subjugation
 dimwishlist:item=2226158470&perks=1183436451,1720528630,3007133316,1298135794&tier=3
 dimwishlist:item=2226158470&perks=1183436451,1720528630,1298135794

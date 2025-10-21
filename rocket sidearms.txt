@@ -1,4 +1,4 @@
-// Rocket Sidearms - 2025-10-04T01:10:06.819Z
+// Rocket Sidearms - 2025-10-21T14:30:01.537Z
 //notes:Returned Memory - Rank 1, Tier S by TheAegisRelic __ Column 1: Heal Clip, Lead from Gold, Impromptu Ammunition __ Column 2: Incandescent, Redirection, Desperate Measures __ Origin Trait: Tenacity
 dimwishlist:item=4049127142&perks=4223976499,3442762221,4096144819,2675184851,1545231802,2799030358,483923727&tier=5
 dimwishlist:item=4049127142&perks=4223976499,3442762221,2675184851,1545231802,3911709647&tier=3
