@@ -1,4 +1,4 @@
-// BGLs - 2025-10-21T14:30:01.537Z
+// BGLs - 2025-10-21T14:47:25.658Z
 //notes:VS Velocity Baton - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds, Attrition Orbs __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785663&perks=2541826827,1906147653,1926441324,984655331,4232410959&tier=5
 dimwishlist:item=1762785663&perks=2541826827,1906147653,1926441324,984655331,4139916815&tier=3

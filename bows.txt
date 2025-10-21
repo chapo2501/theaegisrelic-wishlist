@@ -1,4 +1,4 @@
-// Bows - 2025-10-21T14:30:01.537Z
+// Bows - 2025-10-21T14:47:25.658Z
 //notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic __ Column 1: Dragonfly, Archer's Tempo, Shoot to Loot __ Column 2: Voltshot, Explosive Head, Chaos Reshaped __ Origin Trait: Collective Purpose
 dimwishlist:item=1039915310&perks=169755979,3523746922,1720528630,1551736345,1878756191&tier=3
 dimwishlist:item=1770490683&perks=169755979,3523746922,1720528630,1551736345,1878756191&tier=3
