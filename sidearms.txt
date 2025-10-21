@@ -1,4 +1,4 @@
-// Sidearms - 2025-10-21T14:47:25.658Z
+// Sidearms - 2025-10-21T18:48:51.094Z
 //notes:Insurmountable - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Attrition Orbs, Demolitionist __ Column 2: Destabilizing Rounds, Surrounded __ Origin Trait: Dark Ether Reaper
 dimwishlist:item=414045521&perks=2541826827,984655331,1926441324,781192741,2041432007&tier=3
 dimwishlist:item=414045521&perks=2541826827,1926441324,2041432007

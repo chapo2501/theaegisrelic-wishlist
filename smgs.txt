@@ -1,4 +1,4 @@
-// SMGs - 2025-10-21T14:47:25.658Z
+// SMGs - 2025-10-21T18:48:51.094Z
 //notes:Multimach CCX - Rank 1, Tier S by TheAegisRelic __ Column 1: Attrition Orbs __ Column 2: Kinetic Tremors, Frenzy __ Origin Trait: Field-Tested
 dimwishlist:item=3211624072&perks=984655331,1549370717,3007133316,1064478151&tier=5
 dimwishlist:item=3717177717&perks=984655331,1549370717,3007133316,1064478151&tier=5

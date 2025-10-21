@@ -1,4 +1,4 @@
-// HCs - 2025-10-21T14:47:25.658Z
+// HCs - 2025-10-21T18:48:51.094Z
 //notes:Word of Crota - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly __ Column 2: Destabilizing Rounds __ Origin Trait: Cursed Thrall
 dimwishlist:item=120706239&perks=2541826827,169755979,1926441324,1156201379&tier=3
 dimwishlist:item=3926103986&perks=2541826827,169755979,1926441324,1156201379&tier=3
