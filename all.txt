@@ -1,4 +1,4 @@
-// Autos - 2025-10-21T19:59:28.234Z
+// Autos - 2025-10-21T20:07:54.481Z
 //notes:Godroll! No Hesitation - Rank 1, Tier S by TheAegisRelic __ Column 1: Physic, Demolitionist __ Column 2: Incandescent, Attrition Orbs, Circle of Life __ Origin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,3523296417,4293542123,243981275,2298656195,1988485648
 
@@ -1495,7 +1495,7 @@ dimwishlist:item=3762467078&perks=1820235745,11612903,0
 //notes:Scathelocke - Rank 52, Tier F by TheAegisRelic __ Column 1: Subsistence __ Column 2: Adrenaline Junkie __ Origin Trait: None
 
 
-// Bows - 2025-10-21T19:59:28.234Z
+// Bows - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Non-Denouement - Rank 1, Tier S by TheAegisRelic __ Column 1: Dragonfly, Archer's Tempo, Shoot to Loot __ Column 2: Voltshot, Explosive Head, Chaos Reshaped __ Origin Trait: Collective Purpose
 dimwishlist:item=1039915310&perks=2848615171,201365942,3700496672,2173046394,3365897133,3640170453,1878756191
 dimwishlist:item=1770490683&perks=2848615171,201365942,3700496672,2173046394,3365897133,3640170453,1878756191
@@ -2553,7 +2553,7 @@ dimwishlist:item=2848549302&perks=691659142,1546637391,1050127423
 //notes:Neoptolemus II - Rank 25, Tier E by TheAegisRelic __ Column 1: Pugilist __ Column 2: Vorpal Weapon __ Origin Trait: Wild Card
 
 
-// HCs - 2025-10-21T19:59:28.234Z
+// HCs - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Word of Crota - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly __ Column 2: Destabilizing Rounds __ Origin Trait: Cursed Thrall
 dimwishlist:item=120706239&perks=776531651,2848615171,2048641572,1156201379
 dimwishlist:item=3926103986&perks=776531651,2848615171,2048641572,1156201379
@@ -4319,7 +4319,7 @@ dimwishlist:item=1875512595&perks=1119449540,3324494224,2565067140
 //notes:Kept Confidence - Rank 57, Tier F by TheAegisRelic __ Column 1: Loose Change __ Column 2: Collective Action __ Origin Trait: Head Rush
 
 
-// Pulses - 2025-10-21T19:59:28.234Z
+// Pulses - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Gridskipper - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds __ Origin Trait: Splicer Surge
 dimwishlist:item=1621558458&perks=776531651,3523296417,2048641572,3404929162
 dimwishlist:item=3433930495&perks=776531651,3523296417,2048641572,3404929162
@@ -5370,7 +5370,7 @@ dimwishlist:item=2870169846&perks=1168162263,3523296417,0
 //notes:Hailing Confusion - Rank 54, Tier F by TheAegisRelic __ Column 1: Outlaw __ Column 2: Demolitionist __ Origin Trait: None
 
 
-// Scouts - 2025-10-21T19:59:28.234Z
+// Scouts - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Unworthy - Rank 1, Tier S by TheAegisRelic __ Column 1: Firefly __ Column 2: Voltshot, Frenzy, Paracausal Affinity __ Origin Trait: Subjugation
 dimwishlist:item=2226158470&perks=1561789734,2173046394,4104185692,3215448563,1298135794
 
@@ -7076,7 +7076,7 @@ dimwishlist:item=2478792241&perks=2039302152,1546637391,0
 //notes:The Scholar - Rank 44, Tier F by TheAegisRelic __ Column 1: Slideways __ Column 2: Vorpal Weapon __ Origin Trait: None
 
 
-// Sidearms - 2025-10-21T19:59:28.234Z
+// Sidearms - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Insurmountable - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Attrition Orbs, Demolitionist __ Column 2: Destabilizing Rounds, Surrounded __ Origin Trait: Dark Ether Reaper
 dimwishlist:item=414045521&perks=776531651,243981275,3523296417,2048641572,3708227201,2041432007
 
@@ -8173,7 +8173,7 @@ dimwishlist:item=1197486957&perks=4071163871,3523296417,0
 //notes:High Albedo - Rank 35, Tier F by TheAegisRelic __ Column 1: Threat Detector __ Column 2: Demolitionist __ Origin Trait: None
 
 
-// SMGs - 2025-10-21T19:59:28.234Z
+// SMGs - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Multimach CCX - Rank 1, Tier S by TheAegisRelic __ Column 1: Attrition Orbs __ Column 2: Kinetic Tremors, Frenzy __ Origin Trait: Field-Tested
 dimwishlist:item=3211624072&perks=243981275,3891536761,4104185692,2120661319
 dimwishlist:item=3717177717&perks=243981275,3891536761,4104185692,2120661319
@@ -9833,7 +9833,7 @@ dimwishlist:item=4277547616&perks=1820235745,2848615171,0
 dimwishlist:item=4277547616&perks=2010801679,2848615171,0
 
 
-// BGLs - 2025-10-21T19:59:28.234Z
+// BGLs - 2025-10-21T20:07:54.481Z
 //notes:Godroll! VS Velocity Baton - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds, Attrition Orbs __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785663&perks=776531651,3523296417,2048641572,243981275,4139916815
 
@@ -11783,7 +11783,7 @@ dimwishlist:item=3252697558&perks=1631667848,776531651,2120661319
 //notes:Truthteller - Rank 30, Tier F by TheAegisRelic __ Column 1: Grave Robber __ Column 2: Repulsor Brace __ Origin Trait: Field-Tested
 
 
-// Fusions - 2025-10-21T19:59:28.234Z
+// Fusions - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Lionfish-4fr - Rank 1, Tier S by TheAegisRelic __ Column 1: Reconstruction, Lead from Gold __ Column 2: Chill Clip, Controlled Burst, Elemental Honing __ Origin Trait: Problem Solver
 dimwishlist:item=2423071981&perks=1523832109,1556840489,2978966579,2594592626,1089671869,3454102905
 
@@ -12853,7 +12853,7 @@ dimwishlist:item=4124357815&perks=2621346526,776531651,1905044254
 //notes:The Epicurean - Rank 37, Tier F by TheAegisRelic __ Column 1: Ensemble __ Column 2: Repulsor Brace __ Origin Trait: To Excess
 
 
-// Glaives - 2025-10-21T19:59:28.234Z
+// Glaives - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Rake Angle - Rank 1, Tier S by TheAegisRelic __ Column 1: Overflow, Impulse Amplifier, Lead from Gold __ Column 2: Chill Clip, Close to Melee __ Origin Trait: Stunning Recovery
 dimwishlist:item=2298039571&perks=3643424744,951095735,1556840489,2978966579,1782407750,1281216113
 dimwishlist:item=3997086838&perks=3643424744,951095735,1556840489,2978966579,1782407750,1281216113
@@ -14043,7 +14043,7 @@ dimwishlist:item=2680976411&perks=1421772400,3523296417,4264904777
 dimwishlist:item=2680976411&perks=1421772400,1782407750,4264904777
 
 
-// Shotguns - 2025-10-21T19:59:28.234Z
+// Shotguns - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Perfect Paradox - Rank 1, Tier S by TheAegisRelic __ Column 1: Pugilist, Field Prep, Threat Detector __ Column 2: One-Two Punch, Trench Barrel, Vorpal Weapon __ Origin Trait: Cast No Shadows
 dimwishlist:item=1298672084&perks=691659142,777589559,4071163871,2679249093,2360754333,1546637391,2838996248
 dimwishlist:item=2248667690&perks=691659142,777589559,4071163871,2679249093,2360754333,1546637391,2838996248
@@ -16052,7 +16052,7 @@ dimwishlist:item=3216652511&perks=509074078,4082225868,4091460919
 //notes:Reckless Endangerment - Rank 57, Tier F by TheAegisRelic __ Column 1: Steady Hands __ Column 2: Swashbuckler __ Origin Trait: One Quiet Moment
 
 
-// Snipers - 2025-10-21T19:59:28.234Z
+// Snipers - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Praedyth's Revenge - Rank 1, Tier S by TheAegisRelic __ Column 1: Fourth Time's the Charm, Kinetic Tremors, Discord __ Column 2: Bait and Switch, Elemental Honing, Firefly __ Origin Trait: Timelost Magazine
 dimwishlist:item=1987769101&perks=1354429876,3891536761,3978468247,3078487919,1089671869,1561789734,2589407652
 dimwishlist:item=2362652544&perks=1354429876,3891536761,3978468247,3078487919,1089671869,1561789734,2589407652
@@ -17784,7 +17784,7 @@ dimwishlist:item=2164448701&perks=1556840489,3592538738,0
 //notes:Apostate - Rank 49, Tier F by TheAegisRelic __ Column 1: Lead from Gold __ Column 2: Wellspring __ Origin Trait: None
 
 
-// Rocket Sidearms - 2025-10-21T19:59:28.234Z
+// Rocket Sidearms - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Returned Memory - Rank 1, Tier S by TheAegisRelic __ Column 1: Heal Clip, Lead from Gold, Impromptu Ammunition __ Column 2: Incandescent, Redirection, Desperate Measures __ Origin Trait: Tenacity
 dimwishlist:item=4049127142&perks=3017780555,1556840489,2360347339,4293542123,3201496230,2109543898,3911709647
 
@@ -18145,7 +18145,7 @@ dimwishlist:item=738446555&perks=2859149211,3218042543,3846229553
 dimwishlist:item=738446555&perks=2859149211,1164602481,3846229553
 
 
-// Traces - 2025-10-21T19:59:28.234Z
+// Traces - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Chronophage - Rank 1, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Repulsor Brace __ Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures __ Origin Trait: Radiolaria Transposer
 dimwishlist:item=1886840007&perks=3700496672,776531651,2048641572,3523296417,2109543898,253121539
 
@@ -18507,7 +18507,7 @@ dimwishlist:item=3493494807&perks=777589559,4104185692,3186078099
 dimwishlist:item=3493494807&perks=777589559,4293542123,3186078099
 
 
-// HGLs - 2025-10-21T19:59:28.234Z
+// HGLs - 2025-10-21T20:07:54.481Z
 //notes:Godroll! VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cascade Point, Attrition Orbs __ Column 2: Bait and Switch, Explosive Light, Surrounded __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785662&perks=3987942396,3751912585,243981275,3078487919,3194351027,3708227201,4139916815
 
@@ -19185,7 +19185,7 @@ dimwishlist:item=1983332562&perks=777589559,3300816228,0
 //notes:Berenger's Memory - Rank 25, Tier F by TheAegisRelic __ Column 1: Field Prep __ Column 2: Auto-Loading Holster __ Origin Trait: None
 
 
-// LFRs - 2025-10-21T19:59:28.234Z
+// LFRs - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Scintillation - Rank 1, Tier S by TheAegisRelic __ Column 1: Rewind Rounds, Cornered __ Column 2: Bait and Switch, Surrounded __ Origin Trait: Veist Stinger
 dimwishlist:item=1492522228&perks=2578928832,1799762209,3078487919,3708227201,3988215619
 dimwishlist:item=2591257541&perks=2578928832,1799762209,3078487919,3708227201,3988215619
@@ -19392,7 +19392,7 @@ dimwishlist:item=2714022207&perks=588594999,2213355989,0
 //notes:Corsair's Wrath - Rank 18, Tier E by TheAegisRelic __ Column 1: Moving Target __ Column 2: High-Impact Reserves __ Origin Trait: None
 
 
-// LMGs - 2025-10-21T19:59:28.234Z
+// LMGs - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Song of Ir Yût - Rank 1, Tier S by TheAegisRelic __ Column 1: Demolitionist, Reconstruction __ Column 2: High Ground, Bait and Switch __ Origin Trait: Cursed Thrall
 dimwishlist:item=407511664&perks=3523296417,1523832109,2319119708,3078487919,1156201379
 dimwishlist:item=2828278545&perks=3523296417,1523832109,2319119708,3078487919,1156201379
@@ -21200,7 +21200,7 @@ dimwishlist:item=105306149&perks=2621346526,2610012052,2565067140
 dimwishlist:item=105306149&perks=2621346526,365154968,2565067140
 
 
-// Rockets - 2025-10-21T19:59:28.234Z
+// Rockets - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Hezen Vengeance - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cluster Bomb, Overflow __ Column 2: Bait and Switch, Elemental Honing, Bipod __ Origin Trait: Timelost Magazine
 dimwishlist:item=1921159786&perks=3987942396,1275731761,3643424744,3078487919,1089671869,1439600632,2589407652
 dimwishlist:item=2265407516&perks=3987942396,1275731761,3643424744,3078487919,1089671869,1439600632,2589407652
@@ -22582,7 +22582,7 @@ dimwishlist:item=42351395&perks=2010801679,1275731761,0
 dimwishlist:item=42351395&perks=2010801679,3523296417,0
 
 
-// Swords - 2025-10-21T19:59:28.234Z
+// Swords - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Synanceia - Rank 1, Tier S by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs, Sharp Harvest __ Column 2: Elemental Honing, Eager Edge, Burning Ambition __ Origin Trait: Tenacity
 dimwishlist:item=1823308496&perks=1749209109,243981275,4132187021,1089671869,2077819806,2890807135,3911709647
 dimwishlist:item=2765451288&perks=1749209109,243981275,4132187021,1089671869,2077819806,2890807135,3911709647
@@ -23680,7 +23680,7 @@ dimwishlist:item=3438139008&perks=776531651,2048641572,4091460919
 //notes:Chivalric Fire - Rank 35, Tier F by TheAegisRelic __ Column 1: Repulsor Brace __ Column 2: Destabilizing Rounds __ Origin Trait: One Quiet Moment
 
 
-// Other - 2025-10-21T19:59:28.234Z
+// Other - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Opaque Hourglass - Rank 0, Tier  by TheAegisRelic __ Column 1: Impulse Amplifier, Firefly, Bolt Scavenger __ Column 2: Elemental Honing, Dragonfly, Firing Line __ Origin Trait: Frame of Reference
 dimwishlist:item=1553681400&perks=951095735,1561789734,4042220767,1089671869,2848615171,1771339417,2597494435
 

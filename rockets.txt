@@ -1,4 +1,4 @@
-// Rockets - 2025-10-21T19:59:28.234Z
+// Rockets - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Hezen Vengeance - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cluster Bomb, Overflow __ Column 2: Bait and Switch, Elemental Honing, Bipod __ Origin Trait: Timelost Magazine
 dimwishlist:item=1921159786&perks=3987942396,1275731761,3643424744,3078487919,1089671869,1439600632,2589407652
 dimwishlist:item=2265407516&perks=3987942396,1275731761,3643424744,3078487919,1089671869,1439600632,2589407652

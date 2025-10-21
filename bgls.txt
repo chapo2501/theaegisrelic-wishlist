@@ -1,4 +1,4 @@
-// BGLs - 2025-10-21T19:59:28.234Z
+// BGLs - 2025-10-21T20:07:54.481Z
 //notes:Godroll! VS Velocity Baton - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds, Attrition Orbs __ Origin Trait: Bray Legacy
 dimwishlist:item=1762785663&perks=776531651,3523296417,2048641572,243981275,4139916815
 

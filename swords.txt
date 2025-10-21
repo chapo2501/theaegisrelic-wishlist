@@ -1,4 +1,4 @@
-// Swords - 2025-10-21T19:59:28.234Z
+// Swords - 2025-10-21T20:07:54.481Z
 //notes:Godroll! Synanceia - Rank 1, Tier S by TheAegisRelic __ Column 1: Relentless Strikes, Attrition Orbs, Sharp Harvest __ Column 2: Elemental Honing, Eager Edge, Burning Ambition __ Origin Trait: Tenacity
 dimwishlist:item=1823308496&perks=1749209109,243981275,4132187021,1089671869,2077819806,2890807135,3911709647
 dimwishlist:item=2765451288&perks=1749209109,243981275,4132187021,1089671869,2077819806,2890807135,3911709647
