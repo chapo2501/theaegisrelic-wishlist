@@ -1,9 +1,9 @@
-// Scouts - 2025-10-28T16:24:16.714Z
+// Scouts - 2025-10-28T16:37:34.917Z
 //notes:Godroll! Unworthy - Rank 1, Tier S by TheAegisRelic __ Column 1: Firefly __ Column 2: Voltshot, Frenzy, Paracausal Affinity __ Origin Trait: Subjugation
 dimwishlist:item=2226158470&perks=1561789734,2173046394,4104185692,3215448563,1298135794
 
 
-//notes:Unworthy - Rank 1, Tier S by TheAegisRelic __ Column 1: Firefly __ Column 2: Voltshot, Frenzy, Paracausal Affinity __ Origin Trait: Subjugation
+//notes:Unworthy - Rank 1, Tier S by TheAegisRelicAColumn 1: FireflyAColumn 2: Voltshot, Frenzy, Paracausal AffinityAOrigin Trait: Subjugation
 dimwishlist:item=2226158470&perks=1561789734,2173046394,4104185692,1298135794
 dimwishlist:item=2226158470&perks=1561789734,2173046394,3215448563,1298135794
 dimwishlist:item=2226158470&perks=1561789734,4104185692,3215448563,1298135794
@@ -17,7 +17,7 @@ dimwishlist:item=3245493570&perks=1464081238,247725512,3700496672,2048641572,210
 dimwishlist:item=3709368142&perks=1464081238,247725512,3700496672,2048641572,2109543898,1134488199,1673863459
 
 
-//notes:Aisha's Embrace - Rank 2, Tier S by TheAegisRelic __ Column 1: Demoralize, Rapid Hit, Shoot to Loot __ Column 2: Destabilizing Rounds, Desperate Measures, Withering Gaze __ Origin Trait: Roar of Battle
+//notes:Aisha's Embrace - Rank 2, Tier S by TheAegisRelicAColumn 1: Demoralize, Rapid Hit, Shoot to LootAColumn 2: Destabilizing Rounds, Desperate Measures, Withering GazeAOrigin Trait: Roar of Battle
 dimwishlist:item=2638190703&perks=1464081238,247725512,2048641572,2109543898,1134488199,1673863459
 dimwishlist:item=2638190703&perks=1464081238,3700496672,2048641572,2109543898,1134488199,1673863459
 dimwishlist:item=2638190703&perks=247725512,3700496672,2048641572,2109543898,1134488199,1673863459
@@ -171,7 +171,7 @@ dimwishlist:item=355922321&perks=776531651,247725512,2048641572,2848615171,30382
 dimwishlist:item=3242168339&perks=776531651,247725512,2048641572,2848615171,3038247973,930692523
 
 
-//notes:Vouchsafe - Rank 4, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Rapid Hit __ Column 2: Destabilizing Rounds, Dragonfly, Explosive Payload __ Origin Trait: Advanced Reflexes
+//notes:Vouchsafe - Rank 4, Tier S by TheAegisRelicAColumn 1: Repulsor Brace, Rapid HitAColumn 2: Destabilizing Rounds, Dragonfly, Explosive PayloadAOrigin Trait: Advanced Reflexes
 dimwishlist:item=355922321&perks=776531651,2048641572,2848615171,3038247973,930692523
 dimwishlist:item=355922321&perks=247725512,2048641572,2848615171,3038247973,930692523
 dimwishlist:item=355922321&perks=776531651,247725512,2048641572,2848615171,930692523
@@ -217,7 +217,7 @@ dimwishlist:item=3242168339&perks=247725512,3038247973,930692523
 dimwishlist:item=1197073834&perks=2289534249,3038247973,247725512,1202584452,3891536761,3454102905
 
 
-//notes:Forced Memorializer - Rank 5, Tier A by TheAegisRelic __ Column 1: Bewildering Burst, Explosive Payload, Rapid Hit __ Column 2: Ancillary Ordinance, Kinetic Tremors __ Origin Trait: Problem Solver
+//notes:Forced Memorializer - Rank 5, Tier A by TheAegisRelicAColumn 1: Bewildering Burst, Explosive Payload, Rapid HitAColumn 2: Ancillary Ordinance, Kinetic TremorsAOrigin Trait: Problem Solver
 dimwishlist:item=1197073834&perks=2289534249,3038247973,1202584452,3891536761,3454102905
 dimwishlist:item=1197073834&perks=2289534249,247725512,1202584452,3891536761,3454102905
 dimwishlist:item=1197073834&perks=3038247973,247725512,1202584452,3891536761,3454102905
@@ -250,7 +250,7 @@ dimwishlist:item=4074251943&perks=3891536761,3700496672,777589557,1561789734,303
 dimwishlist:item=4281371574&perks=3891536761,3700496672,777589557,1561789734,3038247973,4049631843,2489430594
 
 
-//notes:Hung Jury SR4 - Rank 6, Tier A by TheAegisRelic __ Column 1: Kinetic Tremors, Shoot to Loot, Enlightened Action __ Column 2: Firefly, Explosive Payload, One for All __ Origin Trait: Indomitability
+//notes:Hung Jury SR4 - Rank 6, Tier A by TheAegisRelicAColumn 1: Kinetic Tremors, Shoot to Loot, Enlightened ActionAColumn 2: Firefly, Explosive Payload, One for AllAOrigin Trait: Indomitability
 dimwishlist:item=205225492&perks=3891536761,3700496672,1561789734,3038247973,4049631843,2489430594
 dimwishlist:item=205225492&perks=3891536761,777589557,1561789734,3038247973,4049631843,2489430594
 dimwishlist:item=205225492&perks=3700496672,777589557,1561789734,3038247973,4049631843,2489430594
@@ -643,7 +643,7 @@ dimwishlist:item=3186018373&perks=4293542123,3017780555,2578928832,1561789734,30
 dimwishlist:item=3444688218&perks=4293542123,3017780555,2578928832,1561789734,3038247973,4104185692,2589407652
 
 
-//notes:Vision of Confluence - Rank 7, Tier A by TheAegisRelic __ Column 1: Incandescent, Heal Clip, Rewind Rounds __ Column 2: Firefly, Explosive Payload, Frenzy __ Origin Trait: Timelost Magazine
+//notes:Vision of Confluence - Rank 7, Tier A by TheAegisRelicAColumn 1: Incandescent, Heal Clip, Rewind RoundsAColumn 2: Firefly, Explosive Payload, FrenzyAOrigin Trait: Timelost Magazine
 dimwishlist:item=337578911&perks=4293542123,3017780555,1561789734,3038247973,4104185692,2589407652
 dimwishlist:item=337578911&perks=4293542123,2578928832,1561789734,3038247973,4104185692,2589407652
 dimwishlist:item=337578911&perks=3017780555,2578928832,1561789734,3038247973,4104185692,2589407652
@@ -846,7 +846,7 @@ dimwishlist:item=2249996761&perks=247725512,880644845,3891536761,3038247973,2838
 dimwishlist:item=2723241847&perks=247725512,880644845,3891536761,3038247973,2838996248
 
 
-//notes:Patron of Lost Causes - Rank 9, Tier A by TheAegisRelic __ Column 1: Rapid Hit, Strategist __ Column 2: Kinetic Tremors, Explosive Payload __ Origin Trait: Cast No Shadows
+//notes:Patron of Lost Causes - Rank 9, Tier A by TheAegisRelicAColumn 1: Rapid Hit, StrategistAColumn 2: Kinetic Tremors, Explosive PayloadAOrigin Trait: Cast No Shadows
 dimwishlist:item=2249996761&perks=247725512,3891536761,3038247973,2838996248
 dimwishlist:item=2249996761&perks=880644845,3891536761,3038247973,2838996248
 dimwishlist:item=2249996761&perks=247725512,880644845,3891536761,2838996248
@@ -868,7 +868,7 @@ dimwishlist:item=2723241847&perks=880644845,3038247973,2838996248
 dimwishlist:item=2639921391&perks=3017780555,247725512,3700496672,4293542123,3038247973,3989629871
 
 
-//notes:Nature Reclaimed - Rank 10, Tier A by TheAegisRelic __ Column 1: Heal Clip, Rapid Hit, Shoot to Loot __ Column 2: Incandescent, Explosive Payload __ Origin Trait: Skulking Wolf
+//notes:Nature Reclaimed - Rank 10, Tier A by TheAegisRelicAColumn 1: Heal Clip, Rapid Hit, Shoot to LootAColumn 2: Incandescent, Explosive PayloadAOrigin Trait: Skulking Wolf
 dimwishlist:item=2639921391&perks=3017780555,247725512,4293542123,3038247973,3989629871
 dimwishlist:item=2639921391&perks=3017780555,3700496672,4293542123,3038247973,3989629871
 dimwishlist:item=2639921391&perks=247725512,3700496672,4293542123,3038247973,3989629871
@@ -894,7 +894,7 @@ dimwishlist:item=2639921391&perks=3700496672,3038247973,3989629871
 dimwishlist:item=2218569744&perks=247725512,3700496672,3523296417,2173046394,3038247973,3907865655
 
 
-//notes:Tarnished Mettle - Rank 11, Tier A by TheAegisRelic __ Column 1: Rapid Hit, Shoot to Loot, Demolitionist __ Column 2: Voltshot, Explosive Payload __ Origin Trait: Right Hook
+//notes:Tarnished Mettle - Rank 11, Tier A by TheAegisRelicAColumn 1: Rapid Hit, Shoot to Loot, DemolitionistAColumn 2: Voltshot, Explosive PayloadAOrigin Trait: Right Hook
 dimwishlist:item=2218569744&perks=247725512,3700496672,2173046394,3038247973,3907865655
 dimwishlist:item=2218569744&perks=247725512,3523296417,2173046394,3038247973,3907865655
 dimwishlist:item=2218569744&perks=3700496672,3523296417,2173046394,3038247973,3907865655
@@ -921,7 +921,7 @@ dimwishlist:item=1184692845&perks=1561789734,3038247973,4104185692,4049631843,28
 dimwishlist:item=1937552980&perks=1561789734,3038247973,4104185692,4049631843,2848615171,120721526
 
 
-//notes:Doom of Chelchis - Rank 12, Tier A by TheAegisRelic __ Column 1: Firefly, Explosive Payload __ Column 2: Frenzy, One for All, Dragonfly __ Origin Trait: Runneth Over
+//notes:Doom of Chelchis - Rank 12, Tier A by TheAegisRelicAColumn 1: Firefly, Explosive PayloadAColumn 2: Frenzy, One for All, DragonflyAOrigin Trait: Runneth Over
 dimwishlist:item=1184692845&perks=1561789734,4104185692,4049631843,2848615171,120721526
 dimwishlist:item=1184692845&perks=3038247973,4104185692,4049631843,2848615171,120721526
 dimwishlist:item=1184692845&perks=1561789734,3038247973,4104185692,4049631843,120721526

@@ -1,4 +1,4 @@
-// Pulses - 2025-10-28T16:24:16.714Z
+// Pulses - 2025-10-28T16:37:34.917Z
 //notes:Godroll! Gridskipper - Rank 1, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Demolitionist __ Column 2: Destabilizing Rounds __ Origin Trait: Splicer Surge
 dimwishlist:item=1621558458&perks=776531651,3523296417,2048641572,3404929162
 dimwishlist:item=3433930495&perks=776531651,3523296417,2048641572,3404929162
@@ -7,7 +7,7 @@ dimwishlist:item=3433930495&perks=776531651,3523296417,2048641572,3404929162
 dimwishlist:item=157601190&perks=776531651,2848615171,3523296417,2048641572,1464081238,4091460919
 
 
-//notes:Joxer's Longsword - Rank 2, Tier S by TheAegisRelic __ Column 1: Repulsor Brace, Dragonfly, Demolitionist __ Column 2: Destabilizing Rounds, Demoralize __ Origin Trait: One Quiet Moment
+//notes:Joxer's Longsword - Rank 2, Tier S by TheAegisRelicAColumn 1: Repulsor Brace, Dragonfly, DemolitionistAColumn 2: Destabilizing Rounds, DemoralizeAOrigin Trait: One Quiet Moment
 dimwishlist:item=157601190&perks=776531651,2848615171,2048641572,1464081238,4091460919
 dimwishlist:item=157601190&perks=776531651,3523296417,2048641572,1464081238,4091460919
 dimwishlist:item=157601190&perks=2848615171,3523296417,2048641572,1464081238,4091460919
@@ -42,7 +42,7 @@ dimwishlist:item=859869931&perks=1561789734,3017780555,3523296417,4293542123,364
 dimwishlist:item=892183998&perks=1561789734,3017780555,3523296417,4293542123,3640170453,243981275,1878756191
 
 
-//notes:Nullify - Rank 6, Tier S by TheAegisRelic __ Column 1: Firefly, Heal Clip, Demolitionist __ Column 2: Incandescent, Chaos Reshaped, Attrition Orbs __ Origin Trait: Collective Purpose
+//notes:Nullify - Rank 6, Tier S by TheAegisRelicAColumn 1: Firefly, Heal Clip, DemolitionistAColumn 2: Incandescent, Chaos Reshaped, Attrition OrbsAOrigin Trait: Collective Purpose
 dimwishlist:item=859869931&perks=1561789734,3017780555,4293542123,3640170453,243981275,1878756191
 dimwishlist:item=859869931&perks=1561789734,3523296417,4293542123,3640170453,243981275,1878756191
 dimwishlist:item=859869931&perks=3017780555,3523296417,4293542123,3640170453,243981275,1878756191
@@ -148,7 +148,7 @@ dimwishlist:item=2372514509&perks=776531651,2578928832,1119449540,2048641572,410
 dimwishlist:item=3851176026&perks=776531651,2578928832,1119449540,2048641572,4104185692,2489430594
 
 
-//notes:Elsie's Rifle - Rank 8, Tier A by TheAegisRelic __ Column 1: Repulsor Brace, Rewind Rounds, Loose Change __ Column 2: Destabilizing Rounds, Frenzy __ Origin Trait: Indomitability
+//notes:Elsie's Rifle - Rank 8, Tier A by TheAegisRelicAColumn 1: Repulsor Brace, Rewind Rounds, Loose ChangeAColumn 2: Destabilizing Rounds, FrenzyAOrigin Trait: Indomitability
 dimwishlist:item=2372514509&perks=776531651,2578928832,2048641572,4104185692,2489430594
 dimwishlist:item=2372514509&perks=776531651,1119449540,2048641572,4104185692,2489430594
 dimwishlist:item=2372514509&perks=2578928832,1119449540,2048641572,4104185692,2489430594
@@ -201,7 +201,7 @@ dimwishlist:item=1167153950&perks=3017780555,243981275,3700496672,4293542123,195
 dimwishlist:item=2993554824&perks=3017780555,243981275,3700496672,4293542123,19542588
 
 
-//notes:Adhortative - Rank 11, Tier A by TheAegisRelic __ Column 1: Heal Clip, Attrition Orbs, Shoot to Loot __ Column 2: Incandescent __ Origin Trait: Nano-Munitions
+//notes:Adhortative - Rank 11, Tier A by TheAegisRelicAColumn 1: Heal Clip, Attrition Orbs, Shoot to LootAColumn 2: IncandescentAOrigin Trait: Nano-Munitions
 dimwishlist:item=1167153950&perks=3017780555,243981275,4293542123,19542588
 dimwishlist:item=1167153950&perks=3017780555,3700496672,4293542123,19542588
 dimwishlist:item=1167153950&perks=243981275,3700496672,4293542123,19542588
@@ -225,7 +225,7 @@ dimwishlist:item=233635202&perks=2848615171,684456054,3523296417,3218042543,4104
 dimwishlist:item=2347178967&perks=2848615171,684456054,3523296417,3218042543,4104185692,1281216113
 
 
-//notes:Cruel Mercy - Rank 12, Tier A by TheAegisRelic __ Column 1: Dragonfly, Eddy Current, Demolitionist __ Column 2: Rolling Storm, Frenzy __ Origin Trait: Stunning Recovery
+//notes:Cruel Mercy - Rank 12, Tier A by TheAegisRelicAColumn 1: Dragonfly, Eddy Current, DemolitionistAColumn 2: Rolling Storm, FrenzyAOrigin Trait: Stunning Recovery
 dimwishlist:item=233635202&perks=2848615171,684456054,3218042543,4104185692,1281216113
 dimwishlist:item=233635202&perks=2848615171,3523296417,3218042543,4104185692,1281216113
 dimwishlist:item=233635202&perks=684456054,3523296417,3218042543,4104185692,1281216113
@@ -273,7 +273,7 @@ dimwishlist:item=2533990645&perks=3891536761,3700496672,1561789734,4049631843,41
 dimwishlist:item=3843477312&perks=3891536761,3700496672,1561789734,4049631843,4104185692,2489430594
 
 
-//notes:Blast Furnace - Rank 13, Tier A by TheAegisRelic __ Column 1: Kinetic Tremors, Shoot to Loot __ Column 2: Firefly, One for All, Frenzy __ Origin Trait: Indomitability
+//notes:Blast Furnace - Rank 13, Tier A by TheAegisRelicAColumn 1: Kinetic Tremors, Shoot to LootAColumn 2: Firefly, One for All, FrenzyAOrigin Trait: Indomitability
 dimwishlist:item=2372514508&perks=3891536761,1561789734,4049631843,4104185692,2489430594
 dimwishlist:item=2372514508&perks=3700496672,1561789734,4049631843,4104185692,2489430594
 dimwishlist:item=2372514508&perks=3891536761,3700496672,1561789734,4049631843,2489430594
@@ -340,7 +340,7 @@ dimwishlist:item=2050789284&perks=3017780555,247725512,2360347339,4293542123,289
 dimwishlist:item=3602242905&perks=3017780555,247725512,2360347339,4293542123,2890807135,1050127423
 
 
-//notes:Stars in Shadow - Rank 14, Tier A by TheAegisRelic __ Column 1: Heal Clip, Rapid Hit, Impromptu Ammunition __ Column 2: Incandescent, Burning Ambition __ Origin Trait: Wild Card
+//notes:Stars in Shadow - Rank 14, Tier A by TheAegisRelicAColumn 1: Heal Clip, Rapid Hit, Impromptu AmmunitionAColumn 2: Incandescent, Burning AmbitionAOrigin Trait: Wild Card
 dimwishlist:item=2050789284&perks=3017780555,247725512,4293542123,2890807135,1050127423
 dimwishlist:item=2050789284&perks=3017780555,2360347339,4293542123,2890807135,1050127423
 dimwishlist:item=2050789284&perks=247725512,2360347339,4293542123,2890807135,1050127423
