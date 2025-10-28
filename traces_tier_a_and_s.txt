@@ -1,9 +1,9 @@
-// Traces - 2025-10-28T16:37:34.917Z
-//notes:Godroll! Chronophage - Rank 1, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Repulsor Brace __ Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures __ Origin Trait: Radiolaria Transposer
+// Traces - 2025-10-28T16:39:27.188Z
+//notes:Godroll!\nChronophage - Rank 1, Tier S by TheAegisRelic\nColumn 1: Shoot to Loot, Repulsor Brace\nColumn 2: Destabilizing Rounds, Demolitionist, Desperate Measures\nOrigin Trait: Radiolaria Transposer
 dimwishlist:item=1886840007&perks=3700496672,776531651,2048641572,3523296417,2109543898,253121539
 
 
-//notes:Chronophage - Rank 1, Tier S by TheAegisRelicAColumn 1: Shoot to Loot, Repulsor BraceAColumn 2: Destabilizing Rounds, Demolitionist, Desperate MeasuresAOrigin Trait: Radiolaria Transposer
+//notes:Chronophage - Rank 1, Tier S by TheAegisRelic\nColumn 1: Shoot to Loot, Repulsor Brace\nColumn 2: Destabilizing Rounds, Demolitionist, Desperate Measures\nOrigin Trait: Radiolaria Transposer
 dimwishlist:item=1886840007&perks=3700496672,2048641572,3523296417,2109543898,253121539
 dimwishlist:item=1886840007&perks=776531651,2048641572,3523296417,2109543898,253121539
 dimwishlist:item=1886840007&perks=3700496672,776531651,2048641572,3523296417,253121539
@@ -25,11 +25,11 @@ dimwishlist:item=1886840007&perks=776531651,2048641572,253121539
 dimwishlist:item=1886840007&perks=776531651,3523296417,253121539
 dimwishlist:item=1886840007&perks=776531651,2109543898,253121539
 
-//notes:Godroll! Unsworn - Rank 2, Tier S by TheAegisRelic __ Column 1: Shoot to Loot, Tear, Rewind Rounds __ Column 2: Detonator Beam, Elemental Honing, Hatchling __ Origin Trait: Subjugation
+//notes:Godroll!\nUnsworn - Rank 2, Tier S by TheAegisRelic\nColumn 1: Shoot to Loot, Tear, Rewind Rounds\nColumn 2: Detonator Beam, Elemental Honing, Hatchling\nOrigin Trait: Subjugation
 dimwishlist:item=1303313141&perks=3700496672,960997401,2578928832,4198902903,1089671869,831391274,1298135794
 
 
-//notes:Unsworn - Rank 2, Tier S by TheAegisRelicAColumn 1: Shoot to Loot, Tear, Rewind RoundsAColumn 2: Detonator Beam, Elemental Honing, HatchlingAOrigin Trait: Subjugation
+//notes:Unsworn - Rank 2, Tier S by TheAegisRelic\nColumn 1: Shoot to Loot, Tear, Rewind Rounds\nColumn 2: Detonator Beam, Elemental Honing, Hatchling\nOrigin Trait: Subjugation
 dimwishlist:item=1303313141&perks=3700496672,960997401,4198902903,1089671869,831391274,1298135794
 dimwishlist:item=1303313141&perks=3700496672,2578928832,4198902903,1089671869,831391274,1298135794
 dimwishlist:item=1303313141&perks=960997401,2578928832,4198902903,1089671869,831391274,1298135794
@@ -79,11 +79,11 @@ dimwishlist:item=1303313141&perks=2578928832,4198902903,1298135794
 dimwishlist:item=1303313141&perks=2578928832,1089671869,1298135794
 dimwishlist:item=1303313141&perks=2578928832,831391274,1298135794
 
-//notes:Godroll! Retraced Path - Rank 3, Tier A by TheAegisRelic __ Column 1: Shoot to Loot __ Column 2: Demolitionist, Frenzy, Incandescent __ Origin Trait: Hot Swap
+//notes:Godroll!\nRetraced Path - Rank 3, Tier A by TheAegisRelic\nColumn 1: Shoot to Loot\nColumn 2: Demolitionist, Frenzy, Incandescent\nOrigin Trait: Hot Swap
 dimwishlist:item=548958835&perks=3700496672,3523296417,4104185692,4293542123,1260401931
 
 
-//notes:Retraced Path - Rank 3, Tier A by TheAegisRelicAColumn 1: Shoot to LootAColumn 2: Demolitionist, Frenzy, IncandescentAOrigin Trait: Hot Swap
+//notes:Retraced Path - Rank 3, Tier A by TheAegisRelic\nColumn 1: Shoot to Loot\nColumn 2: Demolitionist, Frenzy, Incandescent\nOrigin Trait: Hot Swap
 dimwishlist:item=548958835&perks=3700496672,3523296417,4104185692,1260401931
 dimwishlist:item=548958835&perks=3700496672,3523296417,4293542123,1260401931
 dimwishlist:item=548958835&perks=3700496672,4104185692,4293542123,1260401931
@@ -91,7 +91,7 @@ dimwishlist:item=548958835&perks=3700496672,3523296417,1260401931
 dimwishlist:item=548958835&perks=3700496672,4104185692,1260401931
 dimwishlist:item=548958835&perks=3700496672,4293542123,1260401931
 
-//notes:Godroll! Incisor - Rank 5, Tier A by TheAegisRelic __ Column 1: Slice __ Column 2: Attrition Orbs, Hatchling __ Origin Trait: One Quiet Moment
+//notes:Godroll!\nIncisor - Rank 5, Tier A by TheAegisRelic\nColumn 1: Slice\nColumn 2: Attrition Orbs, Hatchling\nOrigin Trait: One Quiet Moment
 dimwishlist:item=1711056134&perks=923806249,243981275,831391274,4091460919
 dimwishlist:item=2421180981&perks=923806249,243981275,831391274,4091460919
 dimwishlist:item=2839600459&perks=923806249,243981275,831391274,4091460919
