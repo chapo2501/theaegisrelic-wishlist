@@ -1,4 +1,4 @@
-// Bows - 2025-10-28T16:47:47.341Z
+// Bows - 2025-10-28T16:50:08.078Z
 //notes:Godroll!\ANon-Denouement - Rank 1, Tier S by TheAegisRelic
 Column 1: Dragonfly, Archer's Tempo, Shoot to Loot
 Column 2: Voltshot, Explosive Head, Chaos Reshaped
@@ -7,9 +7,9 @@ dimwishlist:item=1039915310&perks=2848615171,201365942,3700496672,2173046394,336
 dimwishlist:item=1770490683&perks=2848615171,201365942,3700496672,2173046394,3365897133,3640170453,1878756191
 
 
-//notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic
-Column 1: Dragonfly, Archer's Tempo, Shoot to Loot
-Column 2: Voltshot, Explosive Head, Chaos Reshaped
+//notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic\
+Column 1: Dragonfly, Archer's Tempo, Shoot to Loot\
+Column 2: Voltshot, Explosive Head, Chaos Reshaped\
 Origin Trait: Collective Purpose
 dimwishlist:item=1039915310&perks=2848615171,201365942,2173046394,3365897133,3640170453,1878756191
 dimwishlist:item=1039915310&perks=2848615171,3700496672,2173046394,3365897133,3640170453,1878756191
@@ -124,9 +124,9 @@ dimwishlist:item=2326578623&perks=2848615171,776531651,2360347339,2048641572,146
 dimwishlist:item=2631466936&perks=2848615171,776531651,2360347339,2048641572,1464081238,3365897133,3988215619
 
 
-//notes:Fortunate Star - Rank 3, Tier A by TheAegisRelic
-Column 1: Dragonfly, Repulsor Brace, Impromptu Ammunition
-Column 2: Destabilizing Rounds, Demoralize, Explosive Head
+//notes:Fortunate Star - Rank 3, Tier A by TheAegisRelic\
+Column 1: Dragonfly, Repulsor Brace, Impromptu Ammunition\
+Column 2: Destabilizing Rounds, Demoralize, Explosive Head\
 Origin Trait: Veist Stinger
 dimwishlist:item=591672323&perks=2848615171,776531651,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=591672323&perks=2848615171,2360347339,2048641572,1464081238,3365897133,3988215619
@@ -283,9 +283,9 @@ dimwishlist:item=3417731926&perks=776531651,2848615171,201365942,2048641572,1464
 dimwishlist:item=3949253499&perks=776531651,2848615171,201365942,2048641572,1464081238,3365897133,120721526
 
 
-//notes:Anamnesis - Rank 4, Tier A by TheAegisRelic
-Column 1: Repulsor Brace, Dragonfly, Archer's Tempo
-Column 2: Destabilizing Rounds, Demoralize, Explosive Head
+//notes:Anamnesis - Rank 4, Tier A by TheAegisRelic\
+Column 1: Repulsor Brace, Dragonfly, Archer's Tempo\
+Column 2: Destabilizing Rounds, Demoralize, Explosive Head\
 Origin Trait: Runneth Over
 dimwishlist:item=1536325168&perks=776531651,2848615171,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=1536325168&perks=776531651,201365942,2048641572,1464081238,3365897133,120721526
@@ -491,9 +491,9 @@ dimwishlist:item=2063217087&perks=4293542123,1561789734,2890807135,3365897133,10
 dimwishlist:item=2932922810&perks=4293542123,1561789734,2890807135,3365897133,1089671869,1050127423
 
 
-//notes:Pre Astyanax IV - Rank 5, Tier A by TheAegisRelic
-Column 1: Incandescent, Firefly
-Column 2: Burning Ambition, Explosive Head, Elemental Honing
+//notes:Pre Astyanax IV - Rank 5, Tier A by TheAegisRelic\
+Column 1: Incandescent, Firefly\
+Column 2: Burning Ambition, Explosive Head, Elemental Honing\
 Origin Trait: Wild Card
 dimwishlist:item=192784503&perks=4293542123,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=192784503&perks=1561789734,2890807135,3365897133,1089671869,1050127423
@@ -604,9 +604,9 @@ dimwishlist:item=2721249463&perks=2848615171,3365897133,201365942,4293542123,404
 dimwishlist:item=3388655311&perks=2848615171,3365897133,201365942,4293542123,4049631843,1489048135
 
 
-//notes:Tyranny of Heaven - Rank 6, Tier A by TheAegisRelic
-Column 1: Dragonfly, Explosive Head, Archer's Tempo
-Column 2: Incandescent, One for All
+//notes:Tyranny of Heaven - Rank 6, Tier A by TheAegisRelic\
+Column 1: Dragonfly, Explosive Head, Archer's Tempo\
+Column 2: Incandescent, One for All\
 Origin Trait: Explosive Pact
 dimwishlist:item=2721249463&perks=2848615171,3365897133,4293542123,4049631843,1489048135
 dimwishlist:item=2721249463&perks=2848615171,201365942,4293542123,4049631843,1489048135

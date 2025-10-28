@@ -1,4 +1,4 @@
-// Snipers - 2025-10-28T16:47:47.341Z
+// Snipers - 2025-10-28T16:50:08.078Z
 //notes:Godroll!\APraedyth's Revenge - Rank 1, Tier S by TheAegisRelic
 Column 1: Fourth Time's the Charm, Kinetic Tremors, Discord
 Column 2: Bait and Switch, Elemental Honing, Firefly
@@ -9,9 +9,9 @@ dimwishlist:item=3653573172&perks=1354429876,3891536761,3978468247,3078487919,10
 dimwishlist:item=3844610113&perks=1354429876,3891536761,3978468247,3078487919,1089671869,1561789734,2589407652
 
 
-//notes:Praedyth's Revenge - Rank 1, Tier S by TheAegisRelic
-Column 1: Fourth Time's the Charm, Kinetic Tremors, Discord
-Column 2: Bait and Switch, Elemental Honing, Firefly
+//notes:Praedyth's Revenge - Rank 1, Tier S by TheAegisRelic\
+Column 1: Fourth Time's the Charm, Kinetic Tremors, Discord\
+Column 2: Bait and Switch, Elemental Honing, Firefly\
 Origin Trait: Timelost Magazine
 dimwishlist:item=1987769101&perks=1354429876,3891536761,3078487919,1089671869,1561789734,2589407652
 dimwishlist:item=1987769101&perks=1354429876,3978468247,3078487919,1089671869,1561789734,2589407652
@@ -213,9 +213,9 @@ Origin Trait: Frame of Reference
 dimwishlist:item=688593230&perks=1354429876,3987942396,1556840489,3078487919,1089671869,3201496230,2597494435
 
 
-//notes:Lance Ephemeral - Rank 2, Tier S by TheAegisRelic
-Column 1: Fourth Time's the Charm, Envious Arsenal, Lead from Gold
-Column 2: Bait and Switch, Elemental Honing, Redirection
+//notes:Lance Ephemeral - Rank 2, Tier S by TheAegisRelic\
+Column 1: Fourth Time's the Charm, Envious Arsenal, Lead from Gold\
+Column 2: Bait and Switch, Elemental Honing, Redirection\
 Origin Trait: Frame of Reference
 dimwishlist:item=688593230&perks=1354429876,3987942396,3078487919,1089671869,3201496230,2597494435
 dimwishlist:item=688593230&perks=1354429876,1556840489,3078487919,1089671869,3201496230,2597494435
@@ -274,9 +274,9 @@ dimwishlist:item=686951703&perks=2578928832,1556840489,3978468247,3891536761,307
 dimwishlist:item=2884596447&perks=2578928832,1556840489,3978468247,3891536761,3078487919,1354429876,1489048135
 
 
-//notes:The Supremacy - Rank 3, Tier A by TheAegisRelic
-Column 1: Rewind Rounds, Lead from Gold, Discord
-Column 2: Kinetic Tremors, Bait and Switch, Fourth Time's the Charm
+//notes:The Supremacy - Rank 3, Tier A by TheAegisRelic\
+Column 1: Rewind Rounds, Lead from Gold, Discord\
+Column 2: Kinetic Tremors, Bait and Switch, Fourth Time's the Charm\
 Origin Trait: Explosive Pact
 dimwishlist:item=686951703&perks=2578928832,1556840489,3891536761,3078487919,1354429876,1489048135
 dimwishlist:item=686951703&perks=2578928832,3978468247,3891536761,3078487919,1354429876,1489048135
@@ -383,9 +383,9 @@ dimwishlist:item=147444292&perks=1354429876,3987942396,555281244,1546637391,5119
 dimwishlist:item=3454326177&perks=1354429876,3987942396,555281244,1546637391,511914882
 
 
-//notes:Omniscient Eye - Rank 4, Tier A by TheAegisRelic
-Column 1: Fourth Time's the Charm, Envious Arsenal
-Column 2: Precision Instrument, Vorpal Weapon
+//notes:Omniscient Eye - Rank 4, Tier A by TheAegisRelic\
+Column 1: Fourth Time's the Charm, Envious Arsenal\
+Column 2: Precision Instrument, Vorpal Weapon\
 Origin Trait: Photoinhibition
 dimwishlist:item=147444292&perks=1354429876,555281244,1546637391,511914882
 dimwishlist:item=147444292&perks=3987942396,555281244,1546637391,511914882
@@ -419,9 +419,9 @@ dimwishlist:item=1893967086&perks=3987942396,4293542123,3400784728,3078487919,39
 dimwishlist:item=3503560035&perks=3987942396,4293542123,3400784728,3078487919,3978468247,1354429876,1607056502
 
 
-//notes:Keen Thistle - Rank 6, Tier A by TheAegisRelic
-Column 1: Envious Arsenal, Incandescent, Triple Tap
-Column 2: Bait and Switch, Discord, Fourth Time's the Charm
+//notes:Keen Thistle - Rank 6, Tier A by TheAegisRelic\
+Column 1: Envious Arsenal, Incandescent, Triple Tap\
+Column 2: Bait and Switch, Discord, Fourth Time's the Charm\
 Origin Trait: Hakke Breach Armaments
 dimwishlist:item=1893967086&perks=3987942396,4293542123,3078487919,3978468247,1354429876,1607056502
 dimwishlist:item=1893967086&perks=3987942396,3400784728,3078487919,3978468247,1354429876,1607056502
@@ -529,9 +529,9 @@ dimwishlist:item=2990047042&perks=1523832109,3523296417,3978468247,469285294,154
 dimwishlist:item=3612338554&perks=1523832109,3523296417,3978468247,469285294,1546637391,3201496230,2489430594
 
 
-//notes:Succession - Rank 8, Tier A by TheAegisRelic
-Column 1: Reconstruction, Demolitionist, Discord
-Column 2: Recombination, Vorpal Weapon, Redirection
+//notes:Succession - Rank 8, Tier A by TheAegisRelic\
+Column 1: Reconstruction, Demolitionist, Discord\
+Column 2: Recombination, Vorpal Weapon, Redirection\
 Origin Trait: Indomitability
 dimwishlist:item=570866107&perks=1523832109,3523296417,469285294,1546637391,3201496230,2489430594
 dimwishlist:item=570866107&perks=1523832109,3978468247,469285294,1546637391,3201496230,2489430594
@@ -687,9 +687,9 @@ dimwishlist:item=2990047042&perks=1523832109,3523296417,469285294,1546637391,177
 dimwishlist:item=3612338554&perks=1523832109,3523296417,469285294,1546637391,1774574192,766321425
 
 
-//notes:Succession - Rank 9, Tier A by TheAegisRelic
-Column 1: Reconstruction, Demolitionist
-Column 2: Recombination, Vorpal Weapon, Osmosis
+//notes:Succession - Rank 9, Tier A by TheAegisRelic\
+Column 1: Reconstruction, Demolitionist\
+Column 2: Recombination, Vorpal Weapon, Osmosis\
 Origin Trait: Bray Inheritance
 dimwishlist:item=570866107&perks=1523832109,469285294,1546637391,1774574192,766321425
 dimwishlist:item=570866107&perks=3523296417,469285294,1546637391,1774574192,766321425
