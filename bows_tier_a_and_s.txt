@@ -1,8 +1,8 @@
 
-//notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Voltshot, Explosive Head, Chaos Reshaped1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Collective Purpose
+//notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic
+Column 1: Dragonfly, Archer's Tempo, Shoot to Loot
+Column 2: Voltshot, Explosive Head, Chaos Reshaped
+Origin Trait: Collective Purpose
 dimwishlist:item=1039915310&perks=2848615171,201365942,2173046394,3365897133,3640170453,1878756191
 dimwishlist:item=1039915310&perks=2848615171,3700496672,2173046394,3365897133,3640170453,1878756191
 dimwishlist:item=1039915310&perks=201365942,3700496672,2173046394,3365897133,3640170453,1878756191
@@ -101,10 +101,10 @@ dimwishlist:item=1770490683&perks=3700496672,3365897133,1878756191
 dimwishlist:item=1770490683&perks=3700496672,3640170453,1878756191
 
 
-//notes:Fortunate Star - Rank 3, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Repulsor Brace, Impromptu Ammunition1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Demoralize, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
+//notes:Fortunate Star - Rank 3, Tier A by TheAegisRelic
+Column 1: Dragonfly, Repulsor Brace, Impromptu Ammunition
+Column 2: Destabilizing Rounds, Demoralize, Explosive Head
+Origin Trait: Veist Stinger
 dimwishlist:item=591672323&perks=2848615171,776531651,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=591672323&perks=2848615171,2360347339,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=591672323&perks=776531651,2360347339,2048641572,1464081238,3365897133,3988215619
@@ -251,10 +251,10 @@ dimwishlist:item=2631466936&perks=2360347339,1464081238,3988215619
 dimwishlist:item=2631466936&perks=2360347339,3365897133,3988215619
 
 
-//notes:Anamnesis - Rank 4, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Dragonfly, Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Demoralize, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Runneth Over
+//notes:Anamnesis - Rank 4, Tier A by TheAegisRelic
+Column 1: Repulsor Brace, Dragonfly, Archer's Tempo
+Column 2: Destabilizing Rounds, Demoralize, Explosive Head
+Origin Trait: Runneth Over
 dimwishlist:item=1536325168&perks=776531651,2848615171,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=1536325168&perks=776531651,201365942,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=1536325168&perks=2848615171,201365942,2048641572,1464081238,3365897133,120721526
@@ -449,10 +449,10 @@ dimwishlist:item=3949253499&perks=201365942,1464081238,120721526
 dimwishlist:item=3949253499&perks=201365942,3365897133,120721526
 
 
-//notes:Pre Astyanax IV - Rank 5, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Incandescent, Firefly1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Burning Ambition, Explosive Head, Elemental Honing1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Wild Card
+//notes:Pre Astyanax IV - Rank 5, Tier A by TheAegisRelic
+Column 1: Incandescent, Firefly
+Column 2: Burning Ambition, Explosive Head, Elemental Honing
+Origin Trait: Wild Card
 dimwishlist:item=192784503&perks=4293542123,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=192784503&perks=1561789734,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=192784503&perks=4293542123,1561789734,2890807135,3365897133,1050127423
@@ -555,10 +555,10 @@ dimwishlist:item=2932922810&perks=1561789734,3365897133,1050127423
 dimwishlist:item=2932922810&perks=1561789734,1089671869,1050127423
 
 
-//notes:Tyranny of Heaven - Rank 6, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Explosive Head, Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, One for All1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Explosive Pact
+//notes:Tyranny of Heaven - Rank 6, Tier A by TheAegisRelic
+Column 1: Dragonfly, Explosive Head, Archer's Tempo
+Column 2: Incandescent, One for All
+Origin Trait: Explosive Pact
 dimwishlist:item=2721249463&perks=2848615171,3365897133,4293542123,4049631843,1489048135
 dimwishlist:item=2721249463&perks=2848615171,201365942,4293542123,4049631843,1489048135
 dimwishlist:item=2721249463&perks=3365897133,201365942,4293542123,4049631843,1489048135

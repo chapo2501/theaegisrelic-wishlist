@@ -1,9 +1,9 @@
-// Swords - 2025-10-28T17:26:10.244Z
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Synanceia - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs, Sharp Harvest1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Elemental Honing, Eager Edge, Burning Ambition1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Tenacity
+// Swords - 2025-10-28T17:31:32.368Z
+//notes:Godroll!
+Synanceia - Rank 1, Tier S by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs, Sharp Harvest
+Column 2: Elemental Honing, Eager Edge, Burning Ambition
+Origin Trait: Tenacity
 dimwishlist:item=1823308496&perks=1749209109,243981275,4132187021,1089671869,2077819806,2890807135,3911709647
 dimwishlist:item=2765451288&perks=1749209109,243981275,4132187021,1089671869,2077819806,2890807135,3911709647
 dimwishlist:item=2765451289&perks=1749209109,243981275,4132187021,1089671869,2077819806,2890807135,3911709647
@@ -11,10 +11,10 @@ dimwishlist:item=2765451290&perks=1749209109,243981275,4132187021,1089671869,207
 dimwishlist:item=2765451291&perks=1749209109,243981275,4132187021,1089671869,2077819806,2890807135,3911709647
 
 
-//notes:Synanceia - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs, Sharp Harvest1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Elemental Honing, Eager Edge, Burning Ambition1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Tenacity
+//notes:Synanceia - Rank 1, Tier S by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs, Sharp Harvest
+Column 2: Elemental Honing, Eager Edge, Burning Ambition
+Origin Trait: Tenacity
 dimwishlist:item=1823308496&perks=1749209109,243981275,1089671869,2077819806,2890807135,3911709647
 dimwishlist:item=1823308496&perks=1749209109,4132187021,1089671869,2077819806,2890807135,3911709647
 dimwishlist:item=1823308496&perks=243981275,4132187021,1089671869,2077819806,2890807135,3911709647
@@ -256,51 +256,51 @@ dimwishlist:item=2765451291&perks=4132187021,1089671869,3911709647
 dimwishlist:item=2765451291&perks=4132187021,2077819806,3911709647
 dimwishlist:item=2765451291&perks=4132187021,2890807135,3911709647
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Bequest - Rank 2, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Vorpal Weapon1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Bray Inheritance
+//notes:Godroll!
+Bequest - Rank 2, Tier S by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Vorpal Weapon
+Origin Trait: Bray Inheritance
 dimwishlist:item=3366545721&perks=1749209109,3708227201,1546637391,766321425
 
 
-//notes:Bequest - Rank 2, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Vorpal Weapon1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Bray Inheritance
+//notes:Bequest - Rank 2, Tier S by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Vorpal Weapon
+Origin Trait: Bray Inheritance
 dimwishlist:item=3366545721&perks=1749209109,3708227201,766321425
 dimwishlist:item=3366545721&perks=1749209109,1546637391,766321425
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 The Slammer - Rank 3, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Eager Edge1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Cold Steel, Demolitionist1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Stunning Recovery
+//notes:Godroll!
+The Slammer - Rank 3, Tier S by TheAegisRelic
+Column 1: Eager Edge
+Column 2: Cold Steel, Demolitionist
+Origin Trait: Stunning Recovery
 dimwishlist:item=1354727549&perks=2077819806,3650930298,3523296417,1281216113
 dimwishlist:item=2889501828&perks=2077819806,3650930298,3523296417,1281216113
 
 
-//notes:The Slammer - Rank 3, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Eager Edge1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Cold Steel, Demolitionist1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Stunning Recovery
+//notes:The Slammer - Rank 3, Tier S by TheAegisRelic
+Column 1: Eager Edge
+Column 2: Cold Steel, Demolitionist
+Origin Trait: Stunning Recovery
 dimwishlist:item=1354727549&perks=2077819806,3650930298,1281216113
 dimwishlist:item=1354727549&perks=2077819806,3523296417,1281216113
 dimwishlist:item=2889501828&perks=2077819806,3650930298,1281216113
 dimwishlist:item=2889501828&perks=2077819806,3523296417,1281216113
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Aurora Dawn - Rank 4, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Sharp Harvest, Flash Counter, Rimestealer1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade, Elemental Honing, Cold Steel1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Vanguard Determination
+//notes:Godroll!
+Aurora Dawn - Rank 4, Tier A by TheAegisRelic
+Column 1: Sharp Harvest, Flash Counter, Rimestealer
+Column 2: Whirlwind Blade, Elemental Honing, Cold Steel
+Origin Trait: Vanguard Determination
 dimwishlist:item=2111625436&perks=4132187021,2244851822,1955165503,3913600130,1089671869,3650930298,3846229553
 
 
-//notes:Aurora Dawn - Rank 4, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Sharp Harvest, Flash Counter, Rimestealer1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade, Elemental Honing, Cold Steel1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Vanguard Determination
+//notes:Aurora Dawn - Rank 4, Tier A by TheAegisRelic
+Column 1: Sharp Harvest, Flash Counter, Rimestealer
+Column 2: Whirlwind Blade, Elemental Honing, Cold Steel
+Origin Trait: Vanguard Determination
 dimwishlist:item=2111625436&perks=4132187021,2244851822,3913600130,1089671869,3650930298,3846229553
 dimwishlist:item=2111625436&perks=4132187021,1955165503,3913600130,1089671869,3650930298,3846229553
 dimwishlist:item=2111625436&perks=2244851822,1955165503,3913600130,1089671869,3650930298,3846229553
@@ -350,19 +350,19 @@ dimwishlist:item=2111625436&perks=1955165503,3913600130,3846229553
 dimwishlist:item=2111625436&perks=1955165503,1089671869,3846229553
 dimwishlist:item=2111625436&perks=1955165503,3650930298,3846229553
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Summum Bonum - Rank 5, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs, Deconstruct1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Chaos Reshaped, Whirlwind Blade, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Collective Purpose
+//notes:Godroll!
+Summum Bonum - Rank 5, Tier A by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs, Deconstruct
+Column 2: Chaos Reshaped, Whirlwind Blade, Surrounded
+Origin Trait: Collective Purpose
 dimwishlist:item=2001697739&perks=1749209109,243981275,1164602481,3640170453,3913600130,3708227201,1878756191
 dimwishlist:item=3569407878&perks=1749209109,243981275,1164602481,3640170453,3913600130,3708227201,1878756191
 
 
-//notes:Summum Bonum - Rank 5, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs, Deconstruct1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Chaos Reshaped, Whirlwind Blade, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Collective Purpose
+//notes:Summum Bonum - Rank 5, Tier A by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs, Deconstruct
+Column 2: Chaos Reshaped, Whirlwind Blade, Surrounded
+Origin Trait: Collective Purpose
 dimwishlist:item=2001697739&perks=1749209109,243981275,3640170453,3913600130,3708227201,1878756191
 dimwishlist:item=2001697739&perks=1749209109,1164602481,3640170453,3913600130,3708227201,1878756191
 dimwishlist:item=2001697739&perks=243981275,1164602481,3640170453,3913600130,3708227201,1878756191
@@ -460,21 +460,21 @@ dimwishlist:item=3569407878&perks=1164602481,3640170453,1878756191
 dimwishlist:item=3569407878&perks=1164602481,3913600130,1878756191
 dimwishlist:item=3569407878&perks=1164602481,3708227201,1878756191
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Abyssal Edge - Rank 6, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Flash Counter1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Elemental Honing, Surrounded, Redirection1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Willing Vessel
+//notes:Godroll!
+Abyssal Edge - Rank 6, Tier A by TheAegisRelic
+Column 1: Relentless Strikes, Flash Counter
+Column 2: Elemental Honing, Surrounded, Redirection
+Origin Trait: Willing Vessel
 dimwishlist:item=547165496&perks=1749209109,2244851822,1089671869,3708227201,3201496230,878237828
 dimwishlist:item=2712683313&perks=1749209109,2244851822,1089671869,3708227201,3201496230,878237828
 dimwishlist:item=3054597646&perks=1749209109,2244851822,1089671869,3708227201,3201496230,878237828
 dimwishlist:item=4221591387&perks=1749209109,2244851822,1089671869,3708227201,3201496230,878237828
 
 
-//notes:Abyssal Edge - Rank 6, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Flash Counter1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Elemental Honing, Surrounded, Redirection1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Willing Vessel
+//notes:Abyssal Edge - Rank 6, Tier A by TheAegisRelic
+Column 1: Relentless Strikes, Flash Counter
+Column 2: Elemental Honing, Surrounded, Redirection
+Origin Trait: Willing Vessel
 dimwishlist:item=547165496&perks=1749209109,1089671869,3708227201,3201496230,878237828
 dimwishlist:item=547165496&perks=2244851822,1089671869,3708227201,3201496230,878237828
 dimwishlist:item=547165496&perks=1749209109,2244851822,1089671869,3708227201,878237828
@@ -556,33 +556,33 @@ dimwishlist:item=4221591387&perks=2244851822,1089671869,878237828
 dimwishlist:item=4221591387&perks=2244851822,3708227201,878237828
 dimwishlist:item=4221591387&perks=2244851822,3201496230,878237828
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Geodetic HSm - Rank 7, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Nadir Focus
+//notes:Godroll!
+Geodetic HSm - Rank 7, Tier A by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Whirlwind Blade
+Origin Trait: Nadir Focus
 dimwishlist:item=3637669759&perks=1749209109,3913600130,2509860981
 
 
-//notes:Geodetic HSm - Rank 7, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Nadir Focus
+//notes:Geodetic HSm - Rank 7, Tier A by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Whirlwind Blade
+Origin Trait: Nadir Focus
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Falling Guillotine - Rank 8, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Chain Reaction, Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Eager Edge, Bait and Switch, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Indomitability
+//notes:Godroll!
+Falling Guillotine - Rank 8, Tier A by TheAegisRelic
+Column 1: Chain Reaction, Frenzy
+Column 2: Eager Edge, Bait and Switch, Surrounded
+Origin Trait: Indomitability
 dimwishlist:item=243425374&perks=2396489472,4104185692,2077819806,3078487919,3708227201,2489430594
 dimwishlist:item=614426548&perks=2396489472,4104185692,2077819806,3078487919,3708227201,2489430594
 dimwishlist:item=1815105249&perks=2396489472,4104185692,2077819806,3078487919,3708227201,2489430594
 
 
-//notes:Falling Guillotine - Rank 8, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Chain Reaction, Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Eager Edge, Bait and Switch, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Indomitability
+//notes:Falling Guillotine - Rank 8, Tier A by TheAegisRelic
+Column 1: Chain Reaction, Frenzy
+Column 2: Eager Edge, Bait and Switch, Surrounded
+Origin Trait: Indomitability
 dimwishlist:item=243425374&perks=2396489472,2077819806,3078487919,3708227201,2489430594
 dimwishlist:item=243425374&perks=4104185692,2077819806,3078487919,3708227201,2489430594
 dimwishlist:item=243425374&perks=2396489472,4104185692,2077819806,3078487919,2489430594
@@ -644,18 +644,18 @@ dimwishlist:item=1815105249&perks=4104185692,2077819806,2489430594
 dimwishlist:item=1815105249&perks=4104185692,3078487919,2489430594
 dimwishlist:item=1815105249&perks=4104185692,3708227201,2489430594
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Ill Omen - Rank 9, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Radiolaria Transposer
+//notes:Godroll!
+Ill Omen - Rank 9, Tier A by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs
+Column 2: Whirlwind Blade, Surrounded
+Origin Trait: Radiolaria Transposer
 dimwishlist:item=3794274730&perks=1749209109,243981275,3913600130,3708227201,253121539
 
 
-//notes:Ill Omen - Rank 9, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Radiolaria Transposer
+//notes:Ill Omen - Rank 9, Tier A by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs
+Column 2: Whirlwind Blade, Surrounded
+Origin Trait: Radiolaria Transposer
 dimwishlist:item=3794274730&perks=1749209109,3913600130,3708227201,253121539
 dimwishlist:item=3794274730&perks=243981275,3913600130,3708227201,253121539
 dimwishlist:item=3794274730&perks=1749209109,243981275,3913600130,253121539
@@ -665,18 +665,18 @@ dimwishlist:item=3794274730&perks=1749209109,3708227201,253121539
 dimwishlist:item=3794274730&perks=243981275,3913600130,253121539
 dimwishlist:item=3794274730&perks=243981275,3708227201,253121539
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 The Other Half - Rank 10, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Eager Edge, Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Frenzy, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Hot Swap
+//notes:Godroll!
+The Other Half - Rank 10, Tier A by TheAegisRelic
+Column 1: Eager Edge, Relentless Strikes
+Column 2: Surrounded, Frenzy, Whirlwind Blade
+Origin Trait: Hot Swap
 dimwishlist:item=3257091167&perks=2077819806,1749209109,3708227201,4104185692,3913600130,1260401931
 
 
-//notes:The Other Half - Rank 10, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Eager Edge, Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Frenzy, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Hot Swap
+//notes:The Other Half - Rank 10, Tier A by TheAegisRelic
+Column 1: Eager Edge, Relentless Strikes
+Column 2: Surrounded, Frenzy, Whirlwind Blade
+Origin Trait: Hot Swap
 dimwishlist:item=3257091167&perks=2077819806,3708227201,4104185692,3913600130,1260401931
 dimwishlist:item=3257091167&perks=1749209109,3708227201,4104185692,3913600130,1260401931
 dimwishlist:item=3257091167&perks=2077819806,1749209109,3708227201,4104185692,1260401931
@@ -698,25 +698,25 @@ dimwishlist:item=3257091167&perks=1749209109,3708227201,1260401931
 dimwishlist:item=3257091167&perks=1749209109,4104185692,1260401931
 dimwishlist:item=3257091167&perks=1749209109,3913600130,1260401931
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Goldtusk - Rank 11, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
+//notes:Godroll!
+Goldtusk - Rank 11, Tier A by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Whirlwind Blade
+Origin Trait: Veist Stinger
 dimwishlist:item=569799275&perks=1749209109,3913600130,3988215619
 dimwishlist:item=3371413057&perks=1749209109,3913600130,3988215619
 
 
-//notes:Goldtusk - Rank 11, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
+//notes:Goldtusk - Rank 11, Tier A by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Whirlwind Blade
+Origin Trait: Veist Stinger
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Zephyr - Rank 12, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs, Rimestealer1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade, Cold Steel1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Dawning Surprise
+//notes:Godroll!
+Zephyr - Rank 12, Tier A by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs, Rimestealer
+Column 2: Surrounded, Whirlwind Blade, Cold Steel
+Origin Trait: Dawning Surprise
 dimwishlist:item=396910433&perks=1749209109,243981275,1955165503,3708227201,3913600130,3650930298,4264904777
 dimwishlist:item=601948197&perks=1749209109,243981275,1955165503,3708227201,3913600130,3650930298,4264904777
 dimwishlist:item=1911078836&perks=1749209109,243981275,1955165503,3708227201,3913600130,3650930298,4264904777
@@ -724,10 +724,10 @@ dimwishlist:item=3400256755&perks=1749209109,243981275,1955165503,3708227201,391
 dimwishlist:item=4203034886&perks=1749209109,243981275,1955165503,3708227201,3913600130,3650930298,4264904777
 
 
-//notes:Zephyr - Rank 12, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs, Rimestealer1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade, Cold Steel1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Dawning Surprise
+//notes:Zephyr - Rank 12, Tier A by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs, Rimestealer
+Column 2: Surrounded, Whirlwind Blade, Cold Steel
+Origin Trait: Dawning Surprise
 dimwishlist:item=396910433&perks=1749209109,243981275,3708227201,3913600130,3650930298,4264904777
 dimwishlist:item=396910433&perks=1749209109,1955165503,3708227201,3913600130,3650930298,4264904777
 dimwishlist:item=396910433&perks=243981275,1955165503,3708227201,3913600130,3650930298,4264904777
@@ -969,123 +969,123 @@ dimwishlist:item=4203034886&perks=1955165503,3708227201,4264904777
 dimwishlist:item=4203034886&perks=1955165503,3913600130,4264904777
 dimwishlist:item=4203034886&perks=1955165503,3650930298,4264904777
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Temptation's Hook - Rank 12, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Paracausal Fluid
+//notes:Godroll!
+Temptation's Hook - Rank 12, Tier A by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs
+Column 2: Whirlwind Blade
+Origin Trait: Paracausal Fluid
 dimwishlist:item=35794111&perks=1749209109,243981275,3913600130,1600429811
 dimwishlist:item=1587953057&perks=1749209109,243981275,3913600130,1600429811
 
 
-//notes:Temptation's Hook - Rank 12, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Paracausal Fluid
+//notes:Temptation's Hook - Rank 12, Tier A by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs
+Column 2: Whirlwind Blade
+Origin Trait: Paracausal Fluid
 dimwishlist:item=35794111&perks=1749209109,3913600130,1600429811
 dimwishlist:item=35794111&perks=243981275,3913600130,1600429811
 dimwishlist:item=1587953057&perks=1749209109,3913600130,1600429811
 dimwishlist:item=1587953057&perks=243981275,3913600130,1600429811
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Crown-Splitter - Rank 13, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Crown-Splitter - Rank 13, Tier B by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: None
 dimwishlist:item=1180270694&perks=1749209109,3708227201,3913600130,0
 dimwishlist:item=2782325302&perks=1749209109,3708227201,3913600130,0
 
 
-//notes:Crown-Splitter - Rank 13, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Crown-Splitter - Rank 13, Tier B by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: None
 dimwishlist:item=1180270694&perks=1749209109,3708227201,0
 dimwishlist:item=1180270694&perks=1749209109,3913600130,0
 dimwishlist:item=2782325302&perks=1749209109,3708227201,0
 dimwishlist:item=2782325302&perks=1749209109,3913600130,0
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Double-Edged Answer - Rank 14, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Nadir Focus
+//notes:Godroll!
+Double-Edged Answer - Rank 14, Tier B by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: Nadir Focus
 dimwishlist:item=105164264&perks=1749209109,3708227201,3913600130,2509860981
 dimwishlist:item=3551104348&perks=1749209109,3708227201,3913600130,2509860981
 
 
-//notes:Double-Edged Answer - Rank 14, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Nadir Focus
+//notes:Double-Edged Answer - Rank 14, Tier B by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: Nadir Focus
 dimwishlist:item=105164264&perks=1749209109,3708227201,2509860981
 dimwishlist:item=105164264&perks=1749209109,3913600130,2509860981
 dimwishlist:item=3551104348&perks=1749209109,3708227201,2509860981
 dimwishlist:item=3551104348&perks=1749209109,3913600130,2509860981
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Nasreddin - Rank 15, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Field-Tested
+//notes:Godroll!
+Nasreddin - Rank 15, Tier B by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: Field-Tested
 dimwishlist:item=1270948323&perks=1749209109,3708227201,3913600130,2120661319
 dimwishlist:item=1456017061&perks=1749209109,3708227201,3913600130,2120661319
 
 
-//notes:Nasreddin - Rank 15, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Field-Tested
+//notes:Nasreddin - Rank 15, Tier B by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: Field-Tested
 dimwishlist:item=1270948323&perks=1749209109,3708227201,2120661319
 dimwishlist:item=1270948323&perks=1749209109,3913600130,2120661319
 dimwishlist:item=1456017061&perks=1749209109,3708227201,2120661319
 dimwishlist:item=1456017061&perks=1749209109,3913600130,2120661319
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Negative Space - Rank 16, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Negative Space - Rank 16, Tier B by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: None
 dimwishlist:item=287042892&perks=1749209109,3708227201,3913600130,0
 dimwishlist:item=3629968765&perks=1749209109,3708227201,3913600130,0
 
 
-//notes:Negative Space - Rank 16, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Negative Space - Rank 16, Tier B by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: None
 dimwishlist:item=287042892&perks=1749209109,3708227201,0
 dimwishlist:item=287042892&perks=1749209109,3913600130,0
 dimwishlist:item=3629968765&perks=1749209109,3708227201,0
 dimwishlist:item=3629968765&perks=1749209109,3913600130,0
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Night Terror - Rank 17, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Night Terror - Rank 17, Tier B by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: None
 dimwishlist:item=3870811754&perks=1749209109,3708227201,3913600130,0
 
 
-//notes:Night Terror - Rank 17, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Night Terror - Rank 17, Tier B by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: None
 dimwishlist:item=3870811754&perks=1749209109,3708227201,0
 dimwishlist:item=3870811754&perks=1749209109,3913600130,0
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 False Idols - Rank 18, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Bait and Switch, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Dealer's Choice
+//notes:Godroll!
+False Idols - Rank 18, Tier B by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs
+Column 2: Bait and Switch, Surrounded
+Origin Trait: Dealer's Choice
 dimwishlist:item=4207120603&perks=1749209109,243981275,3078487919,3708227201,1988485648
 
 
-//notes:False Idols - Rank 18, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Attrition Orbs1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Bait and Switch, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Dealer's Choice
+//notes:False Idols - Rank 18, Tier B by TheAegisRelic
+Column 1: Relentless Strikes, Attrition Orbs
+Column 2: Bait and Switch, Surrounded
+Origin Trait: Dealer's Choice
 dimwishlist:item=4207120603&perks=1749209109,3078487919,3708227201,1988485648
 dimwishlist:item=4207120603&perks=243981275,3078487919,3708227201,1988485648
 dimwishlist:item=4207120603&perks=1749209109,243981275,3078487919,1988485648
@@ -1095,80 +1095,80 @@ dimwishlist:item=4207120603&perks=1749209109,3708227201,1988485648
 dimwishlist:item=4207120603&perks=243981275,3078487919,1988485648
 dimwishlist:item=4207120603&perks=243981275,3708227201,1988485648
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Just In Case - Rank 19, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Disaster Plan
+//notes:Godroll!
+Just In Case - Rank 19, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Whirlwind Blade
+Origin Trait: Disaster Plan
 dimwishlist:item=715338174&perks=1749209109,3913600130,1004814308
 dimwishlist:item=1139727256&perks=1749209109,3913600130,1004814308
 
 
-//notes:Just In Case - Rank 19, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Disaster Plan
+//notes:Just In Case - Rank 19, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Whirlwind Blade
+Origin Trait: Disaster Plan
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Abide the Return - Rank 20, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Abide the Return - Rank 20, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Whirlwind Blade
+Origin Trait: None
 dimwishlist:item=250721843&perks=1749209109,3913600130,0
 dimwishlist:item=1644160541&perks=1749209109,3913600130,0
 
 
-//notes:Abide the Return - Rank 20, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Abide the Return - Rank 20, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Whirlwind Blade
+Origin Trait: None
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Steel Sybil Z-14 - Rank 21, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Steel Sybil Z-14 - Rank 21, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Whirlwind Blade
+Origin Trait: None
 dimwishlist:item=4174481098&perks=1749209109,3913600130,0
 dimwishlist:item=4230993599&perks=1749209109,3913600130,0
 
 
-//notes:Steel Sybil Z-14 - Rank 21, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Steel Sybil Z-14 - Rank 21, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Whirlwind Blade
+Origin Trait: None
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Death's Razor - Rank 22, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: To Excess
+//notes:Godroll!
+Death's Razor - Rank 22, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: To Excess
 dimwishlist:item=569799274&perks=1749209109,3708227201,3913600130,1905044254
 dimwishlist:item=3371413056&perks=1749209109,3708227201,3913600130,1905044254
 
 
-//notes:Death's Razor - Rank 22, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: To Excess
+//notes:Death's Razor - Rank 22, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: To Excess
 dimwishlist:item=569799274&perks=1749209109,3708227201,1905044254
 dimwishlist:item=569799274&perks=1749209109,3913600130,1905044254
 dimwishlist:item=3371413056&perks=1749209109,3708227201,1905044254
 dimwishlist:item=3371413056&perks=1749209109,3913600130,1905044254
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Falling Guillotine - Rank 23, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Falling Guillotine - Rank 23, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: None
 dimwishlist:item=243425374&perks=1749209109,3708227201,3913600130,0
 dimwishlist:item=614426548&perks=1749209109,3708227201,3913600130,0
 dimwishlist:item=1815105249&perks=1749209109,3708227201,3913600130,0
 
 
-//notes:Falling Guillotine - Rank 23, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Falling Guillotine - Rank 23, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: None
 dimwishlist:item=243425374&perks=1749209109,3708227201,0
 dimwishlist:item=243425374&perks=1749209109,3913600130,0
 dimwishlist:item=614426548&perks=1749209109,3708227201,0
@@ -1176,155 +1176,155 @@ dimwishlist:item=614426548&perks=1749209109,3913600130,0
 dimwishlist:item=1815105249&perks=1749209109,3708227201,0
 dimwishlist:item=1815105249&perks=1749209109,3913600130,0
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Half-Truths - Rank 24, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Eager Edge1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Hot Swap
+//notes:Godroll!
+Half-Truths - Rank 24, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Eager Edge
+Origin Trait: Hot Swap
 dimwishlist:item=3257091166&perks=1749209109,2077819806,1260401931
 
 
-//notes:Half-Truths - Rank 24, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Eager Edge1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Hot Swap
+//notes:Half-Truths - Rank 24, Tier C by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Eager Edge
+Origin Trait: Hot Swap
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Caretaker - Rank 25, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Noble Deeds
+//notes:Godroll!
+Caretaker - Rank 25, Tier D by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded
+Origin Trait: Noble Deeds
 dimwishlist:item=2508948099&perks=1749209109,3708227201,1823011807
 
 
-//notes:Caretaker - Rank 25, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Noble Deeds
+//notes:Caretaker - Rank 25, Tier D by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded
+Origin Trait: Noble Deeds
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Honor's Edge - Rank 26, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Honor's Edge - Rank 26, Tier D by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded
+Origin Trait: None
 dimwishlist:item=2276266837&perks=1749209109,3708227201,0
 dimwishlist:item=2857348871&perks=1749209109,3708227201,0
 
 
-//notes:Honor's Edge - Rank 26, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Honor's Edge - Rank 26, Tier D by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded
+Origin Trait: None
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Eternity's Edge - Rank 27, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Eternity's Edge - Rank 27, Tier D by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded
+Origin Trait: None
 dimwishlist:item=1180270693&perks=1749209109,3708227201,0
 dimwishlist:item=2782325301&perks=1749209109,3708227201,0
 
 
-//notes:Eternity's Edge - Rank 27, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Eternity's Edge - Rank 27, Tier D by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Surrounded
+Origin Trait: None
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Throne-Cleaver - Rank 28, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Duelist's Trance1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: To Excess
+//notes:Godroll!
+Throne-Cleaver - Rank 28, Tier D by TheAegisRelic
+Column 1: Duelist's Trance
+Column 2: Surrounded
+Origin Trait: To Excess
 dimwishlist:item=569799273&perks=3705817207,3708227201,1905044254
 dimwishlist:item=3371413059&perks=3705817207,3708227201,1905044254
 
 
-//notes:Throne-Cleaver - Rank 28, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Duelist's Trance1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: To Excess
+//notes:Throne-Cleaver - Rank 28, Tier D by TheAegisRelic
+Column 1: Duelist's Trance
+Column 2: Surrounded
+Origin Trait: To Excess
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Dragoncult Sickle - Rank 29, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Duelist's Trance1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Sundering
+//notes:Godroll!
+Dragoncult Sickle - Rank 29, Tier E by TheAegisRelic
+Column 1: Duelist's Trance
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: Sundering
 dimwishlist:item=3668817296&perks=3705817207,3708227201,3913600130,220689851
 
 
-//notes:Dragoncult Sickle - Rank 29, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Duelist's Trance1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Whirlwind Blade1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Sundering
+//notes:Dragoncult Sickle - Rank 29, Tier E by TheAegisRelic
+Column 1: Duelist's Trance
+Column 2: Surrounded, Whirlwind Blade
+Origin Trait: Sundering
 dimwishlist:item=3668817296&perks=3705817207,3708227201,220689851
 dimwishlist:item=3668817296&perks=3705817207,3913600130,220689851
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Sola's Scar - Rank 30, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Sola's Scar - Rank 30, Tier E by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Frenzy
+Origin Trait: None
 dimwishlist:item=1313528549&perks=1749209109,4104185692,0
 dimwishlist:item=3847137620&perks=1749209109,4104185692,0
 
 
-//notes:Sola's Scar - Rank 30, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Sola's Scar - Rank 30, Tier E by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Frenzy
+Origin Trait: None
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Quickfang - Rank 31, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: En Garde1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Quickfang - Rank 31, Tier E by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: En Garde
+Origin Trait: None
 dimwishlist:item=1180270692&perks=1749209109,1685431615,0
 dimwishlist:item=2782325300&perks=1749209109,1685431615,0
 
 
-//notes:Quickfang - Rank 31, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: En Garde1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Quickfang - Rank 31, Tier E by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: En Garde
+Origin Trait: None
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Razor's Edge - Rank 32, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Skulking Wolf
+//notes:Godroll!
+Razor's Edge - Rank 32, Tier E by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Frenzy
+Origin Trait: Skulking Wolf
 dimwishlist:item=1796949035&perks=1749209109,4104185692,3989629871
 
 
-//notes:Razor's Edge - Rank 32, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Skulking Wolf
+//notes:Razor's Edge - Rank 32, Tier E by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: Frenzy
+Origin Trait: Skulking Wolf
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Hero of Ages - Rank 33, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: En Garde1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Godroll!
+Hero of Ages - Rank 33, Tier E by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: En Garde
+Origin Trait: None
 dimwishlist:item=2139640995&perks=1749209109,1685431615,0
 
 
-//notes:Hero of Ages - Rank 33, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes1   2   3 
- 4 &#10; 5 ​ 6 Column 2: En Garde1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Hero of Ages - Rank 33, Tier E by TheAegisRelic
+Column 1: Relentless Strikes
+Column 2: En Garde
+Origin Trait: None
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Thin Precipice - Rank 34, Tier F by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Flash Counter1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Golden Tricorn, Chain Reaction1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Unsated Hunger
+//notes:Godroll!
+Thin Precipice - Rank 34, Tier F by TheAegisRelic
+Column 1: Relentless Strikes, Flash Counter
+Column 2: Golden Tricorn, Chain Reaction
+Origin Trait: Unsated Hunger
 dimwishlist:item=4066778670&perks=1749209109,2244851822,2610012052,2396489472,2053642371
 
 
-//notes:Thin Precipice - Rank 34, Tier F by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Relentless Strikes, Flash Counter1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Golden Tricorn, Chain Reaction1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Unsated Hunger
+//notes:Thin Precipice - Rank 34, Tier F by TheAegisRelic
+Column 1: Relentless Strikes, Flash Counter
+Column 2: Golden Tricorn, Chain Reaction
+Origin Trait: Unsated Hunger
 dimwishlist:item=4066778670&perks=1749209109,2610012052,2396489472,2053642371
 dimwishlist:item=4066778670&perks=2244851822,2610012052,2396489472,2053642371
 dimwishlist:item=4066778670&perks=1749209109,2244851822,2610012052,2053642371
@@ -1334,15 +1334,15 @@ dimwishlist:item=4066778670&perks=1749209109,2396489472,2053642371
 dimwishlist:item=4066778670&perks=2244851822,2610012052,2053642371
 dimwishlist:item=4066778670&perks=2244851822,2396489472,2053642371
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Chivalric Fire - Rank 35, Tier F by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Repulsor Brace1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: One Quiet Moment
+//notes:Godroll!
+Chivalric Fire - Rank 35, Tier F by TheAegisRelic
+Column 1: Repulsor Brace
+Column 2: Destabilizing Rounds
+Origin Trait: One Quiet Moment
 dimwishlist:item=3438139008&perks=776531651,2048641572,4091460919
 
 
-//notes:Chivalric Fire - Rank 35, Tier F by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Repulsor Brace1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: One Quiet Moment
+//notes:Chivalric Fire - Rank 35, Tier F by TheAegisRelic
+Column 1: Repulsor Brace
+Column 2: Destabilizing Rounds
+Origin Trait: One Quiet Moment

@@ -1,8 +1,8 @@
 
-//notes:Chronophage - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot, Repulsor Brace1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Radiolaria Transposer
+//notes:Chronophage - Rank 1, Tier S by TheAegisRelic
+Column 1: Shoot to Loot, Repulsor Brace
+Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures
+Origin Trait: Radiolaria Transposer
 dimwishlist:item=1886840007&perks=3700496672,2048641572,3523296417,2109543898,253121539
 dimwishlist:item=1886840007&perks=776531651,2048641572,3523296417,2109543898,253121539
 dimwishlist:item=1886840007&perks=3700496672,776531651,2048641572,3523296417,253121539
@@ -25,10 +25,10 @@ dimwishlist:item=1886840007&perks=776531651,3523296417,253121539
 dimwishlist:item=1886840007&perks=776531651,2109543898,253121539
 
 
-//notes:Unsworn - Rank 2, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot, Tear, Rewind Rounds1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Detonator Beam, Elemental Honing, Hatchling1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Subjugation
+//notes:Unsworn - Rank 2, Tier S by TheAegisRelic
+Column 1: Shoot to Loot, Tear, Rewind Rounds
+Column 2: Detonator Beam, Elemental Honing, Hatchling
+Origin Trait: Subjugation
 dimwishlist:item=1303313141&perks=3700496672,960997401,4198902903,1089671869,831391274,1298135794
 dimwishlist:item=1303313141&perks=3700496672,2578928832,4198902903,1089671869,831391274,1298135794
 dimwishlist:item=1303313141&perks=960997401,2578928832,4198902903,1089671869,831391274,1298135794
@@ -79,10 +79,10 @@ dimwishlist:item=1303313141&perks=2578928832,1089671869,1298135794
 dimwishlist:item=1303313141&perks=2578928832,831391274,1298135794
 
 
-//notes:Retraced Path - Rank 3, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Demolitionist, Frenzy, Incandescent1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Hot Swap
+//notes:Retraced Path - Rank 3, Tier A by TheAegisRelic
+Column 1: Shoot to Loot
+Column 2: Demolitionist, Frenzy, Incandescent
+Origin Trait: Hot Swap
 dimwishlist:item=548958835&perks=3700496672,3523296417,4104185692,1260401931
 dimwishlist:item=548958835&perks=3700496672,3523296417,4293542123,1260401931
 dimwishlist:item=548958835&perks=3700496672,4104185692,4293542123,1260401931

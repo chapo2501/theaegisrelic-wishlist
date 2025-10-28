@@ -1,8 +1,8 @@
 
-//notes:Rake Angle - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Overflow, Impulse Amplifier, Lead from Gold1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Chill Clip, Close to Melee1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Stunning Recovery
+//notes:Rake Angle - Rank 1, Tier S by TheAegisRelic
+Column 1: Overflow, Impulse Amplifier, Lead from Gold
+Column 2: Chill Clip, Close to Melee
+Origin Trait: Stunning Recovery
 dimwishlist:item=2298039571&perks=3643424744,951095735,2978966579,1782407750,1281216113
 dimwishlist:item=2298039571&perks=3643424744,1556840489,2978966579,1782407750,1281216113
 dimwishlist:item=2298039571&perks=951095735,1556840489,2978966579,1782407750,1281216113
@@ -45,10 +45,10 @@ dimwishlist:item=3997086838&perks=1556840489,2978966579,1281216113
 dimwishlist:item=3997086838&perks=1556840489,1782407750,1281216113
 
 
-//notes:Forthcoming Deviance - Rank 2, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Impulse Amplifier, Grave Robber, Demolitionist1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Close to Melee, Chaos Reshaped, Destabilizing Rounds1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Collective Purpose
+//notes:Forthcoming Deviance - Rank 2, Tier S by TheAegisRelic
+Column 1: Impulse Amplifier, Grave Robber, Demolitionist
+Column 2: Close to Melee, Chaos Reshaped, Destabilizing Rounds
+Origin Trait: Collective Purpose
 dimwishlist:item=535198113&perks=951095735,1631667848,1782407750,3640170453,2048641572,1878756191
 dimwishlist:item=535198113&perks=951095735,3523296417,1782407750,3640170453,2048641572,1878756191
 dimwishlist:item=535198113&perks=1631667848,3523296417,1782407750,3640170453,2048641572,1878756191
@@ -147,10 +147,10 @@ dimwishlist:item=3123651616&perks=3523296417,3640170453,1878756191
 dimwishlist:item=3123651616&perks=3523296417,2048641572,1878756191
 
 
-//notes:Nezarec's Whisper - Rank 3, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Demolitionist, Impulse Amplifier, Lead from Gold1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Extrovert
+//notes:Nezarec's Whisper - Rank 3, Tier S by TheAegisRelic
+Column 1: Demolitionist, Impulse Amplifier, Lead from Gold
+Column 2: Frenzy
+Origin Trait: Extrovert
 dimwishlist:item=254636484&perks=3523296417,951095735,4104185692,1250481499
 dimwishlist:item=254636484&perks=3523296417,1556840489,4104185692,1250481499
 dimwishlist:item=254636484&perks=951095735,1556840489,4104185692,1250481499
@@ -159,10 +159,10 @@ dimwishlist:item=254636484&perks=951095735,4104185692,1250481499
 dimwishlist:item=254636484&perks=1556840489,4104185692,1250481499
 
 
-//notes:Refusal of the Call - Rank 4, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Impulse Amplifier, Slice, Discord1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Close to Melee, Melee Momentum1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Runneth Over
+//notes:Refusal of the Call - Rank 4, Tier S by TheAegisRelic
+Column 1: Impulse Amplifier, Slice, Discord
+Column 2: Close to Melee, Melee Momentum
+Origin Trait: Runneth Over
 dimwishlist:item=25228802&perks=951095735,923806249,1782407750,3773585912,120721526
 dimwishlist:item=25228802&perks=951095735,3978468247,1782407750,3773585912,120721526
 dimwishlist:item=25228802&perks=923806249,3978468247,1782407750,3773585912,120721526
@@ -245,10 +245,10 @@ dimwishlist:item=3269398063&perks=3978468247,1782407750,120721526
 dimwishlist:item=3269398063&perks=3978468247,3773585912,120721526
 
 
-//notes:Unexpected Resurgence - Rank 5, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Auto-Loading Holster, Impulse Amplifier, Replenishing Aegis1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Frenzy, Close to Melee, Voltshot1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Alacrity
+//notes:Unexpected Resurgence - Rank 5, Tier A by TheAegisRelic
+Column 1: Auto-Loading Holster, Impulse Amplifier, Replenishing Aegis
+Column 2: Frenzy, Close to Melee, Voltshot
+Origin Trait: Alacrity
 dimwishlist:item=1141586039&perks=3300816228,951095735,4104185692,1782407750,2173046394,2988596335
 dimwishlist:item=1141586039&perks=3300816228,1966281507,4104185692,1782407750,2173046394,2988596335
 dimwishlist:item=1141586039&perks=951095735,1966281507,4104185692,1782407750,2173046394,2988596335
@@ -347,10 +347,10 @@ dimwishlist:item=4005780578&perks=1966281507,1782407750,2988596335
 dimwishlist:item=4005780578&perks=1966281507,2173046394,2988596335
 
 
-//notes:Backfang - Rank 7, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Impulse Amplifier, Grave Robber, Lead from Gold1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Close to Melee, Voltshot1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Gun and Run
+//notes:Backfang - Rank 7, Tier A by TheAegisRelic
+Column 1: Impulse Amplifier, Grave Robber, Lead from Gold
+Column 2: Surrounded, Close to Melee, Voltshot
+Origin Trait: Gun and Run
 dimwishlist:item=267672635&perks=951095735,1631667848,3708227201,1782407750,2173046394,515704826
 dimwishlist:item=267672635&perks=951095735,1556840489,3708227201,1782407750,2173046394,515704826
 dimwishlist:item=267672635&perks=1631667848,1556840489,3708227201,1782407750,2173046394,515704826
@@ -401,10 +401,10 @@ dimwishlist:item=267672635&perks=1556840489,1782407750,515704826
 dimwishlist:item=267672635&perks=1556840489,2173046394,515704826
 
 
-//notes:Greasy Luck - Rank 9, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Lead from Gold, Impulse Amplifier, Replenishing Aegis1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, Redirection, Close to Melee1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Restoration Ritual
+//notes:Greasy Luck - Rank 9, Tier A by TheAegisRelic
+Column 1: Lead from Gold, Impulse Amplifier, Replenishing Aegis
+Column 2: Incandescent, Redirection, Close to Melee
+Origin Trait: Restoration Ritual
 dimwishlist:item=1050582210&perks=1556840489,951095735,4293542123,3201496230,1782407750,398661035
 dimwishlist:item=1050582210&perks=1556840489,1966281507,4293542123,3201496230,1782407750,398661035
 dimwishlist:item=1050582210&perks=951095735,1966281507,4293542123,3201496230,1782407750,398661035

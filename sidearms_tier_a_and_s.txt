@@ -1,8 +1,8 @@
 
-//notes:Insurmountable - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Attrition Orbs, Demolitionist1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Dark Ether Reaper
+//notes:Insurmountable - Rank 1, Tier S by TheAegisRelic
+Column 1: Repulsor Brace, Attrition Orbs, Demolitionist
+Column 2: Destabilizing Rounds, Surrounded
+Origin Trait: Dark Ether Reaper
 dimwishlist:item=414045521&perks=776531651,243981275,2048641572,3708227201,2041432007
 dimwishlist:item=414045521&perks=776531651,3523296417,2048641572,3708227201,2041432007
 dimwishlist:item=414045521&perks=243981275,3523296417,2048641572,3708227201,2041432007
@@ -25,10 +25,10 @@ dimwishlist:item=414045521&perks=3523296417,2048641572,2041432007
 dimwishlist:item=414045521&perks=3523296417,3708227201,2041432007
 
 
-//notes:Drang - Rank 2, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Heal Clip, Loose Change, Collective Pugilism1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, Burning Ambition, Master of Arms1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Vanguard Determination
+//notes:Drang - Rank 2, Tier S by TheAegisRelic
+Column 1: Heal Clip, Loose Change, Collective Pugilism
+Column 2: Incandescent, Burning Ambition, Master of Arms
+Origin Trait: Vanguard Determination
 dimwishlist:item=79075821&perks=3017780555,1119449540,4293542123,2890807135,3081867624,3846229553
 dimwishlist:item=79075821&perks=3017780555,1888882410,4293542123,2890807135,3081867624,3846229553
 dimwishlist:item=79075821&perks=1119449540,1888882410,4293542123,2890807135,3081867624,3846229553
@@ -223,10 +223,10 @@ dimwishlist:item=2362471600&perks=1888882410,2890807135,3846229553
 dimwishlist:item=2362471600&perks=1888882410,3081867624,3846229553
 
 
-//notes:Heliocentric QSc - Rank 3, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Heal Clip, Demolitionist1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, Frenzy, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Nadir Focus
+//notes:Heliocentric QSc - Rank 3, Tier S by TheAegisRelic
+Column 1: Heal Clip, Demolitionist
+Column 2: Incandescent, Frenzy, Surrounded
+Origin Trait: Nadir Focus
 dimwishlist:item=3998080529&perks=3017780555,4293542123,4104185692,3708227201,2509860981
 dimwishlist:item=3998080529&perks=3523296417,4293542123,4104185692,3708227201,2509860981
 dimwishlist:item=3998080529&perks=3017780555,3523296417,4293542123,4104185692,2509860981
@@ -249,10 +249,10 @@ dimwishlist:item=3998080529&perks=3523296417,4104185692,2509860981
 dimwishlist:item=3998080529&perks=3523296417,3708227201,2509860981
 
 
-//notes:Forgiveness - Rank 4, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Voltshot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Desperate Measures, Kill Clip, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Roar of Battle
+//notes:Forgiveness - Rank 4, Tier A by TheAegisRelic
+Column 1: Voltshot
+Column 2: Desperate Measures, Kill Clip, Surrounded
+Origin Trait: Roar of Battle
 dimwishlist:item=1552443158&perks=2173046394,2109543898,1015611457,1673863459
 dimwishlist:item=1552443158&perks=2173046394,2109543898,3708227201,1673863459
 dimwishlist:item=1552443158&perks=2173046394,1015611457,3708227201,1673863459
@@ -273,10 +273,10 @@ dimwishlist:item=2405619467&perks=2173046394,1015611457,1673863459
 dimwishlist:item=2405619467&perks=2173046394,3708227201,1673863459
 
 
-//notes:Division - Rank 5, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Eddy Current, Pugilist, Grave Robber1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Voltshot, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Runneth Over
+//notes:Division - Rank 5, Tier A by TheAegisRelic
+Column 1: Eddy Current, Pugilist, Grave Robber
+Column 2: Voltshot, Surrounded
+Origin Trait: Runneth Over
 dimwishlist:item=2501377328&perks=684456054,691659142,2173046394,3708227201,120721526
 dimwishlist:item=2501377328&perks=684456054,1631667848,2173046394,3708227201,120721526
 dimwishlist:item=2501377328&perks=691659142,1631667848,2173046394,3708227201,120721526
@@ -359,10 +359,10 @@ dimwishlist:item=3734001727&perks=1631667848,2173046394,120721526
 dimwishlist:item=3734001727&perks=1631667848,3708227201,120721526
 
 
-//notes:Anonymous Autumn - Rank 6, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Eddy Current, Attrition Orbs, Demolitionist1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Voltshot1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Field-Tested
+//notes:Anonymous Autumn - Rank 6, Tier A by TheAegisRelic
+Column 1: Eddy Current, Attrition Orbs, Demolitionist
+Column 2: Voltshot
+Origin Trait: Field-Tested
 dimwishlist:item=1051949956&perks=684456054,243981275,2173046394,2120661319
 dimwishlist:item=1051949956&perks=684456054,3523296417,2173046394,2120661319
 dimwishlist:item=1051949956&perks=243981275,3523296417,2173046394,2120661319
@@ -377,10 +377,10 @@ dimwishlist:item=3222518097&perks=243981275,2173046394,2120661319
 dimwishlist:item=3222518097&perks=3523296417,2173046394,2120661319
 
 
-//notes:Brigand's Law - Rank 7, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Threat Detector, Feeding Frenzy, Pugilist1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Voltshot, Swashbuckler1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Right Hook
+//notes:Brigand's Law - Rank 7, Tier A by TheAegisRelic
+Column 1: Threat Detector, Feeding Frenzy, Pugilist
+Column 2: Voltshot, Swashbuckler
+Origin Trait: Right Hook
 dimwishlist:item=1298815317&perks=4071163871,2779035018,2173046394,4082225868,3907865655
 dimwishlist:item=1298815317&perks=4071163871,691659142,2173046394,4082225868,3907865655
 dimwishlist:item=1298815317&perks=2779035018,691659142,2173046394,4082225868,3907865655
@@ -403,10 +403,10 @@ dimwishlist:item=1298815317&perks=691659142,2173046394,3907865655
 dimwishlist:item=1298815317&perks=691659142,4082225868,3907865655
 
 
-//notes:Drang (Baroque) - Rank 8, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Wellspring, Disruption Break1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, Swashbuckler1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: To Excess
+//notes:Drang (Baroque) - Rank 8, Tier A by TheAegisRelic
+Column 1: Wellspring, Disruption Break
+Column 2: Incandescent, Swashbuckler
+Origin Trait: To Excess
 dimwishlist:item=79075821&perks=3592538738,4293542123,4082225868,1905044254
 dimwishlist:item=79075821&perks=1683379515,4293542123,4082225868,1905044254
 dimwishlist:item=79075821&perks=3592538738,1683379515,4293542123,1905044254

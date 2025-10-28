@@ -1,16 +1,16 @@
-// Traces - 2025-10-28T17:26:10.244Z
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Chronophage - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot, Repulsor Brace1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Radiolaria Transposer
+// Traces - 2025-10-28T17:31:32.368Z
+//notes:Godroll!
+Chronophage - Rank 1, Tier S by TheAegisRelic
+Column 1: Shoot to Loot, Repulsor Brace
+Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures
+Origin Trait: Radiolaria Transposer
 dimwishlist:item=1886840007&perks=3700496672,776531651,2048641572,3523296417,2109543898,253121539
 
 
-//notes:Chronophage - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot, Repulsor Brace1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Radiolaria Transposer
+//notes:Chronophage - Rank 1, Tier S by TheAegisRelic
+Column 1: Shoot to Loot, Repulsor Brace
+Column 2: Destabilizing Rounds, Demolitionist, Desperate Measures
+Origin Trait: Radiolaria Transposer
 dimwishlist:item=1886840007&perks=3700496672,2048641572,3523296417,2109543898,253121539
 dimwishlist:item=1886840007&perks=776531651,2048641572,3523296417,2109543898,253121539
 dimwishlist:item=1886840007&perks=3700496672,776531651,2048641572,3523296417,253121539
@@ -32,18 +32,18 @@ dimwishlist:item=1886840007&perks=776531651,2048641572,253121539
 dimwishlist:item=1886840007&perks=776531651,3523296417,253121539
 dimwishlist:item=1886840007&perks=776531651,2109543898,253121539
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Unsworn - Rank 2, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot, Tear, Rewind Rounds1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Detonator Beam, Elemental Honing, Hatchling1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Subjugation
+//notes:Godroll!
+Unsworn - Rank 2, Tier S by TheAegisRelic
+Column 1: Shoot to Loot, Tear, Rewind Rounds
+Column 2: Detonator Beam, Elemental Honing, Hatchling
+Origin Trait: Subjugation
 dimwishlist:item=1303313141&perks=3700496672,960997401,2578928832,4198902903,1089671869,831391274,1298135794
 
 
-//notes:Unsworn - Rank 2, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot, Tear, Rewind Rounds1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Detonator Beam, Elemental Honing, Hatchling1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Subjugation
+//notes:Unsworn - Rank 2, Tier S by TheAegisRelic
+Column 1: Shoot to Loot, Tear, Rewind Rounds
+Column 2: Detonator Beam, Elemental Honing, Hatchling
+Origin Trait: Subjugation
 dimwishlist:item=1303313141&perks=3700496672,960997401,4198902903,1089671869,831391274,1298135794
 dimwishlist:item=1303313141&perks=3700496672,2578928832,4198902903,1089671869,831391274,1298135794
 dimwishlist:item=1303313141&perks=960997401,2578928832,4198902903,1089671869,831391274,1298135794
@@ -93,18 +93,18 @@ dimwishlist:item=1303313141&perks=2578928832,4198902903,1298135794
 dimwishlist:item=1303313141&perks=2578928832,1089671869,1298135794
 dimwishlist:item=1303313141&perks=2578928832,831391274,1298135794
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Retraced Path - Rank 3, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Demolitionist, Frenzy, Incandescent1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Hot Swap
+//notes:Godroll!
+Retraced Path - Rank 3, Tier A by TheAegisRelic
+Column 1: Shoot to Loot
+Column 2: Demolitionist, Frenzy, Incandescent
+Origin Trait: Hot Swap
 dimwishlist:item=548958835&perks=3700496672,3523296417,4104185692,4293542123,1260401931
 
 
-//notes:Retraced Path - Rank 3, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Demolitionist, Frenzy, Incandescent1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Hot Swap
+//notes:Retraced Path - Rank 3, Tier A by TheAegisRelic
+Column 1: Shoot to Loot
+Column 2: Demolitionist, Frenzy, Incandescent
+Origin Trait: Hot Swap
 dimwishlist:item=548958835&perks=3700496672,3523296417,4104185692,1260401931
 dimwishlist:item=548958835&perks=3700496672,3523296417,4293542123,1260401931
 dimwishlist:item=548958835&perks=3700496672,4104185692,4293542123,1260401931
@@ -112,34 +112,34 @@ dimwishlist:item=548958835&perks=3700496672,3523296417,1260401931
 dimwishlist:item=548958835&perks=3700496672,4104185692,1260401931
 dimwishlist:item=548958835&perks=3700496672,4293542123,1260401931
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Path of Least Resistance - Rank 4, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Voltshot1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Ambush
+//notes:Godroll!
+Path of Least Resistance - Rank 4, Tier A by TheAegisRelic
+Column 1: Shoot to Loot
+Column 2: Voltshot
+Origin Trait: Ambush
 dimwishlist:item=2827764482&perks=3700496672,2173046394,192157151
 
 
-//notes:Path of Least Resistance - Rank 4, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Voltshot1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Ambush
+//notes:Path of Least Resistance - Rank 4, Tier A by TheAegisRelic
+Column 1: Shoot to Loot
+Column 2: Voltshot
+Origin Trait: Ambush
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Incisor - Rank 5, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Slice1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Attrition Orbs, Hatchling1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: One Quiet Moment
+//notes:Godroll!
+Incisor - Rank 5, Tier A by TheAegisRelic
+Column 1: Slice
+Column 2: Attrition Orbs, Hatchling
+Origin Trait: One Quiet Moment
 dimwishlist:item=1711056134&perks=923806249,243981275,831391274,4091460919
 dimwishlist:item=2421180981&perks=923806249,243981275,831391274,4091460919
 dimwishlist:item=2839600459&perks=923806249,243981275,831391274,4091460919
 dimwishlist:item=4248997900&perks=923806249,243981275,831391274,4091460919
 
 
-//notes:Incisor - Rank 5, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Slice1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Attrition Orbs, Hatchling1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: One Quiet Moment
+//notes:Incisor - Rank 5, Tier A by TheAegisRelic
+Column 1: Slice
+Column 2: Attrition Orbs, Hatchling
+Origin Trait: One Quiet Moment
 dimwishlist:item=1711056134&perks=923806249,243981275,4091460919
 dimwishlist:item=1711056134&perks=923806249,831391274,4091460919
 dimwishlist:item=2421180981&perks=923806249,243981275,4091460919
@@ -149,31 +149,31 @@ dimwishlist:item=2839600459&perks=923806249,831391274,4091460919
 dimwishlist:item=4248997900&perks=923806249,243981275,4091460919
 dimwishlist:item=4248997900&perks=923806249,831391274,4091460919
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Hollow Denial - Rank 6, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Lead from Gold1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Repulsor Brace1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Extrovert
+//notes:Godroll!
+Hollow Denial - Rank 6, Tier B by TheAegisRelic
+Column 1: Lead from Gold
+Column 2: Repulsor Brace
+Origin Trait: Extrovert
 dimwishlist:item=2323544076&perks=1556840489,776531651,1250481499
 
 
-//notes:Hollow Denial - Rank 6, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Lead from Gold1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Repulsor Brace1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Extrovert
+//notes:Hollow Denial - Rank 6, Tier B by TheAegisRelic
+Column 1: Lead from Gold
+Column 2: Repulsor Brace
+Origin Trait: Extrovert
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Keraunios - Rank 7, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Triple Tap, Overflow, Recycled Energy1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Detonator Beam, Jolting Feedback, Rolling Storm1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Classy Contender
+//notes:Godroll!
+Keraunios - Rank 7, Tier B by TheAegisRelic
+Column 1: Triple Tap, Overflow, Recycled Energy
+Column 2: Detonator Beam, Jolting Feedback, Rolling Storm
+Origin Trait: Classy Contender
 dimwishlist:item=2029899814&perks=3400784728,3643424744,3713215006,4198902903,3966416502,3218042543,1702976605
 
 
-//notes:Keraunios - Rank 7, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Triple Tap, Overflow, Recycled Energy1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Detonator Beam, Jolting Feedback, Rolling Storm1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Classy Contender
+//notes:Keraunios - Rank 7, Tier B by TheAegisRelic
+Column 1: Triple Tap, Overflow, Recycled Energy
+Column 2: Detonator Beam, Jolting Feedback, Rolling Storm
+Origin Trait: Classy Contender
 dimwishlist:item=2029899814&perks=3400784728,3643424744,4198902903,3966416502,3218042543,1702976605
 dimwishlist:item=2029899814&perks=3400784728,3713215006,4198902903,3966416502,3218042543,1702976605
 dimwishlist:item=2029899814&perks=3643424744,3713215006,4198902903,3966416502,3218042543,1702976605
@@ -223,18 +223,18 @@ dimwishlist:item=2029899814&perks=3713215006,4198902903,1702976605
 dimwishlist:item=2029899814&perks=3713215006,3966416502,1702976605
 dimwishlist:item=2029899814&perks=3713215006,3218042543,1702976605
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Warlord's Spear - Rank 8, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Loose Change1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Detonator Beam, Jolting Feedback, Desperate Measures1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Skulking Wolf
+//notes:Godroll!
+Warlord's Spear - Rank 8, Tier B by TheAegisRelic
+Column 1: Rewind Rounds, Loose Change
+Column 2: Detonator Beam, Jolting Feedback, Desperate Measures
+Origin Trait: Skulking Wolf
 dimwishlist:item=1968711238&perks=2578928832,1119449540,4198902903,3966416502,2109543898,3989629871
 
 
-//notes:Warlord's Spear - Rank 8, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Loose Change1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Detonator Beam, Jolting Feedback, Desperate Measures1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Skulking Wolf
+//notes:Warlord's Spear - Rank 8, Tier B by TheAegisRelic
+Column 1: Rewind Rounds, Loose Change
+Column 2: Detonator Beam, Jolting Feedback, Desperate Measures
+Origin Trait: Skulking Wolf
 dimwishlist:item=1968711238&perks=2578928832,4198902903,3966416502,2109543898,3989629871
 dimwishlist:item=1968711238&perks=1119449540,4198902903,3966416502,2109543898,3989629871
 dimwishlist:item=1968711238&perks=2578928832,1119449540,4198902903,3966416502,3989629871
@@ -256,18 +256,18 @@ dimwishlist:item=1968711238&perks=1119449540,4198902903,3989629871
 dimwishlist:item=1968711238&perks=1119449540,3966416502,3989629871
 dimwishlist:item=1968711238&perks=1119449540,2109543898,3989629871
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Appetence - Rank 9, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Demolitionist, Overflow1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Headstone, Deconstruct, Attrition Orbs1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Dragon's Vengeance
+//notes:Godroll!
+Appetence - Rank 9, Tier B by TheAegisRelic
+Column 1: Demolitionist, Overflow
+Column 2: Headstone, Deconstruct, Attrition Orbs
+Origin Trait: Dragon's Vengeance
 dimwishlist:item=4153087276&perks=3523296417,3643424744,124408337,1164602481,243981275,3978094547
 
 
-//notes:Appetence - Rank 9, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Demolitionist, Overflow1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Headstone, Deconstruct, Attrition Orbs1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Dragon's Vengeance
+//notes:Appetence - Rank 9, Tier B by TheAegisRelic
+Column 1: Demolitionist, Overflow
+Column 2: Headstone, Deconstruct, Attrition Orbs
+Origin Trait: Dragon's Vengeance
 dimwishlist:item=4153087276&perks=3523296417,124408337,1164602481,243981275,3978094547
 dimwishlist:item=4153087276&perks=3643424744,124408337,1164602481,243981275,3978094547
 dimwishlist:item=4153087276&perks=3523296417,3643424744,124408337,1164602481,3978094547
@@ -289,11 +289,11 @@ dimwishlist:item=4153087276&perks=3643424744,124408337,3978094547
 dimwishlist:item=4153087276&perks=3643424744,1164602481,3978094547
 dimwishlist:item=4153087276&perks=3643424744,243981275,3978094547
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Ribbontail - Rank 10, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Envious Arsenal, Wellspring1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Detonator Beam, Tear, Redirection1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Tenacity
+//notes:Godroll!
+Ribbontail - Rank 10, Tier B by TheAegisRelic
+Column 1: Envious Arsenal, Wellspring
+Column 2: Detonator Beam, Tear, Redirection
+Origin Trait: Tenacity
 dimwishlist:item=407150808&perks=3987942396,3592538738,4198902903,960997401,3201496230,3911709647
 dimwishlist:item=407150809&perks=3987942396,3592538738,4198902903,960997401,3201496230,3911709647
 dimwishlist:item=407150810&perks=3987942396,3592538738,4198902903,960997401,3201496230,3911709647
@@ -301,10 +301,10 @@ dimwishlist:item=407150811&perks=3987942396,3592538738,4198902903,960997401,3201
 dimwishlist:item=3576134513&perks=3987942396,3592538738,4198902903,960997401,3201496230,3911709647
 
 
-//notes:Ribbontail - Rank 10, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Envious Arsenal, Wellspring1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Detonator Beam, Tear, Redirection1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Tenacity
+//notes:Ribbontail - Rank 10, Tier B by TheAegisRelic
+Column 1: Envious Arsenal, Wellspring
+Column 2: Detonator Beam, Tear, Redirection
+Origin Trait: Tenacity
 dimwishlist:item=407150808&perks=3987942396,4198902903,960997401,3201496230,3911709647
 dimwishlist:item=407150808&perks=3592538738,4198902903,960997401,3201496230,3911709647
 dimwishlist:item=407150808&perks=3987942396,3592538738,4198902903,960997401,3911709647
@@ -406,19 +406,19 @@ dimwishlist:item=3576134513&perks=3592538738,4198902903,3911709647
 dimwishlist:item=3576134513&perks=3592538738,960997401,3911709647
 dimwishlist:item=3576134513&perks=3592538738,3201496230,3911709647
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Acasia's Dejection - Rank 11, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Reconstruction, Field Prep1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Frenzy, Incandescent1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Harmonic Resonance
+//notes:Godroll!
+Acasia's Dejection - Rank 11, Tier B by TheAegisRelic
+Column 1: Reconstruction, Field Prep
+Column 2: Frenzy, Incandescent
+Origin Trait: Harmonic Resonance
 dimwishlist:item=1471212226&perks=1523832109,777589559,4104185692,4293542123,3186078099
 dimwishlist:item=3493494807&perks=1523832109,777589559,4104185692,4293542123,3186078099
 
 
-//notes:Acasia's Dejection - Rank 11, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Reconstruction, Field Prep1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Frenzy, Incandescent1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Harmonic Resonance
+//notes:Acasia's Dejection - Rank 11, Tier B by TheAegisRelic
+Column 1: Reconstruction, Field Prep
+Column 2: Frenzy, Incandescent
+Origin Trait: Harmonic Resonance
 dimwishlist:item=1471212226&perks=1523832109,4104185692,4293542123,3186078099
 dimwishlist:item=1471212226&perks=777589559,4104185692,4293542123,3186078099
 dimwishlist:item=1471212226&perks=1523832109,777589559,4104185692,3186078099
