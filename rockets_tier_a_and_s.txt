@@ -1,12 +1,12 @@
-// Rockets - 2025-10-28T17:01:11.469Z
-//notes:Godroll! Hezen Vengeance - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cluster Bomb, Overflow __ Column 2: Bait and Switch, Elemental Honing, Bipod __ Origin Trait: Timelost Magazine
+// Rockets - 2025-10-28T17:15:37.275Z
+//notes:Godroll! Hezen Vengeance - Rank 1, Tier S by TheAegisRelic Column 1: Envious Arsenal, Cluster Bomb, Overflow Column 2: Bait and Switch, Elemental Honing, Bipod Origin Trait: Timelost Magazine
 dimwishlist:item=1921159786&perks=3987942396,1275731761,3643424744,3078487919,1089671869,1439600632,2589407652
 dimwishlist:item=2265407516&perks=3987942396,1275731761,3643424744,3078487919,1089671869,1439600632,2589407652
 dimwishlist:item=3623686757&perks=3987942396,1275731761,3643424744,3078487919,1089671869,1439600632,2589407652
 dimwishlist:item=4050645223&perks=3987942396,1275731761,3643424744,3078487919,1089671869,1439600632,2589407652
 
 
-//notes:Hezen Vengeance - Rank 1, Tier S by TheAegisRelic __ Column 1: Envious Arsenal, Cluster Bomb, Overflow __ Column 2: Bait and Switch, Elemental Honing, Bipod __ Origin Trait: Timelost Magazine
+//notes:Hezen Vengeance - Rank 1, Tier S by TheAegisRelic Column 1: Envious Arsenal, Cluster Bomb, Overflow Column 2: Bait and Switch, Elemental Honing, Bipod Origin Trait: Timelost Magazine
 dimwishlist:item=1921159786&perks=3987942396,1275731761,3078487919,1089671869,1439600632,2589407652
 dimwishlist:item=1921159786&perks=3987942396,3643424744,3078487919,1089671869,1439600632,2589407652
 dimwishlist:item=1921159786&perks=1275731761,3643424744,3078487919,1089671869,1439600632,2589407652
@@ -200,11 +200,11 @@ dimwishlist:item=4050645223&perks=3643424744,3078487919,2589407652
 dimwishlist:item=4050645223&perks=3643424744,1089671869,2589407652
 dimwishlist:item=4050645223&perks=3643424744,1439600632,2589407652
 
-//notes:Godroll! The When and Where - Rank 2, Tier S by TheAegisRelic __ Column 1: Clown Cartridge, Reconstruction, Overflow __ Column 2: Bait and Switch, Elemental Honing, Bipod __ Origin Trait: Frame of Reference
+//notes:Godroll! The When and Where - Rank 2, Tier S by TheAegisRelic Column 1: Clown Cartridge, Reconstruction, Overflow Column 2: Bait and Switch, Elemental Honing, Bipod Origin Trait: Frame of Reference
 dimwishlist:item=1090936013&perks=2284787283,1523832109,3643424744,3078487919,1089671869,1439600632,2597494435
 
 
-//notes:The When and Where - Rank 2, Tier S by TheAegisRelic __ Column 1: Clown Cartridge, Reconstruction, Overflow __ Column 2: Bait and Switch, Elemental Honing, Bipod __ Origin Trait: Frame of Reference
+//notes:The When and Where - Rank 2, Tier S by TheAegisRelic Column 1: Clown Cartridge, Reconstruction, Overflow Column 2: Bait and Switch, Elemental Honing, Bipod Origin Trait: Frame of Reference
 dimwishlist:item=1090936013&perks=2284787283,1523832109,3078487919,1089671869,1439600632,2597494435
 dimwishlist:item=1090936013&perks=2284787283,3643424744,3078487919,1089671869,1439600632,2597494435
 dimwishlist:item=1090936013&perks=1523832109,3643424744,3078487919,1089671869,1439600632,2597494435
@@ -254,11 +254,11 @@ dimwishlist:item=1090936013&perks=3643424744,3078487919,2597494435
 dimwishlist:item=1090936013&perks=3643424744,1089671869,2597494435
 dimwishlist:item=1090936013&perks=3643424744,1439600632,2597494435
 
-//notes:Godroll! Haliaetus - Rank 3, Tier S by TheAegisRelic __ Column 1: Auto-Loading Holster, Cluster Bomb, Grave Robber __ Column 2: Aggregate Charge, Reaper's Tithe, Elemental Honing __ Origin Trait: Bray Legacy
+//notes:Godroll! Haliaetus - Rank 3, Tier S by TheAegisRelic Column 1: Auto-Loading Holster, Cluster Bomb, Grave Robber Column 2: Aggregate Charge, Reaper's Tithe, Elemental Honing Origin Trait: Bray Legacy
 dimwishlist:item=2155534128&perks=3300816228,1275731761,1631667848,3764420437,113508675,1089671869,4139916815
 
 
-//notes:Haliaetus - Rank 3, Tier S by TheAegisRelic __ Column 1: Auto-Loading Holster, Cluster Bomb, Grave Robber __ Column 2: Aggregate Charge, Reaper's Tithe, Elemental Honing __ Origin Trait: Bray Legacy
+//notes:Haliaetus - Rank 3, Tier S by TheAegisRelic Column 1: Auto-Loading Holster, Cluster Bomb, Grave Robber Column 2: Aggregate Charge, Reaper's Tithe, Elemental Honing Origin Trait: Bray Legacy
 dimwishlist:item=2155534128&perks=3300816228,1275731761,3764420437,113508675,1089671869,4139916815
 dimwishlist:item=2155534128&perks=3300816228,1631667848,3764420437,113508675,1089671869,4139916815
 dimwishlist:item=2155534128&perks=1275731761,1631667848,3764420437,113508675,1089671869,4139916815
@@ -308,7 +308,7 @@ dimwishlist:item=2155534128&perks=1631667848,3764420437,4139916815
 dimwishlist:item=2155534128&perks=1631667848,113508675,4139916815
 dimwishlist:item=2155534128&perks=1631667848,1089671869,4139916815
 
-//notes:Godroll! Cold Comfort __ RotN version - Rank 4, Tier A by TheAegisRelic __ Column 1: Envious Arsenal, Reconstruction __ Column 2: Elemental Honing, Bait and Switch, Bipod __ Origin Trait: Restoration Ritual
+//notes:Godroll! Cold Comfort RotN version - Rank 4, Tier A by TheAegisRelic Column 1: Envious Arsenal, Reconstruction Column 2: Elemental Honing, Bait and Switch, Bipod Origin Trait: Restoration Ritual
 dimwishlist:item=291447487&perks=3987942396,1523832109,1089671869,3078487919,1439600632,398661035
 dimwishlist:item=839786290&perks=3987942396,1523832109,1089671869,3078487919,1439600632,398661035
 dimwishlist:item=1817605554&perks=3987942396,1523832109,1089671869,3078487919,1439600632,398661035
@@ -316,7 +316,7 @@ dimwishlist:item=2126543269&perks=3987942396,1523832109,1089671869,3078487919,14
 dimwishlist:item=2760833884&perks=3987942396,1523832109,1089671869,3078487919,1439600632,398661035
 
 
-//notes:Cold Comfort __ RotN version - Rank 4, Tier A by TheAegisRelic __ Column 1: Envious Arsenal, Reconstruction __ Column 2: Elemental Honing, Bait and Switch, Bipod __ Origin Trait: Restoration Ritual
+//notes:Cold Comfort RotN version - Rank 4, Tier A by TheAegisRelic Column 1: Envious Arsenal, Reconstruction Column 2: Elemental Honing, Bait and Switch, Bipod Origin Trait: Restoration Ritual
 dimwishlist:item=291447487&perks=3987942396,1089671869,3078487919,1439600632,398661035
 dimwishlist:item=291447487&perks=1523832109,1089671869,3078487919,1439600632,398661035
 dimwishlist:item=291447487&perks=3987942396,1523832109,1089671869,3078487919,398661035
@@ -418,11 +418,11 @@ dimwishlist:item=2760833884&perks=1523832109,1089671869,398661035
 dimwishlist:item=2760833884&perks=1523832109,3078487919,398661035
 dimwishlist:item=2760833884&perks=1523832109,1439600632,398661035
 
-//notes:Godroll! Cynosure - Rank 5, Tier A by TheAegisRelic __ Column 1: Envious Arsenal, Clown Cartridge, Field Prep __ Column 2: Elemental Honing, Explosive Light, Bipod __ Origin Trait: Vanguard's Vindication
+//notes:Godroll! Cynosure - Rank 5, Tier A by TheAegisRelic Column 1: Envious Arsenal, Clown Cartridge, Field Prep Column 2: Elemental Honing, Explosive Light, Bipod Origin Trait: Vanguard's Vindication
 dimwishlist:item=694275488&perks=3987942396,2284787283,777589559,1089671869,3194351027,1439600632,744217850
 
 
-//notes:Cynosure - Rank 5, Tier A by TheAegisRelic __ Column 1: Envious Arsenal, Clown Cartridge, Field Prep __ Column 2: Elemental Honing, Explosive Light, Bipod __ Origin Trait: Vanguard's Vindication
+//notes:Cynosure - Rank 5, Tier A by TheAegisRelic Column 1: Envious Arsenal, Clown Cartridge, Field Prep Column 2: Elemental Honing, Explosive Light, Bipod Origin Trait: Vanguard's Vindication
 dimwishlist:item=694275488&perks=3987942396,2284787283,1089671869,3194351027,1439600632,744217850
 dimwishlist:item=694275488&perks=3987942396,777589559,1089671869,3194351027,1439600632,744217850
 dimwishlist:item=694275488&perks=2284787283,777589559,1089671869,3194351027,1439600632,744217850
@@ -472,14 +472,14 @@ dimwishlist:item=694275488&perks=777589559,1089671869,744217850
 dimwishlist:item=694275488&perks=777589559,3194351027,744217850
 dimwishlist:item=694275488&perks=777589559,1439600632,744217850
 
-//notes:Godroll! Tomorrow's Answer - Rank 6, Tier A by TheAegisRelic __ Column 1: Envious Arsenal, Air Trigger, Withering Gaze __ Column 2: Bait and Switch, Explosive Light, Bipod __ Origin Trait: Wild Card
+//notes:Godroll! Tomorrow's Answer - Rank 6, Tier A by TheAegisRelic Column 1: Envious Arsenal, Air Trigger, Withering Gaze Column 2: Bait and Switch, Explosive Light, Bipod Origin Trait: Wild Card
 dimwishlist:item=303107619&perks=3987942396,1421772400,1134488199,3078487919,3194351027,1439600632,1050127423
 dimwishlist:item=958384347&perks=3987942396,1421772400,1134488199,3078487919,3194351027,1439600632,1050127423
 dimwishlist:item=1366917989&perks=3987942396,1421772400,1134488199,3078487919,3194351027,1439600632,1050127423
 dimwishlist:item=3009199534&perks=3987942396,1421772400,1134488199,3078487919,3194351027,1439600632,1050127423
 
 
-//notes:Tomorrow's Answer - Rank 6, Tier A by TheAegisRelic __ Column 1: Envious Arsenal, Air Trigger, Withering Gaze __ Column 2: Bait and Switch, Explosive Light, Bipod __ Origin Trait: Wild Card
+//notes:Tomorrow's Answer - Rank 6, Tier A by TheAegisRelic Column 1: Envious Arsenal, Air Trigger, Withering Gaze Column 2: Bait and Switch, Explosive Light, Bipod Origin Trait: Wild Card
 dimwishlist:item=303107619&perks=3987942396,1421772400,3078487919,3194351027,1439600632,1050127423
 dimwishlist:item=303107619&perks=3987942396,1134488199,3078487919,3194351027,1439600632,1050127423
 dimwishlist:item=303107619&perks=1421772400,1134488199,3078487919,3194351027,1439600632,1050127423
