@@ -1,9 +1,9 @@
-// Autos - 2025-10-28T17:15:37.275Z
-//notes:Godroll! No Hesitation - Rank 1, Tier S by TheAegisRelic Column 1: Physic, Demolitionist Column 2: Incandescent, Attrition Orbs, Circle of Life Origin Trait: Dealer's Choice
+// Autos - 2025-10-28T17:21:42.049Z
+//notes:Godroll!_   _No Hesitation - Rank 1, Tier S by TheAegisRelic_   _Column 1: Physic, Demolitionist_   _Column 2: Incandescent, Attrition Orbs, Circle of Life_   _Origin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,3523296417,4293542123,243981275,2298656195,1988485648
 
 
-//notes:No Hesitation - Rank 1, Tier S by TheAegisRelic Column 1: Physic, Demolitionist Column 2: Incandescent, Attrition Orbs, Circle of Life Origin Trait: Dealer's Choice
+//notes:No Hesitation - Rank 1, Tier S by TheAegisRelic_   _Column 1: Physic, Demolitionist_   _Column 2: Incandescent, Attrition Orbs, Circle of Life_   _Origin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,4293542123,243981275,2298656195,1988485648
 dimwishlist:item=1801007332&perks=3523296417,4293542123,243981275,2298656195,1988485648
 dimwishlist:item=1801007332&perks=2980589453,3523296417,4293542123,243981275,1988485648
@@ -25,11 +25,11 @@ dimwishlist:item=1801007332&perks=3523296417,4293542123,1988485648
 dimwishlist:item=1801007332&perks=3523296417,243981275,1988485648
 dimwishlist:item=1801007332&perks=3523296417,2298656195,1988485648
 
-//notes:Godroll! Cusp Sempiternal - Rank 2, Tier S by TheAegisRelic Column 1: Reciprocity, Repulsor Brace, Attrition Orbs Column 2: Destabilizing Rounds, Master of Arms, Withering Gaze Origin Trait: Frame of Reference
+//notes:Godroll!_   _Cusp Sempiternal - Rank 2, Tier S by TheAegisRelic_   _Column 1: Reciprocity, Repulsor Brace, Attrition Orbs_   _Column 2: Destabilizing Rounds, Master of Arms, Withering Gaze_   _Origin Trait: Frame of Reference
 dimwishlist:item=2579693381&perks=692399809,776531651,243981275,2048641572,3081867624,1134488199,2597494435
 
 
-//notes:Cusp Sempiternal - Rank 2, Tier S by TheAegisRelic Column 1: Reciprocity, Repulsor Brace, Attrition Orbs Column 2: Destabilizing Rounds, Master of Arms, Withering Gaze Origin Trait: Frame of Reference
+//notes:Cusp Sempiternal - Rank 2, Tier S by TheAegisRelic_   _Column 1: Reciprocity, Repulsor Brace, Attrition Orbs_   _Column 2: Destabilizing Rounds, Master of Arms, Withering Gaze_   _Origin Trait: Frame of Reference
 dimwishlist:item=2579693381&perks=692399809,776531651,2048641572,3081867624,1134488199,2597494435
 dimwishlist:item=2579693381&perks=692399809,243981275,2048641572,3081867624,1134488199,2597494435
 dimwishlist:item=2579693381&perks=776531651,243981275,2048641572,3081867624,1134488199,2597494435
@@ -79,14 +79,14 @@ dimwishlist:item=2579693381&perks=243981275,2048641572,2597494435
 dimwishlist:item=2579693381&perks=243981275,3081867624,2597494435
 dimwishlist:item=2579693381&perks=243981275,1134488199,2597494435
 
-//notes:Godroll! Adamantite - Rank 3, Tier A by TheAegisRelic Column 1: Reciprocity, Slice, Demolitionist Column 2: Attrition Orbs, Tear, Frenzy Origin Trait: Runneth Over
+//notes:Godroll!_   _Adamantite - Rank 3, Tier A by TheAegisRelic_   _Column 1: Reciprocity, Slice, Demolitionist_   _Column 2: Attrition Orbs, Tear, Frenzy_   _Origin Trait: Runneth Over
 dimwishlist:item=601574723&perks=692399809,923806249,3523296417,243981275,960997401,4104185692,120721526
 dimwishlist:item=2987244302&perks=692399809,923806249,3523296417,243981275,960997401,4104185692,120721526
 dimwishlist:item=3229982889&perks=692399809,923806249,3523296417,243981275,960997401,4104185692,120721526
 dimwishlist:item=3485029080&perks=692399809,923806249,3523296417,243981275,960997401,4104185692,120721526
 
 
-//notes:Adamantite - Rank 3, Tier A by TheAegisRelic Column 1: Reciprocity, Slice, Demolitionist Column 2: Attrition Orbs, Tear, Frenzy Origin Trait: Runneth Over
+//notes:Adamantite - Rank 3, Tier A by TheAegisRelic_   _Column 1: Reciprocity, Slice, Demolitionist_   _Column 2: Attrition Orbs, Tear, Frenzy_   _Origin Trait: Runneth Over
 dimwishlist:item=601574723&perks=692399809,923806249,243981275,960997401,4104185692,120721526
 dimwishlist:item=601574723&perks=692399809,3523296417,243981275,960997401,4104185692,120721526
 dimwishlist:item=601574723&perks=923806249,3523296417,243981275,960997401,4104185692,120721526
@@ -280,12 +280,12 @@ dimwishlist:item=3485029080&perks=3523296417,243981275,120721526
 dimwishlist:item=3485029080&perks=3523296417,960997401,120721526
 dimwishlist:item=3485029080&perks=3523296417,4104185692,120721526
 
-//notes:Godroll! Reckless Oracle - Rank 4, Tier A by TheAegisRelic Column 1: Destabilizing Rounds, Demolitionist Column 2: Repulsor Brace, One for All Origin Trait: Photoinhibition
+//notes:Godroll!_   _Reckless Oracle - Rank 4, Tier A by TheAegisRelic_   _Column 1: Destabilizing Rounds, Demolitionist_   _Column 2: Repulsor Brace, One for All_   _Origin Trait: Photoinhibition
 dimwishlist:item=1992309064&perks=2048641572,3523296417,776531651,4049631843,511914882
 dimwishlist:item=3385326721&perks=2048641572,3523296417,776531651,4049631843,511914882
 
 
-//notes:Reckless Oracle - Rank 4, Tier A by TheAegisRelic Column 1: Destabilizing Rounds, Demolitionist Column 2: Repulsor Brace, One for All Origin Trait: Photoinhibition
+//notes:Reckless Oracle - Rank 4, Tier A by TheAegisRelic_   _Column 1: Destabilizing Rounds, Demolitionist_   _Column 2: Repulsor Brace, One for All_   _Origin Trait: Photoinhibition
 dimwishlist:item=1992309064&perks=2048641572,776531651,4049631843,511914882
 dimwishlist:item=1992309064&perks=3523296417,776531651,4049631843,511914882
 dimwishlist:item=1992309064&perks=2048641572,3523296417,776531651,511914882
@@ -303,24 +303,24 @@ dimwishlist:item=3385326721&perks=2048641572,4049631843,511914882
 dimwishlist:item=3385326721&perks=3523296417,776531651,511914882
 dimwishlist:item=3385326721&perks=3523296417,4049631843,511914882
 
-//notes:Godroll! Abyss Defiant - Rank 5, Tier A by TheAegisRelic Column 1: Heal Clip, Enlightened Action Column 2: Incandescent Origin Trait: Cursed Thrall
+//notes:Godroll!_   _Abyss Defiant - Rank 5, Tier A by TheAegisRelic_   _Column 1: Heal Clip, Enlightened Action_   _Column 2: Incandescent_   _Origin Trait: Cursed Thrall
 dimwishlist:item=833898322&perks=3017780555,777589557,4293542123,1156201379
 dimwishlist:item=3782662983&perks=3017780555,777589557,4293542123,1156201379
 
-//notes:Godroll! The Summoner - Rank 6, Tier A by TheAegisRelic Column 1: Heal Clip Column 2: Incandescent, Onslaught Origin Trait: Wild Card
+//notes:Godroll!_   _The Summoner - Rank 6, Tier A by TheAegisRelic_   _Column 1: Heal Clip_   _Column 2: Incandescent, Onslaught_   _Origin Trait: Wild Card
 dimwishlist:item=1292594730&perks=3017780555,4293542123,95528736,1050127423
 dimwishlist:item=1820994983&perks=3017780555,4293542123,95528736,1050127423
 dimwishlist:item=1907698332&perks=3017780555,4293542123,95528736,1050127423
 dimwishlist:item=3514144928&perks=3017780555,4293542123,95528736,1050127423
 
-//notes:Godroll! The Riposte - Rank 7, Tier A by TheAegisRelic Column 1: Repulsor Brace, Enlightened Action Column 2: Destabilizing Rounds Origin Trait: None
+//notes:Godroll!_   _The Riposte - Rank 7, Tier A by TheAegisRelic_   _Column 1: Repulsor Brace, Enlightened Action_   _Column 2: Destabilizing Rounds_   _Origin Trait: None
 dimwishlist:item=3754408118&perks=776531651,777589557,2048641572,0
 
-//notes:Godroll! Everburning Glitz - Rank 8, Tier A by TheAegisRelic Column 1: Attrition Orbs, Bewildering Burst Column 2: Kinetic Tremors, Ancillary Ordinance Origin Trait: Fleet Footed
+//notes:Godroll!_   _Everburning Glitz - Rank 8, Tier A by TheAegisRelic_   _Column 1: Attrition Orbs, Bewildering Burst_   _Column 2: Kinetic Tremors, Ancillary Ordinance_   _Origin Trait: Fleet Footed
 dimwishlist:item=2857870254&perks=243981275,2289534249,3891536761,1202584452,65797256
 
 
-//notes:Everburning Glitz - Rank 8, Tier A by TheAegisRelic Column 1: Attrition Orbs, Bewildering Burst Column 2: Kinetic Tremors, Ancillary Ordinance Origin Trait: Fleet Footed
+//notes:Everburning Glitz - Rank 8, Tier A by TheAegisRelic_   _Column 1: Attrition Orbs, Bewildering Burst_   _Column 2: Kinetic Tremors, Ancillary Ordinance_   _Origin Trait: Fleet Footed
 dimwishlist:item=2857870254&perks=243981275,3891536761,1202584452,65797256
 dimwishlist:item=2857870254&perks=2289534249,3891536761,1202584452,65797256
 dimwishlist:item=2857870254&perks=243981275,2289534249,3891536761,65797256
@@ -330,5 +330,5 @@ dimwishlist:item=2857870254&perks=243981275,1202584452,65797256
 dimwishlist:item=2857870254&perks=2289534249,3891536761,65797256
 dimwishlist:item=2857870254&perks=2289534249,1202584452,65797256
 
-//notes:Godroll! VS Pyroelectric Propellant - Rank 9, Tier A by TheAegisRelic Column 1: Attrition Orbs, Eddy Current Column 2: Jolting Feedback Origin Trait: Bray Legacy
+//notes:Godroll!_   _VS Pyroelectric Propellant - Rank 9, Tier A by TheAegisRelic_   _Column 1: Attrition Orbs, Eddy Current_   _Column 2: Jolting Feedback_   _Origin Trait: Bray Legacy
 dimwishlist:item=4232480042&perks=243981275,684456054,3966416502,4139916815

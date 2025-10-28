@@ -1,9 +1,9 @@
-// HGLs - 2025-10-28T17:15:37.275Z
-//notes:Godroll! VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic Column 1: Envious Arsenal, Cascade Point, Attrition Orbs Column 2: Bait and Switch, Explosive Light, Surrounded Origin Trait: Bray Legacy
+// HGLs - 2025-10-28T17:21:42.049Z
+//notes:Godroll!_   _VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic_   _Column 1: Envious Arsenal, Cascade Point, Attrition Orbs_   _Column 2: Bait and Switch, Explosive Light, Surrounded_   _Origin Trait: Bray Legacy
 dimwishlist:item=1762785662&perks=3987942396,3751912585,243981275,3078487919,3194351027,3708227201,4139916815
 
 
-//notes:VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic Column 1: Envious Arsenal, Cascade Point, Attrition Orbs Column 2: Bait and Switch, Explosive Light, Surrounded Origin Trait: Bray Legacy
+//notes:VS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic_   _Column 1: Envious Arsenal, Cascade Point, Attrition Orbs_   _Column 2: Bait and Switch, Explosive Light, Surrounded_   _Origin Trait: Bray Legacy
 dimwishlist:item=1762785662&perks=3987942396,3751912585,3078487919,3194351027,3708227201,4139916815
 dimwishlist:item=1762785662&perks=3987942396,243981275,3078487919,3194351027,3708227201,4139916815
 dimwishlist:item=1762785662&perks=3751912585,243981275,3078487919,3194351027,3708227201,4139916815
@@ -53,11 +53,11 @@ dimwishlist:item=1762785662&perks=243981275,3078487919,4139916815
 dimwishlist:item=1762785662&perks=243981275,3194351027,4139916815
 dimwishlist:item=1762785662&perks=243981275,3708227201,4139916815
 
-//notes:Godroll! The Ever-Present - Rank 2, Tier S by TheAegisRelic Column 1: Envious Arsenal Column 2: Aggregate Charge, Bait and Switch, Elemental Honing Origin Trait: Frame of Reference
+//notes:Godroll!_   _The Ever-Present - Rank 2, Tier S by TheAegisRelic_   _Column 1: Envious Arsenal_   _Column 2: Aggregate Charge, Bait and Switch, Elemental Honing_   _Origin Trait: Frame of Reference
 dimwishlist:item=3177074192&perks=3987942396,3764420437,3078487919,1089671869,2597494435
 
 
-//notes:The Ever-Present - Rank 2, Tier S by TheAegisRelic Column 1: Envious Arsenal Column 2: Aggregate Charge, Bait and Switch, Elemental Honing Origin Trait: Frame of Reference
+//notes:The Ever-Present - Rank 2, Tier S by TheAegisRelic_   _Column 1: Envious Arsenal_   _Column 2: Aggregate Charge, Bait and Switch, Elemental Honing_   _Origin Trait: Frame of Reference
 dimwishlist:item=3177074192&perks=3987942396,3764420437,3078487919,2597494435
 dimwishlist:item=3177074192&perks=3987942396,3764420437,1089671869,2597494435
 dimwishlist:item=3177074192&perks=3987942396,3078487919,1089671869,2597494435
@@ -65,12 +65,12 @@ dimwishlist:item=3177074192&perks=3987942396,3764420437,2597494435
 dimwishlist:item=3177074192&perks=3987942396,3078487919,2597494435
 dimwishlist:item=3177074192&perks=3987942396,1089671869,2597494435
 
-//notes:Godroll! Outrageous Fortune - Rank 3, Tier S by TheAegisRelic Column 1: Envious Arsenal, Incandescent Column 2: Bait and Switch, Explosive Light, Chain Reaction Origin Trait: Problem Solver
+//notes:Godroll!_   _Outrageous Fortune - Rank 3, Tier S by TheAegisRelic_   _Column 1: Envious Arsenal, Incandescent_   _Column 2: Bait and Switch, Explosive Light, Chain Reaction_   _Origin Trait: Problem Solver
 dimwishlist:item=4146673634&perks=3987942396,4293542123,3078487919,3194351027,2396489472,3454102905
 dimwishlist:item=4146702548&perks=3987942396,4293542123,3078487919,3194351027,2396489472,3454102905
 
 
-//notes:Outrageous Fortune - Rank 3, Tier S by TheAegisRelic Column 1: Envious Arsenal, Incandescent Column 2: Bait and Switch, Explosive Light, Chain Reaction Origin Trait: Problem Solver
+//notes:Outrageous Fortune - Rank 3, Tier S by TheAegisRelic_   _Column 1: Envious Arsenal, Incandescent_   _Column 2: Bait and Switch, Explosive Light, Chain Reaction_   _Origin Trait: Problem Solver
 dimwishlist:item=4146673634&perks=3987942396,3078487919,3194351027,2396489472,3454102905
 dimwishlist:item=4146673634&perks=4293542123,3078487919,3194351027,2396489472,3454102905
 dimwishlist:item=4146673634&perks=3987942396,4293542123,3078487919,3194351027,3454102905
@@ -112,11 +112,11 @@ dimwishlist:item=4146702548&perks=4293542123,3078487919,3454102905
 dimwishlist:item=4146702548&perks=4293542123,3194351027,3454102905
 dimwishlist:item=4146702548&perks=4293542123,2396489472,3454102905
 
-//notes:Godroll! Bitter/Sweet - Rank 4, Tier A by TheAegisRelic Column 1: Envious Arsenal Column 2: Bait and Switch, Cascade Point, Explosive Light Origin Trait: Dark Ether Reaper
+//notes:Godroll!_   _Bitter/Sweet - Rank 4, Tier A by TheAegisRelic_   _Column 1: Envious Arsenal_   _Column 2: Bait and Switch, Cascade Point, Explosive Light_   _Origin Trait: Dark Ether Reaper
 dimwishlist:item=2599338625&perks=3987942396,3078487919,3751912585,3194351027,2041432007
 
 
-//notes:Bitter/Sweet - Rank 4, Tier A by TheAegisRelic Column 1: Envious Arsenal Column 2: Bait and Switch, Cascade Point, Explosive Light Origin Trait: Dark Ether Reaper
+//notes:Bitter/Sweet - Rank 4, Tier A by TheAegisRelic_   _Column 1: Envious Arsenal_   _Column 2: Bait and Switch, Cascade Point, Explosive Light_   _Origin Trait: Dark Ether Reaper
 dimwishlist:item=2599338625&perks=3987942396,3078487919,3751912585,2041432007
 dimwishlist:item=2599338625&perks=3987942396,3078487919,3194351027,2041432007
 dimwishlist:item=2599338625&perks=3987942396,3751912585,3194351027,2041432007
@@ -124,12 +124,12 @@ dimwishlist:item=2599338625&perks=3987942396,3078487919,2041432007
 dimwishlist:item=2599338625&perks=3987942396,3751912585,2041432007
 dimwishlist:item=2599338625&perks=3987942396,3194351027,2041432007
 
-//notes:Godroll! Wicked Sister - Rank 5, Tier A by TheAegisRelic Column 1: Envious Arsenal Column 2: Bait and Switch, Cascade Point, Explosive Light Origin Trait: Nadir Focus
+//notes:Godroll!_   _Wicked Sister - Rank 5, Tier A by TheAegisRelic_   _Column 1: Envious Arsenal_   _Column 2: Bait and Switch, Cascade Point, Explosive Light_   _Origin Trait: Nadir Focus
 dimwishlist:item=2039776723&perks=3987942396,3078487919,3751912585,3194351027,2509860981
 dimwishlist:item=2168486467&perks=3987942396,3078487919,3751912585,3194351027,2509860981
 
 
-//notes:Wicked Sister - Rank 5, Tier A by TheAegisRelic Column 1: Envious Arsenal Column 2: Bait and Switch, Cascade Point, Explosive Light Origin Trait: Nadir Focus
+//notes:Wicked Sister - Rank 5, Tier A by TheAegisRelic_   _Column 1: Envious Arsenal_   _Column 2: Bait and Switch, Cascade Point, Explosive Light_   _Origin Trait: Nadir Focus
 dimwishlist:item=2039776723&perks=3987942396,3078487919,3751912585,2509860981
 dimwishlist:item=2039776723&perks=3987942396,3078487919,3194351027,2509860981
 dimwishlist:item=2039776723&perks=3987942396,3751912585,3194351027,2509860981
@@ -143,13 +143,13 @@ dimwishlist:item=2168486467&perks=3987942396,3078487919,2509860981
 dimwishlist:item=2168486467&perks=3987942396,3751912585,2509860981
 dimwishlist:item=2168486467&perks=3987942396,3194351027,2509860981
 
-//notes:Godroll! Edge Transit - Rank 6, Tier A by TheAegisRelic Column 1: Envious Assassin, Cascade Point, Chain Reaction Column 2: Bait and Switch, Explosive Light, Deconstruct Origin Trait: Indomitability
+//notes:Godroll!_   _Edge Transit - Rank 6, Tier A by TheAegisRelic_   _Column 1: Envious Assassin, Cascade Point, Chain Reaction_   _Column 2: Bait and Switch, Explosive Light, Deconstruct_   _Origin Trait: Indomitability
 dimwishlist:item=218335759&perks=968510818,3751912585,2396489472,3078487919,3194351027,1164602481,2489430594
 dimwishlist:item=568611923&perks=968510818,3751912585,2396489472,3078487919,3194351027,1164602481,2489430594
 dimwishlist:item=2228325504&perks=968510818,3751912585,2396489472,3078487919,3194351027,1164602481,2489430594
 
 
-//notes:Edge Transit - Rank 6, Tier A by TheAegisRelic Column 1: Envious Assassin, Cascade Point, Chain Reaction Column 2: Bait and Switch, Explosive Light, Deconstruct Origin Trait: Indomitability
+//notes:Edge Transit - Rank 6, Tier A by TheAegisRelic_   _Column 1: Envious Assassin, Cascade Point, Chain Reaction_   _Column 2: Bait and Switch, Explosive Light, Deconstruct_   _Origin Trait: Indomitability
 dimwishlist:item=218335759&perks=968510818,3751912585,3078487919,3194351027,1164602481,2489430594
 dimwishlist:item=218335759&perks=968510818,2396489472,3078487919,3194351027,1164602481,2489430594
 dimwishlist:item=218335759&perks=3751912585,2396489472,3078487919,3194351027,1164602481,2489430594
@@ -295,12 +295,12 @@ dimwishlist:item=2228325504&perks=2396489472,3078487919,2489430594
 dimwishlist:item=2228325504&perks=2396489472,3194351027,2489430594
 dimwishlist:item=2228325504&perks=2396489472,1164602481,2489430594
 
-//notes:Godroll! Cataphract GL3 - Rank 7, Tier B by TheAegisRelic Column 1: Envious Assassin, Auto-Loading Holster Column 2: Bait and Switch, Cascade Point Origin Trait: Alacrity
+//notes:Godroll!_   _Cataphract GL3 - Rank 7, Tier B by TheAegisRelic_   _Column 1: Envious Assassin, Auto-Loading Holster_   _Column 2: Bait and Switch, Cascade Point_   _Origin Trait: Alacrity
 dimwishlist:item=874623537&perks=968510818,3300816228,3078487919,3751912585,2988596335
 dimwishlist:item=2738601016&perks=968510818,3300816228,3078487919,3751912585,2988596335
 
 
-//notes:Cataphract GL3 - Rank 7, Tier B by TheAegisRelic Column 1: Envious Assassin, Auto-Loading Holster Column 2: Bait and Switch, Cascade Point Origin Trait: Alacrity
+//notes:Cataphract GL3 - Rank 7, Tier B by TheAegisRelic_   _Column 1: Envious Assassin, Auto-Loading Holster_   _Column 2: Bait and Switch, Cascade Point_   _Origin Trait: Alacrity
 dimwishlist:item=874623537&perks=968510818,3078487919,3751912585,2988596335
 dimwishlist:item=874623537&perks=3300816228,3078487919,3751912585,2988596335
 dimwishlist:item=874623537&perks=968510818,3300816228,3078487919,2988596335
@@ -318,12 +318,12 @@ dimwishlist:item=2738601016&perks=968510818,3751912585,2988596335
 dimwishlist:item=2738601016&perks=3300816228,3078487919,2988596335
 dimwishlist:item=2738601016&perks=3300816228,3751912585,2988596335
 
-//notes:Godroll! Koraxis's Distress - Rank 8, Tier B by TheAegisRelic Column 1: Envious Assassin, Reconstruction Column 2: Surrounded, Frenzy, Full Court Origin Trait: Harmonic Resonance
+//notes:Godroll!_   _Koraxis's Distress - Rank 8, Tier B by TheAegisRelic_   _Column 1: Envious Assassin, Reconstruction_   _Column 2: Surrounded, Frenzy, Full Court_   _Origin Trait: Harmonic Resonance
 dimwishlist:item=495442100&perks=968510818,1523832109,3708227201,4104185692,2888557110,3186078099
 dimwishlist:item=2972949637&perks=968510818,1523832109,3708227201,4104185692,2888557110,3186078099
 
 
-//notes:Koraxis's Distress - Rank 8, Tier B by TheAegisRelic Column 1: Envious Assassin, Reconstruction Column 2: Surrounded, Frenzy, Full Court Origin Trait: Harmonic Resonance
+//notes:Koraxis's Distress - Rank 8, Tier B by TheAegisRelic_   _Column 1: Envious Assassin, Reconstruction_   _Column 2: Surrounded, Frenzy, Full Court_   _Origin Trait: Harmonic Resonance
 dimwishlist:item=495442100&perks=968510818,3708227201,4104185692,2888557110,3186078099
 dimwishlist:item=495442100&perks=1523832109,3708227201,4104185692,2888557110,3186078099
 dimwishlist:item=495442100&perks=968510818,1523832109,3708227201,4104185692,3186078099
@@ -365,12 +365,12 @@ dimwishlist:item=2972949637&perks=1523832109,3708227201,3186078099
 dimwishlist:item=2972949637&perks=1523832109,4104185692,3186078099
 dimwishlist:item=2972949637&perks=1523832109,2888557110,3186078099
 
-//notes:Godroll! Hullabaloo - Rank 9, Tier B by TheAegisRelic Column 1: Field Prep, Demolitionist, Voltshot Column 2: Chain Reaction, One for All, Rolling Storm Origin Trait: Classy Contender
+//notes:Godroll!_   _Hullabaloo - Rank 9, Tier B by TheAegisRelic_   _Column 1: Field Prep, Demolitionist, Voltshot_   _Column 2: Chain Reaction, One for All, Rolling Storm_   _Origin Trait: Classy Contender
 dimwishlist:item=657927352&perks=777589559,3523296417,2173046394,2396489472,4049631843,3218042543,1702976605
 dimwishlist:item=2666273249&perks=777589559,3523296417,2173046394,2396489472,4049631843,3218042543,1702976605
 
 
-//notes:Hullabaloo - Rank 9, Tier B by TheAegisRelic Column 1: Field Prep, Demolitionist, Voltshot Column 2: Chain Reaction, One for All, Rolling Storm Origin Trait: Classy Contender
+//notes:Hullabaloo - Rank 9, Tier B by TheAegisRelic_   _Column 1: Field Prep, Demolitionist, Voltshot_   _Column 2: Chain Reaction, One for All, Rolling Storm_   _Origin Trait: Classy Contender
 dimwishlist:item=657927352&perks=777589559,3523296417,2396489472,4049631843,3218042543,1702976605
 dimwishlist:item=657927352&perks=777589559,2173046394,2396489472,4049631843,3218042543,1702976605
 dimwishlist:item=657927352&perks=3523296417,2173046394,2396489472,4049631843,3218042543,1702976605
@@ -468,11 +468,11 @@ dimwishlist:item=2666273249&perks=2173046394,2396489472,1702976605
 dimwishlist:item=2666273249&perks=2173046394,4049631843,1702976605
 dimwishlist:item=2666273249&perks=2173046394,3218042543,1702976605
 
-//notes:Godroll! Regnant - Rank 10, Tier B by TheAegisRelic Column 1: Envious Assassin, Auto-Loading Holster Column 2: Cascade Point, Explosive Light Origin Trait: Noble Deeds
+//notes:Godroll!_   _Regnant - Rank 10, Tier B by TheAegisRelic_   _Column 1: Envious Assassin, Auto-Loading Holster_   _Column 2: Cascade Point, Explosive Light_   _Origin Trait: Noble Deeds
 dimwishlist:item=268260372&perks=968510818,3300816228,3751912585,3194351027,1823011807
 
 
-//notes:Regnant - Rank 10, Tier B by TheAegisRelic Column 1: Envious Assassin, Auto-Loading Holster Column 2: Cascade Point, Explosive Light Origin Trait: Noble Deeds
+//notes:Regnant - Rank 10, Tier B by TheAegisRelic_   _Column 1: Envious Assassin, Auto-Loading Holster_   _Column 2: Cascade Point, Explosive Light_   _Origin Trait: Noble Deeds
 dimwishlist:item=268260372&perks=968510818,3751912585,3194351027,1823011807
 dimwishlist:item=268260372&perks=3300816228,3751912585,3194351027,1823011807
 dimwishlist:item=268260372&perks=968510818,3300816228,3751912585,1823011807
@@ -482,11 +482,11 @@ dimwishlist:item=268260372&perks=968510818,3194351027,1823011807
 dimwishlist:item=268260372&perks=3300816228,3751912585,1823011807
 dimwishlist:item=268260372&perks=3300816228,3194351027,1823011807
 
-//notes:Godroll! Dimensional Hypotrochoid - Rank 11, Tier B by TheAegisRelic Column 1: Field Prep, Envious Assassin Column 2: Chain Reaction, One for All, Vorpal Weapon Origin Trait: Nanotech Tracer Missiles
+//notes:Godroll!_   _Dimensional Hypotrochoid - Rank 11, Tier B by TheAegisRelic_   _Column 1: Field Prep, Envious Assassin_   _Column 2: Chain Reaction, One for All, Vorpal Weapon_   _Origin Trait: Nanotech Tracer Missiles
 dimwishlist:item=1311684613&perks=777589559,968510818,2396489472,4049631843,1546637391,164468655
 
 
-//notes:Dimensional Hypotrochoid - Rank 11, Tier B by TheAegisRelic Column 1: Field Prep, Envious Assassin Column 2: Chain Reaction, One for All, Vorpal Weapon Origin Trait: Nanotech Tracer Missiles
+//notes:Dimensional Hypotrochoid - Rank 11, Tier B by TheAegisRelic_   _Column 1: Field Prep, Envious Assassin_   _Column 2: Chain Reaction, One for All, Vorpal Weapon_   _Origin Trait: Nanotech Tracer Missiles
 dimwishlist:item=1311684613&perks=777589559,2396489472,4049631843,1546637391,164468655
 dimwishlist:item=1311684613&perks=968510818,2396489472,4049631843,1546637391,164468655
 dimwishlist:item=1311684613&perks=777589559,968510818,2396489472,4049631843,164468655
@@ -508,12 +508,12 @@ dimwishlist:item=1311684613&perks=968510818,2396489472,164468655
 dimwishlist:item=1311684613&perks=968510818,4049631843,164468655
 dimwishlist:item=1311684613&perks=968510818,1546637391,164468655
 
-//notes:Godroll! Acosmic - Rank 12, Tier C by TheAegisRelic Column 1: Clown Cartridge, Withering Gaze Column 2: Bait and Switch, Cascade Point, Explosive Light Origin Trait: Nadir Focus
+//notes:Godroll!_   _Acosmic - Rank 12, Tier C by TheAegisRelic_   _Column 1: Clown Cartridge, Withering Gaze_   _Column 2: Bait and Switch, Cascade Point, Explosive Light_   _Origin Trait: Nadir Focus
 dimwishlist:item=413901114&perks=2284787283,1134488199,3078487919,3751912585,3194351027,2509860981
 dimwishlist:item=425681240&perks=2284787283,1134488199,3078487919,3751912585,3194351027,2509860981
 
 
-//notes:Acosmic - Rank 12, Tier C by TheAegisRelic Column 1: Clown Cartridge, Withering Gaze Column 2: Bait and Switch, Cascade Point, Explosive Light Origin Trait: Nadir Focus
+//notes:Acosmic - Rank 12, Tier C by TheAegisRelic_   _Column 1: Clown Cartridge, Withering Gaze_   _Column 2: Bait and Switch, Cascade Point, Explosive Light_   _Origin Trait: Nadir Focus
 dimwishlist:item=413901114&perks=2284787283,3078487919,3751912585,3194351027,2509860981
 dimwishlist:item=413901114&perks=1134488199,3078487919,3751912585,3194351027,2509860981
 dimwishlist:item=413901114&perks=2284787283,1134488199,3078487919,3751912585,2509860981
@@ -555,15 +555,15 @@ dimwishlist:item=425681240&perks=1134488199,3078487919,2509860981
 dimwishlist:item=425681240&perks=1134488199,3751912585,2509860981
 dimwishlist:item=425681240&perks=1134488199,3194351027,2509860981
 
-//notes:Godroll! Marsilion-C - Rank 13, Tier C by TheAegisRelic Column 1: Envious Assassin Column 2: Cascade Point, Full Court Origin Trait: Hakke Breach Armaments
+//notes:Godroll!_   _Marsilion-C - Rank 13, Tier C by TheAegisRelic_   _Column 1: Envious Assassin_   _Column 2: Cascade Point, Full Court_   _Origin Trait: Hakke Breach Armaments
 dimwishlist:item=867154247&perks=968510818,3751912585,2888557110,1607056502
 
 
-//notes:Marsilion-C - Rank 13, Tier C by TheAegisRelic Column 1: Envious Assassin Column 2: Cascade Point, Full Court Origin Trait: Hakke Breach Armaments
+//notes:Marsilion-C - Rank 13, Tier C by TheAegisRelic_   _Column 1: Envious Assassin_   _Column 2: Cascade Point, Full Court_   _Origin Trait: Hakke Breach Armaments
 dimwishlist:item=867154247&perks=968510818,3751912585,1607056502
 dimwishlist:item=867154247&perks=968510818,2888557110,1607056502
 
-//notes:Godroll! Wendigo GL3 - Rank 14, Tier C by TheAegisRelic Column 1: Auto-Loading Holster Column 2: Cascade Point, Explosive Light Origin Trait: Vanguard's Vindication
+//notes:Godroll!_   _Wendigo GL3 - Rank 14, Tier C by TheAegisRelic_   _Column 1: Auto-Loading Holster_   _Column 2: Cascade Point, Explosive Light_   _Origin Trait: Vanguard's Vindication
 dimwishlist:item=555148853&perks=3300816228,3751912585,3194351027,744217850
 dimwishlist:item=578459533&perks=3300816228,3751912585,3194351027,744217850
 dimwishlist:item=1854753404&perks=3300816228,3751912585,3194351027,744217850
@@ -571,7 +571,7 @@ dimwishlist:item=3183283212&perks=3300816228,3751912585,3194351027,744217850
 dimwishlist:item=3915197957&perks=3300816228,3751912585,3194351027,744217850
 
 
-//notes:Wendigo GL3 - Rank 14, Tier C by TheAegisRelic Column 1: Auto-Loading Holster Column 2: Cascade Point, Explosive Light Origin Trait: Vanguard's Vindication
+//notes:Wendigo GL3 - Rank 14, Tier C by TheAegisRelic_   _Column 1: Auto-Loading Holster_   _Column 2: Cascade Point, Explosive Light_   _Origin Trait: Vanguard's Vindication
 dimwishlist:item=555148853&perks=3300816228,3751912585,744217850
 dimwishlist:item=555148853&perks=3300816228,3194351027,744217850
 dimwishlist:item=578459533&perks=3300816228,3751912585,744217850
@@ -583,76 +583,76 @@ dimwishlist:item=3183283212&perks=3300816228,3194351027,744217850
 dimwishlist:item=3915197957&perks=3300816228,3751912585,744217850
 dimwishlist:item=3915197957&perks=3300816228,3194351027,744217850
 
-//notes:Godroll! Love and Death - Rank 15, Tier D by TheAegisRelic Column 1: Auto-Loading Holster, Clown Cartridge Column 2: Full Court Origin Trait: None
+//notes:Godroll!_   _Love and Death - Rank 15, Tier D by TheAegisRelic_   _Column 1: Auto-Loading Holster, Clown Cartridge_   _Column 2: Full Court_   _Origin Trait: None
 dimwishlist:item=3690523502&perks=3300816228,2284787283,2888557110,0
 
 
-//notes:Love and Death - Rank 15, Tier D by TheAegisRelic Column 1: Auto-Loading Holster, Clown Cartridge Column 2: Full Court Origin Trait: None
+//notes:Love and Death - Rank 15, Tier D by TheAegisRelic_   _Column 1: Auto-Loading Holster, Clown Cartridge_   _Column 2: Full Court_   _Origin Trait: None
 dimwishlist:item=3690523502&perks=3300816228,2888557110,0
 dimwishlist:item=3690523502&perks=2284787283,2888557110,0
 
-//notes:Godroll! Swarm of the Raven - Rank 16, Tier D by TheAegisRelic Column 1: Auto-Loading Holster, Clown Cartridge Column 2: Cascade Point Origin Trait: Skulking Wolf
+//notes:Godroll!_   _Swarm of the Raven - Rank 16, Tier D by TheAegisRelic_   _Column 1: Auto-Loading Holster, Clown Cartridge_   _Column 2: Cascade Point_   _Origin Trait: Skulking Wolf
 dimwishlist:item=433905699&perks=3300816228,2284787283,3751912585,3989629871
 dimwishlist:item=1972985595&perks=3300816228,2284787283,3751912585,3989629871
 
 
-//notes:Swarm of the Raven - Rank 16, Tier D by TheAegisRelic Column 1: Auto-Loading Holster, Clown Cartridge Column 2: Cascade Point Origin Trait: Skulking Wolf
+//notes:Swarm of the Raven - Rank 16, Tier D by TheAegisRelic_   _Column 1: Auto-Loading Holster, Clown Cartridge_   _Column 2: Cascade Point_   _Origin Trait: Skulking Wolf
 dimwishlist:item=433905699&perks=3300816228,3751912585,3989629871
 dimwishlist:item=433905699&perks=2284787283,3751912585,3989629871
 dimwishlist:item=1972985595&perks=3300816228,3751912585,3989629871
 dimwishlist:item=1972985595&perks=2284787283,3751912585,3989629871
 
-//notes:Godroll! Interference VI - Rank 17, Tier D by TheAegisRelic Column 1: Auto-Loading Holster, Clown Cartridge Column 2: Full Court Origin Trait: None
+//notes:Godroll!_   _Interference VI - Rank 17, Tier D by TheAegisRelic_   _Column 1: Auto-Loading Holster, Clown Cartridge_   _Column 2: Full Court_   _Origin Trait: None
 dimwishlist:item=1443049976&perks=3300816228,2284787283,2888557110,0
 dimwishlist:item=2257180473&perks=3300816228,2284787283,2888557110,0
 
 
-//notes:Interference VI - Rank 17, Tier D by TheAegisRelic Column 1: Auto-Loading Holster, Clown Cartridge Column 2: Full Court Origin Trait: None
+//notes:Interference VI - Rank 17, Tier D by TheAegisRelic_   _Column 1: Auto-Loading Holster, Clown Cartridge_   _Column 2: Full Court_   _Origin Trait: None
 dimwishlist:item=1443049976&perks=3300816228,2888557110,0
 dimwishlist:item=1443049976&perks=2284787283,2888557110,0
 dimwishlist:item=2257180473&perks=3300816228,2888557110,0
 dimwishlist:item=2257180473&perks=2284787283,2888557110,0
 
-//notes:Godroll! Typhon GL5 - Rank 18, Tier D by TheAegisRelic Column 1: Demolitionist Column 2: Explosive Light Origin Trait: Omolon Fluid Dynamics
+//notes:Godroll!_   _Typhon GL5 - Rank 18, Tier D by TheAegisRelic_   _Column 1: Demolitionist_   _Column 2: Explosive Light_   _Origin Trait: Omolon Fluid Dynamics
 dimwishlist:item=3568377122&perks=3523296417,3194351027,2839173408
 
 
-//notes:Typhon GL5 - Rank 18, Tier D by TheAegisRelic Column 1: Demolitionist Column 2: Explosive Light Origin Trait: Omolon Fluid Dynamics
+//notes:Typhon GL5 - Rank 18, Tier D by TheAegisRelic_   _Column 1: Demolitionist_   _Column 2: Explosive Light_   _Origin Trait: Omolon Fluid Dynamics
 
-//notes:Godroll! Cry Mutiny - Rank 19, Tier E by TheAegisRelic Column 1: Demolitionist Column 2: Vorpal Weapon Origin Trait: Gun and Run
+//notes:Godroll!_   _Cry Mutiny - Rank 19, Tier E by TheAegisRelic_   _Column 1: Demolitionist_   _Column 2: Vorpal Weapon_   _Origin Trait: Gun and Run
 dimwishlist:item=616582330&perks=3523296417,1546637391,515704826
 
 
-//notes:Cry Mutiny - Rank 19, Tier E by TheAegisRelic Column 1: Demolitionist Column 2: Vorpal Weapon Origin Trait: Gun and Run
+//notes:Cry Mutiny - Rank 19, Tier E by TheAegisRelic_   _Column 1: Demolitionist_   _Column 2: Vorpal Weapon_   _Origin Trait: Gun and Run
 
-//notes:Godroll! Canis Major - Rank 20, Tier E by TheAegisRelic Column 1: Clown Cartridge Column 2: Vorpal Weapon Origin Trait: None
+//notes:Godroll!_   _Canis Major - Rank 20, Tier E by TheAegisRelic_   _Column 1: Clown Cartridge_   _Column 2: Vorpal Weapon_   _Origin Trait: None
 dimwishlist:item=2066434718&perks=2284787283,1546637391,0
 
 
-//notes:Canis Major - Rank 20, Tier E by TheAegisRelic Column 1: Clown Cartridge Column 2: Vorpal Weapon Origin Trait: None
+//notes:Canis Major - Rank 20, Tier E by TheAegisRelic_   _Column 1: Clown Cartridge_   _Column 2: Vorpal Weapon_   _Origin Trait: None
 
-//notes:Godroll! Tarnation - Rank 21, Tier F by TheAegisRelic Column 1: Clown Cartridge Column 2: One for All Origin Trait: Psychohack
+//notes:Godroll!_   _Tarnation - Rank 21, Tier F by TheAegisRelic_   _Column 1: Clown Cartridge_   _Column 2: One for All_   _Origin Trait: Psychohack
 dimwishlist:item=2721157927&perks=2284787283,4049631843,79448657
 
 
-//notes:Tarnation - Rank 21, Tier F by TheAegisRelic Column 1: Clown Cartridge Column 2: One for All Origin Trait: Psychohack
+//notes:Tarnation - Rank 21, Tier F by TheAegisRelic_   _Column 1: Clown Cartridge_   _Column 2: One for All_   _Origin Trait: Psychohack
 
-//notes:Godroll! Memory Interdict - Rank 22, Tier F by TheAegisRelic Column 1: Auto-Loading Holster, Clown Cartridge Column 2: Chain Reaction Origin Trait: None
+//notes:Godroll!_   _Memory Interdict - Rank 22, Tier F by TheAegisRelic_   _Column 1: Auto-Loading Holster, Clown Cartridge_   _Column 2: Chain Reaction_   _Origin Trait: None
 dimwishlist:item=3165547384&perks=3300816228,2284787283,2396489472,0
 dimwishlist:item=3329842376&perks=3300816228,2284787283,2396489472,0
 
 
-//notes:Memory Interdict - Rank 22, Tier F by TheAegisRelic Column 1: Auto-Loading Holster, Clown Cartridge Column 2: Chain Reaction Origin Trait: None
+//notes:Memory Interdict - Rank 22, Tier F by TheAegisRelic_   _Column 1: Auto-Loading Holster, Clown Cartridge_   _Column 2: Chain Reaction_   _Origin Trait: None
 dimwishlist:item=3165547384&perks=3300816228,2396489472,0
 dimwishlist:item=3165547384&perks=2284787283,2396489472,0
 dimwishlist:item=3329842376&perks=3300816228,2396489472,0
 dimwishlist:item=3329842376&perks=2284787283,2396489472,0
 
-//notes:Godroll! Blast Battue - Rank 23, Tier F by TheAegisRelic Column 1: Clown Cartridge, Quickdraw Column 2: Chain Reaction, Auto-Loading Holster Origin Trait: None
+//notes:Godroll!_   _Blast Battue - Rank 23, Tier F by TheAegisRelic_   _Column 1: Clown Cartridge, Quickdraw_   _Column 2: Chain Reaction, Auto-Loading Holster_   _Origin Trait: None
 dimwishlist:item=2453357042&perks=2284787283,706527188,2396489472,3300816228,0
 
 
-//notes:Blast Battue - Rank 23, Tier F by TheAegisRelic Column 1: Clown Cartridge, Quickdraw Column 2: Chain Reaction, Auto-Loading Holster Origin Trait: None
+//notes:Blast Battue - Rank 23, Tier F by TheAegisRelic_   _Column 1: Clown Cartridge, Quickdraw_   _Column 2: Chain Reaction, Auto-Loading Holster_   _Origin Trait: None
 dimwishlist:item=2453357042&perks=2284787283,2396489472,3300816228,0
 dimwishlist:item=2453357042&perks=706527188,2396489472,3300816228,0
 dimwishlist:item=2453357042&perks=2284787283,706527188,2396489472,0
@@ -662,15 +662,15 @@ dimwishlist:item=2453357042&perks=2284787283,3300816228,0
 dimwishlist:item=2453357042&perks=706527188,2396489472,0
 dimwishlist:item=2453357042&perks=706527188,3300816228,0
 
-//notes:Godroll! Crowd Pleaser - Rank 24, Tier F by TheAegisRelic Column 1: Clown Cartridge Column 2: Demolitionist Origin Trait: Gun and Run
+//notes:Godroll!_   _Crowd Pleaser - Rank 24, Tier F by TheAegisRelic_   _Column 1: Clown Cartridge_   _Column 2: Demolitionist_   _Origin Trait: Gun and Run
 dimwishlist:item=3565520715&perks=2284787283,3523296417,515704826
 
 
-//notes:Crowd Pleaser - Rank 24, Tier F by TheAegisRelic Column 1: Clown Cartridge Column 2: Demolitionist Origin Trait: Gun and Run
+//notes:Crowd Pleaser - Rank 24, Tier F by TheAegisRelic_   _Column 1: Clown Cartridge_   _Column 2: Demolitionist_   _Origin Trait: Gun and Run
 
-//notes:Godroll! Berenger's Memory - Rank 25, Tier F by TheAegisRelic Column 1: Field Prep Column 2: Auto-Loading Holster Origin Trait: None
+//notes:Godroll!_   _Berenger's Memory - Rank 25, Tier F by TheAegisRelic_   _Column 1: Field Prep_   _Column 2: Auto-Loading Holster_   _Origin Trait: None
 dimwishlist:item=407621213&perks=777589559,3300816228,0
 dimwishlist:item=1983332562&perks=777589559,3300816228,0
 
 
-//notes:Berenger's Memory - Rank 25, Tier F by TheAegisRelic Column 1: Field Prep Column 2: Auto-Loading Holster Origin Trait: None
+//notes:Berenger's Memory - Rank 25, Tier F by TheAegisRelic_   _Column 1: Field Prep_   _Column 2: Auto-Loading Holster_   _Origin Trait: None

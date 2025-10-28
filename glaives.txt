@@ -1,10 +1,10 @@
-// Glaives - 2025-10-28T17:15:37.275Z
-//notes:Godroll! Rake Angle - Rank 1, Tier S by TheAegisRelic Column 1: Overflow, Impulse Amplifier, Lead from Gold Column 2: Chill Clip, Close to Melee Origin Trait: Stunning Recovery
+// Glaives - 2025-10-28T17:21:42.049Z
+//notes:Godroll!_   _Rake Angle - Rank 1, Tier S by TheAegisRelic_   _Column 1: Overflow, Impulse Amplifier, Lead from Gold_   _Column 2: Chill Clip, Close to Melee_   _Origin Trait: Stunning Recovery
 dimwishlist:item=2298039571&perks=3643424744,951095735,1556840489,2978966579,1782407750,1281216113
 dimwishlist:item=3997086838&perks=3643424744,951095735,1556840489,2978966579,1782407750,1281216113
 
 
-//notes:Rake Angle - Rank 1, Tier S by TheAegisRelic Column 1: Overflow, Impulse Amplifier, Lead from Gold Column 2: Chill Clip, Close to Melee Origin Trait: Stunning Recovery
+//notes:Rake Angle - Rank 1, Tier S by TheAegisRelic_   _Column 1: Overflow, Impulse Amplifier, Lead from Gold_   _Column 2: Chill Clip, Close to Melee_   _Origin Trait: Stunning Recovery
 dimwishlist:item=2298039571&perks=3643424744,951095735,2978966579,1782407750,1281216113
 dimwishlist:item=2298039571&perks=3643424744,1556840489,2978966579,1782407750,1281216113
 dimwishlist:item=2298039571&perks=951095735,1556840489,2978966579,1782407750,1281216113
@@ -46,12 +46,12 @@ dimwishlist:item=3997086838&perks=951095735,1782407750,1281216113
 dimwishlist:item=3997086838&perks=1556840489,2978966579,1281216113
 dimwishlist:item=3997086838&perks=1556840489,1782407750,1281216113
 
-//notes:Godroll! Forthcoming Deviance - Rank 2, Tier S by TheAegisRelic Column 1: Impulse Amplifier, Grave Robber, Demolitionist Column 2: Close to Melee, Chaos Reshaped, Destabilizing Rounds Origin Trait: Collective Purpose
+//notes:Godroll!_   _Forthcoming Deviance - Rank 2, Tier S by TheAegisRelic_   _Column 1: Impulse Amplifier, Grave Robber, Demolitionist_   _Column 2: Close to Melee, Chaos Reshaped, Destabilizing Rounds_   _Origin Trait: Collective Purpose
 dimwishlist:item=535198113&perks=951095735,1631667848,3523296417,1782407750,3640170453,2048641572,1878756191
 dimwishlist:item=3123651616&perks=951095735,1631667848,3523296417,1782407750,3640170453,2048641572,1878756191
 
 
-//notes:Forthcoming Deviance - Rank 2, Tier S by TheAegisRelic Column 1: Impulse Amplifier, Grave Robber, Demolitionist Column 2: Close to Melee, Chaos Reshaped, Destabilizing Rounds Origin Trait: Collective Purpose
+//notes:Forthcoming Deviance - Rank 2, Tier S by TheAegisRelic_   _Column 1: Impulse Amplifier, Grave Robber, Demolitionist_   _Column 2: Close to Melee, Chaos Reshaped, Destabilizing Rounds_   _Origin Trait: Collective Purpose
 dimwishlist:item=535198113&perks=951095735,1631667848,1782407750,3640170453,2048641572,1878756191
 dimwishlist:item=535198113&perks=951095735,3523296417,1782407750,3640170453,2048641572,1878756191
 dimwishlist:item=535198113&perks=1631667848,3523296417,1782407750,3640170453,2048641572,1878756191
@@ -149,11 +149,11 @@ dimwishlist:item=3123651616&perks=3523296417,1782407750,1878756191
 dimwishlist:item=3123651616&perks=3523296417,3640170453,1878756191
 dimwishlist:item=3123651616&perks=3523296417,2048641572,1878756191
 
-//notes:Godroll! Nezarec's Whisper - Rank 3, Tier S by TheAegisRelic Column 1: Demolitionist, Impulse Amplifier, Lead from Gold Column 2: Frenzy Origin Trait: Extrovert
+//notes:Godroll!_   _Nezarec's Whisper - Rank 3, Tier S by TheAegisRelic_   _Column 1: Demolitionist, Impulse Amplifier, Lead from Gold_   _Column 2: Frenzy_   _Origin Trait: Extrovert
 dimwishlist:item=254636484&perks=3523296417,951095735,1556840489,4104185692,1250481499
 
 
-//notes:Nezarec's Whisper - Rank 3, Tier S by TheAegisRelic Column 1: Demolitionist, Impulse Amplifier, Lead from Gold Column 2: Frenzy Origin Trait: Extrovert
+//notes:Nezarec's Whisper - Rank 3, Tier S by TheAegisRelic_   _Column 1: Demolitionist, Impulse Amplifier, Lead from Gold_   _Column 2: Frenzy_   _Origin Trait: Extrovert
 dimwishlist:item=254636484&perks=3523296417,951095735,4104185692,1250481499
 dimwishlist:item=254636484&perks=3523296417,1556840489,4104185692,1250481499
 dimwishlist:item=254636484&perks=951095735,1556840489,4104185692,1250481499
@@ -161,14 +161,14 @@ dimwishlist:item=254636484&perks=3523296417,4104185692,1250481499
 dimwishlist:item=254636484&perks=951095735,4104185692,1250481499
 dimwishlist:item=254636484&perks=1556840489,4104185692,1250481499
 
-//notes:Godroll! Refusal of the Call - Rank 4, Tier S by TheAegisRelic Column 1: Impulse Amplifier, Slice, Discord Column 2: Close to Melee, Melee Momentum Origin Trait: Runneth Over
+//notes:Godroll!_   _Refusal of the Call - Rank 4, Tier S by TheAegisRelic_   _Column 1: Impulse Amplifier, Slice, Discord_   _Column 2: Close to Melee, Melee Momentum_   _Origin Trait: Runneth Over
 dimwishlist:item=25228802&perks=951095735,923806249,3978468247,1782407750,3773585912,120721526
 dimwishlist:item=2671849376&perks=951095735,923806249,3978468247,1782407750,3773585912,120721526
 dimwishlist:item=2755584425&perks=951095735,923806249,3978468247,1782407750,3773585912,120721526
 dimwishlist:item=3269398063&perks=951095735,923806249,3978468247,1782407750,3773585912,120721526
 
 
-//notes:Refusal of the Call - Rank 4, Tier S by TheAegisRelic Column 1: Impulse Amplifier, Slice, Discord Column 2: Close to Melee, Melee Momentum Origin Trait: Runneth Over
+//notes:Refusal of the Call - Rank 4, Tier S by TheAegisRelic_   _Column 1: Impulse Amplifier, Slice, Discord_   _Column 2: Close to Melee, Melee Momentum_   _Origin Trait: Runneth Over
 dimwishlist:item=25228802&perks=951095735,923806249,1782407750,3773585912,120721526
 dimwishlist:item=25228802&perks=951095735,3978468247,1782407750,3773585912,120721526
 dimwishlist:item=25228802&perks=923806249,3978468247,1782407750,3773585912,120721526
@@ -250,12 +250,12 @@ dimwishlist:item=3269398063&perks=923806249,3773585912,120721526
 dimwishlist:item=3269398063&perks=3978468247,1782407750,120721526
 dimwishlist:item=3269398063&perks=3978468247,3773585912,120721526
 
-//notes:Godroll! Unexpected Resurgence - Rank 5, Tier A by TheAegisRelic Column 1: Auto-Loading Holster, Impulse Amplifier, Replenishing Aegis Column 2: Frenzy, Close to Melee, Voltshot Origin Trait: Alacrity
+//notes:Godroll!_   _Unexpected Resurgence - Rank 5, Tier A by TheAegisRelic_   _Column 1: Auto-Loading Holster, Impulse Amplifier, Replenishing Aegis_   _Column 2: Frenzy, Close to Melee, Voltshot_   _Origin Trait: Alacrity
 dimwishlist:item=1141586039&perks=3300816228,951095735,1966281507,4104185692,1782407750,2173046394,2988596335
 dimwishlist:item=4005780578&perks=3300816228,951095735,1966281507,4104185692,1782407750,2173046394,2988596335
 
 
-//notes:Unexpected Resurgence - Rank 5, Tier A by TheAegisRelic Column 1: Auto-Loading Holster, Impulse Amplifier, Replenishing Aegis Column 2: Frenzy, Close to Melee, Voltshot Origin Trait: Alacrity
+//notes:Unexpected Resurgence - Rank 5, Tier A by TheAegisRelic_   _Column 1: Auto-Loading Holster, Impulse Amplifier, Replenishing Aegis_   _Column 2: Frenzy, Close to Melee, Voltshot_   _Origin Trait: Alacrity
 dimwishlist:item=1141586039&perks=3300816228,951095735,4104185692,1782407750,2173046394,2988596335
 dimwishlist:item=1141586039&perks=3300816228,1966281507,4104185692,1782407750,2173046394,2988596335
 dimwishlist:item=1141586039&perks=951095735,1966281507,4104185692,1782407750,2173046394,2988596335
@@ -353,17 +353,17 @@ dimwishlist:item=4005780578&perks=1966281507,4104185692,2988596335
 dimwishlist:item=4005780578&perks=1966281507,1782407750,2988596335
 dimwishlist:item=4005780578&perks=1966281507,2173046394,2988596335
 
-//notes:Godroll! The Enigma - Rank 6, Tier A by TheAegisRelic Column 1: Impulse Amplifier Column 2: Frenzy Origin Trait: Psychohack
+//notes:Godroll!_   _The Enigma - Rank 6, Tier A by TheAegisRelic_   _Column 1: Impulse Amplifier_   _Column 2: Frenzy_   _Origin Trait: Psychohack
 dimwishlist:item=2595497736&perks=951095735,4104185692,79448657
 
 
-//notes:The Enigma - Rank 6, Tier A by TheAegisRelic Column 1: Impulse Amplifier Column 2: Frenzy Origin Trait: Psychohack
+//notes:The Enigma - Rank 6, Tier A by TheAegisRelic_   _Column 1: Impulse Amplifier_   _Column 2: Frenzy_   _Origin Trait: Psychohack
 
-//notes:Godroll! Backfang - Rank 7, Tier A by TheAegisRelic Column 1: Impulse Amplifier, Grave Robber, Lead from Gold Column 2: Surrounded, Close to Melee, Voltshot Origin Trait: Gun and Run
+//notes:Godroll!_   _Backfang - Rank 7, Tier A by TheAegisRelic_   _Column 1: Impulse Amplifier, Grave Robber, Lead from Gold_   _Column 2: Surrounded, Close to Melee, Voltshot_   _Origin Trait: Gun and Run
 dimwishlist:item=267672635&perks=951095735,1631667848,1556840489,3708227201,1782407750,2173046394,515704826
 
 
-//notes:Backfang - Rank 7, Tier A by TheAegisRelic Column 1: Impulse Amplifier, Grave Robber, Lead from Gold Column 2: Surrounded, Close to Melee, Voltshot Origin Trait: Gun and Run
+//notes:Backfang - Rank 7, Tier A by TheAegisRelic_   _Column 1: Impulse Amplifier, Grave Robber, Lead from Gold_   _Column 2: Surrounded, Close to Melee, Voltshot_   _Origin Trait: Gun and Run
 dimwishlist:item=267672635&perks=951095735,1631667848,3708227201,1782407750,2173046394,515704826
 dimwishlist:item=267672635&perks=951095735,1556840489,3708227201,1782407750,2173046394,515704826
 dimwishlist:item=267672635&perks=1631667848,1556840489,3708227201,1782407750,2173046394,515704826
@@ -413,7 +413,7 @@ dimwishlist:item=267672635&perks=1556840489,3708227201,515704826
 dimwishlist:item=267672635&perks=1556840489,1782407750,515704826
 dimwishlist:item=267672635&perks=1556840489,2173046394,515704826
 
-//notes:Godroll! Greasy Luck RotN version - Rank 8, Tier A by TheAegisRelic Column 1: Reconstruction, Lead from Gold, Heal Clip Column 2: Incandescent, Redirection, Close to Melee Origin Trait: Restoration Ritual
+//notes:Godroll!_   _Greasy Luck_   _RotN version - Rank 8, Tier A by TheAegisRelic_   _Column 1: Reconstruction, Lead from Gold, Heal Clip_   _Column 2: Incandescent, Redirection, Close to Melee_   _Origin Trait: Restoration Ritual
 dimwishlist:item=1050582210&perks=1523832109,1556840489,3017780555,4293542123,3201496230,1782407750,398661035
 dimwishlist:item=1685406703&perks=1523832109,1556840489,3017780555,4293542123,3201496230,1782407750,398661035
 dimwishlist:item=1757202961&perks=1523832109,1556840489,3017780555,4293542123,3201496230,1782407750,398661035
@@ -421,7 +421,7 @@ dimwishlist:item=2934305134&perks=1523832109,1556840489,3017780555,4293542123,32
 dimwishlist:item=3210739171&perks=1523832109,1556840489,3017780555,4293542123,3201496230,1782407750,398661035
 
 
-//notes:Greasy Luck RotN version - Rank 8, Tier A by TheAegisRelic Column 1: Reconstruction, Lead from Gold, Heal Clip Column 2: Incandescent, Redirection, Close to Melee Origin Trait: Restoration Ritual
+//notes:Greasy Luck_   _RotN version - Rank 8, Tier A by TheAegisRelic_   _Column 1: Reconstruction, Lead from Gold, Heal Clip_   _Column 2: Incandescent, Redirection, Close to Melee_   _Origin Trait: Restoration Ritual
 dimwishlist:item=1050582210&perks=1523832109,1556840489,4293542123,3201496230,1782407750,398661035
 dimwishlist:item=1050582210&perks=1523832109,3017780555,4293542123,3201496230,1782407750,398661035
 dimwishlist:item=1050582210&perks=1556840489,3017780555,4293542123,3201496230,1782407750,398661035
@@ -663,7 +663,7 @@ dimwishlist:item=3210739171&perks=3017780555,4293542123,398661035
 dimwishlist:item=3210739171&perks=3017780555,3201496230,398661035
 dimwishlist:item=3210739171&perks=3017780555,1782407750,398661035
 
-//notes:Godroll! Greasy Luck - Rank 9, Tier A by TheAegisRelic Column 1: Lead from Gold, Impulse Amplifier, Replenishing Aegis Column 2: Incandescent, Redirection, Close to Melee Origin Trait: Restoration Ritual
+//notes:Godroll!_   _Greasy Luck - Rank 9, Tier A by TheAegisRelic_   _Column 1: Lead from Gold, Impulse Amplifier, Replenishing Aegis_   _Column 2: Incandescent, Redirection, Close to Melee_   _Origin Trait: Restoration Ritual
 dimwishlist:item=1050582210&perks=1556840489,951095735,1966281507,4293542123,3201496230,1782407750,398661035
 dimwishlist:item=1685406703&perks=1556840489,951095735,1966281507,4293542123,3201496230,1782407750,398661035
 dimwishlist:item=1757202961&perks=1556840489,951095735,1966281507,4293542123,3201496230,1782407750,398661035
@@ -671,7 +671,7 @@ dimwishlist:item=2934305134&perks=1556840489,951095735,1966281507,4293542123,320
 dimwishlist:item=3210739171&perks=1556840489,951095735,1966281507,4293542123,3201496230,1782407750,398661035
 
 
-//notes:Greasy Luck - Rank 9, Tier A by TheAegisRelic Column 1: Lead from Gold, Impulse Amplifier, Replenishing Aegis Column 2: Incandescent, Redirection, Close to Melee Origin Trait: Restoration Ritual
+//notes:Greasy Luck - Rank 9, Tier A by TheAegisRelic_   _Column 1: Lead from Gold, Impulse Amplifier, Replenishing Aegis_   _Column 2: Incandescent, Redirection, Close to Melee_   _Origin Trait: Restoration Ritual
 dimwishlist:item=1050582210&perks=1556840489,951095735,4293542123,3201496230,1782407750,398661035
 dimwishlist:item=1050582210&perks=1556840489,1966281507,4293542123,3201496230,1782407750,398661035
 dimwishlist:item=1050582210&perks=951095735,1966281507,4293542123,3201496230,1782407750,398661035
@@ -913,12 +913,12 @@ dimwishlist:item=3210739171&perks=1966281507,4293542123,398661035
 dimwishlist:item=3210739171&perks=1966281507,3201496230,398661035
 dimwishlist:item=3210739171&perks=1966281507,1782407750,398661035
 
-//notes:Godroll! Lubrae's Ruin - Rank 10, Tier B by TheAegisRelic Column 1: Immovable Object, Sleight of Hand, Grave Robber Column 2: Unstoppable Force, Surrounded, Swashbuckler Origin Trait: Souldrinker
+//notes:Godroll!_   _Lubrae's Ruin - Rank 10, Tier B by TheAegisRelic_   _Column 1: Immovable Object, Sleight of Hand, Grave Robber_   _Column 2: Unstoppable Force, Surrounded, Swashbuckler_   _Origin Trait: Souldrinker
 dimwishlist:item=1466006054&perks=3800201097,2172504645,1631667848,2224838837,3708227201,4082225868,3363267119
 dimwishlist:item=2534546147&perks=3800201097,2172504645,1631667848,2224838837,3708227201,4082225868,3363267119
 
 
-//notes:Lubrae's Ruin - Rank 10, Tier B by TheAegisRelic Column 1: Immovable Object, Sleight of Hand, Grave Robber Column 2: Unstoppable Force, Surrounded, Swashbuckler Origin Trait: Souldrinker
+//notes:Lubrae's Ruin - Rank 10, Tier B by TheAegisRelic_   _Column 1: Immovable Object, Sleight of Hand, Grave Robber_   _Column 2: Unstoppable Force, Surrounded, Swashbuckler_   _Origin Trait: Souldrinker
 dimwishlist:item=1466006054&perks=3800201097,2172504645,2224838837,3708227201,4082225868,3363267119
 dimwishlist:item=1466006054&perks=3800201097,1631667848,2224838837,3708227201,4082225868,3363267119
 dimwishlist:item=1466006054&perks=2172504645,1631667848,2224838837,3708227201,4082225868,3363267119
@@ -1016,11 +1016,11 @@ dimwishlist:item=2534546147&perks=1631667848,2224838837,3363267119
 dimwishlist:item=2534546147&perks=1631667848,3708227201,3363267119
 dimwishlist:item=2534546147&perks=1631667848,4082225868,3363267119
 
-//notes:Godroll! Ecliptic Distaff - Rank 11, Tier B by TheAegisRelic Column 1: Immovable Object, Replenishing Aegis Column 2: Close to Melee, Destabilizing Rounds Origin Trait: One Quiet Moment
+//notes:Godroll!_   _Ecliptic Distaff - Rank 11, Tier B by TheAegisRelic_   _Column 1: Immovable Object, Replenishing Aegis_   _Column 2: Close to Melee, Destabilizing Rounds_   _Origin Trait: One Quiet Moment
 dimwishlist:item=3001205424&perks=3800201097,1966281507,1782407750,2048641572,4091460919
 
 
-//notes:Ecliptic Distaff - Rank 11, Tier B by TheAegisRelic Column 1: Immovable Object, Replenishing Aegis Column 2: Close to Melee, Destabilizing Rounds Origin Trait: One Quiet Moment
+//notes:Ecliptic Distaff - Rank 11, Tier B by TheAegisRelic_   _Column 1: Immovable Object, Replenishing Aegis_   _Column 2: Close to Melee, Destabilizing Rounds_   _Origin Trait: One Quiet Moment
 dimwishlist:item=3001205424&perks=3800201097,1782407750,2048641572,4091460919
 dimwishlist:item=3001205424&perks=1966281507,1782407750,2048641572,4091460919
 dimwishlist:item=3001205424&perks=3800201097,1966281507,1782407750,4091460919
@@ -1030,11 +1030,11 @@ dimwishlist:item=3001205424&perks=3800201097,2048641572,4091460919
 dimwishlist:item=3001205424&perks=1966281507,1782407750,4091460919
 dimwishlist:item=3001205424&perks=1966281507,2048641572,4091460919
 
-//notes:Godroll! Judgment of Kelgorath - Rank 12, Tier B by TheAegisRelic Column 1: Overflow, Demolitionist, Immovable Object Column 2: Close to Melee, Unstoppable Force, Impulse Amplifier Origin Trait: Ambush
+//notes:Godroll!_   _Judgment of Kelgorath - Rank 12, Tier B by TheAegisRelic_   _Column 1: Overflow, Demolitionist, Immovable Object_   _Column 2: Close to Melee, Unstoppable Force, Impulse Amplifier_   _Origin Trait: Ambush
 dimwishlist:item=2978226043&perks=3643424744,3523296417,3800201097,1782407750,2224838837,951095735,192157151
 
 
-//notes:Judgment of Kelgorath - Rank 12, Tier B by TheAegisRelic Column 1: Overflow, Demolitionist, Immovable Object Column 2: Close to Melee, Unstoppable Force, Impulse Amplifier Origin Trait: Ambush
+//notes:Judgment of Kelgorath - Rank 12, Tier B by TheAegisRelic_   _Column 1: Overflow, Demolitionist, Immovable Object_   _Column 2: Close to Melee, Unstoppable Force, Impulse Amplifier_   _Origin Trait: Ambush
 dimwishlist:item=2978226043&perks=3643424744,3523296417,1782407750,2224838837,951095735,192157151
 dimwishlist:item=2978226043&perks=3643424744,3800201097,1782407750,2224838837,951095735,192157151
 dimwishlist:item=2978226043&perks=3523296417,3800201097,1782407750,2224838837,951095735,192157151
@@ -1084,12 +1084,12 @@ dimwishlist:item=2978226043&perks=3800201097,1782407750,192157151
 dimwishlist:item=2978226043&perks=3800201097,2224838837,192157151
 dimwishlist:item=2978226043&perks=3800201097,951095735,192157151
 
-//notes:Godroll! Albedo Wing - Rank 13, Tier B by TheAegisRelic Column 1: Grave Robber, Replenishing Aegis, Air Trigger Column 2: Lead from Gold, Demolitionist, Close to Melee Origin Trait: Dawning Surprise
+//notes:Godroll!_   _Albedo Wing - Rank 13, Tier B by TheAegisRelic_   _Column 1: Grave Robber, Replenishing Aegis, Air Trigger_   _Column 2: Lead from Gold, Demolitionist, Close to Melee_   _Origin Trait: Dawning Surprise
 dimwishlist:item=1845372864&perks=1631667848,1966281507,1421772400,1556840489,3523296417,1782407750,4264904777
 dimwishlist:item=2680976411&perks=1631667848,1966281507,1421772400,1556840489,3523296417,1782407750,4264904777
 
 
-//notes:Albedo Wing - Rank 13, Tier B by TheAegisRelic Column 1: Grave Robber, Replenishing Aegis, Air Trigger Column 2: Lead from Gold, Demolitionist, Close to Melee Origin Trait: Dawning Surprise
+//notes:Albedo Wing - Rank 13, Tier B by TheAegisRelic_   _Column 1: Grave Robber, Replenishing Aegis, Air Trigger_   _Column 2: Lead from Gold, Demolitionist, Close to Melee_   _Origin Trait: Dawning Surprise
 dimwishlist:item=1845372864&perks=1631667848,1966281507,1556840489,3523296417,1782407750,4264904777
 dimwishlist:item=1845372864&perks=1631667848,1421772400,1556840489,3523296417,1782407750,4264904777
 dimwishlist:item=1845372864&perks=1966281507,1421772400,1556840489,3523296417,1782407750,4264904777
