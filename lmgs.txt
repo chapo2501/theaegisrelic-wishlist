@@ -1,16 +1,10 @@
-// LMGs - 2025-10-28T16:50:08.078Z
-//notes:Godroll!\ASong of Ir Yût - Rank 1, Tier S by TheAegisRelic
-Column 1: Demolitionist, Reconstruction
-Column 2: High Ground, Bait and Switch
-Origin Trait: Cursed Thrall
+// LMGs - 2025-10-28T16:50:59.055Z
+//notes:Godroll!\ASong of Ir Yût - Rank 1, Tier S by TheAegisRelic\nColumn 1: Demolitionist, Reconstruction\nColumn 2: High Ground, Bait and Switch\nOrigin Trait: Cursed Thrall
 dimwishlist:item=407511664&perks=3523296417,1523832109,2319119708,3078487919,1156201379
 dimwishlist:item=2828278545&perks=3523296417,1523832109,2319119708,3078487919,1156201379
 
 
-//notes:Song of Ir Yût - Rank 1, Tier S by TheAegisRelic\
-Column 1: Demolitionist, Reconstruction\
-Column 2: High Ground, Bait and Switch\
-Origin Trait: Cursed Thrall
+//notes:Song of Ir Yût - Rank 1, Tier S by TheAegisRelic\nColumn 1: Demolitionist, Reconstruction\nColumn 2: High Ground, Bait and Switch\nOrigin Trait: Cursed Thrall
 dimwishlist:item=407511664&perks=3523296417,2319119708,3078487919,1156201379
 dimwishlist:item=407511664&perks=1523832109,2319119708,3078487919,1156201379
 dimwishlist:item=407511664&perks=3523296417,1523832109,2319119708,1156201379
@@ -28,17 +22,11 @@ dimwishlist:item=2828278545&perks=3523296417,3078487919,1156201379
 dimwishlist:item=2828278545&perks=1523832109,2319119708,1156201379
 dimwishlist:item=2828278545&perks=1523832109,3078487919,1156201379
 
-//notes:Godroll!\APro Memoria - Rank 2, Tier S by TheAegisRelic
-Column 1: Demolitionist, Reconstruction, Hatchling
-Column 2: Desperate Measures, Bait and Switch, Dragonfly
-Origin Trait: Dealer's Choice
+//notes:Godroll!\APro Memoria - Rank 2, Tier S by TheAegisRelic\nColumn 1: Demolitionist, Reconstruction, Hatchling\nColumn 2: Desperate Measures, Bait and Switch, Dragonfly\nOrigin Trait: Dealer's Choice
 dimwishlist:item=3605603507&perks=3523296417,1523832109,831391274,2109543898,3078487919,2848615171,1988485648
 
 
-//notes:Pro Memoria - Rank 2, Tier S by TheAegisRelic\
-Column 1: Demolitionist, Reconstruction, Hatchling\
-Column 2: Desperate Measures, Bait and Switch, Dragonfly\
-Origin Trait: Dealer's Choice
+//notes:Pro Memoria - Rank 2, Tier S by TheAegisRelic\nColumn 1: Demolitionist, Reconstruction, Hatchling\nColumn 2: Desperate Measures, Bait and Switch, Dragonfly\nOrigin Trait: Dealer's Choice
 dimwishlist:item=3605603507&perks=3523296417,1523832109,2109543898,3078487919,2848615171,1988485648
 dimwishlist:item=3605603507&perks=3523296417,831391274,2109543898,3078487919,2848615171,1988485648
 dimwishlist:item=3605603507&perks=1523832109,831391274,2109543898,3078487919,2848615171,1988485648
@@ -88,17 +76,11 @@ dimwishlist:item=3605603507&perks=831391274,2109543898,1988485648
 dimwishlist:item=3605603507&perks=831391274,3078487919,1988485648
 dimwishlist:item=3605603507&perks=831391274,2848615171,1988485648
 
-//notes:Godroll!\AUlterior Observation - Rank 3, Tier S by TheAegisRelic
-Column 1: Demolitionist, Headstone, Envious Arsenal
-Column 2: Dragonfly, Rimestealer, Killing Tally
-Origin Trait: Exhaustive Research
+//notes:Godroll!\AUlterior Observation - Rank 3, Tier S by TheAegisRelic\nColumn 1: Demolitionist, Headstone, Envious Arsenal\nColumn 2: Dragonfly, Rimestealer, Killing Tally\nOrigin Trait: Exhaustive Research
 dimwishlist:item=1079872540&perks=3523296417,124408337,3987942396,2848615171,1955165503,557221067,1906137414
 
 
-//notes:Ulterior Observation - Rank 3, Tier S by TheAegisRelic\
-Column 1: Demolitionist, Headstone, Envious Arsenal\
-Column 2: Dragonfly, Rimestealer, Killing Tally\
-Origin Trait: Exhaustive Research
+//notes:Ulterior Observation - Rank 3, Tier S by TheAegisRelic\nColumn 1: Demolitionist, Headstone, Envious Arsenal\nColumn 2: Dragonfly, Rimestealer, Killing Tally\nOrigin Trait: Exhaustive Research
 dimwishlist:item=1079872540&perks=3523296417,124408337,2848615171,1955165503,557221067,1906137414
 dimwishlist:item=1079872540&perks=3523296417,3987942396,2848615171,1955165503,557221067,1906137414
 dimwishlist:item=1079872540&perks=124408337,3987942396,2848615171,1955165503,557221067,1906137414
@@ -148,20 +130,14 @@ dimwishlist:item=1079872540&perks=3987942396,2848615171,1906137414
 dimwishlist:item=1079872540&perks=3987942396,1955165503,1906137414
 dimwishlist:item=1079872540&perks=3987942396,557221067,1906137414
 
-//notes:Godroll!\ACorrective Measure - Rank 4, Tier S by TheAegisRelic
-Column 1: Destabilizing Rounds, Firefly, Demolitionist
-Column 2: One for All, Demoralize, Killing Tally
-Origin Trait: Timelost Magazine
+//notes:Godroll!\ACorrective Measure - Rank 4, Tier S by TheAegisRelic\nColumn 1: Destabilizing Rounds, Firefly, Demolitionist\nColumn 2: One for All, Demoralize, Killing Tally\nOrigin Trait: Timelost Magazine
 dimwishlist:item=471518543&perks=2048641572,1561789734,3523296417,4049631843,1464081238,557221067,2589407652
 dimwishlist:item=2334480463&perks=2048641572,1561789734,3523296417,4049631843,1464081238,557221067,2589407652
 dimwishlist:item=3654744298&perks=2048641572,1561789734,3523296417,4049631843,1464081238,557221067,2589407652
 dimwishlist:item=3796510434&perks=2048641572,1561789734,3523296417,4049631843,1464081238,557221067,2589407652
 
 
-//notes:Corrective Measure - Rank 4, Tier S by TheAegisRelic\
-Column 1: Destabilizing Rounds, Firefly, Demolitionist\
-Column 2: One for All, Demoralize, Killing Tally\
-Origin Trait: Timelost Magazine
+//notes:Corrective Measure - Rank 4, Tier S by TheAegisRelic\nColumn 1: Destabilizing Rounds, Firefly, Demolitionist\nColumn 2: One for All, Demoralize, Killing Tally\nOrigin Trait: Timelost Magazine
 dimwishlist:item=471518543&perks=2048641572,1561789734,4049631843,1464081238,557221067,2589407652
 dimwishlist:item=471518543&perks=2048641572,3523296417,4049631843,1464081238,557221067,2589407652
 dimwishlist:item=471518543&perks=1561789734,3523296417,4049631843,1464081238,557221067,2589407652
@@ -355,11 +331,7 @@ dimwishlist:item=3796510434&perks=3523296417,4049631843,2589407652
 dimwishlist:item=3796510434&perks=3523296417,1464081238,2589407652
 dimwishlist:item=3796510434&perks=3523296417,557221067,2589407652
 
-//notes:Godroll!\ATerminus Horizon
-RotN version - Rank 5, Tier A by TheAegisRelic
-Column 1: Demolitionist, Reconstruction, Dragonfly
-Column 2: Rolling Storm, Killing Tally, Jolting Feedback
-Origin Trait: Gravity Well
+//notes:Godroll!\ATerminus Horizon\nRotN version - Rank 5, Tier A by TheAegisRelic\nColumn 1: Demolitionist, Reconstruction, Dragonfly\nColumn 2: Rolling Storm, Killing Tally, Jolting Feedback\nOrigin Trait: Gravity Well
 dimwishlist:item=487205709&perks=3523296417,1523832109,2848615171,3218042543,557221067,3966416502,59871045
 dimwishlist:item=2210806903&perks=3523296417,1523832109,2848615171,3218042543,557221067,3966416502,59871045
 dimwishlist:item=2730671571&perks=3523296417,1523832109,2848615171,3218042543,557221067,3966416502,59871045
@@ -367,11 +339,7 @@ dimwishlist:item=3984556130&perks=3523296417,1523832109,2848615171,3218042543,55
 dimwishlist:item=4267192886&perks=3523296417,1523832109,2848615171,3218042543,557221067,3966416502,59871045
 
 
-//notes:Terminus Horizon\
-RotN version - Rank 5, Tier A by TheAegisRelic\
-Column 1: Demolitionist, Reconstruction, Dragonfly\
-Column 2: Rolling Storm, Killing Tally, Jolting Feedback\
-Origin Trait: Gravity Well
+//notes:Terminus Horizon\nRotN version - Rank 5, Tier A by TheAegisRelic\nColumn 1: Demolitionist, Reconstruction, Dragonfly\nColumn 2: Rolling Storm, Killing Tally, Jolting Feedback\nOrigin Trait: Gravity Well
 dimwishlist:item=487205709&perks=3523296417,1523832109,3218042543,557221067,3966416502,59871045
 dimwishlist:item=487205709&perks=3523296417,2848615171,3218042543,557221067,3966416502,59871045
 dimwishlist:item=487205709&perks=1523832109,2848615171,3218042543,557221067,3966416502,59871045
@@ -613,17 +581,11 @@ dimwishlist:item=4267192886&perks=2848615171,3218042543,59871045
 dimwishlist:item=4267192886&perks=2848615171,557221067,59871045
 dimwishlist:item=4267192886&perks=2848615171,3966416502,59871045
 
-//notes:Godroll!\ACommemoration - Rank 6, Tier A by TheAegisRelic
-Column 1: Reconstruction, Dragonfly, Subsistence
-Column 2: Killing Tally, Repulsor Brace
-Origin Trait: Bray Inheritance
+//notes:Godroll!\ACommemoration - Rank 6, Tier A by TheAegisRelic\nColumn 1: Reconstruction, Dragonfly, Subsistence\nColumn 2: Killing Tally, Repulsor Brace\nOrigin Trait: Bray Inheritance
 dimwishlist:item=4230965989&perks=1523832109,2848615171,1820235745,557221067,776531651,766321425
 
 
-//notes:Commemoration - Rank 6, Tier A by TheAegisRelic\
-Column 1: Reconstruction, Dragonfly, Subsistence\
-Column 2: Killing Tally, Repulsor Brace\
-Origin Trait: Bray Inheritance
+//notes:Commemoration - Rank 6, Tier A by TheAegisRelic\nColumn 1: Reconstruction, Dragonfly, Subsistence\nColumn 2: Killing Tally, Repulsor Brace\nOrigin Trait: Bray Inheritance
 dimwishlist:item=4230965989&perks=1523832109,2848615171,557221067,776531651,766321425
 dimwishlist:item=4230965989&perks=1523832109,1820235745,557221067,776531651,766321425
 dimwishlist:item=4230965989&perks=2848615171,1820235745,557221067,776531651,766321425
@@ -645,19 +607,13 @@ dimwishlist:item=4230965989&perks=2848615171,776531651,766321425
 dimwishlist:item=4230965989&perks=1820235745,557221067,766321425
 dimwishlist:item=4230965989&perks=1820235745,776531651,766321425
 
-//notes:Godroll!\AHammerhead - Rank 7, Tier A by TheAegisRelic
-Column 1: Destabilizing Rounds, Rewind Rounds, Fourth Time's the Charm
-Column 2: Killing Tally, Desperate Measures, Onslaught
-Origin Trait: Indomitability
+//notes:Godroll!\AHammerhead - Rank 7, Tier A by TheAegisRelic\nColumn 1: Destabilizing Rounds, Rewind Rounds, Fourth Time's the Charm\nColumn 2: Killing Tally, Desperate Measures, Onslaught\nOrigin Trait: Indomitability
 dimwishlist:item=211732170&perks=2048641572,2578928832,1354429876,557221067,2109543898,95528736,2489430594
 dimwishlist:item=603242241&perks=2048641572,2578928832,1354429876,557221067,2109543898,95528736,2489430594
 dimwishlist:item=1896309757&perks=2048641572,2578928832,1354429876,557221067,2109543898,95528736,2489430594
 
 
-//notes:Hammerhead - Rank 7, Tier A by TheAegisRelic\
-Column 1: Destabilizing Rounds, Rewind Rounds, Fourth Time's the Charm\
-Column 2: Killing Tally, Desperate Measures, Onslaught\
-Origin Trait: Indomitability
+//notes:Hammerhead - Rank 7, Tier A by TheAegisRelic\nColumn 1: Destabilizing Rounds, Rewind Rounds, Fourth Time's the Charm\nColumn 2: Killing Tally, Desperate Measures, Onslaught\nOrigin Trait: Indomitability
 dimwishlist:item=211732170&perks=2048641572,2578928832,557221067,2109543898,95528736,2489430594
 dimwishlist:item=211732170&perks=2048641572,1354429876,557221067,2109543898,95528736,2489430594
 dimwishlist:item=211732170&perks=2578928832,1354429876,557221067,2109543898,95528736,2489430594
@@ -803,20 +759,14 @@ dimwishlist:item=1896309757&perks=1354429876,557221067,2489430594
 dimwishlist:item=1896309757&perks=1354429876,2109543898,2489430594
 dimwishlist:item=1896309757&perks=1354429876,95528736,2489430594
 
-//notes:Godroll!\AAvalanche - Rank 8, Tier A by TheAegisRelic
-Column 1: Auto-Loading Holster, Subsistence, Dragonfly
-Column 2: Incandescent, Cascade Point, Golden Tricorn
-Origin Trait: Dawning Surprise
+//notes:Godroll!\AAvalanche - Rank 8, Tier A by TheAegisRelic\nColumn 1: Auto-Loading Holster, Subsistence, Dragonfly\nColumn 2: Incandescent, Cascade Point, Golden Tricorn\nOrigin Trait: Dawning Surprise
 dimwishlist:item=66875353&perks=3300816228,1820235745,2848615171,4293542123,3751912585,2610012052,4264904777
 dimwishlist:item=495940989&perks=3300816228,1820235745,2848615171,4293542123,3751912585,2610012052,4264904777
 dimwishlist:item=1845978721&perks=3300816228,1820235745,2848615171,4293542123,3751912585,2610012052,4264904777
 dimwishlist:item=4220529694&perks=3300816228,1820235745,2848615171,4293542123,3751912585,2610012052,4264904777
 
 
-//notes:Avalanche - Rank 8, Tier A by TheAegisRelic\
-Column 1: Auto-Loading Holster, Subsistence, Dragonfly\
-Column 2: Incandescent, Cascade Point, Golden Tricorn\
-Origin Trait: Dawning Surprise
+//notes:Avalanche - Rank 8, Tier A by TheAegisRelic\nColumn 1: Auto-Loading Holster, Subsistence, Dragonfly\nColumn 2: Incandescent, Cascade Point, Golden Tricorn\nOrigin Trait: Dawning Surprise
 dimwishlist:item=66875353&perks=3300816228,1820235745,4293542123,3751912585,2610012052,4264904777
 dimwishlist:item=66875353&perks=3300816228,2848615171,4293542123,3751912585,2610012052,4264904777
 dimwishlist:item=66875353&perks=1820235745,2848615171,4293542123,3751912585,2610012052,4264904777
@@ -1010,10 +960,7 @@ dimwishlist:item=4220529694&perks=2848615171,4293542123,4264904777
 dimwishlist:item=4220529694&perks=2848615171,3751912585,4264904777
 dimwishlist:item=4220529694&perks=2848615171,2610012052,4264904777
 
-//notes:Godroll!\AUnwavering Duty - Rank 9, Tier A by TheAegisRelic
-Column 1: Incandescent, Fourth Time's the Charm, Auto-Loading Holster
-Column 2: Killing Tally, Target Lock, Burning Ambition
-Origin Trait: Roar of Battle
+//notes:Godroll!\AUnwavering Duty - Rank 9, Tier A by TheAegisRelic\nColumn 1: Incandescent, Fourth Time's the Charm, Auto-Loading Holster\nColumn 2: Killing Tally, Target Lock, Burning Ambition\nOrigin Trait: Roar of Battle
 dimwishlist:item=906840740&perks=4293542123,1354429876,3300816228,557221067,365154968,2890807135,1673863459
 dimwishlist:item=2759251821&perks=4293542123,1354429876,3300816228,557221067,365154968,2890807135,1673863459
 dimwishlist:item=3444632029&perks=4293542123,1354429876,3300816228,557221067,365154968,2890807135,1673863459
@@ -1021,10 +968,7 @@ dimwishlist:item=3489054606&perks=4293542123,1354429876,3300816228,557221067,365
 dimwishlist:item=3624844116&perks=4293542123,1354429876,3300816228,557221067,365154968,2890807135,1673863459
 
 
-//notes:Unwavering Duty - Rank 9, Tier A by TheAegisRelic\
-Column 1: Incandescent, Fourth Time's the Charm, Auto-Loading Holster\
-Column 2: Killing Tally, Target Lock, Burning Ambition\
-Origin Trait: Roar of Battle
+//notes:Unwavering Duty - Rank 9, Tier A by TheAegisRelic\nColumn 1: Incandescent, Fourth Time's the Charm, Auto-Loading Holster\nColumn 2: Killing Tally, Target Lock, Burning Ambition\nOrigin Trait: Roar of Battle
 dimwishlist:item=906840740&perks=4293542123,1354429876,557221067,365154968,2890807135,1673863459
 dimwishlist:item=906840740&perks=4293542123,3300816228,557221067,365154968,2890807135,1673863459
 dimwishlist:item=906840740&perks=1354429876,3300816228,557221067,365154968,2890807135,1673863459
@@ -1266,17 +1210,11 @@ dimwishlist:item=3624844116&perks=3300816228,557221067,1673863459
 dimwishlist:item=3624844116&perks=3300816228,365154968,1673863459
 dimwishlist:item=3624844116&perks=3300816228,2890807135,1673863459
 
-//notes:Godroll!\ASpeleologist - Rank 10, Tier A by TheAegisRelic
-Column 1: Envious Assassin, Heal Clip, Deconstruct
-Column 2: Incandescent, Killing Tally, One For All
-Origin Trait: Radiolaria Transposer
+//notes:Godroll!\ASpeleologist - Rank 10, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Heal Clip, Deconstruct\nColumn 2: Incandescent, Killing Tally, One For All\nOrigin Trait: Radiolaria Transposer
 dimwishlist:item=412251536&perks=968510818,3017780555,1164602481,4293542123,557221067,4049631843,253121539
 
 
-//notes:Speleologist - Rank 10, Tier A by TheAegisRelic\
-Column 1: Envious Assassin, Heal Clip, Deconstruct\
-Column 2: Incandescent, Killing Tally, One For All\
-Origin Trait: Radiolaria Transposer
+//notes:Speleologist - Rank 10, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Heal Clip, Deconstruct\nColumn 2: Incandescent, Killing Tally, One For All\nOrigin Trait: Radiolaria Transposer
 dimwishlist:item=412251536&perks=968510818,3017780555,4293542123,557221067,4049631843,253121539
 dimwishlist:item=412251536&perks=968510818,1164602481,4293542123,557221067,4049631843,253121539
 dimwishlist:item=412251536&perks=3017780555,1164602481,4293542123,557221067,4049631843,253121539
@@ -1326,18 +1264,12 @@ dimwishlist:item=412251536&perks=1164602481,4293542123,253121539
 dimwishlist:item=412251536&perks=1164602481,557221067,253121539
 dimwishlist:item=412251536&perks=1164602481,4049631843,253121539
 
-//notes:Godroll!\AArchon's Thunder - Rank 11, Tier A by TheAegisRelic
-Column 1: Rimestealer, Air Trigger, Fourth Time's the Charm
-Column 2: Headstone, Desperate Measures, Killing Tally
-Origin Trait: Skulking Wolf
+//notes:Godroll!\AArchon's Thunder - Rank 11, Tier A by TheAegisRelic\nColumn 1: Rimestealer, Air Trigger, Fourth Time's the Charm\nColumn 2: Headstone, Desperate Measures, Killing Tally\nOrigin Trait: Skulking Wolf
 dimwishlist:item=1967303408&perks=1955165503,1421772400,1354429876,124408337,2109543898,557221067,3989629871
 dimwishlist:item=2896109856&perks=1955165503,1421772400,1354429876,124408337,2109543898,557221067,3989629871
 
 
-//notes:Archon's Thunder - Rank 11, Tier A by TheAegisRelic\
-Column 1: Rimestealer, Air Trigger, Fourth Time's the Charm\
-Column 2: Headstone, Desperate Measures, Killing Tally\
-Origin Trait: Skulking Wolf
+//notes:Archon's Thunder - Rank 11, Tier A by TheAegisRelic\nColumn 1: Rimestealer, Air Trigger, Fourth Time's the Charm\nColumn 2: Headstone, Desperate Measures, Killing Tally\nOrigin Trait: Skulking Wolf
 dimwishlist:item=1967303408&perks=1955165503,1421772400,124408337,2109543898,557221067,3989629871
 dimwishlist:item=1967303408&perks=1955165503,1354429876,124408337,2109543898,557221067,3989629871
 dimwishlist:item=1967303408&perks=1421772400,1354429876,124408337,2109543898,557221067,3989629871
@@ -1435,20 +1367,14 @@ dimwishlist:item=2896109856&perks=1354429876,124408337,3989629871
 dimwishlist:item=2896109856&perks=1354429876,2109543898,3989629871
 dimwishlist:item=2896109856&perks=1354429876,557221067,3989629871
 
-//notes:Godroll!\AWatchful Eye - Rank 12, Tier A by TheAegisRelic
-Column 1: Overflow, Field Prep
-Column 2: Jolting Feedback, Killing Tally, Rolling Storm
-Origin Trait: Runneth Over
+//notes:Godroll!\AWatchful Eye - Rank 12, Tier A by TheAegisRelic\nColumn 1: Overflow, Field Prep\nColumn 2: Jolting Feedback, Killing Tally, Rolling Storm\nOrigin Trait: Runneth Over
 dimwishlist:item=737409399&perks=3643424744,777589559,3966416502,557221067,3218042543,120721526
 dimwishlist:item=768610585&perks=3643424744,777589559,3966416502,557221067,3218042543,120721526
 dimwishlist:item=1757177186&perks=3643424744,777589559,3966416502,557221067,3218042543,120721526
 dimwishlist:item=2856225832&perks=3643424744,777589559,3966416502,557221067,3218042543,120721526
 
 
-//notes:Watchful Eye - Rank 12, Tier A by TheAegisRelic\
-Column 1: Overflow, Field Prep\
-Column 2: Jolting Feedback, Killing Tally, Rolling Storm\
-Origin Trait: Runneth Over
+//notes:Watchful Eye - Rank 12, Tier A by TheAegisRelic\nColumn 1: Overflow, Field Prep\nColumn 2: Jolting Feedback, Killing Tally, Rolling Storm\nOrigin Trait: Runneth Over
 dimwishlist:item=737409399&perks=3643424744,3966416502,557221067,3218042543,120721526
 dimwishlist:item=737409399&perks=777589559,3966416502,557221067,3218042543,120721526
 dimwishlist:item=737409399&perks=3643424744,777589559,3966416502,557221067,120721526
@@ -1530,17 +1456,11 @@ dimwishlist:item=2856225832&perks=777589559,3966416502,120721526
 dimwishlist:item=2856225832&perks=777589559,557221067,120721526
 dimwishlist:item=2856225832&perks=777589559,3218042543,120721526
 
-//notes:Godroll!\AMarcato-45 - Rank 13, Tier B by TheAegisRelic
-Column 1: Demolitionist
-Column 2: Hatchling, Golden Tricorn, Onslaught
-Origin Trait: Suros Synergy
+//notes:Godroll!\AMarcato-45 - Rank 13, Tier B by TheAegisRelic\nColumn 1: Demolitionist\nColumn 2: Hatchling, Golden Tricorn, Onslaught\nOrigin Trait: Suros Synergy
 dimwishlist:item=4233375372&perks=3523296417,831391274,2610012052,95528736,4008116374
 
 
-//notes:Marcato-45 - Rank 13, Tier B by TheAegisRelic\
-Column 1: Demolitionist\
-Column 2: Hatchling, Golden Tricorn, Onslaught\
-Origin Trait: Suros Synergy
+//notes:Marcato-45 - Rank 13, Tier B by TheAegisRelic\nColumn 1: Demolitionist\nColumn 2: Hatchling, Golden Tricorn, Onslaught\nOrigin Trait: Suros Synergy
 dimwishlist:item=4233375372&perks=3523296417,831391274,2610012052,4008116374
 dimwishlist:item=4233375372&perks=3523296417,831391274,95528736,4008116374
 dimwishlist:item=4233375372&perks=3523296417,2610012052,95528736,4008116374
@@ -1548,17 +1468,11 @@ dimwishlist:item=4233375372&perks=3523296417,831391274,4008116374
 dimwishlist:item=4233375372&perks=3523296417,2610012052,4008116374
 dimwishlist:item=4233375372&perks=3523296417,95528736,4008116374
 
-//notes:Godroll!\ARecurrent Impact - Rank 14, Tier B by TheAegisRelic
-Column 1: Subsistence, Field Prep
-Column 2: One for All, Headstone
-Origin Trait: Land Tank
+//notes:Godroll!\ARecurrent Impact - Rank 14, Tier B by TheAegisRelic\nColumn 1: Subsistence, Field Prep\nColumn 2: One for All, Headstone\nOrigin Trait: Land Tank
 dimwishlist:item=1572896086&perks=1820235745,777589559,4049631843,124408337,1536798515
 
 
-//notes:Recurrent Impact - Rank 14, Tier B by TheAegisRelic\
-Column 1: Subsistence, Field Prep\
-Column 2: One for All, Headstone\
-Origin Trait: Land Tank
+//notes:Recurrent Impact - Rank 14, Tier B by TheAegisRelic\nColumn 1: Subsistence, Field Prep\nColumn 2: One for All, Headstone\nOrigin Trait: Land Tank
 dimwishlist:item=1572896086&perks=1820235745,4049631843,124408337,1536798515
 dimwishlist:item=1572896086&perks=777589559,4049631843,124408337,1536798515
 dimwishlist:item=1572896086&perks=1820235745,777589559,4049631843,1536798515
@@ -1568,17 +1482,11 @@ dimwishlist:item=1572896086&perks=1820235745,124408337,1536798515
 dimwishlist:item=1572896086&perks=777589559,4049631843,1536798515
 dimwishlist:item=1572896086&perks=777589559,124408337,1536798515
 
-//notes:Godroll!\AQua Xaphan V - Rank 15, Tier B by TheAegisRelic
-Column 1: Field Prep, Triple Tap, Slideways
-Column 2: Destabilizing Rounds, Adrenaline Junkie, Dragonfly
-Origin Trait: Wild Card
+//notes:Godroll!\AQua Xaphan V - Rank 15, Tier B by TheAegisRelic\nColumn 1: Field Prep, Triple Tap, Slideways\nColumn 2: Destabilizing Rounds, Adrenaline Junkie, Dragonfly\nOrigin Trait: Wild Card
 dimwishlist:item=1975125963&perks=777589559,3400784728,2039302152,2048641572,11612903,2848615171,1050127423
 
 
-//notes:Qua Xaphan V - Rank 15, Tier B by TheAegisRelic\
-Column 1: Field Prep, Triple Tap, Slideways\
-Column 2: Destabilizing Rounds, Adrenaline Junkie, Dragonfly\
-Origin Trait: Wild Card
+//notes:Qua Xaphan V - Rank 15, Tier B by TheAegisRelic\nColumn 1: Field Prep, Triple Tap, Slideways\nColumn 2: Destabilizing Rounds, Adrenaline Junkie, Dragonfly\nOrigin Trait: Wild Card
 dimwishlist:item=1975125963&perks=777589559,3400784728,2048641572,11612903,2848615171,1050127423
 dimwishlist:item=1975125963&perks=777589559,2039302152,2048641572,11612903,2848615171,1050127423
 dimwishlist:item=1975125963&perks=3400784728,2039302152,2048641572,11612903,2848615171,1050127423
@@ -1628,46 +1536,28 @@ dimwishlist:item=1975125963&perks=2039302152,2048641572,1050127423
 dimwishlist:item=1975125963&perks=2039302152,11612903,1050127423
 dimwishlist:item=1975125963&perks=2039302152,2848615171,1050127423
 
-//notes:Godroll!\AChain of Command - Rank 16, Tier B by TheAegisRelic
-Column 1: Adrenaline Junkie
-Column 2: Demolitionist
-Origin Trait: Gun and Run
+//notes:Godroll!\AChain of Command - Rank 16, Tier B by TheAegisRelic\nColumn 1: Adrenaline Junkie\nColumn 2: Demolitionist\nOrigin Trait: Gun and Run
 dimwishlist:item=3105930175&perks=11612903,3523296417,515704826
 
 
-//notes:Chain of Command - Rank 16, Tier B by TheAegisRelic\
-Column 1: Adrenaline Junkie\
-Column 2: Demolitionist\
-Origin Trait: Gun and Run
+//notes:Chain of Command - Rank 16, Tier B by TheAegisRelic\nColumn 1: Adrenaline Junkie\nColumn 2: Demolitionist\nOrigin Trait: Gun and Run
 
-//notes:Godroll!\AFixed Odds - Rank 17, Tier B by TheAegisRelic
-Column 1: Field Prep
-Column 2: Incandescent, Killing Tally
-Origin Trait: To Excess
+//notes:Godroll!\AFixed Odds - Rank 17, Tier B by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Incandescent, Killing Tally\nOrigin Trait: To Excess
 dimwishlist:item=1642384931&perks=777589559,4293542123,557221067,1905044254
 dimwishlist:item=2194955522&perks=777589559,4293542123,557221067,1905044254
 
 
-//notes:Fixed Odds - Rank 17, Tier B by TheAegisRelic\
-Column 1: Field Prep\
-Column 2: Incandescent, Killing Tally\
-Origin Trait: To Excess
+//notes:Fixed Odds - Rank 17, Tier B by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Incandescent, Killing Tally\nOrigin Trait: To Excess
 dimwishlist:item=1642384931&perks=777589559,4293542123,1905044254
 dimwishlist:item=1642384931&perks=777589559,557221067,1905044254
 dimwishlist:item=2194955522&perks=777589559,4293542123,1905044254
 dimwishlist:item=2194955522&perks=777589559,557221067,1905044254
 
-//notes:Godroll!\AQua Furor V - Rank 18, Tier B by TheAegisRelic
-Column 1: Feeding Frenzy, Rimestealer
-Column 2: Dragonfly, Golden Tricorn, One for All
-Origin Trait: Wild Card
+//notes:Godroll!\AQua Furor V - Rank 18, Tier B by TheAegisRelic\nColumn 1: Feeding Frenzy, Rimestealer\nColumn 2: Dragonfly, Golden Tricorn, One for All\nOrigin Trait: Wild Card
 dimwishlist:item=751880654&perks=2779035018,1955165503,2848615171,2610012052,4049631843,1050127423
 
 
-//notes:Qua Furor V - Rank 18, Tier B by TheAegisRelic\
-Column 1: Feeding Frenzy, Rimestealer\
-Column 2: Dragonfly, Golden Tricorn, One for All\
-Origin Trait: Wild Card
+//notes:Qua Furor V - Rank 18, Tier B by TheAegisRelic\nColumn 1: Feeding Frenzy, Rimestealer\nColumn 2: Dragonfly, Golden Tricorn, One for All\nOrigin Trait: Wild Card
 dimwishlist:item=751880654&perks=2779035018,2848615171,2610012052,4049631843,1050127423
 dimwishlist:item=751880654&perks=1955165503,2848615171,2610012052,4049631843,1050127423
 dimwishlist:item=751880654&perks=2779035018,1955165503,2848615171,2610012052,1050127423
@@ -1689,24 +1579,15 @@ dimwishlist:item=751880654&perks=1955165503,2848615171,1050127423
 dimwishlist:item=751880654&perks=1955165503,2610012052,1050127423
 dimwishlist:item=751880654&perks=1955165503,4049631843,1050127423
 
-//notes:Godroll!\APlanck's Stride - Rank 19, Tier C by TheAegisRelic
-Column 1: Grave Robber
-Column 2: Swashbuckler, Pugilist
-Origin Trait: Right Hook
+//notes:Godroll!\APlanck's Stride - Rank 19, Tier C by TheAegisRelic\nColumn 1: Grave Robber\nColumn 2: Swashbuckler, Pugilist\nOrigin Trait: Right Hook
 dimwishlist:item=820890091&perks=1631667848,4082225868,691659142,3907865655
 
 
-//notes:Planck's Stride - Rank 19, Tier C by TheAegisRelic\
-Column 1: Grave Robber\
-Column 2: Swashbuckler, Pugilist\
-Origin Trait: Right Hook
+//notes:Planck's Stride - Rank 19, Tier C by TheAegisRelic\nColumn 1: Grave Robber\nColumn 2: Swashbuckler, Pugilist\nOrigin Trait: Right Hook
 dimwishlist:item=820890091&perks=1631667848,4082225868,3907865655
 dimwishlist:item=820890091&perks=1631667848,691659142,3907865655
 
-//notes:Godroll!\ATerminus Horizon - Rank 20, Tier C by TheAegisRelic
-Column 1: Demolitionist, Dragonfly
-Column 2: Voltshot, Wellspring
-Origin Trait: Tex Balanced Stock
+//notes:Godroll!\ATerminus Horizon - Rank 20, Tier C by TheAegisRelic\nColumn 1: Demolitionist, Dragonfly\nColumn 2: Voltshot, Wellspring\nOrigin Trait: Tex Balanced Stock
 dimwishlist:item=487205709&perks=3523296417,2848615171,2173046394,3592538738,2437618208
 dimwishlist:item=2210806903&perks=3523296417,2848615171,2173046394,3592538738,2437618208
 dimwishlist:item=2730671571&perks=3523296417,2848615171,2173046394,3592538738,2437618208
@@ -1714,10 +1595,7 @@ dimwishlist:item=3984556130&perks=3523296417,2848615171,2173046394,3592538738,24
 dimwishlist:item=4267192886&perks=3523296417,2848615171,2173046394,3592538738,2437618208
 
 
-//notes:Terminus Horizon - Rank 20, Tier C by TheAegisRelic\
-Column 1: Demolitionist, Dragonfly\
-Column 2: Voltshot, Wellspring\
-Origin Trait: Tex Balanced Stock
+//notes:Terminus Horizon - Rank 20, Tier C by TheAegisRelic\nColumn 1: Demolitionist, Dragonfly\nColumn 2: Voltshot, Wellspring\nOrigin Trait: Tex Balanced Stock
 dimwishlist:item=487205709&perks=3523296417,2173046394,3592538738,2437618208
 dimwishlist:item=487205709&perks=2848615171,2173046394,3592538738,2437618208
 dimwishlist:item=487205709&perks=3523296417,2848615171,2173046394,2437618208
@@ -1759,17 +1637,11 @@ dimwishlist:item=4267192886&perks=3523296417,3592538738,2437618208
 dimwishlist:item=4267192886&perks=2848615171,2173046394,2437618208
 dimwishlist:item=4267192886&perks=2848615171,3592538738,2437618208
 
-//notes:Godroll!\AA Fine Memorial - Rank 21, Tier C by TheAegisRelic
-Column 1: Subsistence, Field Prep
-Column 2: Demolitionist, Adrenaline Junkie, One for All
-Origin Trait: None
+//notes:Godroll!\AA Fine Memorial - Rank 21, Tier C by TheAegisRelic\nColumn 1: Subsistence, Field Prep\nColumn 2: Demolitionist, Adrenaline Junkie, One for All\nOrigin Trait: None
 dimwishlist:item=3325778512&perks=1820235745,777589559,3523296417,11612903,4049631843,0
 
 
-//notes:A Fine Memorial - Rank 21, Tier C by TheAegisRelic\
-Column 1: Subsistence, Field Prep\
-Column 2: Demolitionist, Adrenaline Junkie, One for All\
-Origin Trait: None
+//notes:A Fine Memorial - Rank 21, Tier C by TheAegisRelic\nColumn 1: Subsistence, Field Prep\nColumn 2: Demolitionist, Adrenaline Junkie, One for All\nOrigin Trait: None
 dimwishlist:item=3325778512&perks=1820235745,3523296417,11612903,4049631843,0
 dimwishlist:item=3325778512&perks=777589559,3523296417,11612903,4049631843,0
 dimwishlist:item=3325778512&perks=1820235745,777589559,3523296417,11612903,0
@@ -1791,17 +1663,11 @@ dimwishlist:item=3325778512&perks=777589559,3523296417,0
 dimwishlist:item=3325778512&perks=777589559,11612903,0
 dimwishlist:item=3325778512&perks=777589559,4049631843,0
 
-//notes:Godroll!\AShattered Cipher - Rank 22, Tier C by TheAegisRelic
-Column 1: Auto-Loading Holster, Field Prep
-Column 2: Adrenaline Junkie, Surrounded
-Origin Trait: None
+//notes:Godroll!\AShattered Cipher - Rank 22, Tier C by TheAegisRelic\nColumn 1: Auto-Loading Holster, Field Prep\nColumn 2: Adrenaline Junkie, Surrounded\nOrigin Trait: None
 dimwishlist:item=2434225986&perks=3300816228,777589559,11612903,3708227201,0
 
 
-//notes:Shattered Cipher - Rank 22, Tier C by TheAegisRelic\
-Column 1: Auto-Loading Holster, Field Prep\
-Column 2: Adrenaline Junkie, Surrounded\
-Origin Trait: None
+//notes:Shattered Cipher - Rank 22, Tier C by TheAegisRelic\nColumn 1: Auto-Loading Holster, Field Prep\nColumn 2: Adrenaline Junkie, Surrounded\nOrigin Trait: None
 dimwishlist:item=2434225986&perks=3300816228,11612903,3708227201,0
 dimwishlist:item=2434225986&perks=777589559,11612903,3708227201,0
 dimwishlist:item=2434225986&perks=3300816228,777589559,11612903,0
@@ -1811,17 +1677,11 @@ dimwishlist:item=2434225986&perks=3300816228,3708227201,0
 dimwishlist:item=2434225986&perks=777589559,11612903,0
 dimwishlist:item=2434225986&perks=777589559,3708227201,0
 
-//notes:Godroll!\ARetrofit Escapade - Rank 23, Tier C by TheAegisRelic
-Column 1: Fourth Time's the Charm, Field Prep, Feeding Frenzy
-Column 2: One for All, Golden Tricorn
-Origin Trait: Ambush
+//notes:Godroll!\ARetrofit Escapade - Rank 23, Tier C by TheAegisRelic\nColumn 1: Fourth Time's the Charm, Field Prep, Feeding Frenzy\nColumn 2: One for All, Golden Tricorn\nOrigin Trait: Ambush
 dimwishlist:item=3103325054&perks=1354429876,777589559,2779035018,4049631843,2610012052,192157151
 
 
-//notes:Retrofit Escapade - Rank 23, Tier C by TheAegisRelic\
-Column 1: Fourth Time's the Charm, Field Prep, Feeding Frenzy\
-Column 2: One for All, Golden Tricorn\
-Origin Trait: Ambush
+//notes:Retrofit Escapade - Rank 23, Tier C by TheAegisRelic\nColumn 1: Fourth Time's the Charm, Field Prep, Feeding Frenzy\nColumn 2: One for All, Golden Tricorn\nOrigin Trait: Ambush
 dimwishlist:item=3103325054&perks=1354429876,777589559,4049631843,2610012052,192157151
 dimwishlist:item=3103325054&perks=1354429876,2779035018,4049631843,2610012052,192157151
 dimwishlist:item=3103325054&perks=777589559,2779035018,4049631843,2610012052,192157151
@@ -1843,18 +1703,12 @@ dimwishlist:item=3103325054&perks=777589559,2610012052,192157151
 dimwishlist:item=3103325054&perks=2779035018,4049631843,192157151
 dimwishlist:item=3103325054&perks=2779035018,2610012052,192157151
 
-//notes:Godroll!\AQullim's Terminus - Rank 24, Tier D by TheAegisRelic
-Column 1: Ensemble, Unrelenting
-Column 2: Firefly, Headstone, Killing Tally
-Origin Trait: Runneth Over
+//notes:Godroll!\AQullim's Terminus - Rank 24, Tier D by TheAegisRelic\nColumn 1: Ensemble, Unrelenting\nColumn 2: Firefly, Headstone, Killing Tally\nOrigin Trait: Runneth Over
 dimwishlist:item=1321506184&perks=2621346526,3108830275,1561789734,124408337,557221067,120721526
 dimwishlist:item=3248429089&perks=2621346526,3108830275,1561789734,124408337,557221067,120721526
 
 
-//notes:Qullim's Terminus - Rank 24, Tier D by TheAegisRelic\
-Column 1: Ensemble, Unrelenting\
-Column 2: Firefly, Headstone, Killing Tally\
-Origin Trait: Runneth Over
+//notes:Qullim's Terminus - Rank 24, Tier D by TheAegisRelic\nColumn 1: Ensemble, Unrelenting\nColumn 2: Firefly, Headstone, Killing Tally\nOrigin Trait: Runneth Over
 dimwishlist:item=1321506184&perks=2621346526,1561789734,124408337,557221067,120721526
 dimwishlist:item=1321506184&perks=3108830275,1561789734,124408337,557221067,120721526
 dimwishlist:item=1321506184&perks=2621346526,3108830275,1561789734,124408337,120721526
@@ -1896,17 +1750,11 @@ dimwishlist:item=3248429089&perks=3108830275,1561789734,120721526
 dimwishlist:item=3248429089&perks=3108830275,124408337,120721526
 dimwishlist:item=3248429089&perks=3108830275,557221067,120721526
 
-//notes:Godroll!\ACircular Logic - Rank 25, Tier D by TheAegisRelic
-Column 1: Envious Assassin, Feeding Frenzy
-Column 2: Golden Tricorn, Demolitionist
-Origin Trait: Nanotech Tracer Missiles
+//notes:Godroll!\ACircular Logic - Rank 25, Tier D by TheAegisRelic\nColumn 1: Envious Assassin, Feeding Frenzy\nColumn 2: Golden Tricorn, Demolitionist\nOrigin Trait: Nanotech Tracer Missiles
 dimwishlist:item=2187717691&perks=968510818,2779035018,2610012052,3523296417,164468655
 
 
-//notes:Circular Logic - Rank 25, Tier D by TheAegisRelic\
-Column 1: Envious Assassin, Feeding Frenzy\
-Column 2: Golden Tricorn, Demolitionist\
-Origin Trait: Nanotech Tracer Missiles
+//notes:Circular Logic - Rank 25, Tier D by TheAegisRelic\nColumn 1: Envious Assassin, Feeding Frenzy\nColumn 2: Golden Tricorn, Demolitionist\nOrigin Trait: Nanotech Tracer Missiles
 dimwishlist:item=2187717691&perks=968510818,2610012052,3523296417,164468655
 dimwishlist:item=2187717691&perks=2779035018,2610012052,3523296417,164468655
 dimwishlist:item=2187717691&perks=968510818,2779035018,2610012052,164468655
@@ -1916,34 +1764,22 @@ dimwishlist:item=2187717691&perks=968510818,3523296417,164468655
 dimwishlist:item=2187717691&perks=2779035018,2610012052,164468655
 dimwishlist:item=2187717691&perks=2779035018,3523296417,164468655
 
-//notes:Godroll!\ASeventh Seraph SAW - Rank 26, Tier E by TheAegisRelic
-Column 1: Auto-Loading Holster, Field Prep
-Column 2: Firing Line
-Origin Trait: None
+//notes:Godroll!\ASeventh Seraph SAW - Rank 26, Tier E by TheAegisRelic\nColumn 1: Auto-Loading Holster, Field Prep\nColumn 2: Firing Line\nOrigin Trait: None
 dimwishlist:item=2582755344&perks=3300816228,777589559,1771339417,0
 
 
-//notes:Seventh Seraph SAW - Rank 26, Tier E by TheAegisRelic\
-Column 1: Auto-Loading Holster, Field Prep\
-Column 2: Firing Line\
-Origin Trait: None
+//notes:Seventh Seraph SAW - Rank 26, Tier E by TheAegisRelic\nColumn 1: Auto-Loading Holster, Field Prep\nColumn 2: Firing Line\nOrigin Trait: None
 dimwishlist:item=2582755344&perks=3300816228,1771339417,0
 dimwishlist:item=2582755344&perks=777589559,1771339417,0
 
-//notes:Godroll!\ATHE SWARM - Rank 27, Tier E by TheAegisRelic
-Column 1: Feeding Frenzy
-Column 2: Dragonfly, Golden Tricorn
-Origin Trait: Vanguard's Vindication
+//notes:Godroll!\ATHE SWARM - Rank 27, Tier E by TheAegisRelic\nColumn 1: Feeding Frenzy\nColumn 2: Dragonfly, Golden Tricorn\nOrigin Trait: Vanguard's Vindication
 dimwishlist:item=47772649&perks=2779035018,2848615171,2610012052,744217850
 dimwishlist:item=566740455&perks=2779035018,2848615171,2610012052,744217850
 dimwishlist:item=2759590322&perks=2779035018,2848615171,2610012052,744217850
 dimwishlist:item=3836861464&perks=2779035018,2848615171,2610012052,744217850
 
 
-//notes:THE SWARM - Rank 27, Tier E by TheAegisRelic\
-Column 1: Feeding Frenzy\
-Column 2: Dragonfly, Golden Tricorn\
-Origin Trait: Vanguard's Vindication
+//notes:THE SWARM - Rank 27, Tier E by TheAegisRelic\nColumn 1: Feeding Frenzy\nColumn 2: Dragonfly, Golden Tricorn\nOrigin Trait: Vanguard's Vindication
 dimwishlist:item=47772649&perks=2779035018,2848615171,744217850
 dimwishlist:item=47772649&perks=2779035018,2610012052,744217850
 dimwishlist:item=566740455&perks=2779035018,2848615171,744217850
@@ -1953,30 +1789,18 @@ dimwishlist:item=2759590322&perks=2779035018,2610012052,744217850
 dimwishlist:item=3836861464&perks=2779035018,2848615171,744217850
 dimwishlist:item=3836861464&perks=2779035018,2610012052,744217850
 
-//notes:Godroll!\AThermal Erosion - Rank 28, Tier F by TheAegisRelic
-Column 1: Field Prep
-Column 2: Demolitionist, Dragonfly
-Origin Trait: None
+//notes:Godroll!\AThermal Erosion - Rank 28, Tier F by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Demolitionist, Dragonfly\nOrigin Trait: None
 dimwishlist:item=1766088024&perks=777589559,3523296417,2848615171,0
 
 
-//notes:Thermal Erosion - Rank 28, Tier F by TheAegisRelic\
-Column 1: Field Prep\
-Column 2: Demolitionist, Dragonfly\
-Origin Trait: None
+//notes:Thermal Erosion - Rank 28, Tier F by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Demolitionist, Dragonfly\nOrigin Trait: None
 dimwishlist:item=1766088024&perks=777589559,3523296417,0
 dimwishlist:item=1766088024&perks=777589559,2848615171,0
 
-//notes:Godroll!\AEleatic Principle - Rank 29, Tier F by TheAegisRelic
-Column 1: Ensemble
-Column 2: Golden Tricorn, Target Lock
-Origin Trait: Head Rush
+//notes:Godroll!\AEleatic Principle - Rank 29, Tier F by TheAegisRelic\nColumn 1: Ensemble\nColumn 2: Golden Tricorn, Target Lock\nOrigin Trait: Head Rush
 dimwishlist:item=105306149&perks=2621346526,2610012052,365154968,2565067140
 
 
-//notes:Eleatic Principle - Rank 29, Tier F by TheAegisRelic\
-Column 1: Ensemble\
-Column 2: Golden Tricorn, Target Lock\
-Origin Trait: Head Rush
+//notes:Eleatic Principle - Rank 29, Tier F by TheAegisRelic\nColumn 1: Ensemble\nColumn 2: Golden Tricorn, Target Lock\nOrigin Trait: Head Rush
 dimwishlist:item=105306149&perks=2621346526,2610012052,2565067140
 dimwishlist:item=105306149&perks=2621346526,365154968,2565067140

@@ -1,16 +1,10 @@
-// Bows - 2025-10-28T16:50:08.078Z
-//notes:Godroll!\ANon-Denouement - Rank 1, Tier S by TheAegisRelic
-Column 1: Dragonfly, Archer's Tempo, Shoot to Loot
-Column 2: Voltshot, Explosive Head, Chaos Reshaped
-Origin Trait: Collective Purpose
+// Bows - 2025-10-28T16:50:59.055Z
+//notes:Godroll!\ANon-Denouement - Rank 1, Tier S by TheAegisRelic\nColumn 1: Dragonfly, Archer's Tempo, Shoot to Loot\nColumn 2: Voltshot, Explosive Head, Chaos Reshaped\nOrigin Trait: Collective Purpose
 dimwishlist:item=1039915310&perks=2848615171,201365942,3700496672,2173046394,3365897133,3640170453,1878756191
 dimwishlist:item=1770490683&perks=2848615171,201365942,3700496672,2173046394,3365897133,3640170453,1878756191
 
 
-//notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic\
-Column 1: Dragonfly, Archer's Tempo, Shoot to Loot\
-Column 2: Voltshot, Explosive Head, Chaos Reshaped\
-Origin Trait: Collective Purpose
+//notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic\nColumn 1: Dragonfly, Archer's Tempo, Shoot to Loot\nColumn 2: Voltshot, Explosive Head, Chaos Reshaped\nOrigin Trait: Collective Purpose
 dimwishlist:item=1039915310&perks=2848615171,201365942,2173046394,3365897133,3640170453,1878756191
 dimwishlist:item=1039915310&perks=2848615171,3700496672,2173046394,3365897133,3640170453,1878756191
 dimwishlist:item=1039915310&perks=201365942,3700496672,2173046394,3365897133,3640170453,1878756191
@@ -108,26 +102,17 @@ dimwishlist:item=1770490683&perks=3700496672,2173046394,1878756191
 dimwishlist:item=1770490683&perks=3700496672,3365897133,1878756191
 dimwishlist:item=1770490683&perks=3700496672,3640170453,1878756191
 
-//notes:Godroll!\AAccrued Redemption - Rank 2, Tier A by TheAegisRelic
-Column 1: Archer's Tempo
-Column 2: Kinetic Tremors, Firefly
-Origin Trait: Photoinhibition
+//notes:Godroll!\AAccrued Redemption - Rank 2, Tier A by TheAegisRelic\nColumn 1: Archer's Tempo\nColumn 2: Kinetic Tremors, Firefly\nOrigin Trait: Photoinhibition
 dimwishlist:item=3621336854&perks=201365942,3891536761,1561789734,511914882
 dimwishlist:item=4095896073&perks=201365942,3891536761,1561789734,511914882
 
-//notes:Godroll!\AFortunate Star - Rank 3, Tier A by TheAegisRelic
-Column 1: Dragonfly, Repulsor Brace, Impromptu Ammunition
-Column 2: Destabilizing Rounds, Demoralize, Explosive Head
-Origin Trait: Veist Stinger
+//notes:Godroll!\AFortunate Star - Rank 3, Tier A by TheAegisRelic\nColumn 1: Dragonfly, Repulsor Brace, Impromptu Ammunition\nColumn 2: Destabilizing Rounds, Demoralize, Explosive Head\nOrigin Trait: Veist Stinger
 dimwishlist:item=591672323&perks=2848615171,776531651,2360347339,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=2326578623&perks=2848615171,776531651,2360347339,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=2631466936&perks=2848615171,776531651,2360347339,2048641572,1464081238,3365897133,3988215619
 
 
-//notes:Fortunate Star - Rank 3, Tier A by TheAegisRelic\
-Column 1: Dragonfly, Repulsor Brace, Impromptu Ammunition\
-Column 2: Destabilizing Rounds, Demoralize, Explosive Head\
-Origin Trait: Veist Stinger
+//notes:Fortunate Star - Rank 3, Tier A by TheAegisRelic\nColumn 1: Dragonfly, Repulsor Brace, Impromptu Ammunition\nColumn 2: Destabilizing Rounds, Demoralize, Explosive Head\nOrigin Trait: Veist Stinger
 dimwishlist:item=591672323&perks=2848615171,776531651,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=591672323&perks=2848615171,2360347339,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=591672323&perks=776531651,2360347339,2048641572,1464081238,3365897133,3988215619
@@ -273,20 +258,14 @@ dimwishlist:item=2631466936&perks=2360347339,2048641572,3988215619
 dimwishlist:item=2631466936&perks=2360347339,1464081238,3988215619
 dimwishlist:item=2631466936&perks=2360347339,3365897133,3988215619
 
-//notes:Godroll!\AAnamnesis - Rank 4, Tier A by TheAegisRelic
-Column 1: Repulsor Brace, Dragonfly, Archer's Tempo
-Column 2: Destabilizing Rounds, Demoralize, Explosive Head
-Origin Trait: Runneth Over
+//notes:Godroll!\AAnamnesis - Rank 4, Tier A by TheAegisRelic\nColumn 1: Repulsor Brace, Dragonfly, Archer's Tempo\nColumn 2: Destabilizing Rounds, Demoralize, Explosive Head\nOrigin Trait: Runneth Over
 dimwishlist:item=1536325168&perks=776531651,2848615171,201365942,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=2291392465&perks=776531651,2848615171,201365942,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=3417731926&perks=776531651,2848615171,201365942,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=3949253499&perks=776531651,2848615171,201365942,2048641572,1464081238,3365897133,120721526
 
 
-//notes:Anamnesis - Rank 4, Tier A by TheAegisRelic\
-Column 1: Repulsor Brace, Dragonfly, Archer's Tempo\
-Column 2: Destabilizing Rounds, Demoralize, Explosive Head\
-Origin Trait: Runneth Over
+//notes:Anamnesis - Rank 4, Tier A by TheAegisRelic\nColumn 1: Repulsor Brace, Dragonfly, Archer's Tempo\nColumn 2: Destabilizing Rounds, Demoralize, Explosive Head\nOrigin Trait: Runneth Over
 dimwishlist:item=1536325168&perks=776531651,2848615171,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=1536325168&perks=776531651,201365942,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=1536325168&perks=2848615171,201365942,2048641572,1464081238,3365897133,120721526
@@ -480,10 +459,7 @@ dimwishlist:item=3949253499&perks=201365942,2048641572,120721526
 dimwishlist:item=3949253499&perks=201365942,1464081238,120721526
 dimwishlist:item=3949253499&perks=201365942,3365897133,120721526
 
-//notes:Godroll!\APre Astyanax IV - Rank 5, Tier A by TheAegisRelic
-Column 1: Incandescent, Firefly
-Column 2: Burning Ambition, Explosive Head, Elemental Honing
-Origin Trait: Wild Card
+//notes:Godroll!\APre Astyanax IV - Rank 5, Tier A by TheAegisRelic\nColumn 1: Incandescent, Firefly\nColumn 2: Burning Ambition, Explosive Head, Elemental Honing\nOrigin Trait: Wild Card
 dimwishlist:item=192784503&perks=4293542123,1561789734,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=471764396&perks=4293542123,1561789734,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=496556698&perks=4293542123,1561789734,2890807135,3365897133,1089671869,1050127423
@@ -491,10 +467,7 @@ dimwishlist:item=2063217087&perks=4293542123,1561789734,2890807135,3365897133,10
 dimwishlist:item=2932922810&perks=4293542123,1561789734,2890807135,3365897133,1089671869,1050127423
 
 
-//notes:Pre Astyanax IV - Rank 5, Tier A by TheAegisRelic\
-Column 1: Incandescent, Firefly\
-Column 2: Burning Ambition, Explosive Head, Elemental Honing\
-Origin Trait: Wild Card
+//notes:Pre Astyanax IV - Rank 5, Tier A by TheAegisRelic\nColumn 1: Incandescent, Firefly\nColumn 2: Burning Ambition, Explosive Head, Elemental Honing\nOrigin Trait: Wild Card
 dimwishlist:item=192784503&perks=4293542123,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=192784503&perks=1561789734,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=192784503&perks=4293542123,1561789734,2890807135,3365897133,1050127423
@@ -596,18 +569,12 @@ dimwishlist:item=2932922810&perks=1561789734,2890807135,1050127423
 dimwishlist:item=2932922810&perks=1561789734,3365897133,1050127423
 dimwishlist:item=2932922810&perks=1561789734,1089671869,1050127423
 
-//notes:Godroll!\ATyranny of Heaven - Rank 6, Tier A by TheAegisRelic
-Column 1: Dragonfly, Explosive Head, Archer's Tempo
-Column 2: Incandescent, One for All
-Origin Trait: Explosive Pact
+//notes:Godroll!\ATyranny of Heaven - Rank 6, Tier A by TheAegisRelic\nColumn 1: Dragonfly, Explosive Head, Archer's Tempo\nColumn 2: Incandescent, One for All\nOrigin Trait: Explosive Pact
 dimwishlist:item=2721249463&perks=2848615171,3365897133,201365942,4293542123,4049631843,1489048135
 dimwishlist:item=3388655311&perks=2848615171,3365897133,201365942,4293542123,4049631843,1489048135
 
 
-//notes:Tyranny of Heaven - Rank 6, Tier A by TheAegisRelic\
-Column 1: Dragonfly, Explosive Head, Archer's Tempo\
-Column 2: Incandescent, One for All\
-Origin Trait: Explosive Pact
+//notes:Tyranny of Heaven - Rank 6, Tier A by TheAegisRelic\nColumn 1: Dragonfly, Explosive Head, Archer's Tempo\nColumn 2: Incandescent, One for All\nOrigin Trait: Explosive Pact
 dimwishlist:item=2721249463&perks=2848615171,3365897133,4293542123,4049631843,1489048135
 dimwishlist:item=2721249463&perks=2848615171,201365942,4293542123,4049631843,1489048135
 dimwishlist:item=2721249463&perks=3365897133,201365942,4293542123,4049631843,1489048135
@@ -649,8 +616,5 @@ dimwishlist:item=3388655311&perks=3365897133,4049631843,1489048135
 dimwishlist:item=3388655311&perks=201365942,4293542123,1489048135
 dimwishlist:item=3388655311&perks=201365942,4049631843,1489048135
 
-//notes:Godroll!\AMercury-A - Rank 7, Tier A by TheAegisRelic
-Column 1: Attrition Orbs, Successful Warm-Up
-Column 2: Kinetic Tremors
-Origin Trait: Tenacity
+//notes:Godroll!\AMercury-A - Rank 7, Tier A by TheAegisRelic\nColumn 1: Attrition Orbs, Successful Warm-Up\nColumn 2: Kinetic Tremors\nOrigin Trait: Tenacity
 dimwishlist:item=2838279629&perks=243981275,2652708987,3891536761,3911709647

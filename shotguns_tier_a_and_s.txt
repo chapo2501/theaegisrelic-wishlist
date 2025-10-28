@@ -1,17 +1,11 @@
-// Shotguns - 2025-10-28T16:50:08.078Z
-//notes:Godroll!\APerfect Paradox - Rank 1, Tier S by TheAegisRelic
-Column 1: Pugilist, Field Prep, Threat Detector
-Column 2: One-Two Punch, Trench Barrel, Vorpal Weapon
-Origin Trait: Cast No Shadows
+// Shotguns - 2025-10-28T16:50:59.055Z
+//notes:Godroll!\APerfect Paradox - Rank 1, Tier S by TheAegisRelic\nColumn 1: Pugilist, Field Prep, Threat Detector\nColumn 2: One-Two Punch, Trench Barrel, Vorpal Weapon\nOrigin Trait: Cast No Shadows
 dimwishlist:item=1298672084&perks=691659142,777589559,4071163871,2679249093,2360754333,1546637391,2838996248
 dimwishlist:item=2248667690&perks=691659142,777589559,4071163871,2679249093,2360754333,1546637391,2838996248
 dimwishlist:item=3393519051&perks=691659142,777589559,4071163871,2679249093,2360754333,1546637391,2838996248
 
 
-//notes:Perfect Paradox - Rank 1, Tier S by TheAegisRelic\
-Column 1: Pugilist, Field Prep, Threat Detector\
-Column 2: One-Two Punch, Trench Barrel, Vorpal Weapon\
-Origin Trait: Cast No Shadows
+//notes:Perfect Paradox - Rank 1, Tier S by TheAegisRelic\nColumn 1: Pugilist, Field Prep, Threat Detector\nColumn 2: One-Two Punch, Trench Barrel, Vorpal Weapon\nOrigin Trait: Cast No Shadows
 dimwishlist:item=1298672084&perks=691659142,777589559,2679249093,2360754333,1546637391,2838996248
 dimwishlist:item=1298672084&perks=691659142,4071163871,2679249093,2360754333,1546637391,2838996248
 dimwishlist:item=1298672084&perks=777589559,4071163871,2679249093,2360754333,1546637391,2838996248
@@ -157,17 +151,11 @@ dimwishlist:item=3393519051&perks=4071163871,2679249093,2838996248
 dimwishlist:item=3393519051&perks=4071163871,2360754333,2838996248
 dimwishlist:item=3393519051&perks=4071163871,1546637391,2838996248
 
-//notes:Godroll!\AUnvoiced - Rank 2, Tier S by TheAegisRelic
-Column 1: Redirection, Fourth Time's the Charm, Envious Arsenal
-Column 2: Elemental Honing, Bait and Switch, Vorpal Weapon
-Origin Trait: Subjugation
+//notes:Godroll!\AUnvoiced - Rank 2, Tier S by TheAegisRelic\nColumn 1: Redirection, Fourth Time's the Charm, Envious Arsenal\nColumn 2: Elemental Honing, Bait and Switch, Vorpal Weapon\nOrigin Trait: Subjugation
 dimwishlist:item=3360937899&perks=3201496230,1354429876,3987942396,1089671869,3078487919,1546637391,1298135794
 
 
-//notes:Unvoiced - Rank 2, Tier S by TheAegisRelic\
-Column 1: Redirection, Fourth Time's the Charm, Envious Arsenal\
-Column 2: Elemental Honing, Bait and Switch, Vorpal Weapon\
-Origin Trait: Subjugation
+//notes:Unvoiced - Rank 2, Tier S by TheAegisRelic\nColumn 1: Redirection, Fourth Time's the Charm, Envious Arsenal\nColumn 2: Elemental Honing, Bait and Switch, Vorpal Weapon\nOrigin Trait: Subjugation
 dimwishlist:item=3360937899&perks=3201496230,1354429876,1089671869,3078487919,1546637391,1298135794
 dimwishlist:item=3360937899&perks=3201496230,3987942396,1089671869,3078487919,1546637391,1298135794
 dimwishlist:item=3360937899&perks=1354429876,3987942396,1089671869,3078487919,1546637391,1298135794
@@ -217,17 +205,11 @@ dimwishlist:item=3360937899&perks=3987942396,1089671869,1298135794
 dimwishlist:item=3360937899&perks=3987942396,3078487919,1298135794
 dimwishlist:item=3360937899&perks=3987942396,1546637391,1298135794
 
-//notes:Godroll!\AIKELOS_SG_v1.0.3 - Rank 3, Tier S by TheAegisRelic
-Column 1: Grave Robber, Threat Detector, Pugilist
-Column 2: One-Two Punch, Surrounded, Cascade Point
-Origin Trait: Rasputin's Arsenal
+//notes:Godroll!\AIKELOS_SG_v1.0.3 - Rank 3, Tier S by TheAegisRelic\nColumn 1: Grave Robber, Threat Detector, Pugilist\nColumn 2: One-Two Punch, Surrounded, Cascade Point\nOrigin Trait: Rasputin's Arsenal
 dimwishlist:item=1168625549&perks=1631667848,4071163871,691659142,2679249093,3708227201,3751912585,566815328
 
 
-//notes:IKELOS_SG_v1.0.3 - Rank 3, Tier S by TheAegisRelic\
-Column 1: Grave Robber, Threat Detector, Pugilist\
-Column 2: One-Two Punch, Surrounded, Cascade Point\
-Origin Trait: Rasputin's Arsenal
+//notes:IKELOS_SG_v1.0.3 - Rank 3, Tier S by TheAegisRelic\nColumn 1: Grave Robber, Threat Detector, Pugilist\nColumn 2: One-Two Punch, Surrounded, Cascade Point\nOrigin Trait: Rasputin's Arsenal
 dimwishlist:item=1168625549&perks=1631667848,4071163871,2679249093,3708227201,3751912585,566815328
 dimwishlist:item=1168625549&perks=1631667848,691659142,2679249093,3708227201,3751912585,566815328
 dimwishlist:item=1168625549&perks=4071163871,691659142,2679249093,3708227201,3751912585,566815328
@@ -277,17 +259,11 @@ dimwishlist:item=1168625549&perks=691659142,2679249093,566815328
 dimwishlist:item=1168625549&perks=691659142,3708227201,566815328
 dimwishlist:item=1168625549&perks=691659142,3751912585,566815328
 
-//notes:Godroll!\AUntil Its Return - Rank 4, Tier A by TheAegisRelic
-Column 1: Auto-Loading Holster, Overflow
-Column 2: Cascade Point, Surrounded, Vorpal Weapon
-Origin Trait: Unsated Hunger
+//notes:Godroll!\AUntil Its Return - Rank 4, Tier A by TheAegisRelic\nColumn 1: Auto-Loading Holster, Overflow\nColumn 2: Cascade Point, Surrounded, Vorpal Weapon\nOrigin Trait: Unsated Hunger
 dimwishlist:item=2883484461&perks=3300816228,3643424744,3751912585,3708227201,1546637391,2053642371
 
 
-//notes:Until Its Return - Rank 4, Tier A by TheAegisRelic\
-Column 1: Auto-Loading Holster, Overflow\
-Column 2: Cascade Point, Surrounded, Vorpal Weapon\
-Origin Trait: Unsated Hunger
+//notes:Until Its Return - Rank 4, Tier A by TheAegisRelic\nColumn 1: Auto-Loading Holster, Overflow\nColumn 2: Cascade Point, Surrounded, Vorpal Weapon\nOrigin Trait: Unsated Hunger
 dimwishlist:item=2883484461&perks=3300816228,3751912585,3708227201,1546637391,2053642371
 dimwishlist:item=2883484461&perks=3643424744,3751912585,3708227201,1546637391,2053642371
 dimwishlist:item=2883484461&perks=3300816228,3643424744,3751912585,3708227201,2053642371
@@ -309,24 +285,83 @@ dimwishlist:item=2883484461&perks=3643424744,3751912585,2053642371
 dimwishlist:item=2883484461&perks=3643424744,3708227201,2053642371
 dimwishlist:item=2883484461&perks=3643424744,1546637391,2053642371
 
-//notes:Godroll!\AImperial Decree - Rank 6, Tier A by TheAegisRelic
-Column 1: Auto-Loading Holster
-Column 2: Trench Barrel, Surrounded
-Origin Trait: To Excess
+//notes:Godroll!\AA Sudden Death\nRotN version - Rank 5, Tier A by TheAegisRelic\nColumn 1: Discord, One-Two Punch\nColumn 2: Trench Barrel, Redirection\nOrigin Trait: Gravity Well
+dimwishlist:item=1626437786&perks=3978468247,2679249093,2360754333,3201496230,59871045
+dimwishlist:item=1879212552&perks=3978468247,2679249093,2360754333,3201496230,59871045
+dimwishlist:item=1904170910&perks=3978468247,2679249093,2360754333,3201496230,59871045
+dimwishlist:item=1976481399&perks=3978468247,2679249093,2360754333,3201496230,59871045
+dimwishlist:item=2764074355&perks=3978468247,2679249093,2360754333,3201496230,59871045
+dimwishlist:item=2855157553&perks=3978468247,2679249093,2360754333,3201496230,59871045
+dimwishlist:item=4097972038&perks=3978468247,2679249093,2360754333,3201496230,59871045
+
+
+//notes:A Sudden Death\nRotN version - Rank 5, Tier A by TheAegisRelic\nColumn 1: Discord, One-Two Punch\nColumn 2: Trench Barrel, Redirection\nOrigin Trait: Gravity Well
+dimwishlist:item=1626437786&perks=3978468247,2360754333,3201496230,59871045
+dimwishlist:item=1626437786&perks=2679249093,2360754333,3201496230,59871045
+dimwishlist:item=1626437786&perks=3978468247,2679249093,2360754333,59871045
+dimwishlist:item=1626437786&perks=3978468247,2679249093,3201496230,59871045
+dimwishlist:item=1626437786&perks=3978468247,2360754333,59871045
+dimwishlist:item=1626437786&perks=3978468247,3201496230,59871045
+dimwishlist:item=1626437786&perks=2679249093,2360754333,59871045
+dimwishlist:item=1626437786&perks=2679249093,3201496230,59871045
+dimwishlist:item=1879212552&perks=3978468247,2360754333,3201496230,59871045
+dimwishlist:item=1879212552&perks=2679249093,2360754333,3201496230,59871045
+dimwishlist:item=1879212552&perks=3978468247,2679249093,2360754333,59871045
+dimwishlist:item=1879212552&perks=3978468247,2679249093,3201496230,59871045
+dimwishlist:item=1879212552&perks=3978468247,2360754333,59871045
+dimwishlist:item=1879212552&perks=3978468247,3201496230,59871045
+dimwishlist:item=1879212552&perks=2679249093,2360754333,59871045
+dimwishlist:item=1879212552&perks=2679249093,3201496230,59871045
+dimwishlist:item=1904170910&perks=3978468247,2360754333,3201496230,59871045
+dimwishlist:item=1904170910&perks=2679249093,2360754333,3201496230,59871045
+dimwishlist:item=1904170910&perks=3978468247,2679249093,2360754333,59871045
+dimwishlist:item=1904170910&perks=3978468247,2679249093,3201496230,59871045
+dimwishlist:item=1904170910&perks=3978468247,2360754333,59871045
+dimwishlist:item=1904170910&perks=3978468247,3201496230,59871045
+dimwishlist:item=1904170910&perks=2679249093,2360754333,59871045
+dimwishlist:item=1904170910&perks=2679249093,3201496230,59871045
+dimwishlist:item=1976481399&perks=3978468247,2360754333,3201496230,59871045
+dimwishlist:item=1976481399&perks=2679249093,2360754333,3201496230,59871045
+dimwishlist:item=1976481399&perks=3978468247,2679249093,2360754333,59871045
+dimwishlist:item=1976481399&perks=3978468247,2679249093,3201496230,59871045
+dimwishlist:item=1976481399&perks=3978468247,2360754333,59871045
+dimwishlist:item=1976481399&perks=3978468247,3201496230,59871045
+dimwishlist:item=1976481399&perks=2679249093,2360754333,59871045
+dimwishlist:item=1976481399&perks=2679249093,3201496230,59871045
+dimwishlist:item=2764074355&perks=3978468247,2360754333,3201496230,59871045
+dimwishlist:item=2764074355&perks=2679249093,2360754333,3201496230,59871045
+dimwishlist:item=2764074355&perks=3978468247,2679249093,2360754333,59871045
+dimwishlist:item=2764074355&perks=3978468247,2679249093,3201496230,59871045
+dimwishlist:item=2764074355&perks=3978468247,2360754333,59871045
+dimwishlist:item=2764074355&perks=3978468247,3201496230,59871045
+dimwishlist:item=2764074355&perks=2679249093,2360754333,59871045
+dimwishlist:item=2764074355&perks=2679249093,3201496230,59871045
+dimwishlist:item=2855157553&perks=3978468247,2360754333,3201496230,59871045
+dimwishlist:item=2855157553&perks=2679249093,2360754333,3201496230,59871045
+dimwishlist:item=2855157553&perks=3978468247,2679249093,2360754333,59871045
+dimwishlist:item=2855157553&perks=3978468247,2679249093,3201496230,59871045
+dimwishlist:item=2855157553&perks=3978468247,2360754333,59871045
+dimwishlist:item=2855157553&perks=3978468247,3201496230,59871045
+dimwishlist:item=2855157553&perks=2679249093,2360754333,59871045
+dimwishlist:item=2855157553&perks=2679249093,3201496230,59871045
+dimwishlist:item=4097972038&perks=3978468247,2360754333,3201496230,59871045
+dimwishlist:item=4097972038&perks=2679249093,2360754333,3201496230,59871045
+dimwishlist:item=4097972038&perks=3978468247,2679249093,2360754333,59871045
+dimwishlist:item=4097972038&perks=3978468247,2679249093,3201496230,59871045
+dimwishlist:item=4097972038&perks=3978468247,2360754333,59871045
+dimwishlist:item=4097972038&perks=3978468247,3201496230,59871045
+dimwishlist:item=4097972038&perks=2679249093,2360754333,59871045
+dimwishlist:item=4097972038&perks=2679249093,3201496230,59871045
+
+//notes:Godroll!\AImperial Decree - Rank 6, Tier A by TheAegisRelic\nColumn 1: Auto-Loading Holster\nColumn 2: Trench Barrel, Surrounded\nOrigin Trait: To Excess
 dimwishlist:item=318443586&perks=3300816228,2360754333,3708227201,1905044254
 dimwishlist:item=2919334548&perks=3300816228,2360754333,3708227201,1905044254
 
-//notes:Godroll!\APure Recollection - Rank 7, Tier A by TheAegisRelic
-Column 1: Envious Arsenal, High-Impact Reserves
-Column 2: Bait and Switch, Withering Gaze
-Origin Trait: Roar of Battle
+//notes:Godroll!\APure Recollection - Rank 7, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal, High-Impact Reserves\nColumn 2: Bait and Switch, Withering Gaze\nOrigin Trait: Roar of Battle
 dimwishlist:item=1956186483&perks=3987942396,2213355989,3078487919,1134488199,1673863459
 
 
-//notes:Pure Recollection - Rank 7, Tier A by TheAegisRelic\
-Column 1: Envious Arsenal, High-Impact Reserves\
-Column 2: Bait and Switch, Withering Gaze\
-Origin Trait: Roar of Battle
+//notes:Pure Recollection - Rank 7, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal, High-Impact Reserves\nColumn 2: Bait and Switch, Withering Gaze\nOrigin Trait: Roar of Battle
 dimwishlist:item=1956186483&perks=3987942396,3078487919,1134488199,1673863459
 dimwishlist:item=1956186483&perks=2213355989,3078487919,1134488199,1673863459
 dimwishlist:item=1956186483&perks=3987942396,2213355989,3078487919,1673863459
@@ -336,26 +371,17 @@ dimwishlist:item=1956186483&perks=3987942396,1134488199,1673863459
 dimwishlist:item=1956186483&perks=2213355989,3078487919,1673863459
 dimwishlist:item=1956186483&perks=2213355989,1134488199,1673863459
 
-//notes:Godroll!\AHeritage - Rank 8, Tier A by TheAegisRelic
-Column 1: Reconstruction, Demolitionist
-Column 2: Recombination
-Origin Trait: Bray Inheritance
+//notes:Godroll!\AHeritage - Rank 8, Tier A by TheAegisRelic\nColumn 1: Reconstruction, Demolitionist\nColumn 2: Recombination\nOrigin Trait: Bray Inheritance
 dimwishlist:item=4248569242&perks=1523832109,3523296417,469285294,766321425
 
-//notes:Godroll!\AFound Verdict - Rank 9, Tier A by TheAegisRelic
-Column 1: Rewind Rounds, Discord
-Column 2: Trench Barrel, Elemental Honing, Voltshot
-Origin Trait: Timelost Magazine
+//notes:Godroll!\AFound Verdict - Rank 9, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds, Discord\nColumn 2: Trench Barrel, Elemental Honing, Voltshot\nOrigin Trait: Timelost Magazine
 dimwishlist:item=631439337&perks=2578928832,3978468247,2360754333,1089671869,2173046394,2589407652
 dimwishlist:item=694500607&perks=2578928832,3978468247,2360754333,1089671869,2173046394,2589407652
 dimwishlist:item=851296754&perks=2578928832,3978468247,2360754333,1089671869,2173046394,2589407652
 dimwishlist:item=3197270240&perks=2578928832,3978468247,2360754333,1089671869,2173046394,2589407652
 
 
-//notes:Found Verdict - Rank 9, Tier A by TheAegisRelic\
-Column 1: Rewind Rounds, Discord\
-Column 2: Trench Barrel, Elemental Honing, Voltshot\
-Origin Trait: Timelost Magazine
+//notes:Found Verdict - Rank 9, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds, Discord\nColumn 2: Trench Barrel, Elemental Honing, Voltshot\nOrigin Trait: Timelost Magazine
 dimwishlist:item=631439337&perks=2578928832,2360754333,1089671869,2173046394,2589407652
 dimwishlist:item=631439337&perks=3978468247,2360754333,1089671869,2173046394,2589407652
 dimwishlist:item=631439337&perks=2578928832,3978468247,2360754333,1089671869,2589407652
