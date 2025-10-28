@@ -1,9 +1,16 @@
-// Autos - 2025-10-28T17:21:42.049Z
-//notes:Godroll!_   _No Hesitation - Rank 1, Tier S by TheAegisRelic_   _Column 1: Physic, Demolitionist_   _Column 2: Incandescent, Attrition Orbs, Circle of Life_   _Origin Trait: Dealer's Choice
+// Autos - 2025-10-28T17:26:10.244Z
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 No Hesitation - Rank 1, Tier S by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Physic, Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Incandescent, Attrition Orbs, Circle of Life1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,3523296417,4293542123,243981275,2298656195,1988485648
 
 
-//notes:No Hesitation - Rank 1, Tier S by TheAegisRelic_   _Column 1: Physic, Demolitionist_   _Column 2: Incandescent, Attrition Orbs, Circle of Life_   _Origin Trait: Dealer's Choice
+//notes:No Hesitation - Rank 1, Tier S by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Physic, Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Incandescent, Attrition Orbs, Circle of Life1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,4293542123,243981275,2298656195,1988485648
 dimwishlist:item=1801007332&perks=3523296417,4293542123,243981275,2298656195,1988485648
 dimwishlist:item=1801007332&perks=2980589453,3523296417,4293542123,243981275,1988485648
@@ -25,11 +32,18 @@ dimwishlist:item=1801007332&perks=3523296417,4293542123,1988485648
 dimwishlist:item=1801007332&perks=3523296417,243981275,1988485648
 dimwishlist:item=1801007332&perks=3523296417,2298656195,1988485648
 
-//notes:Godroll!_   _Cusp Sempiternal - Rank 2, Tier S by TheAegisRelic_   _Column 1: Reciprocity, Repulsor Brace, Attrition Orbs_   _Column 2: Destabilizing Rounds, Master of Arms, Withering Gaze_   _Origin Trait: Frame of Reference
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Cusp Sempiternal - Rank 2, Tier S by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Reciprocity, Repulsor Brace, Attrition Orbs1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Master of Arms, Withering Gaze1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Frame of Reference
 dimwishlist:item=2579693381&perks=692399809,776531651,243981275,2048641572,3081867624,1134488199,2597494435
 
 
-//notes:Cusp Sempiternal - Rank 2, Tier S by TheAegisRelic_   _Column 1: Reciprocity, Repulsor Brace, Attrition Orbs_   _Column 2: Destabilizing Rounds, Master of Arms, Withering Gaze_   _Origin Trait: Frame of Reference
+//notes:Cusp Sempiternal - Rank 2, Tier S by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Reciprocity, Repulsor Brace, Attrition Orbs1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Master of Arms, Withering Gaze1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Frame of Reference
 dimwishlist:item=2579693381&perks=692399809,776531651,2048641572,3081867624,1134488199,2597494435
 dimwishlist:item=2579693381&perks=692399809,243981275,2048641572,3081867624,1134488199,2597494435
 dimwishlist:item=2579693381&perks=776531651,243981275,2048641572,3081867624,1134488199,2597494435
@@ -79,14 +93,21 @@ dimwishlist:item=2579693381&perks=243981275,2048641572,2597494435
 dimwishlist:item=2579693381&perks=243981275,3081867624,2597494435
 dimwishlist:item=2579693381&perks=243981275,1134488199,2597494435
 
-//notes:Godroll!_   _Adamantite - Rank 3, Tier A by TheAegisRelic_   _Column 1: Reciprocity, Slice, Demolitionist_   _Column 2: Attrition Orbs, Tear, Frenzy_   _Origin Trait: Runneth Over
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Adamantite - Rank 3, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Reciprocity, Slice, Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Attrition Orbs, Tear, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Runneth Over
 dimwishlist:item=601574723&perks=692399809,923806249,3523296417,243981275,960997401,4104185692,120721526
 dimwishlist:item=2987244302&perks=692399809,923806249,3523296417,243981275,960997401,4104185692,120721526
 dimwishlist:item=3229982889&perks=692399809,923806249,3523296417,243981275,960997401,4104185692,120721526
 dimwishlist:item=3485029080&perks=692399809,923806249,3523296417,243981275,960997401,4104185692,120721526
 
 
-//notes:Adamantite - Rank 3, Tier A by TheAegisRelic_   _Column 1: Reciprocity, Slice, Demolitionist_   _Column 2: Attrition Orbs, Tear, Frenzy_   _Origin Trait: Runneth Over
+//notes:Adamantite - Rank 3, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Reciprocity, Slice, Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Attrition Orbs, Tear, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Runneth Over
 dimwishlist:item=601574723&perks=692399809,923806249,243981275,960997401,4104185692,120721526
 dimwishlist:item=601574723&perks=692399809,3523296417,243981275,960997401,4104185692,120721526
 dimwishlist:item=601574723&perks=923806249,3523296417,243981275,960997401,4104185692,120721526
@@ -280,12 +301,19 @@ dimwishlist:item=3485029080&perks=3523296417,243981275,120721526
 dimwishlist:item=3485029080&perks=3523296417,960997401,120721526
 dimwishlist:item=3485029080&perks=3523296417,4104185692,120721526
 
-//notes:Godroll!_   _Reckless Oracle - Rank 4, Tier A by TheAegisRelic_   _Column 1: Destabilizing Rounds, Demolitionist_   _Column 2: Repulsor Brace, One for All_   _Origin Trait: Photoinhibition
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Reckless Oracle - Rank 4, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Destabilizing Rounds, Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Repulsor Brace, One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Photoinhibition
 dimwishlist:item=1992309064&perks=2048641572,3523296417,776531651,4049631843,511914882
 dimwishlist:item=3385326721&perks=2048641572,3523296417,776531651,4049631843,511914882
 
 
-//notes:Reckless Oracle - Rank 4, Tier A by TheAegisRelic_   _Column 1: Destabilizing Rounds, Demolitionist_   _Column 2: Repulsor Brace, One for All_   _Origin Trait: Photoinhibition
+//notes:Reckless Oracle - Rank 4, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Destabilizing Rounds, Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Repulsor Brace, One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Photoinhibition
 dimwishlist:item=1992309064&perks=2048641572,776531651,4049631843,511914882
 dimwishlist:item=1992309064&perks=3523296417,776531651,4049631843,511914882
 dimwishlist:item=1992309064&perks=2048641572,3523296417,776531651,511914882
@@ -303,25 +331,39 @@ dimwishlist:item=3385326721&perks=2048641572,4049631843,511914882
 dimwishlist:item=3385326721&perks=3523296417,776531651,511914882
 dimwishlist:item=3385326721&perks=3523296417,4049631843,511914882
 
-//notes:Godroll!_   _Abyss Defiant - Rank 5, Tier A by TheAegisRelic_   _Column 1: Heal Clip, Enlightened Action_   _Column 2: Incandescent_   _Origin Trait: Cursed Thrall
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Abyss Defiant - Rank 5, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Heal Clip, Enlightened Action1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Incandescent1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Cursed Thrall
 dimwishlist:item=833898322&perks=3017780555,777589557,4293542123,1156201379
 dimwishlist:item=3782662983&perks=3017780555,777589557,4293542123,1156201379
 
 
-//notes:Abyss Defiant - Rank 5, Tier A by TheAegisRelic_   _Column 1: Heal Clip, Enlightened Action_   _Column 2: Incandescent_   _Origin Trait: Cursed Thrall
+//notes:Abyss Defiant - Rank 5, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Heal Clip, Enlightened Action1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Incandescent1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Cursed Thrall
 dimwishlist:item=833898322&perks=3017780555,4293542123,1156201379
 dimwishlist:item=833898322&perks=777589557,4293542123,1156201379
 dimwishlist:item=3782662983&perks=3017780555,4293542123,1156201379
 dimwishlist:item=3782662983&perks=777589557,4293542123,1156201379
 
-//notes:Godroll!_   _The Summoner - Rank 6, Tier A by TheAegisRelic_   _Column 1: Heal Clip_   _Column 2: Incandescent, Onslaught_   _Origin Trait: Wild Card
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 The Summoner - Rank 6, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Heal Clip1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Incandescent, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Wild Card
 dimwishlist:item=1292594730&perks=3017780555,4293542123,95528736,1050127423
 dimwishlist:item=1820994983&perks=3017780555,4293542123,95528736,1050127423
 dimwishlist:item=1907698332&perks=3017780555,4293542123,95528736,1050127423
 dimwishlist:item=3514144928&perks=3017780555,4293542123,95528736,1050127423
 
 
-//notes:The Summoner - Rank 6, Tier A by TheAegisRelic_   _Column 1: Heal Clip_   _Column 2: Incandescent, Onslaught_   _Origin Trait: Wild Card
+//notes:The Summoner - Rank 6, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Heal Clip1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Incandescent, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Wild Card
 dimwishlist:item=1292594730&perks=3017780555,4293542123,1050127423
 dimwishlist:item=1292594730&perks=3017780555,95528736,1050127423
 dimwishlist:item=1820994983&perks=3017780555,4293542123,1050127423
@@ -331,19 +373,33 @@ dimwishlist:item=1907698332&perks=3017780555,95528736,1050127423
 dimwishlist:item=3514144928&perks=3017780555,4293542123,1050127423
 dimwishlist:item=3514144928&perks=3017780555,95528736,1050127423
 
-//notes:Godroll!_   _The Riposte - Rank 7, Tier A by TheAegisRelic_   _Column 1: Repulsor Brace, Enlightened Action_   _Column 2: Destabilizing Rounds_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 The Riposte - Rank 7, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Enlightened Action1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=3754408118&perks=776531651,777589557,2048641572,0
 
 
-//notes:The Riposte - Rank 7, Tier A by TheAegisRelic_   _Column 1: Repulsor Brace, Enlightened Action_   _Column 2: Destabilizing Rounds_   _Origin Trait: None
+//notes:The Riposte - Rank 7, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Enlightened Action1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=3754408118&perks=776531651,2048641572,0
 dimwishlist:item=3754408118&perks=777589557,2048641572,0
 
-//notes:Godroll!_   _Everburning Glitz - Rank 8, Tier A by TheAegisRelic_   _Column 1: Attrition Orbs, Bewildering Burst_   _Column 2: Kinetic Tremors, Ancillary Ordinance_   _Origin Trait: Fleet Footed
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Everburning Glitz - Rank 8, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Bewildering Burst1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Ancillary Ordinance1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Fleet Footed
 dimwishlist:item=2857870254&perks=243981275,2289534249,3891536761,1202584452,65797256
 
 
-//notes:Everburning Glitz - Rank 8, Tier A by TheAegisRelic_   _Column 1: Attrition Orbs, Bewildering Burst_   _Column 2: Kinetic Tremors, Ancillary Ordinance_   _Origin Trait: Fleet Footed
+//notes:Everburning Glitz - Rank 8, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Bewildering Burst1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Ancillary Ordinance1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Fleet Footed
 dimwishlist:item=2857870254&perks=243981275,3891536761,1202584452,65797256
 dimwishlist:item=2857870254&perks=2289534249,3891536761,1202584452,65797256
 dimwishlist:item=2857870254&perks=243981275,2289534249,3891536761,65797256
@@ -353,30 +409,51 @@ dimwishlist:item=2857870254&perks=243981275,1202584452,65797256
 dimwishlist:item=2857870254&perks=2289534249,3891536761,65797256
 dimwishlist:item=2857870254&perks=2289534249,1202584452,65797256
 
-//notes:Godroll!_   _VS Pyroelectric Propellant - Rank 9, Tier A by TheAegisRelic_   _Column 1: Attrition Orbs, Eddy Current_   _Column 2: Jolting Feedback_   _Origin Trait: Bray Legacy
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 VS Pyroelectric Propellant - Rank 9, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Eddy Current1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Jolting Feedback1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Bray Legacy
 dimwishlist:item=4232480042&perks=243981275,684456054,3966416502,4139916815
 
 
-//notes:VS Pyroelectric Propellant - Rank 9, Tier A by TheAegisRelic_   _Column 1: Attrition Orbs, Eddy Current_   _Column 2: Jolting Feedback_   _Origin Trait: Bray Legacy
+//notes:VS Pyroelectric Propellant - Rank 9, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Eddy Current1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Jolting Feedback1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Bray Legacy
 dimwishlist:item=4232480042&perks=243981275,3966416502,4139916815
 dimwishlist:item=4232480042&perks=684456054,3966416502,4139916815
 
-//notes:Godroll!_   _Age-Old Bond - Rank 10, Tier B by TheAegisRelic_   _Column 1: Repulsor Brace, Dragonfly_   _Column 2: Destabilizing Rounds_   _Origin Trait: Explosive Pact
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Age-Old Bond - Rank 10, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Dragonfly1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Explosive Pact
 dimwishlist:item=424291879&perks=776531651,2848615171,2048641572,1489048135
 dimwishlist:item=601592879&perks=776531651,2848615171,2048641572,1489048135
 
 
-//notes:Age-Old Bond - Rank 10, Tier B by TheAegisRelic_   _Column 1: Repulsor Brace, Dragonfly_   _Column 2: Destabilizing Rounds_   _Origin Trait: Explosive Pact
+//notes:Age-Old Bond - Rank 10, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Dragonfly1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Explosive Pact
 dimwishlist:item=424291879&perks=776531651,2048641572,1489048135
 dimwishlist:item=424291879&perks=2848615171,2048641572,1489048135
 dimwishlist:item=601592879&perks=776531651,2048641572,1489048135
 dimwishlist:item=601592879&perks=2848615171,2048641572,1489048135
 
-//notes:Godroll!_   _Giver's Blessing - Rank 11, Tier B by TheAegisRelic_   _Column 1: Rewind Rounds, Shoot to Loot, Impromptu Ammunition_   _Column 2: Kinetic Tremors_   _Origin Trait: Exhaustive Research
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Giver's Blessing - Rank 11, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Shoot to Loot, Impromptu Ammunition1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Exhaustive Research
 dimwishlist:item=970034755&perks=2578928832,3700496672,2360347339,3891536761,1906137414
 
 
-//notes:Giver's Blessing - Rank 11, Tier B by TheAegisRelic_   _Column 1: Rewind Rounds, Shoot to Loot, Impromptu Ammunition_   _Column 2: Kinetic Tremors_   _Origin Trait: Exhaustive Research
+//notes:Giver's Blessing - Rank 11, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Shoot to Loot, Impromptu Ammunition1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Exhaustive Research
 dimwishlist:item=970034755&perks=2578928832,3700496672,3891536761,1906137414
 dimwishlist:item=970034755&perks=2578928832,2360347339,3891536761,1906137414
 dimwishlist:item=970034755&perks=3700496672,2360347339,3891536761,1906137414
@@ -384,7 +461,12 @@ dimwishlist:item=970034755&perks=2578928832,3891536761,1906137414
 dimwishlist:item=970034755&perks=3700496672,3891536761,1906137414
 dimwishlist:item=970034755&perks=2360347339,3891536761,1906137414
 
-//notes:Godroll!_   _Prosecutor_   _RotN version - Rank 12, Tier B by TheAegisRelic_   _Column 1: Dragonfly, Attrition Orbs, Eddy Current_   _Column 2: Voltshot, Rolling Storm_   _Origin Trait: Gravity Well
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Prosecutor1   2   3 
+ 4 &#10; 5 ​ 6 RotN version - Rank 12, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Dragonfly, Attrition Orbs, Eddy Current1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Voltshot, Rolling Storm1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Gravity Well
 dimwishlist:item=749483159&perks=2848615171,243981275,684456054,2173046394,3218042543,59871045
 dimwishlist:item=880829467&perks=2848615171,243981275,684456054,2173046394,3218042543,59871045
 dimwishlist:item=1909527966&perks=2848615171,243981275,684456054,2173046394,3218042543,59871045
@@ -393,7 +475,11 @@ dimwishlist:item=3483591058&perks=2848615171,243981275,684456054,2173046394,3218
 dimwishlist:item=4025177550&perks=2848615171,243981275,684456054,2173046394,3218042543,59871045
 
 
-//notes:Prosecutor_   _RotN version - Rank 12, Tier B by TheAegisRelic_   _Column 1: Dragonfly, Attrition Orbs, Eddy Current_   _Column 2: Voltshot, Rolling Storm_   _Origin Trait: Gravity Well
+//notes:Prosecutor1   2   3 
+ 4 &#10; 5 ​ 6 RotN version - Rank 12, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Dragonfly, Attrition Orbs, Eddy Current1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Voltshot, Rolling Storm1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Gravity Well
 dimwishlist:item=749483159&perks=2848615171,243981275,2173046394,3218042543,59871045
 dimwishlist:item=749483159&perks=2848615171,684456054,2173046394,3218042543,59871045
 dimwishlist:item=749483159&perks=243981275,684456054,2173046394,3218042543,59871045
@@ -515,24 +601,38 @@ dimwishlist:item=4025177550&perks=243981275,3218042543,59871045
 dimwishlist:item=4025177550&perks=684456054,2173046394,59871045
 dimwishlist:item=4025177550&perks=684456054,3218042543,59871045
 
-//notes:Godroll!_   _Chroma Rush - Rank 13, Tier B by TheAegisRelic_   _Column 1: Subsistence_   _Column 2: Kinetic Tremors, Frenzy_   _Origin Trait: Splicer Surge
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Chroma Rush - Rank 13, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Splicer Surge
 dimwishlist:item=1119734784&perks=1820235745,3891536761,4104185692,3404929162
 dimwishlist:item=2598420927&perks=1820235745,3891536761,4104185692,3404929162
 
 
-//notes:Chroma Rush - Rank 13, Tier B by TheAegisRelic_   _Column 1: Subsistence_   _Column 2: Kinetic Tremors, Frenzy_   _Origin Trait: Splicer Surge
+//notes:Chroma Rush - Rank 13, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Splicer Surge
 dimwishlist:item=1119734784&perks=1820235745,3891536761,3404929162
 dimwishlist:item=1119734784&perks=1820235745,4104185692,3404929162
 dimwishlist:item=2598420927&perks=1820235745,3891536761,3404929162
 dimwishlist:item=2598420927&perks=1820235745,4104185692,3404929162
 
-//notes:Godroll!_   _Origin Story - Rank 14, Tier B by TheAegisRelic_   _Column 1: Attrition Orbs, Demolitionist_   _Column 2: Kinetic Tremors, Onslaught_   _Origin Trait: Vanguard's Vindication
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Origin Story - Rank 14, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Vanguard's Vindication
 dimwishlist:item=1644162710&perks=243981275,3523296417,3891536761,95528736,744217850
 dimwishlist:item=2826850739&perks=243981275,3523296417,3891536761,95528736,744217850
 dimwishlist:item=4024037919&perks=243981275,3523296417,3891536761,95528736,744217850
 
 
-//notes:Origin Story - Rank 14, Tier B by TheAegisRelic_   _Column 1: Attrition Orbs, Demolitionist_   _Column 2: Kinetic Tremors, Onslaught_   _Origin Trait: Vanguard's Vindication
+//notes:Origin Story - Rank 14, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Vanguard's Vindication
 dimwishlist:item=1644162710&perks=243981275,3891536761,95528736,744217850
 dimwishlist:item=1644162710&perks=3523296417,3891536761,95528736,744217850
 dimwishlist:item=1644162710&perks=243981275,3523296417,3891536761,744217850
@@ -558,7 +658,11 @@ dimwishlist:item=4024037919&perks=243981275,95528736,744217850
 dimwishlist:item=4024037919&perks=3523296417,3891536761,744217850
 dimwishlist:item=4024037919&perks=3523296417,95528736,744217850
 
-//notes:Godroll!_   _Prosecutor - Rank 15, Tier B by TheAegisRelic_   _Column 1: Dragonfly, Rewind Rounds_   _Column 2: Voltshot_   _Origin Trait: Crossing Over
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Prosecutor - Rank 15, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Dragonfly, Rewind Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Voltshot1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Crossing Over
 dimwishlist:item=749483159&perks=2848615171,2578928832,2173046394,4129855581
 dimwishlist:item=880829467&perks=2848615171,2578928832,2173046394,4129855581
 dimwishlist:item=1909527966&perks=2848615171,2578928832,2173046394,4129855581
@@ -567,7 +671,10 @@ dimwishlist:item=3483591058&perks=2848615171,2578928832,2173046394,4129855581
 dimwishlist:item=4025177550&perks=2848615171,2578928832,2173046394,4129855581
 
 
-//notes:Prosecutor - Rank 15, Tier B by TheAegisRelic_   _Column 1: Dragonfly, Rewind Rounds_   _Column 2: Voltshot_   _Origin Trait: Crossing Over
+//notes:Prosecutor - Rank 15, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Dragonfly, Rewind Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Voltshot1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Crossing Over
 dimwishlist:item=749483159&perks=2848615171,2173046394,4129855581
 dimwishlist:item=749483159&perks=2578928832,2173046394,4129855581
 dimwishlist:item=880829467&perks=2848615171,2173046394,4129855581
@@ -581,12 +688,19 @@ dimwishlist:item=3483591058&perks=2578928832,2173046394,4129855581
 dimwishlist:item=4025177550&perks=2848615171,2173046394,4129855581
 dimwishlist:item=4025177550&perks=2578928832,2173046394,4129855581
 
-//notes:Godroll!_   _Positive Outlook - Rank 16, Tier B by TheAegisRelic_   _Column 1: Stats for All_   _Column 2: Destabilizing Rounds, Dragonfly, Repulsor Brace_   _Origin Trait: Omolon Fluid Dynamics
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Positive Outlook - Rank 16, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Stats for All1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Dragonfly, Repulsor Brace1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Omolon Fluid Dynamics
 dimwishlist:item=491078457&perks=1583705720,2048641572,2848615171,776531651,2839173408
 dimwishlist:item=3393130645&perks=1583705720,2048641572,2848615171,776531651,2839173408
 
 
-//notes:Positive Outlook - Rank 16, Tier B by TheAegisRelic_   _Column 1: Stats for All_   _Column 2: Destabilizing Rounds, Dragonfly, Repulsor Brace_   _Origin Trait: Omolon Fluid Dynamics
+//notes:Positive Outlook - Rank 16, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Stats for All1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Dragonfly, Repulsor Brace1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Omolon Fluid Dynamics
 dimwishlist:item=491078457&perks=1583705720,2048641572,2848615171,2839173408
 dimwishlist:item=491078457&perks=1583705720,2048641572,776531651,2839173408
 dimwishlist:item=491078457&perks=1583705720,2848615171,776531651,2839173408
@@ -600,12 +714,19 @@ dimwishlist:item=3393130645&perks=1583705720,2048641572,2839173408
 dimwishlist:item=3393130645&perks=1583705720,2848615171,2839173408
 dimwishlist:item=3393130645&perks=1583705720,776531651,2839173408
 
-//notes:Godroll!_   _Breakneck - Rank 17, Tier B by TheAegisRelic_   _Column 1: Enlightened Action, Shoot to Loot, Pugilist_   _Column 2: Kinetic Tremors, Onslaught, Attrition Orbs_   _Origin Trait: Gun and Run
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Breakneck - Rank 17, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Enlightened Action, Shoot to Loot, Pugilist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Onslaught, Attrition Orbs1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Gun and Run
 dimwishlist:item=324382200&perks=777589557,3700496672,691659142,3891536761,95528736,243981275,515704826
 dimwishlist:item=2026755633&perks=777589557,3700496672,691659142,3891536761,95528736,243981275,515704826
 
 
-//notes:Breakneck - Rank 17, Tier B by TheAegisRelic_   _Column 1: Enlightened Action, Shoot to Loot, Pugilist_   _Column 2: Kinetic Tremors, Onslaught, Attrition Orbs_   _Origin Trait: Gun and Run
+//notes:Breakneck - Rank 17, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Enlightened Action, Shoot to Loot, Pugilist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Onslaught, Attrition Orbs1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Gun and Run
 dimwishlist:item=324382200&perks=777589557,3700496672,3891536761,95528736,243981275,515704826
 dimwishlist:item=324382200&perks=777589557,691659142,3891536761,95528736,243981275,515704826
 dimwishlist:item=324382200&perks=3700496672,691659142,3891536761,95528736,243981275,515704826
@@ -703,13 +824,20 @@ dimwishlist:item=2026755633&perks=691659142,3891536761,515704826
 dimwishlist:item=2026755633&perks=691659142,95528736,515704826
 dimwishlist:item=2026755633&perks=691659142,243981275,515704826
 
-//notes:Godroll!_   _Braytech Werewolf - Rank 18, Tier B by TheAegisRelic_   _Column 1: Rewind Rounds, Pugilist_   _Column 2: Kinetic Tremors, Onslaught_   _Origin Trait: Search Party
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Braytech Werewolf - Rank 18, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Pugilist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Search Party
 dimwishlist:item=528834068&perks=2578928832,691659142,3891536761,95528736,2250679103
 dimwishlist:item=2869466318&perks=2578928832,691659142,3891536761,95528736,2250679103
 dimwishlist:item=3558681245&perks=2578928832,691659142,3891536761,95528736,2250679103
 
 
-//notes:Braytech Werewolf - Rank 18, Tier B by TheAegisRelic_   _Column 1: Rewind Rounds, Pugilist_   _Column 2: Kinetic Tremors, Onslaught_   _Origin Trait: Search Party
+//notes:Braytech Werewolf - Rank 18, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Pugilist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Search Party
 dimwishlist:item=528834068&perks=2578928832,3891536761,95528736,2250679103
 dimwishlist:item=528834068&perks=691659142,3891536761,95528736,2250679103
 dimwishlist:item=528834068&perks=2578928832,691659142,3891536761,2250679103
@@ -735,14 +863,21 @@ dimwishlist:item=3558681245&perks=2578928832,95528736,2250679103
 dimwishlist:item=3558681245&perks=691659142,3891536761,2250679103
 dimwishlist:item=3558681245&perks=691659142,95528736,2250679103
 
-//notes:Godroll!_   _Shadow Price - Rank 19, Tier B by TheAegisRelic_   _Column 1: Attrition Orbs, Stats for All_   _Column 2: Voltshot, One for All_   _Origin Trait: Stunning Recovery
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Shadow Price - Rank 19, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Stats for All1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Voltshot, One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Stunning Recovery
 dimwishlist:item=1056103557&perks=243981275,1583705720,2173046394,4049631843,1281216113
 dimwishlist:item=2147010335&perks=243981275,1583705720,2173046394,4049631843,1281216113
 dimwishlist:item=2322926844&perks=243981275,1583705720,2173046394,4049631843,1281216113
 dimwishlist:item=2633186522&perks=243981275,1583705720,2173046394,4049631843,1281216113
 
 
-//notes:Shadow Price - Rank 19, Tier B by TheAegisRelic_   _Column 1: Attrition Orbs, Stats for All_   _Column 2: Voltshot, One for All_   _Origin Trait: Stunning Recovery
+//notes:Shadow Price - Rank 19, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Stats for All1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Voltshot, One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Stunning Recovery
 dimwishlist:item=1056103557&perks=243981275,2173046394,4049631843,1281216113
 dimwishlist:item=1056103557&perks=1583705720,2173046394,4049631843,1281216113
 dimwishlist:item=1056103557&perks=243981275,1583705720,2173046394,1281216113
@@ -776,11 +911,18 @@ dimwishlist:item=2633186522&perks=243981275,4049631843,1281216113
 dimwishlist:item=2633186522&perks=1583705720,2173046394,1281216113
 dimwishlist:item=2633186522&perks=1583705720,4049631843,1281216113
 
-//notes:Godroll!_   _Veiled Threat - Rank 20, Tier B by TheAegisRelic_   _Column 1: Attrition Orbs, Shoot to Loot_   _Column 2: Headstone, Desperate Measures_   _Origin Trait: Radiolaria Transposer
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Veiled Threat - Rank 20, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Shoot to Loot1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone, Desperate Measures1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Radiolaria Transposer
 dimwishlist:item=3685470415&perks=243981275,3700496672,124408337,2109543898,253121539
 
 
-//notes:Veiled Threat - Rank 20, Tier B by TheAegisRelic_   _Column 1: Attrition Orbs, Shoot to Loot_   _Column 2: Headstone, Desperate Measures_   _Origin Trait: Radiolaria Transposer
+//notes:Veiled Threat - Rank 20, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Shoot to Loot1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone, Desperate Measures1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Radiolaria Transposer
 dimwishlist:item=3685470415&perks=243981275,124408337,2109543898,253121539
 dimwishlist:item=3685470415&perks=3700496672,124408337,2109543898,253121539
 dimwishlist:item=3685470415&perks=243981275,3700496672,124408337,253121539
@@ -790,11 +932,18 @@ dimwishlist:item=3685470415&perks=243981275,2109543898,253121539
 dimwishlist:item=3685470415&perks=3700496672,124408337,253121539
 dimwishlist:item=3685470415&perks=3700496672,2109543898,253121539
 
-//notes:Godroll!_   _Intercalary - Rank 21, Tier B by TheAegisRelic_   _Column 1: Headstone_   _Column 2: Desperate Measures, One for All, Onslaught_   _Origin Trait: Frame of Reference
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Intercalary - Rank 21, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Headstone1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Desperate Measures, One for All, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Frame of Reference
 dimwishlist:item=2725426834&perks=124408337,2109543898,4049631843,95528736,2597494435
 
 
-//notes:Intercalary - Rank 21, Tier B by TheAegisRelic_   _Column 1: Headstone_   _Column 2: Desperate Measures, One for All, Onslaught_   _Origin Trait: Frame of Reference
+//notes:Intercalary - Rank 21, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Headstone1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Desperate Measures, One for All, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Frame of Reference
 dimwishlist:item=2725426834&perks=124408337,2109543898,4049631843,2597494435
 dimwishlist:item=2725426834&perks=124408337,2109543898,95528736,2597494435
 dimwishlist:item=2725426834&perks=124408337,4049631843,95528736,2597494435
@@ -802,11 +951,18 @@ dimwishlist:item=2725426834&perks=124408337,2109543898,2597494435
 dimwishlist:item=2725426834&perks=124408337,4049631843,2597494435
 dimwishlist:item=2725426834&perks=124408337,95528736,2597494435
 
-//notes:Godroll!_   _Ammit AR2 - Rank 22, Tier C by TheAegisRelic_   _Column 1: Stats for All, Turnabout_   _Column 2: Incandescent, One for All, Adaptive Munitions_   _Origin Trait: Omolon Fluid Dynamics
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Ammit AR2 - Rank 22, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Stats for All, Turnabout1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Incandescent, One for All, Adaptive Munitions1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Omolon Fluid Dynamics
 dimwishlist:item=2119346509&perks=1583705720,2209918983,4293542123,4049631843,1048183818,2839173408
 
 
-//notes:Ammit AR2 - Rank 22, Tier C by TheAegisRelic_   _Column 1: Stats for All, Turnabout_   _Column 2: Incandescent, One for All, Adaptive Munitions_   _Origin Trait: Omolon Fluid Dynamics
+//notes:Ammit AR2 - Rank 22, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Stats for All, Turnabout1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Incandescent, One for All, Adaptive Munitions1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Omolon Fluid Dynamics
 dimwishlist:item=2119346509&perks=1583705720,4293542123,4049631843,1048183818,2839173408
 dimwishlist:item=2119346509&perks=2209918983,4293542123,4049631843,1048183818,2839173408
 dimwishlist:item=2119346509&perks=1583705720,2209918983,4293542123,4049631843,2839173408
@@ -828,11 +984,18 @@ dimwishlist:item=2119346509&perks=2209918983,4293542123,2839173408
 dimwishlist:item=2119346509&perks=2209918983,4049631843,2839173408
 dimwishlist:item=2119346509&perks=2209918983,1048183818,2839173408
 
-//notes:Godroll!_   _Auric Disabler - Rank 23, Tier C by TheAegisRelic_   _Column 1: Dragonfly, Hatchling, Slice_   _Column 2: Desperate Measures, Tear, Onslaught_   _Origin Trait: Omolon Fluid Dynamics
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Auric Disabler - Rank 23, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Dragonfly, Hatchling, Slice1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Desperate Measures, Tear, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Omolon Fluid Dynamics
 dimwishlist:item=702001725&perks=2848615171,831391274,923806249,2109543898,960997401,95528736,2839173408
 
 
-//notes:Auric Disabler - Rank 23, Tier C by TheAegisRelic_   _Column 1: Dragonfly, Hatchling, Slice_   _Column 2: Desperate Measures, Tear, Onslaught_   _Origin Trait: Omolon Fluid Dynamics
+//notes:Auric Disabler - Rank 23, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Dragonfly, Hatchling, Slice1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Desperate Measures, Tear, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Omolon Fluid Dynamics
 dimwishlist:item=702001725&perks=2848615171,831391274,2109543898,960997401,95528736,2839173408
 dimwishlist:item=702001725&perks=2848615171,923806249,2109543898,960997401,95528736,2839173408
 dimwishlist:item=702001725&perks=831391274,923806249,2109543898,960997401,95528736,2839173408
@@ -882,11 +1045,18 @@ dimwishlist:item=702001725&perks=923806249,2109543898,2839173408
 dimwishlist:item=702001725&perks=923806249,960997401,2839173408
 dimwishlist:item=702001725&perks=923806249,95528736,2839173408
 
-//notes:Godroll!_   _Ahab Char - Rank 24, Tier C by TheAegisRelic_   _Column 1: Heal Clip, Proximity Power, Recycled Energy_   _Column 2: Burning Ambition, Binary Orbit, Kill Clip_   _Origin Trait: Bray Legacy
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Ahab Char - Rank 24, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Heal Clip, Proximity Power, Recycled Energy1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Burning Ambition, Binary Orbit, Kill Clip1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Bray Legacy
 dimwishlist:item=1411560894&perks=3017780555,4190679284,3713215006,2890807135,1546142478,1015611457,4139916815
 
 
-//notes:Ahab Char - Rank 24, Tier C by TheAegisRelic_   _Column 1: Heal Clip, Proximity Power, Recycled Energy_   _Column 2: Burning Ambition, Binary Orbit, Kill Clip_   _Origin Trait: Bray Legacy
+//notes:Ahab Char - Rank 24, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Heal Clip, Proximity Power, Recycled Energy1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Burning Ambition, Binary Orbit, Kill Clip1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Bray Legacy
 dimwishlist:item=1411560894&perks=3017780555,4190679284,2890807135,1546142478,1015611457,4139916815
 dimwishlist:item=1411560894&perks=3017780555,3713215006,2890807135,1546142478,1015611457,4139916815
 dimwishlist:item=1411560894&perks=4190679284,3713215006,2890807135,1546142478,1015611457,4139916815
@@ -936,11 +1106,18 @@ dimwishlist:item=1411560894&perks=3713215006,2890807135,4139916815
 dimwishlist:item=1411560894&perks=3713215006,1546142478,4139916815
 dimwishlist:item=1411560894&perks=3713215006,1015611457,4139916815
 
-//notes:Godroll!_   _Krait - Rank 25, Tier C by TheAegisRelic_   _Column 1: Stats for All, Auto-Loading Holster, Subsistence_   _Column 2: Headstone, One for All_   _Origin Trait: Veist Stinger
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Krait - Rank 25, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Stats for All, Auto-Loading Holster, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone, One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=2852052802&perks=1583705720,3300816228,1820235745,124408337,4049631843,3988215619
 
 
-//notes:Krait - Rank 25, Tier C by TheAegisRelic_   _Column 1: Stats for All, Auto-Loading Holster, Subsistence_   _Column 2: Headstone, One for All_   _Origin Trait: Veist Stinger
+//notes:Krait - Rank 25, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Stats for All, Auto-Loading Holster, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone, One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=2852052802&perks=1583705720,3300816228,124408337,4049631843,3988215619
 dimwishlist:item=2852052802&perks=1583705720,1820235745,124408337,4049631843,3988215619
 dimwishlist:item=2852052802&perks=3300816228,1820235745,124408337,4049631843,3988215619
@@ -962,20 +1139,34 @@ dimwishlist:item=2852052802&perks=3300816228,4049631843,3988215619
 dimwishlist:item=2852052802&perks=1820235745,124408337,3988215619
 dimwishlist:item=2852052802&perks=1820235745,4049631843,3988215619
 
-//notes:Godroll!_   _Fair Judgment - Rank 26, Tier C by TheAegisRelic_   _Column 1: Rimestealer_   _Column 2: Headstone, Onslaught_   _Origin Trait: Vanguard's Vindication
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Fair Judgment - Rank 26, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rimestealer1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Vanguard's Vindication
 dimwishlist:item=4176873718&perks=1955165503,124408337,95528736,744217850
 
 
-//notes:Fair Judgment - Rank 26, Tier C by TheAegisRelic_   _Column 1: Rimestealer_   _Column 2: Headstone, Onslaught_   _Origin Trait: Vanguard's Vindication
+//notes:Fair Judgment - Rank 26, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rimestealer1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone, Onslaught1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Vanguard's Vindication
 dimwishlist:item=4176873718&perks=1955165503,124408337,744217850
 dimwishlist:item=4176873718&perks=1955165503,95528736,744217850
 
-//notes:Godroll!_   _Horror Story - Rank 27, Tier C by TheAegisRelic_   _Column 1: Enlightened Action, Demolitionist, Under-Over_   _Column 2: Headstone, Frenzy_   _Origin Trait: Nadir Focus
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Horror Story - Rank 27, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Enlightened Action, Demolitionist, Under-Over1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Nadir Focus
 dimwishlist:item=177568179&perks=777589557,3523296417,1870851715,124408337,4104185692,2509860981
 dimwishlist:item=3829285960&perks=777589557,3523296417,1870851715,124408337,4104185692,2509860981
 
 
-//notes:Horror Story - Rank 27, Tier C by TheAegisRelic_   _Column 1: Enlightened Action, Demolitionist, Under-Over_   _Column 2: Headstone, Frenzy_   _Origin Trait: Nadir Focus
+//notes:Horror Story - Rank 27, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Enlightened Action, Demolitionist, Under-Over1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Nadir Focus
 dimwishlist:item=177568179&perks=777589557,3523296417,124408337,4104185692,2509860981
 dimwishlist:item=177568179&perks=777589557,1870851715,124408337,4104185692,2509860981
 dimwishlist:item=177568179&perks=3523296417,1870851715,124408337,4104185692,2509860981
@@ -1017,18 +1208,32 @@ dimwishlist:item=3829285960&perks=3523296417,4104185692,2509860981
 dimwishlist:item=3829285960&perks=1870851715,124408337,2509860981
 dimwishlist:item=3829285960&perks=1870851715,4104185692,2509860981
 
-//notes:Godroll!_   _False Promises - Rank 28, Tier C by TheAegisRelic_   _Column 1: Enlightened Action_   _Column 2: Headstone_   _Origin Trait: Paracausal Fluid
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 False Promises - Rank 28, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Enlightened Action1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Paracausal Fluid
 dimwishlist:item=1390080550&perks=777589557,124408337,1600429811
 dimwishlist:item=3143732432&perks=777589557,124408337,1600429811
 
 
-//notes:False Promises - Rank 28, Tier C by TheAegisRelic_   _Column 1: Enlightened Action_   _Column 2: Headstone_   _Origin Trait: Paracausal Fluid
+//notes:False Promises - Rank 28, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Enlightened Action1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Paracausal Fluid
 
-//notes:Godroll!_   _Herod-C - Rank 29, Tier C by TheAegisRelic_   _Column 1: Shoot to Loot, Stats for All, Auto-Loading Holster_   _Column 2: Headstone, One for All, Frenzy_   _Origin Trait: Hakke Breach Armaments
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Herod-C - Rank 29, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Shoot to Loot, Stats for All, Auto-Loading Holster1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone, One for All, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Hakke Breach Armaments
 dimwishlist:item=1788603939&perks=3700496672,1583705720,3300816228,124408337,4049631843,4104185692,1607056502
 
 
-//notes:Herod-C - Rank 29, Tier C by TheAegisRelic_   _Column 1: Shoot to Loot, Stats for All, Auto-Loading Holster_   _Column 2: Headstone, One for All, Frenzy_   _Origin Trait: Hakke Breach Armaments
+//notes:Herod-C - Rank 29, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Shoot to Loot, Stats for All, Auto-Loading Holster1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Headstone, One for All, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Hakke Breach Armaments
 dimwishlist:item=1788603939&perks=3700496672,1583705720,124408337,4049631843,4104185692,1607056502
 dimwishlist:item=1788603939&perks=3700496672,3300816228,124408337,4049631843,4104185692,1607056502
 dimwishlist:item=1788603939&perks=1583705720,3300816228,124408337,4049631843,4104185692,1607056502
@@ -1078,12 +1283,19 @@ dimwishlist:item=1788603939&perks=3300816228,124408337,1607056502
 dimwishlist:item=1788603939&perks=3300816228,4049631843,1607056502
 dimwishlist:item=1788603939&perks=3300816228,4104185692,1607056502
 
-//notes:Godroll!_   _Tigerspite - Rank 30, Tier C by TheAegisRelic_   _Column 1: Subsistence_   _Column 2: Kinetic Tremors, Frenzy, Attrition Orbs_   _Origin Trait: Advanced Reflexes
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Tigerspite - Rank 30, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Frenzy, Attrition Orbs1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Advanced Reflexes
 dimwishlist:item=640114618&perks=1820235745,3891536761,4104185692,243981275,930692523
 dimwishlist:item=2465372924&perks=1820235745,3891536761,4104185692,243981275,930692523
 
 
-//notes:Tigerspite - Rank 30, Tier C by TheAegisRelic_   _Column 1: Subsistence_   _Column 2: Kinetic Tremors, Frenzy, Attrition Orbs_   _Origin Trait: Advanced Reflexes
+//notes:Tigerspite - Rank 30, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Frenzy, Attrition Orbs1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Advanced Reflexes
 dimwishlist:item=640114618&perks=1820235745,3891536761,4104185692,930692523
 dimwishlist:item=640114618&perks=1820235745,3891536761,243981275,930692523
 dimwishlist:item=640114618&perks=1820235745,4104185692,243981275,930692523
@@ -1097,13 +1309,20 @@ dimwishlist:item=2465372924&perks=1820235745,3891536761,930692523
 dimwishlist:item=2465372924&perks=1820235745,4104185692,930692523
 dimwishlist:item=2465372924&perks=1820235745,243981275,930692523
 
-//notes:Godroll!_   _Dark Decider - Rank 31, Tier C by TheAegisRelic_   _Column 1: Auto-Loading Holster, Subsistence_   _Column 2: Voltshot, Dragonfly_   _Origin Trait: Veist Stinger
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Dark Decider - Rank 31, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Auto-Loading Holster, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Voltshot, Dragonfly1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=540880995&perks=3300816228,1820235745,2173046394,2848615171,3988215619
 dimwishlist:item=1144014195&perks=3300816228,1820235745,2173046394,2848615171,3988215619
 dimwishlist:item=1942069133&perks=3300816228,1820235745,2173046394,2848615171,3988215619
 
 
-//notes:Dark Decider - Rank 31, Tier C by TheAegisRelic_   _Column 1: Auto-Loading Holster, Subsistence_   _Column 2: Voltshot, Dragonfly_   _Origin Trait: Veist Stinger
+//notes:Dark Decider - Rank 31, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Auto-Loading Holster, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Voltshot, Dragonfly1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=540880995&perks=3300816228,2173046394,2848615171,3988215619
 dimwishlist:item=540880995&perks=1820235745,2173046394,2848615171,3988215619
 dimwishlist:item=540880995&perks=3300816228,1820235745,2173046394,3988215619
@@ -1129,11 +1348,18 @@ dimwishlist:item=1942069133&perks=3300816228,2848615171,3988215619
 dimwishlist:item=1942069133&perks=1820235745,2173046394,3988215619
 dimwishlist:item=1942069133&perks=1820235745,2848615171,3988215619
 
-//notes:Godroll!_   _Ros Arago IV - Rank 32, Tier C by TheAegisRelic_   _Column 1: Repulsor Brace, Rewind Rounds_   _Column 2: Onslaught, Attrition Orbs_   _Origin Trait: Wild Card
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Ros Arago IV - Rank 32, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Rewind Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Onslaught, Attrition Orbs1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Wild Card
 dimwishlist:item=3583275737&perks=776531651,2578928832,95528736,243981275,1050127423
 
 
-//notes:Ros Arago IV - Rank 32, Tier C by TheAegisRelic_   _Column 1: Repulsor Brace, Rewind Rounds_   _Column 2: Onslaught, Attrition Orbs_   _Origin Trait: Wild Card
+//notes:Ros Arago IV - Rank 32, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Rewind Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Onslaught, Attrition Orbs1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Wild Card
 dimwishlist:item=3583275737&perks=776531651,95528736,243981275,1050127423
 dimwishlist:item=3583275737&perks=2578928832,95528736,243981275,1050127423
 dimwishlist:item=3583275737&perks=776531651,2578928832,95528736,1050127423
@@ -1143,18 +1369,32 @@ dimwishlist:item=3583275737&perks=776531651,243981275,1050127423
 dimwishlist:item=3583275737&perks=2578928832,95528736,1050127423
 dimwishlist:item=3583275737&perks=2578928832,243981275,1050127423
 
-//notes:Godroll!_   _Coronach-22 - Rank 33, Tier C by TheAegisRelic_   _Column 1: Feeding Frenzy_   _Column 2: Incandescent_   _Origin Trait: Suros Synergy
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Coronach-22 - Rank 33, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Feeding Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Incandescent1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Suros Synergy
 dimwishlist:item=355382946&perks=2779035018,4293542123,4008116374
 
 
-//notes:Coronach-22 - Rank 33, Tier C by TheAegisRelic_   _Column 1: Feeding Frenzy_   _Column 2: Incandescent_   _Origin Trait: Suros Synergy
+//notes:Coronach-22 - Rank 33, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Feeding Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Incandescent1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Suros Synergy
 
-//notes:Godroll!_   _Rufus's Fury - Rank 34, Tier D by TheAegisRelic_   _Column 1: Rewind Rounds, Demolitionist_   _Column 2: Frenzy, Hatchling_   _Origin Trait: Harmonic Resonance
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Rufus's Fury - Rank 34, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, Hatchling1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Harmonic Resonance
 dimwishlist:item=342514437&perks=2578928832,3523296417,4104185692,831391274,3186078099
 dimwishlist:item=484515708&perks=2578928832,3523296417,4104185692,831391274,3186078099
 
 
-//notes:Rufus's Fury - Rank 34, Tier D by TheAegisRelic_   _Column 1: Rewind Rounds, Demolitionist_   _Column 2: Frenzy, Hatchling_   _Origin Trait: Harmonic Resonance
+//notes:Rufus's Fury - Rank 34, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, Hatchling1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Harmonic Resonance
 dimwishlist:item=342514437&perks=2578928832,4104185692,831391274,3186078099
 dimwishlist:item=342514437&perks=3523296417,4104185692,831391274,3186078099
 dimwishlist:item=342514437&perks=2578928832,3523296417,4104185692,3186078099
@@ -1172,12 +1412,19 @@ dimwishlist:item=484515708&perks=2578928832,831391274,3186078099
 dimwishlist:item=484515708&perks=3523296417,4104185692,3186078099
 dimwishlist:item=484515708&perks=3523296417,831391274,3186078099
 
-//notes:Godroll!_   _Lethal Abundance - Rank 35, Tier D by TheAegisRelic_   _Column 1: Enlightened Action, Slice_   _Column 2: Onslaught, Hatchling, Attrition Orbs_   _Origin Trait: Skulking Wolf
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Lethal Abundance - Rank 35, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Enlightened Action, Slice1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Onslaught, Hatchling, Attrition Orbs1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Skulking Wolf
 dimwishlist:item=2189073092&perks=777589557,923806249,95528736,831391274,243981275,3989629871
 dimwishlist:item=3428407746&perks=777589557,923806249,95528736,831391274,243981275,3989629871
 
 
-//notes:Lethal Abundance - Rank 35, Tier D by TheAegisRelic_   _Column 1: Enlightened Action, Slice_   _Column 2: Onslaught, Hatchling, Attrition Orbs_   _Origin Trait: Skulking Wolf
+//notes:Lethal Abundance - Rank 35, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Enlightened Action, Slice1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Onslaught, Hatchling, Attrition Orbs1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Skulking Wolf
 dimwishlist:item=2189073092&perks=777589557,95528736,831391274,243981275,3989629871
 dimwishlist:item=2189073092&perks=923806249,95528736,831391274,243981275,3989629871
 dimwishlist:item=2189073092&perks=777589557,923806249,95528736,831391274,3989629871
@@ -1219,11 +1466,18 @@ dimwishlist:item=3428407746&perks=923806249,95528736,3989629871
 dimwishlist:item=3428407746&perks=923806249,831391274,3989629871
 dimwishlist:item=3428407746&perks=923806249,243981275,3989629871
 
-//notes:Godroll!_   _Come to Pass - Rank 36, Tier D by TheAegisRelic_   _Column 1: Shoot to Loot, Stats for All, Genesis_   _Column 2: Dragonfly, One for All, Adaptive Munitions_   _Origin Trait: Psychohack
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Come to Pass - Rank 36, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Shoot to Loot, Stats for All, Genesis1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Dragonfly, One for All, Adaptive Munitions1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Psychohack
 dimwishlist:item=927567426&perks=3700496672,1583705720,3096702027,2848615171,4049631843,1048183818,79448657
 
 
-//notes:Come to Pass - Rank 36, Tier D by TheAegisRelic_   _Column 1: Shoot to Loot, Stats for All, Genesis_   _Column 2: Dragonfly, One for All, Adaptive Munitions_   _Origin Trait: Psychohack
+//notes:Come to Pass - Rank 36, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Shoot to Loot, Stats for All, Genesis1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Dragonfly, One for All, Adaptive Munitions1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Psychohack
 dimwishlist:item=927567426&perks=3700496672,1583705720,2848615171,4049631843,1048183818,79448657
 dimwishlist:item=927567426&perks=3700496672,3096702027,2848615171,4049631843,1048183818,79448657
 dimwishlist:item=927567426&perks=1583705720,3096702027,2848615171,4049631843,1048183818,79448657
@@ -1273,28 +1527,49 @@ dimwishlist:item=927567426&perks=3096702027,2848615171,79448657
 dimwishlist:item=927567426&perks=3096702027,4049631843,79448657
 dimwishlist:item=927567426&perks=3096702027,1048183818,79448657
 
-//notes:Godroll!_   _Old Sterling - Rank 37, Tier D by TheAegisRelic_   _Column 1: Rewind Rounds_   _Column 2: Frenzy, Hatchling_   _Origin Trait: Field-Tested
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Old Sterling - Rank 37, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, Hatchling1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Field-Tested
 dimwishlist:item=3678653083&perks=2578928832,4104185692,831391274,2120661319
 
 
-//notes:Old Sterling - Rank 37, Tier D by TheAegisRelic_   _Column 1: Rewind Rounds_   _Column 2: Frenzy, Hatchling_   _Origin Trait: Field-Tested
+//notes:Old Sterling - Rank 37, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, Hatchling1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Field-Tested
 dimwishlist:item=3678653083&perks=2578928832,4104185692,2120661319
 dimwishlist:item=3678653083&perks=2578928832,831391274,2120661319
 
-//notes:Godroll!_   _Sweet Sorrow - Rank 38, Tier D by TheAegisRelic_   _Column 1: Stats for All, Auto-Loading Holster_   _Column 2: One for All_   _Origin Trait: Land Tank
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Sweet Sorrow - Rank 38, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Stats for All, Auto-Loading Holster1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Land Tank
 dimwishlist:item=1248372789&perks=1583705720,3300816228,4049631843,1536798515
 
 
-//notes:Sweet Sorrow - Rank 38, Tier D by TheAegisRelic_   _Column 1: Stats for All, Auto-Loading Holster_   _Column 2: One for All_   _Origin Trait: Land Tank
+//notes:Sweet Sorrow - Rank 38, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Stats for All, Auto-Loading Holster1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Land Tank
 dimwishlist:item=1248372789&perks=1583705720,4049631843,1536798515
 dimwishlist:item=1248372789&perks=3300816228,4049631843,1536798515
 
-//notes:Godroll!_   _The Last Breath - Rank 39, Tier D by TheAegisRelic_   _Column 1: Demolitionist, Subsistence_   _Column 2: Frenzy, One for All_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 The Last Breath - Rank 39, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Demolitionist, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=507038823&perks=3523296417,1820235745,4104185692,4049631843,0
 dimwishlist:item=1503609584&perks=3523296417,1820235745,4104185692,4049631843,0
 
 
-//notes:The Last Breath - Rank 39, Tier D by TheAegisRelic_   _Column 1: Demolitionist, Subsistence_   _Column 2: Frenzy, One for All_   _Origin Trait: None
+//notes:The Last Breath - Rank 39, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Demolitionist, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=507038823&perks=3523296417,4104185692,4049631843,0
 dimwishlist:item=507038823&perks=1820235745,4104185692,4049631843,0
 dimwishlist:item=507038823&perks=3523296417,1820235745,4104185692,0
@@ -1312,27 +1587,48 @@ dimwishlist:item=1503609584&perks=3523296417,4049631843,0
 dimwishlist:item=1503609584&perks=1820235745,4104185692,0
 dimwishlist:item=1503609584&perks=1820235745,4049631843,0
 
-//notes:Godroll!_   _Arctic Haze - Rank 40, Tier E by TheAegisRelic_   _Column 1: Outlaw, Subsistence_   _Column 2: Dragonfly_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Arctic Haze - Rank 40, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Outlaw, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Dragonfly1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=20935540&perks=1168162263,1820235745,2848615171,0
 
 
-//notes:Arctic Haze - Rank 40, Tier E by TheAegisRelic_   _Column 1: Outlaw, Subsistence_   _Column 2: Dragonfly_   _Origin Trait: None
+//notes:Arctic Haze - Rank 40, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Outlaw, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Dragonfly1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=20935540&perks=1168162263,2848615171,0
 dimwishlist:item=20935540&perks=1820235745,2848615171,0
 
-//notes:Godroll!_   _Perpetualis - Rank 41, Tier E by TheAegisRelic_   _Column 1: Keep Away_   _Column 2: Hatchling, Golden Tricorn_   _Origin Trait: Noble Deeds
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Perpetualis - Rank 41, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Keep Away1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Hatchling, Golden Tricorn1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Noble Deeds
 dimwishlist:item=392008588&perks=3619207468,831391274,2610012052,1823011807
 
 
-//notes:Perpetualis - Rank 41, Tier E by TheAegisRelic_   _Column 1: Keep Away_   _Column 2: Hatchling, Golden Tricorn_   _Origin Trait: Noble Deeds
+//notes:Perpetualis - Rank 41, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Keep Away1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Hatchling, Golden Tricorn1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Noble Deeds
 dimwishlist:item=392008588&perks=3619207468,831391274,1823011807
 dimwishlist:item=392008588&perks=3619207468,2610012052,1823011807
 
-//notes:Godroll!_   _Chrysura Melo - Rank 42, Tier E by TheAegisRelic_   _Column 1: Ensemble, Outlaw_   _Column 2: Dragonfly, Frenzy_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Chrysura Melo - Rank 42, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Ensemble, Outlaw1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Dragonfly, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=1337707096&perks=2621346526,1168162263,2848615171,4104185692,0
 
 
-//notes:Chrysura Melo - Rank 42, Tier E by TheAegisRelic_   _Column 1: Ensemble, Outlaw_   _Column 2: Dragonfly, Frenzy_   _Origin Trait: None
+//notes:Chrysura Melo - Rank 42, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Ensemble, Outlaw1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Dragonfly, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=1337707096&perks=2621346526,2848615171,4104185692,0
 dimwishlist:item=1337707096&perks=1168162263,2848615171,4104185692,0
 dimwishlist:item=1337707096&perks=2621346526,1168162263,2848615171,0
@@ -1342,23 +1638,37 @@ dimwishlist:item=1337707096&perks=2621346526,4104185692,0
 dimwishlist:item=1337707096&perks=1168162263,2848615171,0
 dimwishlist:item=1337707096&perks=1168162263,4104185692,0
 
-//notes:Godroll!_   _The Forward Path - Rank 43, Tier E by TheAegisRelic_   _Column 1: Grave Robber, Feeding Frenzy_   _Column 2: Swashbuckler_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 The Forward Path - Rank 43, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Grave Robber, Feeding Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Swashbuckler1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=1690783811&perks=1631667848,2779035018,4082225868,0
 dimwishlist:item=2014642399&perks=1631667848,2779035018,4082225868,0
 
 
-//notes:The Forward Path - Rank 43, Tier E by TheAegisRelic_   _Column 1: Grave Robber, Feeding Frenzy_   _Column 2: Swashbuckler_   _Origin Trait: None
+//notes:The Forward Path - Rank 43, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Grave Robber, Feeding Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Swashbuckler1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=1690783811&perks=1631667848,4082225868,0
 dimwishlist:item=1690783811&perks=2779035018,4082225868,0
 dimwishlist:item=2014642399&perks=1631667848,4082225868,0
 dimwishlist:item=2014642399&perks=2779035018,4082225868,0
 
-//notes:Godroll!_   _Seventh Seraph Carbine - Rank 44, Tier E by TheAegisRelic_   _Column 1: Reconstruction, Pugilist_   _Column 2: Frenzy, Swashbuckler_   _Origin Trait: Rasputin's Arsenal
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Seventh Seraph Carbine - Rank 44, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Reconstruction, Pugilist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, Swashbuckler1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Rasputin's Arsenal
 dimwishlist:item=1561006927&perks=1523832109,691659142,4104185692,4082225868,566815328
 dimwishlist:item=4070357005&perks=1523832109,691659142,4104185692,4082225868,566815328
 
 
-//notes:Seventh Seraph Carbine - Rank 44, Tier E by TheAegisRelic_   _Column 1: Reconstruction, Pugilist_   _Column 2: Frenzy, Swashbuckler_   _Origin Trait: Rasputin's Arsenal
+//notes:Seventh Seraph Carbine - Rank 44, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Reconstruction, Pugilist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, Swashbuckler1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Rasputin's Arsenal
 dimwishlist:item=1561006927&perks=1523832109,4104185692,4082225868,566815328
 dimwishlist:item=1561006927&perks=691659142,4104185692,4082225868,566815328
 dimwishlist:item=1561006927&perks=1523832109,691659142,4104185692,566815328
@@ -1376,13 +1686,20 @@ dimwishlist:item=4070357005&perks=1523832109,4082225868,566815328
 dimwishlist:item=4070357005&perks=691659142,4104185692,566815328
 dimwishlist:item=4070357005&perks=691659142,4082225868,566815328
 
-//notes:Godroll!_   _Duty Bound - Rank 45, Tier E by TheAegisRelic_   _Column 1: Stats for All, Compulsive Reloader_   _Column 2: One for All, Frenzy_   _Origin Trait: Stunning Recovery
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Duty Bound - Rank 45, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Stats for All, Compulsive Reloader1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: One for All, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Stunning Recovery
 dimwishlist:item=435216110&perks=1583705720,671806388,4049631843,4104185692,1281216113
 dimwishlist:item=1135050595&perks=1583705720,671806388,4049631843,4104185692,1281216113
 dimwishlist:item=1457979868&perks=1583705720,671806388,4049631843,4104185692,1281216113
 
 
-//notes:Duty Bound - Rank 45, Tier E by TheAegisRelic_   _Column 1: Stats for All, Compulsive Reloader_   _Column 2: One for All, Frenzy_   _Origin Trait: Stunning Recovery
+//notes:Duty Bound - Rank 45, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Stats for All, Compulsive Reloader1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: One for All, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Stunning Recovery
 dimwishlist:item=435216110&perks=1583705720,4049631843,4104185692,1281216113
 dimwishlist:item=435216110&perks=671806388,4049631843,4104185692,1281216113
 dimwishlist:item=435216110&perks=1583705720,671806388,4049631843,1281216113
@@ -1408,11 +1725,18 @@ dimwishlist:item=1457979868&perks=1583705720,4104185692,1281216113
 dimwishlist:item=1457979868&perks=671806388,4049631843,1281216113
 dimwishlist:item=1457979868&perks=671806388,4104185692,1281216113
 
-//notes:Godroll!_   _Sorrow's Verse - Rank 46, Tier F by TheAegisRelic_   _Column 1: Feeding Frenzy, Subsistence_   _Column 2: Frenzy, One for All_   _Origin Trait: Suros Synergy
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Sorrow's Verse - Rank 46, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Feeding Frenzy, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Suros Synergy
 dimwishlist:item=2496875173&perks=2779035018,1820235745,4104185692,4049631843,4008116374
 
 
-//notes:Sorrow's Verse - Rank 46, Tier F by TheAegisRelic_   _Column 1: Feeding Frenzy, Subsistence_   _Column 2: Frenzy, One for All_   _Origin Trait: Suros Synergy
+//notes:Sorrow's Verse - Rank 46, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Feeding Frenzy, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Suros Synergy
 dimwishlist:item=2496875173&perks=2779035018,4104185692,4049631843,4008116374
 dimwishlist:item=2496875173&perks=1820235745,4104185692,4049631843,4008116374
 dimwishlist:item=2496875173&perks=2779035018,1820235745,4104185692,4008116374
@@ -1422,11 +1746,18 @@ dimwishlist:item=2496875173&perks=2779035018,4049631843,4008116374
 dimwishlist:item=2496875173&perks=1820235745,4104185692,4008116374
 dimwishlist:item=2496875173&perks=1820235745,4049631843,4008116374
 
-//notes:Godroll!_   _Arc Logic - Rank 47, Tier F by TheAegisRelic_   _Column 1: Feeding Frenzy, Subsistence_   _Column 2: Frenzy, Surrounded_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Arc Logic - Rank 47, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Feeding Frenzy, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, Surrounded1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=2723909519&perks=2779035018,1820235745,4104185692,3708227201,0
 
 
-//notes:Arc Logic - Rank 47, Tier F by TheAegisRelic_   _Column 1: Feeding Frenzy, Subsistence_   _Column 2: Frenzy, Surrounded_   _Origin Trait: None
+//notes:Arc Logic - Rank 47, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Feeding Frenzy, Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy, Surrounded1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=2723909519&perks=2779035018,4104185692,3708227201,0
 dimwishlist:item=2723909519&perks=1820235745,4104185692,3708227201,0
 dimwishlist:item=2723909519&perks=2779035018,1820235745,4104185692,0
@@ -1436,19 +1767,33 @@ dimwishlist:item=2723909519&perks=2779035018,3708227201,0
 dimwishlist:item=2723909519&perks=1820235745,4104185692,0
 dimwishlist:item=2723909519&perks=1820235745,3708227201,0
 
-//notes:Godroll!_   _Lodbrok-C - Rank 48, Tier F by TheAegisRelic_   _Column 1: Demolitionist_   _Column 2: Kill Clip, Adrenaline Junkie_   _Origin Trait: Hakke Breach Armaments
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Lodbrok-C - Rank 48, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kill Clip, Adrenaline Junkie1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Hakke Breach Armaments
 dimwishlist:item=2328531378&perks=3523296417,1015611457,11612903,1607056502
 
 
-//notes:Lodbrok-C - Rank 48, Tier F by TheAegisRelic_   _Column 1: Demolitionist_   _Column 2: Kill Clip, Adrenaline Junkie_   _Origin Trait: Hakke Breach Armaments
+//notes:Lodbrok-C - Rank 48, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Demolitionist1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Kill Clip, Adrenaline Junkie1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Hakke Breach Armaments
 dimwishlist:item=2328531378&perks=3523296417,1015611457,1607056502
 dimwishlist:item=2328531378&perks=3523296417,11612903,1607056502
 
-//notes:Godroll!_   _Gnawing Hunger - Rank 49, Tier F by TheAegisRelic_   _Column 1: Auto-Loading Holster, Subsistence, Field Prep_   _Column 2: Swashbuckler, Kill Clip_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Gnawing Hunger - Rank 49, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Auto-Loading Holster, Subsistence, Field Prep1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Swashbuckler, Kill Clip1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=821154603&perks=3300816228,1820235745,777589559,4082225868,1015611457,0
 
 
-//notes:Gnawing Hunger - Rank 49, Tier F by TheAegisRelic_   _Column 1: Auto-Loading Holster, Subsistence, Field Prep_   _Column 2: Swashbuckler, Kill Clip_   _Origin Trait: None
+//notes:Gnawing Hunger - Rank 49, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Auto-Loading Holster, Subsistence, Field Prep1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Swashbuckler, Kill Clip1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=821154603&perks=3300816228,1820235745,4082225868,1015611457,0
 dimwishlist:item=821154603&perks=3300816228,777589559,4082225868,1015611457,0
 dimwishlist:item=821154603&perks=1820235745,777589559,4082225868,1015611457,0
@@ -1470,26 +1815,47 @@ dimwishlist:item=821154603&perks=1820235745,1015611457,0
 dimwishlist:item=821154603&perks=777589559,4082225868,0
 dimwishlist:item=821154603&perks=777589559,1015611457,0
 
-//notes:Godroll!_   _Firefright - Rank 50, Tier F by TheAegisRelic_   _Column 1: Threat Detector_   _Column 2: Surrounded_   _Origin Trait: Extrovert
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Firefright - Rank 50, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Threat Detector1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Surrounded1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Extrovert
 dimwishlist:item=2778013407&perks=4071163871,3708227201,1250481499
 
 
-//notes:Firefright - Rank 50, Tier F by TheAegisRelic_   _Column 1: Threat Detector_   _Column 2: Surrounded_   _Origin Trait: Extrovert
+//notes:Firefright - Rank 50, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Threat Detector1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Surrounded1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Extrovert
 
-//notes:Godroll!_   _The Number - Rank 51, Tier F by TheAegisRelic_   _Column 1: Field Prep, Surplus_   _Column 2: One for All_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 The Number - Rank 51, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Field Prep, Surplus1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=2492081469&perks=777589559,3436462433,4049631843,0
 dimwishlist:item=3854359821&perks=777589559,3436462433,4049631843,0
 
 
-//notes:The Number - Rank 51, Tier F by TheAegisRelic_   _Column 1: Field Prep, Surplus_   _Column 2: One for All_   _Origin Trait: None
+//notes:The Number - Rank 51, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Field Prep, Surplus1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: One for All1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=2492081469&perks=777589559,4049631843,0
 dimwishlist:item=2492081469&perks=3436462433,4049631843,0
 dimwishlist:item=3854359821&perks=777589559,4049631843,0
 dimwishlist:item=3854359821&perks=3436462433,4049631843,0
 
-//notes:Godroll!_   _Scathelocke - Rank 52, Tier F by TheAegisRelic_   _Column 1: Subsistence_   _Column 2: Adrenaline Junkie_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Scathelocke - Rank 52, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Adrenaline Junkie1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=602618796&perks=1820235745,11612903,0
 dimwishlist:item=3762467078&perks=1820235745,11612903,0
 
 
-//notes:Scathelocke - Rank 52, Tier F by TheAegisRelic_   _Column 1: Subsistence_   _Column 2: Adrenaline Junkie_   _Origin Trait: None
+//notes:Scathelocke - Rank 52, Tier F by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Subsistence1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Adrenaline Junkie1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None

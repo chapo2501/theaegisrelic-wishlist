@@ -1,10 +1,17 @@
-// LFRs - 2025-10-28T17:21:42.049Z
-//notes:Godroll!_   _Scintillation - Rank 1, Tier S by TheAegisRelic_   _Column 1: Rewind Rounds, Cornered_   _Column 2: Bait and Switch, Surrounded_   _Origin Trait: Veist Stinger
+// LFRs - 2025-10-28T17:26:10.244Z
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Scintillation - Rank 1, Tier S by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Cornered1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Bait and Switch, Surrounded1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=1492522228&perks=2578928832,1799762209,3078487919,3708227201,3988215619
 dimwishlist:item=2591257541&perks=2578928832,1799762209,3078487919,3708227201,3988215619
 
 
-//notes:Scintillation - Rank 1, Tier S by TheAegisRelic_   _Column 1: Rewind Rounds, Cornered_   _Column 2: Bait and Switch, Surrounded_   _Origin Trait: Veist Stinger
+//notes:Scintillation - Rank 1, Tier S by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Cornered1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Bait and Switch, Surrounded1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=1492522228&perks=2578928832,3078487919,3708227201,3988215619
 dimwishlist:item=1492522228&perks=1799762209,3078487919,3708227201,3988215619
 dimwishlist:item=1492522228&perks=2578928832,1799762209,3078487919,3988215619
@@ -22,19 +29,33 @@ dimwishlist:item=2591257541&perks=2578928832,3708227201,3988215619
 dimwishlist:item=2591257541&perks=1799762209,3078487919,3988215619
 dimwishlist:item=2591257541&perks=1799762209,3708227201,3988215619
 
-//notes:Godroll!_   _Mistral Lift - Rank 2, Tier S by TheAegisRelic_   _Column 1: Envious Arsenal, Envious Assassin_   _Column 2: Bait and Switch_   _Origin Trait: Veist Stinger
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Mistral Lift - Rank 2, Tier S by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Envious Arsenal, Envious Assassin1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Bait and Switch1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=3483485727&perks=3987942396,968510818,3078487919,3988215619
 
 
-//notes:Mistral Lift - Rank 2, Tier S by TheAegisRelic_   _Column 1: Envious Arsenal, Envious Assassin_   _Column 2: Bait and Switch_   _Origin Trait: Veist Stinger
+//notes:Mistral Lift - Rank 2, Tier S by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Envious Arsenal, Envious Assassin1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Bait and Switch1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=3483485727&perks=3987942396,3078487919,3988215619
 dimwishlist:item=3483485727&perks=968510818,3078487919,3988215619
 
-//notes:Godroll!_   _Boomslang-4fr - Rank 3, Tier A by TheAegisRelic_   _Column 1: Envious Arsenal, Rapid Hit_   _Column 2: Precision Instrument, Reservoir Burst_   _Origin Trait: Veist Stinger
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Boomslang-4fr - Rank 3, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Envious Arsenal, Rapid Hit1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Precision Instrument, Reservoir Burst1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=3926153598&perks=3987942396,247725512,555281244,1427256713,3988215619
 
 
-//notes:Boomslang-4fr - Rank 3, Tier A by TheAegisRelic_   _Column 1: Envious Arsenal, Rapid Hit_   _Column 2: Precision Instrument, Reservoir Burst_   _Origin Trait: Veist Stinger
+//notes:Boomslang-4fr - Rank 3, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Envious Arsenal, Rapid Hit1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Precision Instrument, Reservoir Burst1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=3926153598&perks=3987942396,555281244,1427256713,3988215619
 dimwishlist:item=3926153598&perks=247725512,555281244,1427256713,3988215619
 dimwishlist:item=3926153598&perks=3987942396,247725512,555281244,3988215619
@@ -44,11 +65,18 @@ dimwishlist:item=3926153598&perks=3987942396,1427256713,3988215619
 dimwishlist:item=3926153598&perks=247725512,555281244,3988215619
 dimwishlist:item=3926153598&perks=247725512,1427256713,3988215619
 
-//notes:Godroll!_   _Doomed Petitioner - Rank 4, Tier A by TheAegisRelic_   _Column 1: Envious Assassin, Reconstruction_   _Column 2: Surrounded, Precision Instrument_   _Origin Trait: Dragon's Vengeance
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Doomed Petitioner - Rank 4, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Envious Assassin, Reconstruction1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Surrounded, Precision Instrument1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Dragon's Vengeance
 dimwishlist:item=1501688142&perks=968510818,1523832109,3708227201,555281244,3978094547
 
 
-//notes:Doomed Petitioner - Rank 4, Tier A by TheAegisRelic_   _Column 1: Envious Assassin, Reconstruction_   _Column 2: Surrounded, Precision Instrument_   _Origin Trait: Dragon's Vengeance
+//notes:Doomed Petitioner - Rank 4, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Envious Assassin, Reconstruction1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Surrounded, Precision Instrument1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Dragon's Vengeance
 dimwishlist:item=1501688142&perks=968510818,3708227201,555281244,3978094547
 dimwishlist:item=1501688142&perks=1523832109,3708227201,555281244,3978094547
 dimwishlist:item=1501688142&perks=968510818,1523832109,3708227201,3978094547
@@ -58,29 +86,50 @@ dimwishlist:item=1501688142&perks=968510818,555281244,3978094547
 dimwishlist:item=1501688142&perks=1523832109,3708227201,3978094547
 dimwishlist:item=1501688142&perks=1523832109,555281244,3978094547
 
-//notes:Godroll!_   _Cataclysmic - Rank 5, Tier A by TheAegisRelic_   _Column 1: Fourth Time's the Charm_   _Column 2: Bait and Switch_   _Origin Trait: Souldrinker
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Cataclysmic - Rank 5, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Fourth Time's the Charm1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Bait and Switch1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Souldrinker
 dimwishlist:item=999767358&perks=1354429876,3078487919,3363267119
 dimwishlist:item=2886339027&perks=1354429876,3078487919,3363267119
 
 
-//notes:Cataclysmic - Rank 5, Tier A by TheAegisRelic_   _Column 1: Fourth Time's the Charm_   _Column 2: Bait and Switch_   _Origin Trait: Souldrinker
+//notes:Cataclysmic - Rank 5, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Fourth Time's the Charm1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Bait and Switch1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Souldrinker
 
-//notes:Godroll!_   _Briar's Contempt - Rank 6, Tier A by TheAegisRelic_   _Column 1: Rewind Rounds_   _Column 2: Surrounded, Focused Fury_   _Origin Trait: Harmonic Resonance
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Briar's Contempt - Rank 6, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Surrounded, Focused Fury1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Harmonic Resonance
 dimwishlist:item=1491665733&perks=2578928832,3708227201,2896038713,3186078099
 dimwishlist:item=2890082420&perks=2578928832,3708227201,2896038713,3186078099
 
 
-//notes:Briar's Contempt - Rank 6, Tier A by TheAegisRelic_   _Column 1: Rewind Rounds_   _Column 2: Surrounded, Focused Fury_   _Origin Trait: Harmonic Resonance
+//notes:Briar's Contempt - Rank 6, Tier A by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Rewind Rounds1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Surrounded, Focused Fury1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Harmonic Resonance
 dimwishlist:item=1491665733&perks=2578928832,3708227201,3186078099
 dimwishlist:item=1491665733&perks=2578928832,2896038713,3186078099
 dimwishlist:item=2890082420&perks=2578928832,3708227201,3186078099
 dimwishlist:item=2890082420&perks=2578928832,2896038713,3186078099
 
-//notes:Godroll!_   _Stormchaser - Rank 7, Tier B by TheAegisRelic_   _Column 1: Clown Cartridge, Auto-Loading Holster_   _Column 2: Firing Line, Frenzy_   _Origin Trait: Bitterspite
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Stormchaser - Rank 7, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Clown Cartridge, Auto-Loading Holster1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Firing Line, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Bitterspite
 dimwishlist:item=3652506829&perks=2284787283,3300816228,1771339417,4104185692,4154828211
 
 
-//notes:Stormchaser - Rank 7, Tier B by TheAegisRelic_   _Column 1: Clown Cartridge, Auto-Loading Holster_   _Column 2: Firing Line, Frenzy_   _Origin Trait: Bitterspite
+//notes:Stormchaser - Rank 7, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Clown Cartridge, Auto-Loading Holster1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Firing Line, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Bitterspite
 dimwishlist:item=3652506829&perks=2284787283,1771339417,4104185692,4154828211
 dimwishlist:item=3652506829&perks=3300816228,1771339417,4104185692,4154828211
 dimwishlist:item=3652506829&perks=2284787283,3300816228,1771339417,4154828211
@@ -90,25 +139,39 @@ dimwishlist:item=3652506829&perks=2284787283,4104185692,4154828211
 dimwishlist:item=3652506829&perks=3300816228,1771339417,4154828211
 dimwishlist:item=3652506829&perks=3300816228,4104185692,4154828211
 
-//notes:Godroll!_   _Line in the Sand - Rank 8, Tier B by TheAegisRelic_   _Column 1: Clown Cartridge, Deconstruct_   _Column 2: Bait and Switch_   _Origin Trait: Cast No Shadows
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Line in the Sand - Rank 8, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Clown Cartridge, Deconstruct1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Bait and Switch1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Cast No Shadows
 dimwishlist:item=946443267&perks=2284787283,1164602481,3078487919,2838996248
 dimwishlist:item=2450049485&perks=2284787283,1164602481,3078487919,2838996248
 
 
-//notes:Line in the Sand - Rank 8, Tier B by TheAegisRelic_   _Column 1: Clown Cartridge, Deconstruct_   _Column 2: Bait and Switch_   _Origin Trait: Cast No Shadows
+//notes:Line in the Sand - Rank 8, Tier B by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Clown Cartridge, Deconstruct1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Bait and Switch1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Cast No Shadows
 dimwishlist:item=946443267&perks=2284787283,3078487919,2838996248
 dimwishlist:item=946443267&perks=1164602481,3078487919,2838996248
 dimwishlist:item=2450049485&perks=2284787283,3078487919,2838996248
 dimwishlist:item=2450049485&perks=1164602481,3078487919,2838996248
 
-//notes:Godroll!_   _Eyes Unveiled - Rank 9, Tier C by TheAegisRelic_   _Column 1: Subsistence, Triple Tap_   _Column 2: Discord, Reservoir Burst_   _Origin Trait: Willing Vessel
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Eyes Unveiled - Rank 9, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Subsistence, Triple Tap1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Discord, Reservoir Burst1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Willing Vessel
 dimwishlist:item=282549639&perks=1820235745,3400784728,3978468247,1427256713,878237828
 dimwishlist:item=615373993&perks=1820235745,3400784728,3978468247,1427256713,878237828
 dimwishlist:item=727781522&perks=1820235745,3400784728,3978468247,1427256713,878237828
 dimwishlist:item=4173311704&perks=1820235745,3400784728,3978468247,1427256713,878237828
 
 
-//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic_   _Column 1: Subsistence, Triple Tap_   _Column 2: Discord, Reservoir Burst_   _Origin Trait: Willing Vessel
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Subsistence, Triple Tap1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Discord, Reservoir Burst1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Willing Vessel
 dimwishlist:item=282549639&perks=1820235745,3978468247,1427256713,878237828
 dimwishlist:item=282549639&perks=3400784728,3978468247,1427256713,878237828
 dimwishlist:item=282549639&perks=1820235745,3400784728,3978468247,878237828
@@ -142,64 +205,127 @@ dimwishlist:item=4173311704&perks=1820235745,1427256713,878237828
 dimwishlist:item=4173311704&perks=3400784728,3978468247,878237828
 dimwishlist:item=4173311704&perks=3400784728,1427256713,878237828
 
-//notes:Godroll!_   _Taipan-4fr - Rank 10, Tier C by TheAegisRelic_   _Column 1: Triple Tap_   _Column 2: Firing Line_   _Origin Trait: Veist Stinger
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Taipan-4fr - Rank 10, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Triple Tap1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Firing Line1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=1911060537&perks=3400784728,1771339417,3988215619
 
 
-//notes:Taipan-4fr - Rank 10, Tier C by TheAegisRelic_   _Column 1: Triple Tap_   _Column 2: Firing Line_   _Origin Trait: Veist Stinger
+//notes:Taipan-4fr - Rank 10, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Triple Tap1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Firing Line1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 
-//notes:Godroll!_   _Reed's Regret - Rank 11, Tier C by TheAegisRelic_   _Column 1: Triple Tap_   _Column 2: Firing Line_   _Origin Trait: Veist Stinger
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Reed's Regret - Rank 11, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Triple Tap1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Firing Line1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=1399243961&perks=3400784728,1771339417,3988215619
 dimwishlist:item=2475355656&perks=3400784728,1771339417,3988215619
 
 
-//notes:Reed's Regret - Rank 11, Tier C by TheAegisRelic_   _Column 1: Triple Tap_   _Column 2: Firing Line_   _Origin Trait: Veist Stinger
+//notes:Reed's Regret - Rank 11, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Triple Tap1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Firing Line1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 
-//notes:Godroll!_   _Fire and Forget - Rank 12, Tier C by TheAegisRelic_   _Column 1: Field Prep_   _Column 2: Frenzy_   _Origin Trait: Veist Stinger
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Fire and Forget - Rank 12, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Field Prep1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=2272041093&perks=777589559,4104185692,3988215619
 
 
-//notes:Fire and Forget - Rank 12, Tier C by TheAegisRelic_   _Column 1: Field Prep_   _Column 2: Frenzy_   _Origin Trait: Veist Stinger
+//notes:Fire and Forget - Rank 12, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Field Prep1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 
-//notes:Godroll!_   _Suspectum-4fr - Rank 13, Tier C by TheAegisRelic_   _Column 1: Envious Assassin_   _Column 2: Precision Instrument, Firing Line_   _Origin Trait: Veist Stinger
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Suspectum-4fr - Rank 13, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Envious Assassin1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Precision Instrument, Firing Line1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=3615421669&perks=968510818,555281244,1771339417,3988215619
 
 
-//notes:Suspectum-4fr - Rank 13, Tier C by TheAegisRelic_   _Column 1: Envious Assassin_   _Column 2: Precision Instrument, Firing Line_   _Origin Trait: Veist Stinger
+//notes:Suspectum-4fr - Rank 13, Tier C by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Envious Assassin1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Precision Instrument, Firing Line1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=3615421669&perks=968510818,555281244,3988215619
 dimwishlist:item=3615421669&perks=968510818,1771339417,3988215619
 
-//notes:Godroll!_   _Sailspy Pitchglass - Rank 14, Tier D by TheAegisRelic_   _Column 1: Clown Cartridge_   _Column 2: Focused Fury, Frenzy_   _Origin Trait: Right Hook
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Sailspy Pitchglass - Rank 14, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Clown Cartridge1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Focused Fury, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Right Hook
 dimwishlist:item=1184309824&perks=2284787283,2896038713,4104185692,3907865655
 
 
-//notes:Sailspy Pitchglass - Rank 14, Tier D by TheAegisRelic_   _Column 1: Clown Cartridge_   _Column 2: Focused Fury, Frenzy_   _Origin Trait: Right Hook
+//notes:Sailspy Pitchglass - Rank 14, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Clown Cartridge1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Focused Fury, Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Right Hook
 dimwishlist:item=1184309824&perks=2284787283,2896038713,3907865655
 dimwishlist:item=1184309824&perks=2284787283,4104185692,3907865655
 
-//notes:Godroll!_   _Laser Painter - Rank 15, Tier D by TheAegisRelic_   _Column 1: Clown Cartridge, Auto-Loading Holster_   _Column 2: Focused Fury_   _Origin Trait: Veist Stinger
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Laser Painter - Rank 15, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Clown Cartridge, Auto-Loading Holster1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Focused Fury1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=3221722018&perks=2284787283,3300816228,2896038713,3988215619
 
 
-//notes:Laser Painter - Rank 15, Tier D by TheAegisRelic_   _Column 1: Clown Cartridge, Auto-Loading Holster_   _Column 2: Focused Fury_   _Origin Trait: Veist Stinger
+//notes:Laser Painter - Rank 15, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Clown Cartridge, Auto-Loading Holster1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Focused Fury1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=3221722018&perks=2284787283,2896038713,3988215619
 dimwishlist:item=3221722018&perks=3300816228,2896038713,3988215619
 
-//notes:Godroll!_   _Threaded Needle - Rank 16, Tier D by TheAegisRelic_   _Column 1: Clown Cartridge_   _Column 2: Frenzy_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Threaded Needle - Rank 16, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Clown Cartridge1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=3075224551&perks=2284787283,4104185692,0
 
 
-//notes:Threaded Needle - Rank 16, Tier D by TheAegisRelic_   _Column 1: Clown Cartridge_   _Column 2: Frenzy_   _Origin Trait: None
+//notes:Threaded Needle - Rank 16, Tier D by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Clown Cartridge1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 
-//notes:Godroll!_   _Tarantula - Rank 17, Tier E by TheAegisRelic_   _Column 1: Field Prep_   _Column 2: Box Breathing_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Tarantula - Rank 17, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Field Prep1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Box Breathing1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=2502422775&perks=777589559,2551157718,0
 dimwishlist:item=3335343363&perks=777589559,2551157718,0
 
 
-//notes:Tarantula - Rank 17, Tier E by TheAegisRelic_   _Column 1: Field Prep_   _Column 2: Box Breathing_   _Origin Trait: None
+//notes:Tarantula - Rank 17, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Field Prep1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: Box Breathing1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 
-//notes:Godroll!_   _Corsair's Wrath - Rank 18, Tier E by TheAegisRelic_   _Column 1: Moving Target_   _Column 2: High-Impact Reserves_   _Origin Trait: None
+//notes:Godroll!1   2   3 
+ 4 &#10; 5 ​ 6 Corsair's Wrath - Rank 18, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Moving Target1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: High-Impact Reserves1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=2714022207&perks=588594999,2213355989,0
 
 
-//notes:Corsair's Wrath - Rank 18, Tier E by TheAegisRelic_   _Column 1: Moving Target_   _Column 2: High-Impact Reserves_   _Origin Trait: None
+//notes:Corsair's Wrath - Rank 18, Tier E by TheAegisRelic1   2   3 
+ 4 &#10; 5 ​ 6 Column 1: Moving Target1   2   3 
+ 4 &#10; 5 ​ 6 Column 2: High-Impact Reserves1   2   3 
+ 4 &#10; 5 ​ 6 Origin Trait: None
