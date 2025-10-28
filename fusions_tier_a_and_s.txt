@@ -1,3 +1,10 @@
+// Fusions - 2025-10-28T16:47:47.341Z
+//notes:Godroll!\ALionfish-4fr - Rank 1, Tier S by TheAegisRelic
+Column 1: Reconstruction, Lead from Gold
+Column 2: Chill Clip, Controlled Burst, Elemental Honing
+Origin Trait: Problem Solver
+dimwishlist:item=2423071981&perks=1523832109,1556840489,2978966579,2594592626,1089671869,3454102905
+
 
 //notes:Lionfish-4fr - Rank 1, Tier S by TheAegisRelic
 Column 1: Reconstruction, Lead from Gold
@@ -23,6 +30,18 @@ dimwishlist:item=2423071981&perks=1523832109,1089671869,3454102905
 dimwishlist:item=2423071981&perks=1556840489,2978966579,3454102905
 dimwishlist:item=2423071981&perks=1556840489,2594592626,3454102905
 dimwishlist:item=2423071981&perks=1556840489,1089671869,3454102905
+
+//notes:Godroll!\AScatter Signal - Rank 2, Tier S by TheAegisRelic
+Column 1: Overflow, Slice
+Column 2: Controlled Burst
+Origin Trait: Dragon's Vengeance
+dimwishlist:item=2558925366&perks=3643424744,923806249,2594592626,3978094547
+
+//notes:Godroll!\AFinite Maybe - Rank 3, Tier S by TheAegisRelic
+Column 1: Reconstruction, Incandescent, Demolitionist
+Column 2: Bait and Switch, Controlled Burst, Discord
+Origin Trait: Frame of Reference
+dimwishlist:item=3241217409&perks=1523832109,4293542123,3523296417,3078487919,2594592626,3978468247,2597494435
 
 
 //notes:Finite Maybe - Rank 3, Tier S by TheAegisRelic
@@ -78,6 +97,12 @@ dimwishlist:item=3241217409&perks=3523296417,3078487919,2597494435
 dimwishlist:item=3241217409&perks=3523296417,2594592626,2597494435
 dimwishlist:item=3241217409&perks=3523296417,3978468247,2597494435
 
+//notes:Godroll!\ARiptide - Rank 4, Tier A by TheAegisRelic
+Column 1: Auto-Loading Holster, Lead from Gold, Field Prep
+Column 2: Chill Clip, Frenzy, Demolitionist
+Origin Trait: One Quiet Moment
+dimwishlist:item=2715240478&perks=3300816228,1556840489,777589559,2978966579,4104185692,3523296417,4091460919
+
 
 //notes:Riptide - Rank 4, Tier A by TheAegisRelic
 Column 1: Auto-Loading Holster, Lead from Gold, Field Prep
@@ -132,6 +157,13 @@ dimwishlist:item=2715240478&perks=777589559,2978966579,4091460919
 dimwishlist:item=2715240478&perks=777589559,4104185692,4091460919
 dimwishlist:item=2715240478&perks=777589559,3523296417,4091460919
 
+//notes:Godroll!\AZealot's Reward - Rank 5, Tier A by TheAegisRelic
+Column 1: Auto-Loading Holster, Lead from Gold, Destabilizing Rounds
+Column 2: Controlled Burst, Reservoir Burst
+Origin Trait: Photoinhibition
+dimwishlist:item=2209003210&perks=3300816228,1556840489,2048641572,2594592626,1427256713,511914882
+dimwishlist:item=2720651699&perks=3300816228,1556840489,2048641572,2594592626,1427256713,511914882
+
 
 //notes:Zealot's Reward - Rank 5, Tier A by TheAegisRelic
 Column 1: Auto-Loading Holster, Lead from Gold, Destabilizing Rounds
@@ -177,6 +209,15 @@ dimwishlist:item=2720651699&perks=1556840489,2594592626,511914882
 dimwishlist:item=2720651699&perks=1556840489,1427256713,511914882
 dimwishlist:item=2720651699&perks=2048641572,2594592626,511914882
 dimwishlist:item=2720651699&perks=2048641572,1427256713,511914882
+
+//notes:Godroll!\AGlacioclasm - Rank 8, Tier A by TheAegisRelic
+Column 1: Envious Assassin, Slideshot, Air Trigger
+Column 2: Controlled Burst, Reservoir Burst, Withering Gaze
+Origin Trait: Dawning Surprise
+dimwishlist:item=1030895163&perks=968510818,3161816588,1421772400,2594592626,1427256713,1134488199,4264904777
+dimwishlist:item=1183116657&perks=968510818,3161816588,1421772400,2594592626,1427256713,1134488199,4264904777
+dimwishlist:item=2728851518&perks=968510818,3161816588,1421772400,2594592626,1427256713,1134488199,4264904777
+dimwishlist:item=3573686365&perks=968510818,3161816588,1421772400,2594592626,1427256713,1134488199,4264904777
 
 
 //notes:Glacioclasm - Rank 8, Tier A by TheAegisRelic
@@ -375,6 +416,15 @@ dimwishlist:item=3573686365&perks=3161816588,1134488199,4264904777
 dimwishlist:item=3573686365&perks=1421772400,2594592626,4264904777
 dimwishlist:item=3573686365&perks=1421772400,1427256713,4264904777
 dimwishlist:item=3573686365&perks=1421772400,1134488199,4264904777
+
+//notes:Godroll!\AAfterlight - Rank 9, Tier A by TheAegisRelic
+Column 1: Discord, Lead from Gold, Grave Robber
+Column 2: Reservoir Burst, Destabilizing Rounds, Vorpal Weapon
+Origin Trait: Willing Vessel
+dimwishlist:item=861521336&perks=3978468247,1556840489,1631667848,1427256713,2048641572,1546637391,878237828
+dimwishlist:item=1834313033&perks=3978468247,1556840489,1631667848,1427256713,2048641572,1546637391,878237828
+dimwishlist:item=3228630258&perks=3978468247,1556840489,1631667848,1427256713,2048641572,1546637391,878237828
+dimwishlist:item=3953163559&perks=3978468247,1556840489,1631667848,1427256713,2048641572,1546637391,878237828
 
 
 //notes:Afterlight - Rank 9, Tier A by TheAegisRelic

@@ -1,3 +1,10 @@
+// BGLs - 2025-10-28T16:47:47.341Z
+//notes:Godroll!\AVS Velocity Baton - Rank 1, Tier S by TheAegisRelic
+Column 1: Repulsor Brace, Demolitionist
+Column 2: Destabilizing Rounds, Attrition Orbs
+Origin Trait: Bray Legacy
+dimwishlist:item=1762785663&perks=776531651,3523296417,2048641572,243981275,4139916815
+
 
 //notes:VS Velocity Baton - Rank 1, Tier S by TheAegisRelic
 Column 1: Repulsor Brace, Demolitionist
@@ -11,6 +18,13 @@ dimwishlist:item=1762785663&perks=776531651,2048641572,4139916815
 dimwishlist:item=1762785663&perks=776531651,243981275,4139916815
 dimwishlist:item=1762785663&perks=3523296417,2048641572,4139916815
 dimwishlist:item=1762785663&perks=3523296417,243981275,4139916815
+
+//notes:Godroll!\AFestival Flight - Rank 2, Tier S by TheAegisRelic
+Column 1: Envious Arsenal, Blast Distributor, Slice
+Column 2: Elemental Honing, One for All, Attrition Orbs
+Origin Trait: Dream Work
+dimwishlist:item=3977654524&perks=3987942396,1017229899,923806249,1089671869,4049631843,243981275,1380061575
+dimwishlist:item=4019651319&perks=3987942396,1017229899,923806249,1089671869,4049631843,243981275,1380061575
 
 
 //notes:Festival Flight - Rank 2, Tier S by TheAegisRelic
@@ -114,6 +128,12 @@ dimwishlist:item=4019651319&perks=923806249,1089671869,1380061575
 dimwishlist:item=4019651319&perks=923806249,4049631843,1380061575
 dimwishlist:item=4019651319&perks=923806249,243981275,1380061575
 
+//notes:Godroll!\ALost Signal - Rank 3, Tier S by TheAegisRelic
+Column 1: Auto-Loading Holster, Lead from Gold
+Column 2: Vorpal Weapon, Demolitionist, One for All
+Origin Trait: Radiolaria Transposer
+dimwishlist:item=1197771438&perks=3300816228,1556840489,1546637391,3523296417,4049631843,253121539
+
 
 //notes:Lost Signal - Rank 3, Tier S by TheAegisRelic
 Column 1: Auto-Loading Holster, Lead from Gold
@@ -139,6 +159,15 @@ dimwishlist:item=1197771438&perks=3300816228,4049631843,253121539
 dimwishlist:item=1197771438&perks=1556840489,1546637391,253121539
 dimwishlist:item=1197771438&perks=1556840489,3523296417,253121539
 dimwishlist:item=1197771438&perks=1556840489,4049631843,253121539
+
+//notes:Godroll!\APsychopomp - Rank 4, Tier S by TheAegisRelic
+Column 1: Envious Arsenal, Ambitious Assassin, Pugilist
+Column 2: Elemental Honing, Frenzy, Demolitionist
+Origin Trait: Runneth Over
+dimwishlist:item=704410186&perks=3987942396,2010801679,691659142,1089671869,4104185692,3523296417,120721526
+dimwishlist:item=2553380021&perks=3987942396,2010801679,691659142,1089671869,4104185692,3523296417,120721526
+dimwishlist:item=3840794631&perks=3987942396,2010801679,691659142,1089671869,4104185692,3523296417,120721526
+dimwishlist:item=4028298892&perks=3987942396,2010801679,691659142,1089671869,4104185692,3523296417,120721526
 
 
 //notes:Psychopomp - Rank 4, Tier S by TheAegisRelic
@@ -338,6 +367,12 @@ dimwishlist:item=4028298892&perks=691659142,1089671869,120721526
 dimwishlist:item=4028298892&perks=691659142,4104185692,120721526
 dimwishlist:item=4028298892&perks=691659142,3523296417,120721526
 
+//notes:Godroll!\ATheodolite - Rank 5, Tier S by TheAegisRelic
+Column 1: Reconstruction, Blast Distributor, Eddy Current
+Column 2: Elemental Honing, Voltshot, Frenzy
+Origin Trait: Problem Solver
+dimwishlist:item=4146673635&perks=1523832109,1017229899,684456054,1089671869,2173046394,4104185692,3454102905
+
 
 //notes:Theodolite - Rank 5, Tier S by TheAegisRelic
 Column 1: Reconstruction, Blast Distributor, Eddy Current
@@ -391,6 +426,14 @@ dimwishlist:item=4146673635&perks=1017229899,4104185692,3454102905
 dimwishlist:item=4146673635&perks=684456054,1089671869,3454102905
 dimwishlist:item=4146673635&perks=684456054,2173046394,3454102905
 dimwishlist:item=4146673635&perks=684456054,4104185692,3454102905
+
+//notes:Godroll!\AThe Mountaintop - Rank 6, Tier S by TheAegisRelic
+Column 1: Auto-Loading Holster, Impulse Amplifier, Overflow
+Column 2: Recombination, Vorpal Weapon, Frenzy
+Origin Trait: Indomitability
+dimwishlist:item=568611922&perks=3300816228,951095735,3643424744,469285294,1546637391,4104185692,2489430594
+dimwishlist:item=3993415705&perks=3300816228,951095735,3643424744,469285294,1546637391,4104185692,2489430594
+dimwishlist:item=4043921923&perks=3300816228,951095735,3643424744,469285294,1546637391,4104185692,2489430594
 
 
 //notes:The Mountaintop - Rank 6, Tier S by TheAegisRelic
@@ -542,6 +585,12 @@ dimwishlist:item=4043921923&perks=3643424744,469285294,2489430594
 dimwishlist:item=4043921923&perks=3643424744,1546637391,2489430594
 dimwishlist:item=4043921923&perks=3643424744,4104185692,2489430594
 
+//notes:Godroll!\ALiturgy - Rank 7, Tier A by TheAegisRelic
+Column 1: Envious Arsenal, Slideways
+Column 2: Chill Clip, Lead from Gold, Chain Reaction
+Origin Trait: Dark Ether Reaper
+dimwishlist:item=2599338624&perks=3987942396,2039302152,2978966579,1556840489,2396489472,2041432007
+
 
 //notes:Liturgy - Rank 7, Tier A by TheAegisRelic
 Column 1: Envious Arsenal, Slideways
@@ -567,6 +616,16 @@ dimwishlist:item=2599338624&perks=3987942396,2396489472,2041432007
 dimwishlist:item=2599338624&perks=2039302152,2978966579,2041432007
 dimwishlist:item=2599338624&perks=2039302152,1556840489,2041432007
 dimwishlist:item=2599338624&perks=2039302152,2396489472,2041432007
+
+//notes:Godroll!\ARomantic Death - Rank 8, Tier A by TheAegisRelic
+Column 1: Repulsor Brace, Proximity Power
+Column 2: Destabilizing Rounds, Chain Reaction, Surrounded
+Origin Trait: Tenacity
+dimwishlist:item=2979965244&perks=776531651,4190679284,2048641572,2396489472,3708227201,3911709647
+dimwishlist:item=2979965245&perks=776531651,4190679284,2048641572,2396489472,3708227201,3911709647
+dimwishlist:item=2979965246&perks=776531651,4190679284,2048641572,2396489472,3708227201,3911709647
+dimwishlist:item=2979965247&perks=776531651,4190679284,2048641572,2396489472,3708227201,3911709647
+dimwishlist:item=4169082039&perks=776531651,4190679284,2048641572,2396489472,3708227201,3911709647
 
 
 //notes:Romantic Death - Rank 8, Tier A by TheAegisRelic
@@ -674,6 +733,13 @@ dimwishlist:item=4169082039&perks=4190679284,2048641572,3911709647
 dimwishlist:item=4169082039&perks=4190679284,2396489472,3911709647
 dimwishlist:item=4169082039&perks=4190679284,3708227201,3911709647
 
+//notes:Godroll!\AMartyr's Retribution - Rank 10, Tier A by TheAegisRelic
+Column 1: Heal Clip, Demolitionist, Field Prep
+Column 2: Incandescent, Kill Clip, Desperate Measures
+Origin Trait: Cast No Shadows
+dimwishlist:item=2584830733&perks=3017780555,3523296417,777589559,4293542123,1015611457,2109543898,2838996248
+dimwishlist:item=3850168899&perks=3017780555,3523296417,777589559,4293542123,1015611457,2109543898,2838996248
+
 
 //notes:Martyr's Retribution - Rank 10, Tier A by TheAegisRelic
 Column 1: Heal Clip, Demolitionist, Field Prep
@@ -776,6 +842,15 @@ dimwishlist:item=3850168899&perks=777589559,4293542123,2838996248
 dimwishlist:item=3850168899&perks=777589559,1015611457,2838996248
 dimwishlist:item=3850168899&perks=777589559,2109543898,2838996248
 
+//notes:Godroll!\AForbearance - Rank 11, Tier A by TheAegisRelic
+Column 1: Ambitious Assassin, Unrelenting
+Column 2: Chain Reaction, Wellspring
+Origin Trait: Souldrinker
+dimwishlist:item=568611921&perks=2010801679,3108830275,2396489472,3592538738,3363267119
+dimwishlist:item=613334176&perks=2010801679,3108830275,2396489472,3592538738,3363267119
+dimwishlist:item=2480074702&perks=2010801679,3108830275,2396489472,3592538738,3363267119
+dimwishlist:item=4038592169&perks=2010801679,3108830275,2396489472,3592538738,3363267119
+
 
 //notes:Forbearance - Rank 11, Tier A by TheAegisRelic
 Column 1: Ambitious Assassin, Unrelenting
@@ -814,6 +889,12 @@ dimwishlist:item=4038592169&perks=2010801679,3592538738,3363267119
 dimwishlist:item=4038592169&perks=3108830275,2396489472,3363267119
 dimwishlist:item=4038592169&perks=3108830275,3592538738,3363267119
 
+//notes:Godroll!\ATusk of the Boar - Rank 13, Tier A by TheAegisRelic
+Column 1: Slice, Slideways
+Column 2: Chain Reaction, Deconstruct
+Origin Trait: Field-Tested
+dimwishlist:item=1218113510&perks=923806249,2039302152,2396489472,1164602481,2120661319
+
 
 //notes:Tusk of the Boar - Rank 13, Tier A by TheAegisRelic
 Column 1: Slice, Slideways
@@ -827,6 +908,15 @@ dimwishlist:item=1218113510&perks=923806249,2396489472,2120661319
 dimwishlist:item=1218113510&perks=923806249,1164602481,2120661319
 dimwishlist:item=1218113510&perks=2039302152,2396489472,2120661319
 dimwishlist:item=1218113510&perks=2039302152,1164602481,2120661319
+
+//notes:Godroll!\AForbearance - Rank 14, Tier A by TheAegisRelic
+Column 1: Ambitious Assassin, Demolitionist, Unrelenting
+Column 2: Chain Reaction, Desperate Measures, Wellspring
+Origin Trait: Indomitability
+dimwishlist:item=568611921&perks=2010801679,3523296417,3108830275,2396489472,2109543898,3592538738,2489430594
+dimwishlist:item=613334176&perks=2010801679,3523296417,3108830275,2396489472,2109543898,3592538738,2489430594
+dimwishlist:item=2480074702&perks=2010801679,3523296417,3108830275,2396489472,2109543898,3592538738,2489430594
+dimwishlist:item=4038592169&perks=2010801679,3523296417,3108830275,2396489472,2109543898,3592538738,2489430594
 
 
 //notes:Forbearance - Rank 14, Tier A by TheAegisRelic
