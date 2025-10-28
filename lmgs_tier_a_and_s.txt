@@ -1,4 +1,4 @@
-// LMGs - 2025-10-21T21:32:52.676Z
+// LMGs - 2025-10-28T16:24:16.714Z
 //notes:Godroll! Song of Ir Yût - Rank 1, Tier S by TheAegisRelic __ Column 1: Demolitionist, Reconstruction __ Column 2: High Ground, Bait and Switch __ Origin Trait: Cursed Thrall
 dimwishlist:item=407511664&perks=3523296417,1523832109,2319119708,3078487919,1156201379
 dimwishlist:item=2828278545&perks=3523296417,1523832109,2319119708,3078487919,1156201379

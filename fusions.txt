@@ -1,4 +1,4 @@
-// Fusions - 2025-10-21T21:32:52.676Z
+// Fusions - 2025-10-28T16:24:16.714Z
 //notes:Godroll! Lionfish-4fr - Rank 1, Tier S by TheAegisRelic __ Column 1: Reconstruction, Lead from Gold __ Column 2: Chill Clip, Controlled Burst, Elemental Honing __ Origin Trait: Problem Solver
 dimwishlist:item=2423071981&perks=1523832109,1556840489,2978966579,2594592626,1089671869,3454102905
 
