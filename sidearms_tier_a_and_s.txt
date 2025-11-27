@@ -1,0 +1,50 @@
+// Sidearms - 2025-11-27T13:27:41.753Z
+//notes:Compact Defender - Rank 1, Tier S by TheAegisRelic\nColumn 1: Destabilizing Rounds\nColumn 2: Repulsor Brace, Frenzy\nOrigin Trait: Air-Cooled Core
+//notes: Complete Roll!\nCompact Defender - Rank 1, Tier S by TheAegisRelic\nColumn 1: Destabilizing Rounds\nColumn 2: Repulsor Brace, Frenzy\nOrigin Trait: Air-Cooled Core
+dimwishlist:item=0&perks=2048641572,776531651,4104185692,0
+
+//notes:Insurmountable - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace, Attrition Orbs, Demolitionist\nColumn 2: Destabilizing Rounds, Surrounded\nOrigin Trait: Dark Ether Reaper
+//notes: Complete Roll!\nInsurmountable - Rank 2, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace, Attrition Orbs, Demolitionist\nColumn 2: Destabilizing Rounds, Surrounded\nOrigin Trait: Dark Ether Reaper
+dimwishlist:item=414045521&perks=776531651,243981275,3523296417,2048641572,3708227201,2041432007
+
+//notes:Drang - Rank 3, Tier S by TheAegisRelic\nColumn 1: Heal Clip, Loose Change, Collective Pugilism\nColumn 2: Incandescent, Burning Ambition, Master of Arms\nOrigin Trait: Vanguard Determination
+//notes: Complete Roll!\nDrang - Rank 3, Tier S by TheAegisRelic\nColumn 1: Heal Clip, Loose Change, Collective Pugilism\nColumn 2: Incandescent, Burning Ambition, Master of Arms\nOrigin Trait: Vanguard Determination
+dimwishlist:item=79075821&perks=3017780555,1119449540,1888882410,4293542123,2890807135,3081867624,3846229553
+dimwishlist:item=358190158&perks=3017780555,1119449540,1888882410,4293542123,2890807135,3081867624,3846229553
+dimwishlist:item=502356570&perks=3017780555,1119449540,1888882410,4293542123,2890807135,3081867624,3846229553
+dimwishlist:item=2362471600&perks=3017780555,1119449540,1888882410,4293542123,2890807135,3081867624,3846229553
+
+//notes:Evening SI4 - Rank 4, Tier S by TheAegisRelic\nColumn 1: Heal Clip, Impromptu Ammunition\nColumn 2: Incandescent, Burning Ambition, Desperate Measures\nOrigin Trait: Vanguard Determination
+//notes: Complete Roll!\nEvening SI4 - Rank 4, Tier S by TheAegisRelic\nColumn 1: Heal Clip, Impromptu Ammunition\nColumn 2: Incandescent, Burning Ambition, Desperate Measures\nOrigin Trait: Vanguard Determination
+dimwishlist:item=0&perks=3017780555,2360347339,4293542123,2890807135,2109543898,3846229553
+
+//notes:Heliocentric QSc - Rank 5, Tier S by TheAegisRelic\nColumn 1: Heal Clip, Demolitionist\nColumn 2: Incandescent, Frenzy, Surrounded\nOrigin Trait: Nadir Focus
+//notes: Complete Roll!\nHeliocentric QSc - Rank 5, Tier S by TheAegisRelic\nColumn 1: Heal Clip, Demolitionist\nColumn 2: Incandescent, Frenzy, Surrounded\nOrigin Trait: Nadir Focus
+dimwishlist:item=3998080529&perks=3017780555,3523296417,4293542123,4104185692,3708227201,2509860981
+
+//notes:Forgiveness - Rank 6, Tier A by TheAegisRelic\nColumn 1: Voltshot\nColumn 2: Desperate Measures, Kill Clip, Surrounded\nOrigin Trait: Roar of Battle
+//notes: Complete Roll!\nForgiveness - Rank 6, Tier A by TheAegisRelic\nColumn 1: Voltshot\nColumn 2: Desperate Measures, Kill Clip, Surrounded\nOrigin Trait: Roar of Battle
+dimwishlist:item=1552443158&perks=2173046394,2109543898,1015611457,3708227201,1673863459
+dimwishlist:item=2345794502&perks=2173046394,2109543898,1015611457,3708227201,1673863459
+dimwishlist:item=2405619467&perks=2173046394,2109543898,1015611457,3708227201,1673863459
+
+//notes:Division - Rank 7, Tier A by TheAegisRelic\nColumn 1: Eddy Current, Pugilist, Grave Robber\nColumn 2: Voltshot, Surrounded\nOrigin Trait: Runneth Over
+//notes: Complete Roll!\nDivision - Rank 7, Tier A by TheAegisRelic\nColumn 1: Eddy Current, Pugilist, Grave Robber\nColumn 2: Voltshot, Surrounded\nOrigin Trait: Runneth Over
+dimwishlist:item=2501377328&perks=684456054,691659142,1631667848,2173046394,3708227201,120721526
+dimwishlist:item=2903168058&perks=684456054,691659142,1631667848,2173046394,3708227201,120721526
+dimwishlist:item=2992463569&perks=684456054,691659142,1631667848,2173046394,3708227201,120721526
+dimwishlist:item=3734001727&perks=684456054,691659142,1631667848,2173046394,3708227201,120721526
+
+//notes:Anonymous Autumn - Rank 8, Tier A by TheAegisRelic\nColumn 1: Eddy Current, Attrition Orbs, Demolitionist\nColumn 2: Voltshot\nOrigin Trait: Field-Tested
+//notes: Complete Roll!\nAnonymous Autumn - Rank 8, Tier A by TheAegisRelic\nColumn 1: Eddy Current, Attrition Orbs, Demolitionist\nColumn 2: Voltshot\nOrigin Trait: Field-Tested
+dimwishlist:item=1051949956&perks=684456054,243981275,3523296417,2173046394,2120661319
+dimwishlist:item=3222518097&perks=684456054,243981275,3523296417,2173046394,2120661319
+
+//notes:Brigand's Law - Rank 9, Tier A by TheAegisRelic\nColumn 1: Threat Detector, Feeding Frenzy, Pugilist\nColumn 2: Voltshot, Swashbuckler\nOrigin Trait: Right Hook
+//notes: Complete Roll!\nBrigand's Law - Rank 9, Tier A by TheAegisRelic\nColumn 1: Threat Detector, Feeding Frenzy, Pugilist\nColumn 2: Voltshot, Swashbuckler\nOrigin Trait: Right Hook
+dimwishlist:item=1298815317&perks=4071163871,2779035018,691659142,2173046394,4082225868,3907865655
+
+//notes:Drang (Baroque) - Rank 10, Tier A by TheAegisRelic\nColumn 1: Wellspring, Disruption Break\nColumn 2: Incandescent, Swashbuckler\nOrigin Trait: To Excess
+//notes: Complete Roll!\nDrang (Baroque) - Rank 10, Tier A by TheAegisRelic\nColumn 1: Wellspring, Disruption Break\nColumn 2: Incandescent, Swashbuckler\nOrigin Trait: To Excess
+dimwishlist:item=79075821&perks=3592538738,1683379515,4293542123,4082225868,1905044254
+dimwishlist:item=502356570&perks=3592538738,1683379515,4293542123,4082225868,1905044254

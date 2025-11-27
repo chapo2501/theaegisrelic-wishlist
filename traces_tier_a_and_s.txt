@@ -1,0 +1,19 @@
+// Traces - 2025-11-27T13:27:41.753Z
+//notes:Chronophage - Rank 1, Tier S by TheAegisRelic\nColumn 1: Shoot to Loot, Repulsor Brace\nColumn 2: Destabilizing Rounds, Demolitionist, Desperate Measures\nOrigin Trait: Radiolaria Transposer
+//notes: Complete Roll!\nChronophage - Rank 1, Tier S by TheAegisRelic\nColumn 1: Shoot to Loot, Repulsor Brace\nColumn 2: Destabilizing Rounds, Demolitionist, Desperate Measures\nOrigin Trait: Radiolaria Transposer
+dimwishlist:item=1886840007&perks=3700496672,776531651,2048641572,3523296417,2109543898,253121539
+
+//notes:Unsworn - Rank 2, Tier S by TheAegisRelic\nColumn 1: Shoot to Loot, Tear, Rewind Rounds\nColumn 2: Detonator Beam, Elemental Honing, Hatchling\nOrigin Trait: Subjugation
+//notes: Complete Roll!\nUnsworn - Rank 2, Tier S by TheAegisRelic\nColumn 1: Shoot to Loot, Tear, Rewind Rounds\nColumn 2: Detonator Beam, Elemental Honing, Hatchling\nOrigin Trait: Subjugation
+dimwishlist:item=1303313141&perks=3700496672,960997401,2578928832,4198902903,1089671869,831391274,1298135794
+
+//notes:Retraced Path - Rank 3, Tier A by TheAegisRelic\nColumn 1: Shoot to Loot\nColumn 2: Demolitionist, Frenzy, Incandescent\nOrigin Trait: Hot Swap
+//notes: Complete Roll!\nRetraced Path - Rank 3, Tier A by TheAegisRelic\nColumn 1: Shoot to Loot\nColumn 2: Demolitionist, Frenzy, Incandescent\nOrigin Trait: Hot Swap
+dimwishlist:item=548958835&perks=3700496672,3523296417,4104185692,4293542123,1260401931
+
+//notes:Incisor - Rank 5, Tier A by TheAegisRelic\nColumn 1: Slice\nColumn 2: Attrition Orbs, Hatchling\nOrigin Trait: One Quiet Moment
+//notes: Complete Roll!\nIncisor - Rank 5, Tier A by TheAegisRelic\nColumn 1: Slice\nColumn 2: Attrition Orbs, Hatchling\nOrigin Trait: One Quiet Moment
+dimwishlist:item=1711056134&perks=923806249,243981275,831391274,4091460919
+dimwishlist:item=2421180981&perks=923806249,243981275,831391274,4091460919
+dimwishlist:item=2839600459&perks=923806249,243981275,831391274,4091460919
+dimwishlist:item=4248997900&perks=923806249,243981275,831391274,4091460919

@@ -1,0 +1,64 @@
+// Scouts - 2025-11-27T13:27:41.753Z
+//notes:Unworthy - Rank 1, Tier S by TheAegisRelic\nColumn 1: Firefly\nColumn 2: Voltshot, Frenzy, Paracausal Affinity\nOrigin Trait: Subjugation
+//notes: Complete Roll!\nUnworthy - Rank 1, Tier S by TheAegisRelic\nColumn 1: Firefly\nColumn 2: Voltshot, Frenzy, Paracausal Affinity\nOrigin Trait: Subjugation
+dimwishlist:item=2226158470&perks=1561789734,2173046394,4104185692,3215448563,1298135794
+
+//notes:Aisha's Embrace - Rank 2, Tier S by TheAegisRelic\nColumn 1: Demoralize, Rapid Hit, Shoot to Loot\nColumn 2: Destabilizing Rounds, Desperate Measures, Withering Gaze\nOrigin Trait: Roar of Battle
+//notes: Complete Roll!\nAisha's Embrace - Rank 2, Tier S by TheAegisRelic\nColumn 1: Demoralize, Rapid Hit, Shoot to Loot\nColumn 2: Destabilizing Rounds, Desperate Measures, Withering Gaze\nOrigin Trait: Roar of Battle
+dimwishlist:item=2638190703&perks=1464081238,247725512,3700496672,2048641572,2109543898,1134488199,1673863459
+dimwishlist:item=3245493570&perks=1464081238,247725512,3700496672,2048641572,2109543898,1134488199,1673863459
+dimwishlist:item=3709368142&perks=1464081238,247725512,3700496672,2048641572,2109543898,1134488199,1673863459
+
+//notes:Trustee - Rank 3, Tier S by TheAegisRelic\nColumn 1: Rapid Hit, Reconstruction\nColumn 2: Incandescent\nOrigin Trait: Bray Inheritance
+//notes: Complete Roll!\nTrustee - Rank 3, Tier S by TheAegisRelic\nColumn 1: Rapid Hit, Reconstruction\nColumn 2: Incandescent\nOrigin Trait: Bray Inheritance
+dimwishlist:item=1392919471&perks=247725512,1523832109,4293542123,766321425
+
+//notes:Vouchsafe - Rank 4, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace, Rapid Hit\nColumn 2: Destabilizing Rounds, Dragonfly, Explosive Payload\nOrigin Trait: Advanced Reflexes
+//notes: Complete Roll!\nVouchsafe - Rank 4, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace, Rapid Hit\nColumn 2: Destabilizing Rounds, Dragonfly, Explosive Payload\nOrigin Trait: Advanced Reflexes
+dimwishlist:item=355922321&perks=776531651,247725512,2048641572,2848615171,3038247973,930692523
+dimwishlist:item=3242168339&perks=776531651,247725512,2048641572,2848615171,3038247973,930692523
+
+//notes:Forced Memorializer - Rank 5, Tier A by TheAegisRelic\nColumn 1: Bewildering Burst, Explosive Payload, Rapid Hit\nColumn 2: Ancillary Ordinance, Kinetic Tremors\nOrigin Trait: Problem Solver
+//notes: Complete Roll!\nForced Memorializer - Rank 5, Tier A by TheAegisRelic\nColumn 1: Bewildering Burst, Explosive Payload, Rapid Hit\nColumn 2: Ancillary Ordinance, Kinetic Tremors\nOrigin Trait: Problem Solver
+dimwishlist:item=1197073834&perks=2289534249,3038247973,247725512,1202584452,3891536761,3454102905
+
+//notes:Hung Jury SR4 - Rank 6, Tier A by TheAegisRelic\nColumn 1: Kinetic Tremors, Shoot to Loot, Enlightened Action\nColumn 2: Firefly, Explosive Payload, One for All\nOrigin Trait: Indomitability
+//notes: Complete Roll!\nHung Jury SR4 - Rank 6, Tier A by TheAegisRelic\nColumn 1: Kinetic Tremors, Shoot to Loot, Enlightened Action\nColumn 2: Firefly, Explosive Payload, One for All\nOrigin Trait: Indomitability
+dimwishlist:item=205225492&perks=3891536761,3700496672,777589557,1561789734,3038247973,4049631843,2489430594
+dimwishlist:item=681067419&perks=3891536761,3700496672,777589557,1561789734,3038247973,4049631843,2489430594
+dimwishlist:item=772231794&perks=3891536761,3700496672,777589557,1561789734,3038247973,4049631843,2489430594
+dimwishlist:item=1453235079&perks=3891536761,3700496672,777589557,1561789734,3038247973,4049631843,2489430594
+dimwishlist:item=2883684343&perks=3891536761,3700496672,777589557,1561789734,3038247973,4049631843,2489430594
+dimwishlist:item=3832743906&perks=3891536761,3700496672,777589557,1561789734,3038247973,4049631843,2489430594
+dimwishlist:item=4074251943&perks=3891536761,3700496672,777589557,1561789734,3038247973,4049631843,2489430594
+dimwishlist:item=4281371574&perks=3891536761,3700496672,777589557,1561789734,3038247973,4049631843,2489430594
+
+//notes:Vision of Confluence - Rank 7, Tier A by TheAegisRelic\nColumn 1: Incandescent, Heal Clip, Rewind Rounds\nColumn 2: Firefly, Explosive Payload, Frenzy\nOrigin Trait: Timelost Magazine
+//notes: Complete Roll!\nVision of Confluence - Rank 7, Tier A by TheAegisRelic\nColumn 1: Incandescent, Heal Clip, Rewind Rounds\nColumn 2: Firefly, Explosive Payload, Frenzy\nOrigin Trait: Timelost Magazine
+dimwishlist:item=337578911&perks=4293542123,3017780555,2578928832,1561789734,3038247973,4104185692,2589407652
+dimwishlist:item=690668916&perks=4293542123,3017780555,2578928832,1561789734,3038247973,4104185692,2589407652
+dimwishlist:item=3186018373&perks=4293542123,3017780555,2578928832,1561789734,3038247973,4104185692,2589407652
+dimwishlist:item=3444688218&perks=4293542123,3017780555,2578928832,1561789734,3038247973,4104185692,2589407652
+
+//notes:Randy's Throwing Knife - Rank 8, Tier A by TheAegisRelic\nColumn 1: Rapid Hit, Discord\nColumn 2: Kinetic Tremors\nOrigin Trait: One Quiet Moment
+//notes: Complete Roll!\nRandy's Throwing Knife - Rank 8, Tier A by TheAegisRelic\nColumn 1: Rapid Hit, Discord\nColumn 2: Kinetic Tremors\nOrigin Trait: One Quiet Moment
+dimwishlist:item=3292795429&perks=247725512,3978468247,3891536761,4091460919
+dimwishlist:item=3535742959&perks=247725512,3978468247,3891536761,4091460919
+
+//notes:Patron of Lost Causes - Rank 9, Tier A by TheAegisRelic\nColumn 1: Rapid Hit, Strategist\nColumn 2: Kinetic Tremors, Explosive Payload\nOrigin Trait: Cast No Shadows
+//notes: Complete Roll!\nPatron of Lost Causes - Rank 9, Tier A by TheAegisRelic\nColumn 1: Rapid Hit, Strategist\nColumn 2: Kinetic Tremors, Explosive Payload\nOrigin Trait: Cast No Shadows
+dimwishlist:item=2249996761&perks=247725512,880644845,3891536761,3038247973,2838996248
+dimwishlist:item=2723241847&perks=247725512,880644845,3891536761,3038247973,2838996248
+
+//notes:Nature Reclaimed - Rank 10, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Rapid Hit, Shoot to Loot\nColumn 2: Incandescent, Explosive Payload\nOrigin Trait: Skulking Wolf
+//notes: Complete Roll!\nNature Reclaimed - Rank 10, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Rapid Hit, Shoot to Loot\nColumn 2: Incandescent, Explosive Payload\nOrigin Trait: Skulking Wolf
+dimwishlist:item=2639921391&perks=3017780555,247725512,3700496672,4293542123,3038247973,3989629871
+
+//notes:Tarnished Mettle - Rank 11, Tier A by TheAegisRelic\nColumn 1: Rapid Hit, Shoot to Loot, Demolitionist\nColumn 2: Voltshot, Explosive Payload\nOrigin Trait: Right Hook
+//notes: Complete Roll!\nTarnished Mettle - Rank 11, Tier A by TheAegisRelic\nColumn 1: Rapid Hit, Shoot to Loot, Demolitionist\nColumn 2: Voltshot, Explosive Payload\nOrigin Trait: Right Hook
+dimwishlist:item=2218569744&perks=247725512,3700496672,3523296417,2173046394,3038247973,3907865655
+
+//notes:Doom of Chelchis - Rank 12, Tier A by TheAegisRelic\nColumn 1: Firefly, Explosive Payload\nColumn 2: Frenzy, One for All, Dragonfly\nOrigin Trait: Runneth Over
+//notes: Complete Roll!\nDoom of Chelchis - Rank 12, Tier A by TheAegisRelic\nColumn 1: Firefly, Explosive Payload\nColumn 2: Frenzy, One for All, Dragonfly\nOrigin Trait: Runneth Over
+dimwishlist:item=1184692845&perks=1561789734,3038247973,4104185692,4049631843,2848615171,120721526
+dimwishlist:item=1937552980&perks=1561789734,3038247973,4104185692,4049631843,2848615171,120721526
