@@ -1,5 +1,5 @@
-// HGLs - 2025-11-27T13:30:04.794Z
-//notes: Complete Roll!\nVS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal, Cascade Point, Attrition Orbs\nColumn 2: Bait and Switch, Explosive Light, Surrounded\nOrigin Trait: Bray Legacy
+// HGLs - 2025-11-27T13:33:11.363Z
+//notes:Complete Roll!\nVS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal, Cascade Point, Attrition Orbs\nColumn 2: Bait and Switch, Explosive Light, Surrounded\nOrigin Trait: Bray Legacy
 dimwishlist:item=1762785662&perks=3987942396,3751912585,243981275,3078487919,3194351027,3708227201,4139916815
 
 
@@ -52,8 +52,10 @@ dimwishlist:item=1762785662&perks=3751912585,3708227201,4139916815
 dimwishlist:item=1762785662&perks=243981275,3078487919,4139916815
 dimwishlist:item=1762785662&perks=243981275,3194351027,4139916815
 dimwishlist:item=1762785662&perks=243981275,3708227201,4139916815
+---
 
-//notes: Complete Roll!\nThe Ever-Present - Rank 2, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal\nColumn 2: Aggregate Charge, Bait and Switch, Elemental Honing\nOrigin Trait: Frame of Reference
+
+//notes:Complete Roll!\nThe Ever-Present - Rank 2, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal\nColumn 2: Aggregate Charge, Bait and Switch, Elemental Honing\nOrigin Trait: Frame of Reference
 dimwishlist:item=3177074192&perks=3987942396,3764420437,3078487919,1089671869,2597494435
 
 
@@ -64,8 +66,10 @@ dimwishlist:item=3177074192&perks=3987942396,3078487919,1089671869,2597494435
 dimwishlist:item=3177074192&perks=3987942396,3764420437,2597494435
 dimwishlist:item=3177074192&perks=3987942396,3078487919,2597494435
 dimwishlist:item=3177074192&perks=3987942396,1089671869,2597494435
+---
 
-//notes: Complete Roll!\nOutrageous Fortune - Rank 3, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal, Incandescent\nColumn 2: Bait and Switch, Explosive Light, Chain Reaction\nOrigin Trait: Problem Solver
+
+//notes:Complete Roll!\nOutrageous Fortune - Rank 3, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal, Incandescent\nColumn 2: Bait and Switch, Explosive Light, Chain Reaction\nOrigin Trait: Problem Solver
 dimwishlist:item=4146673634&perks=3987942396,4293542123,3078487919,3194351027,2396489472,3454102905
 dimwishlist:item=4146702548&perks=3987942396,4293542123,3078487919,3194351027,2396489472,3454102905
 
@@ -111,8 +115,10 @@ dimwishlist:item=4146702548&perks=3987942396,2396489472,3454102905
 dimwishlist:item=4146702548&perks=4293542123,3078487919,3454102905
 dimwishlist:item=4146702548&perks=4293542123,3194351027,3454102905
 dimwishlist:item=4146702548&perks=4293542123,2396489472,3454102905
+---
 
-//notes: Complete Roll!\nBitter/Sweet - Rank 4, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal\nColumn 2: Bait and Switch, Cascade Point, Explosive Light\nOrigin Trait: Dark Ether Reaper
+
+//notes:Complete Roll!\nBitter/Sweet - Rank 4, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal\nColumn 2: Bait and Switch, Cascade Point, Explosive Light\nOrigin Trait: Dark Ether Reaper
 dimwishlist:item=2599338625&perks=3987942396,3078487919,3751912585,3194351027,2041432007
 
 
@@ -123,8 +129,10 @@ dimwishlist:item=2599338625&perks=3987942396,3751912585,3194351027,2041432007
 dimwishlist:item=2599338625&perks=3987942396,3078487919,2041432007
 dimwishlist:item=2599338625&perks=3987942396,3751912585,2041432007
 dimwishlist:item=2599338625&perks=3987942396,3194351027,2041432007
+---
 
-//notes: Complete Roll!\nWicked Sister - Rank 5, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal\nColumn 2: Bait and Switch, Cascade Point, Explosive Light\nOrigin Trait: Nadir Focus
+
+//notes:Complete Roll!\nWicked Sister - Rank 5, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal\nColumn 2: Bait and Switch, Cascade Point, Explosive Light\nOrigin Trait: Nadir Focus
 dimwishlist:item=2039776723&perks=3987942396,3078487919,3751912585,3194351027,2509860981
 dimwishlist:item=2168486467&perks=3987942396,3078487919,3751912585,3194351027,2509860981
 
@@ -142,8 +150,10 @@ dimwishlist:item=2168486467&perks=3987942396,3751912585,3194351027,2509860981
 dimwishlist:item=2168486467&perks=3987942396,3078487919,2509860981
 dimwishlist:item=2168486467&perks=3987942396,3751912585,2509860981
 dimwishlist:item=2168486467&perks=3987942396,3194351027,2509860981
+---
 
-//notes: Complete Roll!\nEdge Transit - Rank 6, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Cascade Point, Chain Reaction\nColumn 2: Bait and Switch, Explosive Light, Deconstruct\nOrigin Trait: Indomitability
+
+//notes:Complete Roll!\nEdge Transit - Rank 6, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Cascade Point, Chain Reaction\nColumn 2: Bait and Switch, Explosive Light, Deconstruct\nOrigin Trait: Indomitability
 dimwishlist:item=218335759&perks=968510818,3751912585,2396489472,3078487919,3194351027,1164602481,2489430594
 dimwishlist:item=568611923&perks=968510818,3751912585,2396489472,3078487919,3194351027,1164602481,2489430594
 dimwishlist:item=2228325504&perks=968510818,3751912585,2396489472,3078487919,3194351027,1164602481,2489430594
@@ -294,7 +304,9 @@ dimwishlist:item=2228325504&perks=3751912585,1164602481,2489430594
 dimwishlist:item=2228325504&perks=2396489472,3078487919,2489430594
 dimwishlist:item=2228325504&perks=2396489472,3194351027,2489430594
 dimwishlist:item=2228325504&perks=2396489472,1164602481,2489430594
+---
 
-//notes: Complete Roll!\nCataphract GL3 - Rank 7, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal, Auto-Loading Holster\nColumn 2: Bait and Switch\nOrigin Trait: Alacrity
+
+//notes:Complete Roll!\nCataphract GL3 - Rank 7, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal, Auto-Loading Holster\nColumn 2: Bait and Switch\nOrigin Trait: Alacrity
 dimwishlist:item=874623537&perks=3987942396,3300816228,3078487919,2988596335
 dimwishlist:item=2738601016&perks=3987942396,3300816228,3078487919,2988596335
