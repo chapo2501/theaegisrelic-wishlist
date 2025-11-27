@@ -1,5 +1,6 @@
-// Other - 2025-11-27T13:19:14.857Z
-//notes:Perfect roll! Opaque Hourglass - Rank 0, Tier  by TheAegisRelic
+// Other - 2025-11-27T13:22:32.661Z
+//notes: Complete Roll!
+Opaque Hourglass - Rank 0, Tier  by TheAegisRelic
 Column 1: Impulse Amplifier, Firefly, Bolt Scavenger
 Column 2: Elemental Honing, Dragonfly, Firing Line
 Origin Trait: Frame of Reference
@@ -55,7 +56,8 @@ dimwishlist:item=1553681400&perks=4042220767,1089671869,2597494435
 dimwishlist:item=1553681400&perks=4042220767,2848615171,2597494435
 dimwishlist:item=1553681400&perks=4042220767,1771339417,2597494435
 
-//notes:Perfect roll! Submersion - Rank 0, Tier  by TheAegisRelic
+//notes: Complete Roll!
+Submersion - Rank 0, Tier  by TheAegisRelic
 Column 1: Auto-Loading Holster, Bolt Scavenger, Lead from Light
 Column 2: Aggregate Charge, Headstone, Chill Clip
 Origin Trait: Contending Cascade
@@ -160,7 +162,8 @@ dimwishlist:item=3524386983&perks=1570399071,3764420437,934928524
 dimwishlist:item=3524386983&perks=1570399071,124408337,934928524
 dimwishlist:item=3524386983&perks=1570399071,2978966579,934928524
 
-//notes:Perfect roll! A Good Shout - Rank 0, Tier  by TheAegisRelic
+//notes: Complete Roll!
+A Good Shout - Rank 0, Tier  by TheAegisRelic
 Column 1: Envious Arsenal, Bolt Scavenger, Withering Gaze
 Column 2: High Ground, Box Breathing
 Origin Trait: Problem Solver
@@ -188,7 +191,8 @@ dimwishlist:item=0&perks=4042220767,2551157718,3454102905
 dimwishlist:item=0&perks=1134488199,2319119708,3454102905
 dimwishlist:item=0&perks=1134488199,2551157718,3454102905
 
-//notes:Perfect roll! Uncivil Discourse - Rank 0, Tier  by TheAegisRelic
+//notes: Complete Roll!
+Uncivil Discourse - Rank 0, Tier  by TheAegisRelic
 Column 1: Air Trigger, Cooling Baubles
 Column 2: Precision Instrument, Desperate Measures
 Origin Trait: Air-Cooled Core
@@ -204,7 +208,8 @@ dimwishlist:item=0&perks=1421772400,2109543898,0
 dimwishlist:item=0&perks=0,555281244,0
 dimwishlist:item=0&perks=0,2109543898,0
 
-//notes:Perfect roll! Refurbished A499 - Rank 0, Tier  by TheAegisRelic
+//notes: Complete Roll!
+Refurbished A499 - Rank 0, Tier  by TheAegisRelic
 Column 1: Snapshot Sights, Moving Target
 Column 2: Aggregate Charge
 Origin Trait: Air-Cooled Core
@@ -214,7 +219,8 @@ dimwishlist:item=0&perks=957782887,588594999,3764420437,0
 dimwishlist:item=0&perks=957782887,3764420437,0
 dimwishlist:item=0&perks=588594999,3764420437,0
 
-//notes:Perfect roll! Psi Aeterna IV - Rank 0, Tier  by TheAegisRelic
+//notes: Complete Roll!
+Psi Aeterna IV - Rank 0, Tier  by TheAegisRelic
 Column 1: Trickle Charge, Blast Distributor, Eddy Current
 Column 2: Elemental Honing, One For All, Jolting Feedback
 Origin Trait: Problem Solver
@@ -270,7 +276,8 @@ dimwishlist:item=0&perks=684456054,1089671869,3454102905
 dimwishlist:item=0&perks=684456054,4049631843,3454102905
 dimwishlist:item=0&perks=684456054,3966416502,3454102905
 
-//notes:Perfect roll! Mint Retrograde - Rank 0, Tier  by TheAegisRelic
+//notes: Complete Roll!
+Mint Retrograde - Rank 0, Tier  by TheAegisRelic
 Column 1: Rewind Rounds, Envious Arsenal, Hatchling
 Column 2: Bait and Switch, Elemental Honing, Chain Reaction
 Origin Trait: Problem Solver
