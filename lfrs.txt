@@ -1,10 +1,10 @@
-// LFRs - 2025-11-27T13:27:41.753Z
-//notes:Scintillation - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds, Cornered\nColumn 2: Bait and Switch, Surrounded\nOrigin Trait: Veist Stinger
+// LFRs - 2025-11-27T13:30:04.794Z
 //notes: Complete Roll!\nScintillation - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds, Cornered\nColumn 2: Bait and Switch, Surrounded\nOrigin Trait: Veist Stinger
 dimwishlist:item=1492522228&perks=2578928832,1799762209,3078487919,3708227201,3988215619
 dimwishlist:item=2591257541&perks=2578928832,1799762209,3078487919,3708227201,3988215619
 
 
+//notes:Scintillation - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds, Cornered\nColumn 2: Bait and Switch, Surrounded\nOrigin Trait: Veist Stinger
 dimwishlist:item=1492522228&perks=2578928832,3078487919,3708227201,3988215619
 dimwishlist:item=1492522228&perks=1799762209,3078487919,3708227201,3988215619
 dimwishlist:item=1492522228&perks=2578928832,1799762209,3078487919,3988215619
@@ -22,19 +22,19 @@ dimwishlist:item=2591257541&perks=2578928832,3708227201,3988215619
 dimwishlist:item=2591257541&perks=1799762209,3078487919,3988215619
 dimwishlist:item=2591257541&perks=1799762209,3708227201,3988215619
 
-//notes:Mistral Lift - Rank 2, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal, Envious Assassin\nColumn 2: Bait and Switch\nOrigin Trait: Veist Stinger
 //notes: Complete Roll!\nMistral Lift - Rank 2, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal, Envious Assassin\nColumn 2: Bait and Switch\nOrigin Trait: Veist Stinger
 dimwishlist:item=3483485727&perks=3987942396,968510818,3078487919,3988215619
 
 
+//notes:Mistral Lift - Rank 2, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal, Envious Assassin\nColumn 2: Bait and Switch\nOrigin Trait: Veist Stinger
 dimwishlist:item=3483485727&perks=3987942396,3078487919,3988215619
 dimwishlist:item=3483485727&perks=968510818,3078487919,3988215619
 
-//notes:Boomslang-4fr - Rank 3, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal, Rapid Hit\nColumn 2: Precision Instrument, Reservoir Burst\nOrigin Trait: Veist Stinger
 //notes: Complete Roll!\nBoomslang-4fr - Rank 3, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal, Rapid Hit\nColumn 2: Precision Instrument, Reservoir Burst\nOrigin Trait: Veist Stinger
 dimwishlist:item=3926153598&perks=3987942396,247725512,555281244,1427256713,3988215619
 
 
+//notes:Boomslang-4fr - Rank 3, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal, Rapid Hit\nColumn 2: Precision Instrument, Reservoir Burst\nOrigin Trait: Veist Stinger
 dimwishlist:item=3926153598&perks=3987942396,555281244,1427256713,3988215619
 dimwishlist:item=3926153598&perks=247725512,555281244,1427256713,3988215619
 dimwishlist:item=3926153598&perks=3987942396,247725512,555281244,3988215619
@@ -44,11 +44,11 @@ dimwishlist:item=3926153598&perks=3987942396,1427256713,3988215619
 dimwishlist:item=3926153598&perks=247725512,555281244,3988215619
 dimwishlist:item=3926153598&perks=247725512,1427256713,3988215619
 
-//notes:Doomed Petitioner - Rank 4, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Reconstruction\nColumn 2: Surrounded, Precision Instrument\nOrigin Trait: Dragon's Vengeance
 //notes: Complete Roll!\nDoomed Petitioner - Rank 4, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Reconstruction\nColumn 2: Surrounded, Precision Instrument\nOrigin Trait: Dragon's Vengeance
 dimwishlist:item=1501688142&perks=968510818,1523832109,3708227201,555281244,3978094547
 
 
+//notes:Doomed Petitioner - Rank 4, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Reconstruction\nColumn 2: Surrounded, Precision Instrument\nOrigin Trait: Dragon's Vengeance
 dimwishlist:item=1501688142&perks=968510818,3708227201,555281244,3978094547
 dimwishlist:item=1501688142&perks=1523832109,3708227201,555281244,3978094547
 dimwishlist:item=1501688142&perks=968510818,1523832109,3708227201,3978094547
@@ -58,29 +58,29 @@ dimwishlist:item=1501688142&perks=968510818,555281244,3978094547
 dimwishlist:item=1501688142&perks=1523832109,3708227201,3978094547
 dimwishlist:item=1501688142&perks=1523832109,555281244,3978094547
 
-//notes:Cataclysmic - Rank 5, Tier A by TheAegisRelic\nColumn 1: Fourth Time's the Charm\nColumn 2: Bait and Switch\nOrigin Trait: Souldrinker
 //notes: Complete Roll!\nCataclysmic - Rank 5, Tier A by TheAegisRelic\nColumn 1: Fourth Time's the Charm\nColumn 2: Bait and Switch\nOrigin Trait: Souldrinker
 dimwishlist:item=999767358&perks=1354429876,3078487919,3363267119
 dimwishlist:item=2886339027&perks=1354429876,3078487919,3363267119
 
 
+//notes:Cataclysmic - Rank 5, Tier A by TheAegisRelic\nColumn 1: Fourth Time's the Charm\nColumn 2: Bait and Switch\nOrigin Trait: Souldrinker
 
-//notes:Briar's Contempt - Rank 6, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Surrounded, Focused Fury\nOrigin Trait: Harmonic Resonance
 //notes: Complete Roll!\nBriar's Contempt - Rank 6, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Surrounded, Focused Fury\nOrigin Trait: Harmonic Resonance
 dimwishlist:item=1491665733&perks=2578928832,3708227201,2896038713,3186078099
 dimwishlist:item=2890082420&perks=2578928832,3708227201,2896038713,3186078099
 
 
+//notes:Briar's Contempt - Rank 6, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Surrounded, Focused Fury\nOrigin Trait: Harmonic Resonance
 dimwishlist:item=1491665733&perks=2578928832,3708227201,3186078099
 dimwishlist:item=1491665733&perks=2578928832,2896038713,3186078099
 dimwishlist:item=2890082420&perks=2578928832,3708227201,3186078099
 dimwishlist:item=2890082420&perks=2578928832,2896038713,3186078099
 
-//notes:Stormchaser - Rank 7, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge, Auto-Loading Holster\nColumn 2: Firing Line, Frenzy\nOrigin Trait: Bitterspite
 //notes: Complete Roll!\nStormchaser - Rank 7, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge, Auto-Loading Holster\nColumn 2: Firing Line, Frenzy\nOrigin Trait: Bitterspite
 dimwishlist:item=3652506829&perks=2284787283,3300816228,1771339417,4104185692,4154828211
 
 
+//notes:Stormchaser - Rank 7, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge, Auto-Loading Holster\nColumn 2: Firing Line, Frenzy\nOrigin Trait: Bitterspite
 dimwishlist:item=3652506829&perks=2284787283,1771339417,4104185692,4154828211
 dimwishlist:item=3652506829&perks=3300816228,1771339417,4104185692,4154828211
 dimwishlist:item=3652506829&perks=2284787283,3300816228,1771339417,4154828211
@@ -90,18 +90,17 @@ dimwishlist:item=3652506829&perks=2284787283,4104185692,4154828211
 dimwishlist:item=3652506829&perks=3300816228,1771339417,4154828211
 dimwishlist:item=3652506829&perks=3300816228,4104185692,4154828211
 
-//notes:Line in the Sand - Rank 8, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge, Deconstruct\nColumn 2: Bait and Switch\nOrigin Trait: Cast No Shadows
 //notes: Complete Roll!\nLine in the Sand - Rank 8, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge, Deconstruct\nColumn 2: Bait and Switch\nOrigin Trait: Cast No Shadows
 dimwishlist:item=946443267&perks=2284787283,1164602481,3078487919,2838996248
 dimwishlist:item=2450049485&perks=2284787283,1164602481,3078487919,2838996248
 
 
+//notes:Line in the Sand - Rank 8, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge, Deconstruct\nColumn 2: Bait and Switch\nOrigin Trait: Cast No Shadows
 dimwishlist:item=946443267&perks=2284787283,3078487919,2838996248
 dimwishlist:item=946443267&perks=1164602481,3078487919,2838996248
 dimwishlist:item=2450049485&perks=2284787283,3078487919,2838996248
 dimwishlist:item=2450049485&perks=1164602481,3078487919,2838996248
 
-//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence, Triple Tap\nColumn 2: Discord, Reservoir Burst\nOrigin Trait: Willing Vessel
 //notes: Complete Roll!\nEyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence, Triple Tap\nColumn 2: Discord, Reservoir Burst\nOrigin Trait: Willing Vessel
 dimwishlist:item=282549639&perks=1820235745,3400784728,3978468247,1427256713,878237828
 dimwishlist:item=615373993&perks=1820235745,3400784728,3978468247,1427256713,878237828
@@ -109,6 +108,7 @@ dimwishlist:item=727781522&perks=1820235745,3400784728,3978468247,1427256713,878
 dimwishlist:item=4173311704&perks=1820235745,3400784728,3978468247,1427256713,878237828
 
 
+//notes:Eyes Unveiled - Rank 9, Tier C by TheAegisRelic\nColumn 1: Subsistence, Triple Tap\nColumn 2: Discord, Reservoir Burst\nOrigin Trait: Willing Vessel
 dimwishlist:item=282549639&perks=1820235745,3978468247,1427256713,878237828
 dimwishlist:item=282549639&perks=3400784728,3978468247,1427256713,878237828
 dimwishlist:item=282549639&perks=1820235745,3400784728,3978468247,878237828
@@ -142,64 +142,64 @@ dimwishlist:item=4173311704&perks=1820235745,1427256713,878237828
 dimwishlist:item=4173311704&perks=3400784728,3978468247,878237828
 dimwishlist:item=4173311704&perks=3400784728,1427256713,878237828
 
-//notes:Taipan-4fr - Rank 10, Tier C by TheAegisRelic\nColumn 1: Triple Tap\nColumn 2: Firing Line\nOrigin Trait: Veist Stinger
 //notes: Complete Roll!\nTaipan-4fr - Rank 10, Tier C by TheAegisRelic\nColumn 1: Triple Tap\nColumn 2: Firing Line\nOrigin Trait: Veist Stinger
 dimwishlist:item=1911060537&perks=3400784728,1771339417,3988215619
 
 
+//notes:Taipan-4fr - Rank 10, Tier C by TheAegisRelic\nColumn 1: Triple Tap\nColumn 2: Firing Line\nOrigin Trait: Veist Stinger
 
-//notes:Reed's Regret - Rank 11, Tier C by TheAegisRelic\nColumn 1: Triple Tap\nColumn 2: Firing Line\nOrigin Trait: Veist Stinger
 //notes: Complete Roll!\nReed's Regret - Rank 11, Tier C by TheAegisRelic\nColumn 1: Triple Tap\nColumn 2: Firing Line\nOrigin Trait: Veist Stinger
 dimwishlist:item=1399243961&perks=3400784728,1771339417,3988215619
 dimwishlist:item=2475355656&perks=3400784728,1771339417,3988215619
 
 
+//notes:Reed's Regret - Rank 11, Tier C by TheAegisRelic\nColumn 1: Triple Tap\nColumn 2: Firing Line\nOrigin Trait: Veist Stinger
 
-//notes:Fire and Forget - Rank 12, Tier C by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Frenzy\nOrigin Trait: Veist Stinger
 //notes: Complete Roll!\nFire and Forget - Rank 12, Tier C by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Frenzy\nOrigin Trait: Veist Stinger
 dimwishlist:item=2272041093&perks=777589559,4104185692,3988215619
 
 
+//notes:Fire and Forget - Rank 12, Tier C by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Frenzy\nOrigin Trait: Veist Stinger
 
-//notes:Suspectum-4fr - Rank 13, Tier C by TheAegisRelic\nColumn 1: Envious Assassin\nColumn 2: Precision Instrument, Firing Line\nOrigin Trait: Veist Stinger
 //notes: Complete Roll!\nSuspectum-4fr - Rank 13, Tier C by TheAegisRelic\nColumn 1: Envious Assassin\nColumn 2: Precision Instrument, Firing Line\nOrigin Trait: Veist Stinger
 dimwishlist:item=3615421669&perks=968510818,555281244,1771339417,3988215619
 
 
+//notes:Suspectum-4fr - Rank 13, Tier C by TheAegisRelic\nColumn 1: Envious Assassin\nColumn 2: Precision Instrument, Firing Line\nOrigin Trait: Veist Stinger
 dimwishlist:item=3615421669&perks=968510818,555281244,3988215619
 dimwishlist:item=3615421669&perks=968510818,1771339417,3988215619
 
-//notes:Sailspy Pitchglass - Rank 14, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Focused Fury, Frenzy\nOrigin Trait: Right Hook
 //notes: Complete Roll!\nSailspy Pitchglass - Rank 14, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Focused Fury, Frenzy\nOrigin Trait: Right Hook
 dimwishlist:item=1184309824&perks=2284787283,2896038713,4104185692,3907865655
 
 
+//notes:Sailspy Pitchglass - Rank 14, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Focused Fury, Frenzy\nOrigin Trait: Right Hook
 dimwishlist:item=1184309824&perks=2284787283,2896038713,3907865655
 dimwishlist:item=1184309824&perks=2284787283,4104185692,3907865655
 
-//notes:Laser Painter - Rank 15, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge, Auto-Loading Holster\nColumn 2: Focused Fury\nOrigin Trait: Veist Stinger
 //notes: Complete Roll!\nLaser Painter - Rank 15, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge, Auto-Loading Holster\nColumn 2: Focused Fury\nOrigin Trait: Veist Stinger
 dimwishlist:item=3221722018&perks=2284787283,3300816228,2896038713,3988215619
 
 
+//notes:Laser Painter - Rank 15, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge, Auto-Loading Holster\nColumn 2: Focused Fury\nOrigin Trait: Veist Stinger
 dimwishlist:item=3221722018&perks=2284787283,2896038713,3988215619
 dimwishlist:item=3221722018&perks=3300816228,2896038713,3988215619
 
-//notes:Threaded Needle - Rank 16, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Frenzy\nOrigin Trait: None
 //notes: Complete Roll!\nThreaded Needle - Rank 16, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Frenzy\nOrigin Trait: None
 dimwishlist:item=3075224551&perks=2284787283,4104185692,0
 
 
+//notes:Threaded Needle - Rank 16, Tier D by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Frenzy\nOrigin Trait: None
 
-//notes:Tarantula - Rank 17, Tier E by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Box Breathing\nOrigin Trait: None
 //notes: Complete Roll!\nTarantula - Rank 17, Tier E by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Box Breathing\nOrigin Trait: None
 dimwishlist:item=2502422775&perks=777589559,2551157718,0
 dimwishlist:item=3335343363&perks=777589559,2551157718,0
 
 
+//notes:Tarantula - Rank 17, Tier E by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Box Breathing\nOrigin Trait: None
 
-//notes:Corsair's Wrath - Rank 18, Tier E by TheAegisRelic\nColumn 1: Moving Target\nColumn 2: High-Impact Reserves\nOrigin Trait: None
 //notes: Complete Roll!\nCorsair's Wrath - Rank 18, Tier E by TheAegisRelic\nColumn 1: Moving Target\nColumn 2: High-Impact Reserves\nOrigin Trait: None
 dimwishlist:item=2714022207&perks=588594999,2213355989,0
 
 
+//notes:Corsair's Wrath - Rank 18, Tier E by TheAegisRelic\nColumn 1: Moving Target\nColumn 2: High-Impact Reserves\nOrigin Trait: None
