@@ -1,49 +1,32 @@
+// LFRs - 2025-11-27T13:19:14.857Z
+//notes:Perfect roll! Scintillation - Rank 1, Tier S by TheAegisRelic
+Column 1: Rewind Rounds, Cornered
+Column 2: Bait and Switch, Surrounded
+Origin Trait: Veist Stinger
+dimwishlist:item=1492522228&perks=2578928832,1799762209,3078487919,3708227201,3988215619
+dimwishlist:item=2591257541&perks=2578928832,1799762209,3078487919,3708227201,3988215619
 
-//notes:Scintillation - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Rewind Rounds, Cornered1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Bait and Switch, Surrounded1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
-dimwishlist:item=1492522228&perks=2578928832,3078487919,3708227201,3988215619
-dimwishlist:item=1492522228&perks=1799762209,3078487919,3708227201,3988215619
-dimwishlist:item=1492522228&perks=2578928832,1799762209,3078487919,3988215619
-dimwishlist:item=1492522228&perks=2578928832,1799762209,3708227201,3988215619
-dimwishlist:item=1492522228&perks=2578928832,3078487919,3988215619
-dimwishlist:item=1492522228&perks=2578928832,3708227201,3988215619
-dimwishlist:item=1492522228&perks=1799762209,3078487919,3988215619
-dimwishlist:item=1492522228&perks=1799762209,3708227201,3988215619
-dimwishlist:item=2591257541&perks=2578928832,3078487919,3708227201,3988215619
-dimwishlist:item=2591257541&perks=1799762209,3078487919,3708227201,3988215619
-dimwishlist:item=2591257541&perks=2578928832,1799762209,3078487919,3988215619
-dimwishlist:item=2591257541&perks=2578928832,1799762209,3708227201,3988215619
-dimwishlist:item=2591257541&perks=2578928832,3078487919,3988215619
-dimwishlist:item=2591257541&perks=2578928832,3708227201,3988215619
-dimwishlist:item=2591257541&perks=1799762209,3078487919,3988215619
-dimwishlist:item=2591257541&perks=1799762209,3708227201,3988215619
+//notes:Perfect roll! Mistral Lift - Rank 2, Tier S by TheAegisRelic
+Column 1: Envious Arsenal, Envious Assassin
+Column 2: Bait and Switch
+Origin Trait: Veist Stinger
+dimwishlist:item=3483485727&perks=3987942396,968510818,3078487919,3988215619
 
+//notes:Perfect roll! Boomslang-4fr - Rank 3, Tier A by TheAegisRelic
+Column 1: Envious Arsenal, Rapid Hit
+Column 2: Precision Instrument, Reservoir Burst
+Origin Trait: Veist Stinger
+dimwishlist:item=3926153598&perks=3987942396,247725512,555281244,1427256713,3988215619
 
-//notes:Boomslang-4fr - Rank 3, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Envious Arsenal, Rapid Hit1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Precision Instrument, Reservoir Burst1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
-dimwishlist:item=3926153598&perks=3987942396,555281244,1427256713,3988215619
-dimwishlist:item=3926153598&perks=247725512,555281244,1427256713,3988215619
-dimwishlist:item=3926153598&perks=3987942396,247725512,555281244,3988215619
-dimwishlist:item=3926153598&perks=3987942396,247725512,1427256713,3988215619
-dimwishlist:item=3926153598&perks=3987942396,555281244,3988215619
-dimwishlist:item=3926153598&perks=3987942396,1427256713,3988215619
-dimwishlist:item=3926153598&perks=247725512,555281244,3988215619
-dimwishlist:item=3926153598&perks=247725512,1427256713,3988215619
+//notes:Perfect roll! Doomed Petitioner - Rank 4, Tier A by TheAegisRelic
+Column 1: Envious Assassin, Reconstruction
+Column 2: Surrounded, Precision Instrument
+Origin Trait: Dragon's Vengeance
+dimwishlist:item=1501688142&perks=968510818,1523832109,3708227201,555281244,3978094547
 
-
-//notes:Doomed Petitioner - Rank 4, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Envious Assassin, Reconstruction1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Surrounded, Precision Instrument1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Dragon's Vengeance
-dimwishlist:item=1501688142&perks=968510818,3708227201,555281244,3978094547
-dimwishlist:item=1501688142&perks=1523832109,3708227201,555281244,3978094547
-dimwishlist:item=1501688142&perks=968510818,1523832109,3708227201,3978094547
-dimwishlist:item=1501688142&perks=968510818,1523832109,555281244,3978094547
-dimwishlist:item=1501688142&perks=968510818,3708227201,3978094547
-dimwishlist:item=1501688142&perks=968510818,555281244,3978094547
-dimwishlist:item=1501688142&perks=1523832109,3708227201,3978094547
-dimwishlist:item=1501688142&perks=1523832109,555281244,3978094547
+//notes:Perfect roll! Briar's Contempt - Rank 6, Tier A by TheAegisRelic
+Column 1: Rewind Rounds
+Column 2: Surrounded, Focused Fury
+Origin Trait: Harmonic Resonance
+dimwishlist:item=1491665733&perks=2578928832,3708227201,2896038713,3186078099
+dimwishlist:item=2890082420&perks=2578928832,3708227201,2896038713,3186078099

@@ -1,17 +1,12 @@
-// Bows - 2025-10-28T17:26:10.244Z
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Non-Denouement - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Voltshot, Explosive Head, Chaos Reshaped1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Collective Purpose
+// Bows - 2025-11-27T13:19:14.857Z
+//notes:Perfect roll! Non-Denouement - Rank 1, Tier S by TheAegisRelic
+Column 1: Dragonfly, Archer's Tempo, Shoot to Loot
+Column 2: Voltshot, Explosive Head, Chaos Reshaped
+Origin Trait: Collective Purpose
 dimwishlist:item=1039915310&perks=2848615171,201365942,3700496672,2173046394,3365897133,3640170453,1878756191
 dimwishlist:item=1770490683&perks=2848615171,201365942,3700496672,2173046394,3365897133,3640170453,1878756191
 
 
-//notes:Non-Denouement - Rank 1, Tier S by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Voltshot, Explosive Head, Chaos Reshaped1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Collective Purpose
 dimwishlist:item=1039915310&perks=2848615171,201365942,2173046394,3365897133,3640170453,1878756191
 dimwishlist:item=1039915310&perks=2848615171,3700496672,2173046394,3365897133,3640170453,1878756191
 dimwishlist:item=1039915310&perks=201365942,3700496672,2173046394,3365897133,3640170453,1878756191
@@ -109,38 +104,28 @@ dimwishlist:item=1770490683&perks=3700496672,2173046394,1878756191
 dimwishlist:item=1770490683&perks=3700496672,3365897133,1878756191
 dimwishlist:item=1770490683&perks=3700496672,3640170453,1878756191
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Accrued Redemption - Rank 2, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Firefly1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Photoinhibition
+//notes:Perfect roll! Accrued Redemption - Rank 2, Tier A by TheAegisRelic
+Column 1: Archer's Tempo
+Column 2: Kinetic Tremors, Firefly
+Origin Trait: Photoinhibition
 dimwishlist:item=3621336854&perks=201365942,3891536761,1561789734,511914882
 dimwishlist:item=4095896073&perks=201365942,3891536761,1561789734,511914882
 
 
-//notes:Accrued Redemption - Rank 2, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors, Firefly1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Photoinhibition
 dimwishlist:item=3621336854&perks=201365942,3891536761,511914882
 dimwishlist:item=3621336854&perks=201365942,1561789734,511914882
 dimwishlist:item=4095896073&perks=201365942,3891536761,511914882
 dimwishlist:item=4095896073&perks=201365942,1561789734,511914882
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Fortunate Star - Rank 3, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Repulsor Brace, Impromptu Ammunition1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Demoralize, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
+//notes:Perfect roll! Fortunate Star - Rank 3, Tier A by TheAegisRelic
+Column 1: Dragonfly, Repulsor Brace, Impromptu Ammunition
+Column 2: Destabilizing Rounds, Demoralize, Explosive Head
+Origin Trait: Veist Stinger
 dimwishlist:item=591672323&perks=2848615171,776531651,2360347339,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=2326578623&perks=2848615171,776531651,2360347339,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=2631466936&perks=2848615171,776531651,2360347339,2048641572,1464081238,3365897133,3988215619
 
 
-//notes:Fortunate Star - Rank 3, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Repulsor Brace, Impromptu Ammunition1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Demoralize, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=591672323&perks=2848615171,776531651,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=591672323&perks=2848615171,2360347339,2048641572,1464081238,3365897133,3988215619
 dimwishlist:item=591672323&perks=776531651,2360347339,2048641572,1464081238,3365897133,3988215619
@@ -286,21 +271,16 @@ dimwishlist:item=2631466936&perks=2360347339,2048641572,3988215619
 dimwishlist:item=2631466936&perks=2360347339,1464081238,3988215619
 dimwishlist:item=2631466936&perks=2360347339,3365897133,3988215619
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Anamnesis - Rank 4, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Dragonfly, Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Demoralize, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Runneth Over
+//notes:Perfect roll! Anamnesis - Rank 4, Tier A by TheAegisRelic
+Column 1: Repulsor Brace, Dragonfly, Archer's Tempo
+Column 2: Destabilizing Rounds, Demoralize, Explosive Head
+Origin Trait: Runneth Over
 dimwishlist:item=1536325168&perks=776531651,2848615171,201365942,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=2291392465&perks=776531651,2848615171,201365942,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=3417731926&perks=776531651,2848615171,201365942,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=3949253499&perks=776531651,2848615171,201365942,2048641572,1464081238,3365897133,120721526
 
 
-//notes:Anamnesis - Rank 4, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Dragonfly, Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Destabilizing Rounds, Demoralize, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Runneth Over
 dimwishlist:item=1536325168&perks=776531651,2848615171,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=1536325168&perks=776531651,201365942,2048641572,1464081238,3365897133,120721526
 dimwishlist:item=1536325168&perks=2848615171,201365942,2048641572,1464081238,3365897133,120721526
@@ -494,11 +474,10 @@ dimwishlist:item=3949253499&perks=201365942,2048641572,120721526
 dimwishlist:item=3949253499&perks=201365942,1464081238,120721526
 dimwishlist:item=3949253499&perks=201365942,3365897133,120721526
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Pre Astyanax IV - Rank 5, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Incandescent, Firefly1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Burning Ambition, Explosive Head, Elemental Honing1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Wild Card
+//notes:Perfect roll! Pre Astyanax IV - Rank 5, Tier A by TheAegisRelic
+Column 1: Incandescent, Firefly
+Column 2: Burning Ambition, Explosive Head, Elemental Honing
+Origin Trait: Wild Card
 dimwishlist:item=192784503&perks=4293542123,1561789734,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=471764396&perks=4293542123,1561789734,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=496556698&perks=4293542123,1561789734,2890807135,3365897133,1089671869,1050127423
@@ -506,10 +485,6 @@ dimwishlist:item=2063217087&perks=4293542123,1561789734,2890807135,3365897133,10
 dimwishlist:item=2932922810&perks=4293542123,1561789734,2890807135,3365897133,1089671869,1050127423
 
 
-//notes:Pre Astyanax IV - Rank 5, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Incandescent, Firefly1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Burning Ambition, Explosive Head, Elemental Honing1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Wild Card
 dimwishlist:item=192784503&perks=4293542123,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=192784503&perks=1561789734,2890807135,3365897133,1089671869,1050127423
 dimwishlist:item=192784503&perks=4293542123,1561789734,2890807135,3365897133,1050127423
@@ -611,19 +586,14 @@ dimwishlist:item=2932922810&perks=1561789734,2890807135,1050127423
 dimwishlist:item=2932922810&perks=1561789734,3365897133,1050127423
 dimwishlist:item=2932922810&perks=1561789734,1089671869,1050127423
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Tyranny of Heaven - Rank 6, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Explosive Head, Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, One for All1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Explosive Pact
+//notes:Perfect roll! Tyranny of Heaven - Rank 6, Tier A by TheAegisRelic
+Column 1: Dragonfly, Explosive Head, Archer's Tempo
+Column 2: Incandescent, One for All
+Origin Trait: Explosive Pact
 dimwishlist:item=2721249463&perks=2848615171,3365897133,201365942,4293542123,4049631843,1489048135
 dimwishlist:item=3388655311&perks=2848615171,3365897133,201365942,4293542123,4049631843,1489048135
 
 
-//notes:Tyranny of Heaven - Rank 6, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Explosive Head, Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, One for All1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Explosive Pact
 dimwishlist:item=2721249463&perks=2848615171,3365897133,4293542123,4049631843,1489048135
 dimwishlist:item=2721249463&perks=2848615171,201365942,4293542123,4049631843,1489048135
 dimwishlist:item=2721249463&perks=3365897133,201365942,4293542123,4049631843,1489048135
@@ -665,33 +635,23 @@ dimwishlist:item=3388655311&perks=3365897133,4049631843,1489048135
 dimwishlist:item=3388655311&perks=201365942,4293542123,1489048135
 dimwishlist:item=3388655311&perks=201365942,4049631843,1489048135
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Mercury-A - Rank 7, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Successful Warm-Up1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Tenacity
+//notes:Perfect roll! Mercury-A - Rank 7, Tier A by TheAegisRelic
+Column 1: Attrition Orbs, Successful Warm-Up
+Column 2: Kinetic Tremors
+Origin Trait: Tenacity
 dimwishlist:item=2838279629&perks=243981275,2652708987,3891536761,3911709647
 
 
-//notes:Mercury-A - Rank 7, Tier A by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Attrition Orbs, Successful Warm-Up1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Kinetic Tremors1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Tenacity
 dimwishlist:item=2838279629&perks=243981275,3891536761,3911709647
 dimwishlist:item=2838279629&perks=2652708987,3891536761,3911709647
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Strident Whistle - Rank 8, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, Explosive Head, Dragonfly1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Vanguard's Vindication
+//notes:Perfect roll! Strident Whistle - Rank 8, Tier B by TheAegisRelic
+Column 1: Archer's Tempo, Shoot to Loot
+Column 2: Incandescent, Explosive Head, Dragonfly
+Origin Trait: Vanguard's Vindication
 dimwishlist:item=2591241074&perks=201365942,3700496672,4293542123,3365897133,2848615171,744217850
 
 
-//notes:Strident Whistle - Rank 8, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, Explosive Head, Dragonfly1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Vanguard's Vindication
 dimwishlist:item=2591241074&perks=201365942,4293542123,3365897133,2848615171,744217850
 dimwishlist:item=2591241074&perks=3700496672,4293542123,3365897133,2848615171,744217850
 dimwishlist:item=2591241074&perks=201365942,3700496672,4293542123,3365897133,744217850
@@ -713,21 +673,16 @@ dimwishlist:item=2591241074&perks=3700496672,4293542123,744217850
 dimwishlist:item=2591241074&perks=3700496672,3365897133,744217850
 dimwishlist:item=2591241074&perks=3700496672,2848615171,744217850
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Hush - Rank 9, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Gun and Run
+//notes:Perfect roll! Hush - Rank 9, Tier B by TheAegisRelic
+Column 1: Archer's Tempo, Shoot to Loot
+Column 2: Incandescent, Explosive Head
+Origin Trait: Gun and Run
 dimwishlist:item=1175295126&perks=201365942,3700496672,4293542123,3365897133,515704826
 dimwishlist:item=1584643826&perks=201365942,3700496672,4293542123,3365897133,515704826
 dimwishlist:item=3574168117&perks=201365942,3700496672,4293542123,3365897133,515704826
 dimwishlist:item=3962575203&perks=201365942,3700496672,4293542123,3365897133,515704826
 
 
-//notes:Hush - Rank 9, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Incandescent, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Gun and Run
 dimwishlist:item=1175295126&perks=201365942,4293542123,3365897133,515704826
 dimwishlist:item=1175295126&perks=3700496672,4293542123,3365897133,515704826
 dimwishlist:item=1175295126&perks=201365942,3700496672,4293542123,515704826
@@ -761,19 +716,14 @@ dimwishlist:item=3962575203&perks=201365942,3365897133,515704826
 dimwishlist:item=3962575203&perks=3700496672,4293542123,515704826
 dimwishlist:item=3962575203&perks=3700496672,3365897133,515704826
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Hushed Whisper - Rank 10, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Tear, Slice, Lead from Light1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Hatchling, Archer's Gambit, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Wild Card
+//notes:Perfect roll! Hushed Whisper - Rank 10, Tier B by TheAegisRelic
+Column 1: Tear, Slice, Lead from Light
+Column 2: Hatchling, Archer's Gambit, Explosive Head
+Origin Trait: Wild Card
 dimwishlist:item=1175295126&perks=960997401,923806249,1570399071,831391274,3414324643,3365897133,1050127423
 dimwishlist:item=3574168117&perks=960997401,923806249,1570399071,831391274,3414324643,3365897133,1050127423
 
 
-//notes:Hushed Whisper - Rank 10, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Tear, Slice, Lead from Light1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Hatchling, Archer's Gambit, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Wild Card
 dimwishlist:item=1175295126&perks=960997401,923806249,831391274,3414324643,3365897133,1050127423
 dimwishlist:item=1175295126&perks=960997401,1570399071,831391274,3414324643,3365897133,1050127423
 dimwishlist:item=1175295126&perks=923806249,1570399071,831391274,3414324643,3365897133,1050127423
@@ -871,61 +821,41 @@ dimwishlist:item=3574168117&perks=1570399071,831391274,1050127423
 dimwishlist:item=3574168117&perks=1570399071,3414324643,1050127423
 dimwishlist:item=3574168117&perks=1570399071,3365897133,1050127423
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Tripwire Canary - Rank 11, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Ambush
+//notes:Perfect roll! Tripwire Canary - Rank 11, Tier B by TheAegisRelic
+Column 1: Dragonfly, Archer's Tempo
+Column 2: Explosive Head
+Origin Trait: Ambush
 dimwishlist:item=3849444474&perks=2848615171,201365942,3365897133,192157151
 
 
-//notes:Tripwire Canary - Rank 11, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly, Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Ambush
 dimwishlist:item=3849444474&perks=2848615171,3365897133,192157151
 dimwishlist:item=3849444474&perks=201365942,3365897133,192157151
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Arsenic Bite-4B - Rank 12, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Perfect roll! Arsenic Bite-4B - Rank 12, Tier B by TheAegisRelic
+Column 1: Dragonfly
+Column 2: Explosive Head
+Origin Trait: None
 dimwishlist:item=720351795&perks=2848615171,3365897133,0
 
 
-//notes:Arsenic Bite-4B - Rank 12, Tier B by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Dragonfly1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Under Your Skin - Rank 13, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head, Dragonfly1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Land Tank
+//notes:Perfect roll! Under Your Skin - Rank 13, Tier C by TheAegisRelic
+Column 1: Archer's Tempo
+Column 2: Explosive Head, Dragonfly
+Origin Trait: Land Tank
 dimwishlist:item=232928045&perks=201365942,3365897133,2848615171,1536798515
 
 
-//notes:Under Your Skin - Rank 13, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head, Dragonfly1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Land Tank
 dimwishlist:item=232928045&perks=201365942,3365897133,1536798515
 dimwishlist:item=232928045&perks=201365942,2848615171,1536798515
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Raconteur - Rank 14, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Headstone, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Noble Deeds
+//notes:Perfect roll! Raconteur - Rank 14, Tier C by TheAegisRelic
+Column 1: Archer's Tempo, Shoot to Loot
+Column 2: Headstone, Explosive Head
+Origin Trait: Noble Deeds
 dimwishlist:item=45643573&perks=201365942,3700496672,124408337,3365897133,1823011807
 
 
-//notes:Raconteur - Rank 14, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Headstone, Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Noble Deeds
 dimwishlist:item=45643573&perks=201365942,124408337,3365897133,1823011807
 dimwishlist:item=45643573&perks=3700496672,124408337,3365897133,1823011807
 dimwishlist:item=45643573&perks=201365942,3700496672,124408337,1823011807
@@ -935,18 +865,13 @@ dimwishlist:item=45643573&perks=201365942,3365897133,1823011807
 dimwishlist:item=45643573&perks=3700496672,124408337,1823011807
 dimwishlist:item=45643573&perks=3700496672,3365897133,1823011807
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Vengeful Whisper - Rank 15, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Explosive Head, Archer's Tempo, Slice1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Hatchling1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Sundering
+//notes:Perfect roll! Vengeful Whisper - Rank 15, Tier C by TheAegisRelic
+Column 1: Explosive Head, Archer's Tempo, Slice
+Column 2: Hatchling
+Origin Trait: Sundering
 dimwishlist:item=839344841&perks=3365897133,201365942,923806249,831391274,220689851
 
 
-//notes:Vengeful Whisper - Rank 15, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Explosive Head, Archer's Tempo, Slice1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Hatchling1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Sundering
 dimwishlist:item=839344841&perks=3365897133,201365942,831391274,220689851
 dimwishlist:item=839344841&perks=3365897133,923806249,831391274,220689851
 dimwishlist:item=839344841&perks=201365942,923806249,831391274,220689851
@@ -954,33 +879,23 @@ dimwishlist:item=839344841&perks=3365897133,831391274,220689851
 dimwishlist:item=839344841&perks=201365942,831391274,220689851
 dimwishlist:item=839344841&perks=923806249,831391274,220689851
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Point of the Stag - Rank 16, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Dragonfly1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Wild Card
+//notes:Perfect roll! Point of the Stag - Rank 16, Tier C by TheAegisRelic
+Column 1: Archer's Tempo
+Column 2: Dragonfly
+Origin Trait: Wild Card
 dimwishlist:item=888872889&perks=201365942,2848615171,1050127423
 dimwishlist:item=3434944005&perks=201365942,2848615171,1050127423
 dimwishlist:item=3465233192&perks=201365942,2848615171,1050127423
 
 
-//notes:Point of the Stag - Rank 16, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Dragonfly1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Wild Card
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Wolftone Draw - Rank 17, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Dragonfly, Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Perfect roll! Wolftone Draw - Rank 17, Tier C by TheAegisRelic
+Column 1: Archer's Tempo, Shoot to Loot
+Column 2: Dragonfly, Frenzy
+Origin Trait: None
 dimwishlist:item=3472875143&perks=201365942,3700496672,2848615171,4104185692,0
 
 
-//notes:Wolftone Draw - Rank 17, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Dragonfly, Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
 dimwishlist:item=3472875143&perks=201365942,2848615171,4104185692,0
 dimwishlist:item=3472875143&perks=3700496672,2848615171,4104185692,0
 dimwishlist:item=3472875143&perks=201365942,3700496672,2848615171,0
@@ -990,88 +905,58 @@ dimwishlist:item=3472875143&perks=201365942,4104185692,0
 dimwishlist:item=3472875143&perks=3700496672,2848615171,0
 dimwishlist:item=3472875143&perks=3700496672,4104185692,0
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Fel Taradiddle - Rank 18, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Psychohack
+//notes:Perfect roll! Fel Taradiddle - Rank 18, Tier C by TheAegisRelic
+Column 1: Archer's Tempo, Shoot to Loot
+Column 2: Explosive Head
+Origin Trait: Psychohack
 dimwishlist:item=1399109800&perks=201365942,3700496672,3365897133,79448657
 
 
-//notes:Fel Taradiddle - Rank 18, Tier C by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Psychohack
 dimwishlist:item=1399109800&perks=201365942,3365897133,79448657
 dimwishlist:item=1399109800&perks=3700496672,3365897133,79448657
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Imperial Needle - Rank 19, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Perfect roll! Imperial Needle - Rank 19, Tier D by TheAegisRelic
+Column 1: Archer's Tempo
+Column 2: Frenzy
+Origin Trait: None
 dimwishlist:item=3460122497&perks=201365942,4104185692,0
 
 
-//notes:Imperial Needle - Rank 19, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Frenzy1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Lunulata-4B - Rank 20, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Headstone1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
+//notes:Perfect roll! Lunulata-4B - Rank 20, Tier D by TheAegisRelic
+Column 1: Shoot to Loot
+Column 2: Headstone
+Origin Trait: Veist Stinger
 dimwishlist:item=2513965917&perks=3700496672,124408337,3988215619
 
 
-//notes:Lunulata-4B - Rank 20, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Shoot to Loot1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Headstone1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Biting Winds - Rank 21, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Rapid Hit1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
+//notes:Perfect roll! Biting Winds - Rank 21, Tier D by TheAegisRelic
+Column 1: Rapid Hit
+Column 2: Explosive Head
+Origin Trait: None
 dimwishlist:item=1621657423&perks=247725512,3365897133,0
 
 
-//notes:Biting Winds - Rank 21, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Rapid Hit1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: None
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Lethophobia - Rank 22, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Impulse Amplifier1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Dragon's Vengeance
+//notes:Perfect roll! Lethophobia - Rank 22, Tier D by TheAegisRelic
+Column 1: Repulsor Brace, Impulse Amplifier
+Column 2: Explosive Head
+Origin Trait: Dragon's Vengeance
 dimwishlist:item=3710082365&perks=776531651,951095735,3365897133,3978094547
 
 
-//notes:Lethophobia - Rank 22, Tier D by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Repulsor Brace, Impulse Amplifier1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Explosive Head1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Dragon's Vengeance
 dimwishlist:item=3710082365&perks=776531651,3365897133,3978094547
 dimwishlist:item=3710082365&perks=951095735,3365897133,3978094547
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Whispering Slab - Rank 23, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Demolitionist, Pugilist1   2   3 
- 4 &#10; 5 ​ 6 Column 2: High Ground, Swashbuckler, Vorpal Weapon1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Paracausal Fluid
+//notes:Perfect roll! Whispering Slab - Rank 23, Tier E by TheAegisRelic
+Column 1: Archer's Tempo, Demolitionist, Pugilist
+Column 2: High Ground, Swashbuckler, Vorpal Weapon
+Origin Trait: Paracausal Fluid
 dimwishlist:item=211938782&perks=201365942,3523296417,691659142,2319119708,4082225868,1546637391,1600429811
 dimwishlist:item=690341468&perks=201365942,3523296417,691659142,2319119708,4082225868,1546637391,1600429811
 
 
-//notes:Whispering Slab - Rank 23, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Archer's Tempo, Demolitionist, Pugilist1   2   3 
- 4 &#10; 5 ​ 6 Column 2: High Ground, Swashbuckler, Vorpal Weapon1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Paracausal Fluid
 dimwishlist:item=211938782&perks=201365942,3523296417,2319119708,4082225868,1546637391,1600429811
 dimwishlist:item=211938782&perks=201365942,691659142,2319119708,4082225868,1546637391,1600429811
 dimwishlist:item=211938782&perks=3523296417,691659142,2319119708,4082225868,1546637391,1600429811
@@ -1169,21 +1054,16 @@ dimwishlist:item=690341468&perks=691659142,2319119708,1600429811
 dimwishlist:item=690341468&perks=691659142,4082225868,1600429811
 dimwishlist:item=690341468&perks=691659142,1546637391,1600429811
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Whistler's Whim - Rank 24, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Rapid Hit, Cornered1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Archer's Tempo, Kill Clip1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
+//notes:Perfect roll! Whistler's Whim - Rank 24, Tier E by TheAegisRelic
+Column 1: Rapid Hit, Cornered
+Column 2: Archer's Tempo, Kill Clip
+Origin Trait: Veist Stinger
 dimwishlist:item=161675590&perks=247725512,1799762209,201365942,1015611457,3988215619
 dimwishlist:item=711889599&perks=247725512,1799762209,201365942,1015611457,3988215619
 dimwishlist:item=1574601402&perks=247725512,1799762209,201365942,1015611457,3988215619
 dimwishlist:item=3165143747&perks=247725512,1799762209,201365942,1015611457,3988215619
 
 
-//notes:Whistler's Whim - Rank 24, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Rapid Hit, Cornered1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Archer's Tempo, Kill Clip1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Veist Stinger
 dimwishlist:item=161675590&perks=247725512,201365942,1015611457,3988215619
 dimwishlist:item=161675590&perks=1799762209,201365942,1015611457,3988215619
 dimwishlist:item=161675590&perks=247725512,1799762209,201365942,3988215619
@@ -1217,15 +1097,10 @@ dimwishlist:item=3165143747&perks=247725512,1015611457,3988215619
 dimwishlist:item=3165143747&perks=1799762209,201365942,3988215619
 dimwishlist:item=3165143747&perks=1799762209,1015611457,3988215619
 
-//notes:Godroll!1   2   3 
- 4 &#10; 5 ​ 6 Neoptolemus II - Rank 25, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Pugilist1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Vorpal Weapon1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Wild Card
+//notes:Perfect roll! Neoptolemus II - Rank 25, Tier E by TheAegisRelic
+Column 1: Pugilist
+Column 2: Vorpal Weapon
+Origin Trait: Wild Card
 dimwishlist:item=2848549302&perks=691659142,1546637391,1050127423
 
 
-//notes:Neoptolemus II - Rank 25, Tier E by TheAegisRelic1   2   3 
- 4 &#10; 5 ​ 6 Column 1: Pugilist1   2   3 
- 4 &#10; 5 ​ 6 Column 2: Vorpal Weapon1   2   3 
- 4 &#10; 5 ​ 6 Origin Trait: Wild Card
