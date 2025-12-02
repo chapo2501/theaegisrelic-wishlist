@@ -1,4 +1,4 @@
-// Fusions - 2025-11-27T13:33:11.363Z
+// Fusions - 2025-12-02T20:24:03.137Z
 //notes:Complete Roll!\nLionfish-4fr - Rank 1, Tier S by TheAegisRelic\nColumn 1: Reconstruction, Lead from Gold\nColumn 2: Chill Clip, Controlled Burst, Elemental Honing\nOrigin Trait: Problem Solver
 dimwishlist:item=2423071981&perks=1523832109,1556840489,2978966579,2594592626,1089671869,3454102905
 
@@ -27,45 +27,37 @@ dimwishlist:item=2423071981&perks=1556840489,1089671869,3454102905
 ---
 
 
-//notes:Complete Roll!\nNox Sidereal IV - Rank NaN, Tier ? by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Discord\nOrigin Trait: ?
-dimwishlist:item=0&perks=2284787283,3978468247,0
+//notes:Complete Roll!\nRiptide - Rank 2, Tier S by TheAegisRelic\nColumn 1: Auto-Loading Holster, Overflow\nColumn 2: Chill Clip, Controlled Burst\nOrigin Trait: ?
+dimwishlist:item=2715240478&perks=3300816228,3643424744,2978966579,2594592626,0
 
 
-//notes:Nox Sidereal IV - Rank NaN, Tier ? by TheAegisRelic\nColumn 1: Clown Cartridge\nColumn 2: Discord\nOrigin Trait: ?
+//notes:Riptide - Rank 2, Tier S by TheAegisRelic\nColumn 1: Auto-Loading Holster, Overflow\nColumn 2: Chill Clip, Controlled Burst\nOrigin Trait: ?
+dimwishlist:item=2715240478&perks=3300816228,2978966579,2594592626,0
+dimwishlist:item=2715240478&perks=3643424744,2978966579,2594592626,0
+dimwishlist:item=2715240478&perks=3300816228,3643424744,2978966579,0
+dimwishlist:item=2715240478&perks=3300816228,3643424744,2594592626,0
+dimwishlist:item=2715240478&perks=3300816228,2978966579,0
+dimwishlist:item=2715240478&perks=3300816228,2594592626,0
+dimwishlist:item=2715240478&perks=3643424744,2978966579,0
+dimwishlist:item=2715240478&perks=3643424744,2594592626,0
 ---
 
 
-//notes:Complete Roll!\nMonody-44 - Rank NaN, Tier ? by TheAegisRelic\nColumn 1: ?\nColumn 2: ?\nOrigin Trait: ?
-dimwishlist:item=0&perks=0,0,0
-
-
-//notes:Monody-44 - Rank NaN, Tier ? by TheAegisRelic\nColumn 1: ?\nColumn 2: ?\nOrigin Trait: ?
----
-
-
-//notes:Complete Roll!\nRiptide - Rank NaN, Tier ? by TheAegisRelic\nColumn 1: ?\nColumn 2: ?\nOrigin Trait: ?
-dimwishlist:item=2715240478&perks=0,0,0
-
-
-//notes:Riptide - Rank NaN, Tier ? by TheAegisRelic\nColumn 1: ?\nColumn 2: ?\nOrigin Trait: ?
----
-
-
-//notes:Complete Roll!\nScatter Signal - Rank 2, Tier S by TheAegisRelic\nColumn 1: Overflow, Slice\nColumn 2: Controlled Burst\nOrigin Trait: Dragon's Vengeance
+//notes:Complete Roll!\nScatter Signal - Rank 3, Tier S by TheAegisRelic\nColumn 1: Overflow, Slice\nColumn 2: Controlled Burst\nOrigin Trait: Dragon's Vengeance
 dimwishlist:item=2558925366&perks=3643424744,923806249,2594592626,3978094547
 
 
-//notes:Scatter Signal - Rank 2, Tier S by TheAegisRelic\nColumn 1: Overflow, Slice\nColumn 2: Controlled Burst\nOrigin Trait: Dragon's Vengeance
+//notes:Scatter Signal - Rank 3, Tier S by TheAegisRelic\nColumn 1: Overflow, Slice\nColumn 2: Controlled Burst\nOrigin Trait: Dragon's Vengeance
 dimwishlist:item=2558925366&perks=3643424744,2594592626,3978094547
 dimwishlist:item=2558925366&perks=923806249,2594592626,3978094547
 ---
 
 
-//notes:Complete Roll!\nFinite Maybe - Rank 3, Tier S by TheAegisRelic\nColumn 1: Reconstruction, Incandescent, Demolitionist\nColumn 2: Bait and Switch, Controlled Burst, Discord\nOrigin Trait: Frame of Reference
+//notes:Complete Roll!\nFinite Maybe - Rank 4, Tier S by TheAegisRelic\nColumn 1: Reconstruction, Incandescent, Demolitionist\nColumn 2: Bait and Switch, Controlled Burst, Discord\nOrigin Trait: Frame of Reference
 dimwishlist:item=3241217409&perks=1523832109,4293542123,3523296417,3078487919,2594592626,3978468247,2597494435
 
 
-//notes:Finite Maybe - Rank 3, Tier S by TheAegisRelic\nColumn 1: Reconstruction, Incandescent, Demolitionist\nColumn 2: Bait and Switch, Controlled Burst, Discord\nOrigin Trait: Frame of Reference
+//notes:Finite Maybe - Rank 4, Tier S by TheAegisRelic\nColumn 1: Reconstruction, Incandescent, Demolitionist\nColumn 2: Bait and Switch, Controlled Burst, Discord\nOrigin Trait: Frame of Reference
 dimwishlist:item=3241217409&perks=1523832109,4293542123,3078487919,2594592626,3978468247,2597494435
 dimwishlist:item=3241217409&perks=1523832109,3523296417,3078487919,2594592626,3978468247,2597494435
 dimwishlist:item=3241217409&perks=4293542123,3523296417,3078487919,2594592626,3978468247,2597494435
@@ -117,12 +109,68 @@ dimwishlist:item=3241217409&perks=3523296417,3978468247,2597494435
 ---
 
 
-//notes:Complete Roll!\nZealot's Reward - Rank 5, Tier A by TheAegisRelic\nColumn 1: Auto-Loading Holster, Lead from Gold, Destabilizing Rounds\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Photoinhibition
+//notes:Complete Roll!\nMonody-44 - Rank 5, Tier A by TheAegisRelic\nColumn 1: Discord, Repulsor Brace, Attrition Orbs\nColumn 2: Destabilizing Rounds, Withering Gaze, Controlled Burst\nOrigin Trait: ?
+dimwishlist:item=0&perks=3978468247,776531651,243981275,2048641572,1134488199,2594592626,0
+
+
+//notes:Monody-44 - Rank 5, Tier A by TheAegisRelic\nColumn 1: Discord, Repulsor Brace, Attrition Orbs\nColumn 2: Destabilizing Rounds, Withering Gaze, Controlled Burst\nOrigin Trait: ?
+dimwishlist:item=0&perks=3978468247,776531651,2048641572,1134488199,2594592626,0
+dimwishlist:item=0&perks=3978468247,243981275,2048641572,1134488199,2594592626,0
+dimwishlist:item=0&perks=776531651,243981275,2048641572,1134488199,2594592626,0
+dimwishlist:item=0&perks=3978468247,776531651,243981275,2048641572,1134488199,0
+dimwishlist:item=0&perks=3978468247,776531651,243981275,2048641572,2594592626,0
+dimwishlist:item=0&perks=3978468247,776531651,243981275,1134488199,2594592626,0
+dimwishlist:item=0&perks=3978468247,2048641572,1134488199,2594592626,0
+dimwishlist:item=0&perks=776531651,2048641572,1134488199,2594592626,0
+dimwishlist:item=0&perks=243981275,2048641572,1134488199,2594592626,0
+dimwishlist:item=0&perks=3978468247,776531651,2048641572,1134488199,0
+dimwishlist:item=0&perks=3978468247,776531651,2048641572,2594592626,0
+dimwishlist:item=0&perks=3978468247,776531651,1134488199,2594592626,0
+dimwishlist:item=0&perks=3978468247,243981275,2048641572,1134488199,0
+dimwishlist:item=0&perks=3978468247,243981275,2048641572,2594592626,0
+dimwishlist:item=0&perks=3978468247,243981275,1134488199,2594592626,0
+dimwishlist:item=0&perks=776531651,243981275,2048641572,1134488199,0
+dimwishlist:item=0&perks=776531651,243981275,2048641572,2594592626,0
+dimwishlist:item=0&perks=776531651,243981275,1134488199,2594592626,0
+dimwishlist:item=0&perks=3978468247,776531651,243981275,2048641572,0
+dimwishlist:item=0&perks=3978468247,776531651,243981275,1134488199,0
+dimwishlist:item=0&perks=3978468247,776531651,243981275,2594592626,0
+dimwishlist:item=0&perks=3978468247,2048641572,1134488199,0
+dimwishlist:item=0&perks=3978468247,2048641572,2594592626,0
+dimwishlist:item=0&perks=3978468247,1134488199,2594592626,0
+dimwishlist:item=0&perks=776531651,2048641572,1134488199,0
+dimwishlist:item=0&perks=776531651,2048641572,2594592626,0
+dimwishlist:item=0&perks=776531651,1134488199,2594592626,0
+dimwishlist:item=0&perks=243981275,2048641572,1134488199,0
+dimwishlist:item=0&perks=243981275,2048641572,2594592626,0
+dimwishlist:item=0&perks=243981275,1134488199,2594592626,0
+dimwishlist:item=0&perks=3978468247,776531651,2048641572,0
+dimwishlist:item=0&perks=3978468247,776531651,1134488199,0
+dimwishlist:item=0&perks=3978468247,776531651,2594592626,0
+dimwishlist:item=0&perks=3978468247,243981275,2048641572,0
+dimwishlist:item=0&perks=3978468247,243981275,1134488199,0
+dimwishlist:item=0&perks=3978468247,243981275,2594592626,0
+dimwishlist:item=0&perks=776531651,243981275,2048641572,0
+dimwishlist:item=0&perks=776531651,243981275,1134488199,0
+dimwishlist:item=0&perks=776531651,243981275,2594592626,0
+dimwishlist:item=0&perks=3978468247,2048641572,0
+dimwishlist:item=0&perks=3978468247,1134488199,0
+dimwishlist:item=0&perks=3978468247,2594592626,0
+dimwishlist:item=0&perks=776531651,2048641572,0
+dimwishlist:item=0&perks=776531651,1134488199,0
+dimwishlist:item=0&perks=776531651,2594592626,0
+dimwishlist:item=0&perks=243981275,2048641572,0
+dimwishlist:item=0&perks=243981275,1134488199,0
+dimwishlist:item=0&perks=243981275,2594592626,0
+---
+
+
+//notes:Complete Roll!\nZealot's Reward - Rank 6, Tier A by TheAegisRelic\nColumn 1: Auto-Loading Holster, Lead from Gold, Destabilizing Rounds\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Photoinhibition
 dimwishlist:item=2209003210&perks=3300816228,1556840489,2048641572,2594592626,1427256713,511914882
 dimwishlist:item=2720651699&perks=3300816228,1556840489,2048641572,2594592626,1427256713,511914882
 
 
-//notes:Zealot's Reward - Rank 5, Tier A by TheAegisRelic\nColumn 1: Auto-Loading Holster, Lead from Gold, Destabilizing Rounds\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Photoinhibition
+//notes:Zealot's Reward - Rank 6, Tier A by TheAegisRelic\nColumn 1: Auto-Loading Holster, Lead from Gold, Destabilizing Rounds\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Photoinhibition
 dimwishlist:item=2209003210&perks=3300816228,1556840489,2594592626,1427256713,511914882
 dimwishlist:item=2209003210&perks=3300816228,2048641572,2594592626,1427256713,511914882
 dimwishlist:item=2209003210&perks=1556840489,2048641572,2594592626,1427256713,511914882
@@ -166,32 +214,32 @@ dimwishlist:item=2720651699&perks=2048641572,1427256713,511914882
 ---
 
 
-//notes:Complete Roll!\nTecheun Force - Rank 6, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Controlled Burst\nOrigin Trait: Explosive Pact
+//notes:Complete Roll!\nTecheun Force - Rank 7, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Controlled Burst\nOrigin Trait: Explosive Pact
 dimwishlist:item=3591141932&perks=2578928832,2594592626,1489048135
 dimwishlist:item=4094657108&perks=2578928832,2594592626,1489048135
 
 
-//notes:Techeun Force - Rank 6, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Controlled Burst\nOrigin Trait: Explosive Pact
+//notes:Techeun Force - Rank 7, Tier A by TheAegisRelic\nColumn 1: Rewind Rounds\nColumn 2: Controlled Burst\nOrigin Trait: Explosive Pact
 ---
 
 
-//notes:Complete Roll!\nCartesian Coordinate - Rank 7, Tier A by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Vorpal Weapon\nOrigin Trait: None
+//notes:Complete Roll!\nCartesian Coordinate - Rank 8, Tier A by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Vorpal Weapon\nOrigin Trait: None
 dimwishlist:item=2481881293&perks=1556840489,1546637391,0
 dimwishlist:item=2502422772&perks=1556840489,1546637391,0
 
 
-//notes:Cartesian Coordinate - Rank 7, Tier A by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Vorpal Weapon\nOrigin Trait: None
+//notes:Cartesian Coordinate - Rank 8, Tier A by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Vorpal Weapon\nOrigin Trait: None
 ---
 
 
-//notes:Complete Roll!\nGlacioclasm - Rank 8, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Slideshot, Air Trigger\nColumn 2: Controlled Burst, Reservoir Burst, Withering Gaze\nOrigin Trait: Dawning Surprise
+//notes:Complete Roll!\nGlacioclasm - Rank 9, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Slideshot, Air Trigger\nColumn 2: Controlled Burst, Reservoir Burst, Withering Gaze\nOrigin Trait: Dawning Surprise
 dimwishlist:item=1030895163&perks=968510818,3161816588,1421772400,2594592626,1427256713,1134488199,4264904777
 dimwishlist:item=1183116657&perks=968510818,3161816588,1421772400,2594592626,1427256713,1134488199,4264904777
 dimwishlist:item=2728851518&perks=968510818,3161816588,1421772400,2594592626,1427256713,1134488199,4264904777
 dimwishlist:item=3573686365&perks=968510818,3161816588,1421772400,2594592626,1427256713,1134488199,4264904777
 
 
-//notes:Glacioclasm - Rank 8, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Slideshot, Air Trigger\nColumn 2: Controlled Burst, Reservoir Burst, Withering Gaze\nOrigin Trait: Dawning Surprise
+//notes:Glacioclasm - Rank 9, Tier A by TheAegisRelic\nColumn 1: Envious Assassin, Slideshot, Air Trigger\nColumn 2: Controlled Burst, Reservoir Burst, Withering Gaze\nOrigin Trait: Dawning Surprise
 dimwishlist:item=1030895163&perks=968510818,3161816588,2594592626,1427256713,1134488199,4264904777
 dimwishlist:item=1030895163&perks=968510818,1421772400,2594592626,1427256713,1134488199,4264904777
 dimwishlist:item=1030895163&perks=3161816588,1421772400,2594592626,1427256713,1134488199,4264904777
@@ -387,14 +435,14 @@ dimwishlist:item=3573686365&perks=1421772400,1134488199,4264904777
 ---
 
 
-//notes:Complete Roll!\nAfterlight - Rank 9, Tier A by TheAegisRelic\nColumn 1: Discord, Lead from Gold, Grave Robber\nColumn 2: Reservoir Burst, Destabilizing Rounds, Vorpal Weapon\nOrigin Trait: Willing Vessel
+//notes:Complete Roll!\nAfterlight - Rank 10, Tier A by TheAegisRelic\nColumn 1: Discord, Lead from Gold, Grave Robber\nColumn 2: Reservoir Burst, Destabilizing Rounds, Vorpal Weapon\nOrigin Trait: Willing Vessel
 dimwishlist:item=861521336&perks=3978468247,1556840489,1631667848,1427256713,2048641572,1546637391,878237828
 dimwishlist:item=1834313033&perks=3978468247,1556840489,1631667848,1427256713,2048641572,1546637391,878237828
 dimwishlist:item=3228630258&perks=3978468247,1556840489,1631667848,1427256713,2048641572,1546637391,878237828
 dimwishlist:item=3953163559&perks=3978468247,1556840489,1631667848,1427256713,2048641572,1546637391,878237828
 
 
-//notes:Afterlight - Rank 9, Tier A by TheAegisRelic\nColumn 1: Discord, Lead from Gold, Grave Robber\nColumn 2: Reservoir Burst, Destabilizing Rounds, Vorpal Weapon\nOrigin Trait: Willing Vessel
+//notes:Afterlight - Rank 10, Tier A by TheAegisRelic\nColumn 1: Discord, Lead from Gold, Grave Robber\nColumn 2: Reservoir Burst, Destabilizing Rounds, Vorpal Weapon\nOrigin Trait: Willing Vessel
 dimwishlist:item=861521336&perks=3978468247,1556840489,1427256713,2048641572,1546637391,878237828
 dimwishlist:item=861521336&perks=3978468247,1631667848,1427256713,2048641572,1546637391,878237828
 dimwishlist:item=861521336&perks=1556840489,1631667848,1427256713,2048641572,1546637391,878237828
@@ -590,11 +638,11 @@ dimwishlist:item=3953163559&perks=1631667848,1546637391,878237828
 ---
 
 
-//notes:Complete Roll!\nCruoris FR4 - Rank 10, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge, Discord\nColumn 2: Elemental Honing, Rolling Storm, One for All\nOrigin Trait: Omolon Fluid Dynamics
+//notes:Complete Roll!\nCruoris FR4 - Rank 11, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge, Discord\nColumn 2: Elemental Honing, Rolling Storm, One for All\nOrigin Trait: Omolon Fluid Dynamics
 dimwishlist:item=891996636&perks=2284787283,3978468247,1089671869,3218042543,4049631843,2839173408
 
 
-//notes:Cruoris FR4 - Rank 10, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge, Discord\nColumn 2: Elemental Honing, Rolling Storm, One for All\nOrigin Trait: Omolon Fluid Dynamics
+//notes:Cruoris FR4 - Rank 11, Tier B by TheAegisRelic\nColumn 1: Clown Cartridge, Discord\nColumn 2: Elemental Honing, Rolling Storm, One for All\nOrigin Trait: Omolon Fluid Dynamics
 dimwishlist:item=891996636&perks=2284787283,1089671869,3218042543,4049631843,2839173408
 dimwishlist:item=891996636&perks=3978468247,1089671869,3218042543,4049631843,2839173408
 dimwishlist:item=891996636&perks=2284787283,3978468247,1089671869,3218042543,2839173408
@@ -618,13 +666,13 @@ dimwishlist:item=891996636&perks=3978468247,4049631843,2839173408
 ---
 
 
-//notes:Complete Roll!\nBurden of Guilt - Rank 11, Tier B by TheAegisRelic\nColumn 1: Envious Arsenal, Rimestealer\nColumn 2: Chill Clip, Controlled Burst, Aggregate Charge\nOrigin Trait: Fleet Footed
+//notes:Complete Roll!\nBurden of Guilt - Rank 12, Tier B by TheAegisRelic\nColumn 1: Envious Arsenal, Rimestealer\nColumn 2: Chill Clip, Controlled Burst, Aggregate Charge\nOrigin Trait: Fleet Footed
 dimwishlist:item=933455006&perks=3987942396,1955165503,2978966579,2594592626,3764420437,65797256
 dimwishlist:item=976459525&perks=3987942396,1955165503,2978966579,2594592626,3764420437,65797256
 dimwishlist:item=2002522739&perks=3987942396,1955165503,2978966579,2594592626,3764420437,65797256
 
 
-//notes:Burden of Guilt - Rank 11, Tier B by TheAegisRelic\nColumn 1: Envious Arsenal, Rimestealer\nColumn 2: Chill Clip, Controlled Burst, Aggregate Charge\nOrigin Trait: Fleet Footed
+//notes:Burden of Guilt - Rank 12, Tier B by TheAegisRelic\nColumn 1: Envious Arsenal, Rimestealer\nColumn 2: Chill Clip, Controlled Burst, Aggregate Charge\nOrigin Trait: Fleet Footed
 dimwishlist:item=933455006&perks=3987942396,2978966579,2594592626,3764420437,65797256
 dimwishlist:item=933455006&perks=1955165503,2978966579,2594592626,3764420437,65797256
 dimwishlist:item=933455006&perks=3987942396,1955165503,2978966579,2594592626,65797256
@@ -688,14 +736,14 @@ dimwishlist:item=2002522739&perks=1955165503,3764420437,65797256
 ---
 
 
-//notes:Complete Roll!\nPLUG ONE.1 - Rank 12, Tier B by TheAegisRelic\nColumn 1: Reconstruction, Slideways\nColumn 2: Reservoir Burst, Controlled Burst, Voltshot\nOrigin Trait: Stunning Recovery
+//notes:Complete Roll!\nPLUG ONE.1 - Rank 13, Tier B by TheAegisRelic\nColumn 1: Reconstruction, Slideways\nColumn 2: Reservoir Burst, Controlled Burst, Voltshot\nOrigin Trait: Stunning Recovery
 dimwishlist:item=534775659&perks=1523832109,2039302152,1427256713,2594592626,2173046394,1281216113
 dimwishlist:item=1289000550&perks=1523832109,2039302152,1427256713,2594592626,2173046394,1281216113
 dimwishlist:item=3106557243&perks=1523832109,2039302152,1427256713,2594592626,2173046394,1281216113
 dimwishlist:item=3293524502&perks=1523832109,2039302152,1427256713,2594592626,2173046394,1281216113
 
 
-//notes:PLUG ONE.1 - Rank 12, Tier B by TheAegisRelic\nColumn 1: Reconstruction, Slideways\nColumn 2: Reservoir Burst, Controlled Burst, Voltshot\nOrigin Trait: Stunning Recovery
+//notes:PLUG ONE.1 - Rank 13, Tier B by TheAegisRelic\nColumn 1: Reconstruction, Slideways\nColumn 2: Reservoir Burst, Controlled Burst, Voltshot\nOrigin Trait: Stunning Recovery
 dimwishlist:item=534775659&perks=1523832109,1427256713,2594592626,2173046394,1281216113
 dimwishlist:item=534775659&perks=2039302152,1427256713,2594592626,2173046394,1281216113
 dimwishlist:item=534775659&perks=1523832109,2039302152,1427256713,2594592626,1281216113
@@ -779,11 +827,11 @@ dimwishlist:item=3293524502&perks=2039302152,2173046394,1281216113
 ---
 
 
-//notes:Complete Roll!\nAxial Lacuna - Rank 13, Tier B by TheAegisRelic\nColumn 1: Reconstruction, Demolitionist, Cornered\nColumn 2: Controlled Burst, Surrounded\nOrigin Trait: Dealer's Choice
+//notes:Complete Roll!\nAxial Lacuna - Rank 14, Tier B by TheAegisRelic\nColumn 1: Reconstruction, Demolitionist, Cornered\nColumn 2: Controlled Burst, Surrounded\nOrigin Trait: Dealer's Choice
 dimwishlist:item=3867373351&perks=1523832109,3523296417,1799762209,2594592626,3708227201,1988485648
 
 
-//notes:Axial Lacuna - Rank 13, Tier B by TheAegisRelic\nColumn 1: Reconstruction, Demolitionist, Cornered\nColumn 2: Controlled Burst, Surrounded\nOrigin Trait: Dealer's Choice
+//notes:Axial Lacuna - Rank 14, Tier B by TheAegisRelic\nColumn 1: Reconstruction, Demolitionist, Cornered\nColumn 2: Controlled Burst, Surrounded\nOrigin Trait: Dealer's Choice
 dimwishlist:item=3867373351&perks=1523832109,3523296417,2594592626,3708227201,1988485648
 dimwishlist:item=3867373351&perks=1523832109,1799762209,2594592626,3708227201,1988485648
 dimwishlist:item=3867373351&perks=3523296417,1799762209,2594592626,3708227201,1988485648
@@ -807,19 +855,19 @@ dimwishlist:item=3867373351&perks=1799762209,3708227201,1988485648
 ---
 
 
-//notes:Complete Roll!\nVS Gravitic Arrest - Rank 14, Tier B by TheAegisRelic\nColumn 1: Demolitionist\nColumn 2: Withering Gaze\nOrigin Trait: Bray Legacy
+//notes:Complete Roll!\nVS Gravitic Arrest - Rank 15, Tier B by TheAegisRelic\nColumn 1: Demolitionist\nColumn 2: Withering Gaze\nOrigin Trait: Bray Legacy
 dimwishlist:item=93061497&perks=3523296417,1134488199,4139916815
 
 
-//notes:VS Gravitic Arrest - Rank 14, Tier B by TheAegisRelic\nColumn 1: Demolitionist\nColumn 2: Withering Gaze\nOrigin Trait: Bray Legacy
+//notes:VS Gravitic Arrest - Rank 15, Tier B by TheAegisRelic\nColumn 1: Demolitionist\nColumn 2: Withering Gaze\nOrigin Trait: Bray Legacy
 ---
 
 
-//notes:Complete Roll!\nRoyal Executioner - Rank 15, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Reservoir Burst, Incandescent\nOrigin Trait: Noble Deeds
+//notes:Complete Roll!\nRoyal Executioner - Rank 16, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Reservoir Burst, Incandescent\nOrigin Trait: Noble Deeds
 dimwishlist:item=1720503118&perks=968510818,1556840489,1427256713,4293542123,1823011807
 
 
-//notes:Royal Executioner - Rank 15, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Reservoir Burst, Incandescent\nOrigin Trait: Noble Deeds
+//notes:Royal Executioner - Rank 16, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Reservoir Burst, Incandescent\nOrigin Trait: Noble Deeds
 dimwishlist:item=1720503118&perks=968510818,1427256713,4293542123,1823011807
 dimwishlist:item=1720503118&perks=1556840489,1427256713,4293542123,1823011807
 dimwishlist:item=1720503118&perks=968510818,1556840489,1427256713,1823011807
@@ -831,13 +879,13 @@ dimwishlist:item=1720503118&perks=1556840489,4293542123,1823011807
 ---
 
 
-//notes:Complete Roll!\nLoaded Question - Rank 16, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Overflow, Demolitionist\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Stunning Recovery
+//notes:Complete Roll!\nLoaded Question - Rank 17, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Overflow, Demolitionist\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Stunning Recovery
 dimwishlist:item=580961571&perks=968510818,3643424744,3523296417,2594592626,1427256713,1281216113
 dimwishlist:item=2914913838&perks=968510818,3643424744,3523296417,2594592626,1427256713,1281216113
 dimwishlist:item=3125454907&perks=968510818,3643424744,3523296417,2594592626,1427256713,1281216113
 
 
-//notes:Loaded Question - Rank 16, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Overflow, Demolitionist\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Stunning Recovery
+//notes:Loaded Question - Rank 17, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Overflow, Demolitionist\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Stunning Recovery
 dimwishlist:item=580961571&perks=968510818,3643424744,2594592626,1427256713,1281216113
 dimwishlist:item=580961571&perks=968510818,3523296417,2594592626,1427256713,1281216113
 dimwishlist:item=580961571&perks=3643424744,3523296417,2594592626,1427256713,1281216113
@@ -901,11 +949,11 @@ dimwishlist:item=3125454907&perks=3523296417,1427256713,1281216113
 ---
 
 
-//notes:Complete Roll!\nThe Eremite - Rank 17, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Head Rush
+//notes:Complete Roll!\nThe Eremite - Rank 18, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Head Rush
 dimwishlist:item=3347946548&perks=968510818,1556840489,2594592626,1427256713,2565067140
 
 
-//notes:The Eremite - Rank 17, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Head Rush
+//notes:The Eremite - Rank 18, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Controlled Burst, Reservoir Burst\nOrigin Trait: Head Rush
 dimwishlist:item=3347946548&perks=968510818,2594592626,1427256713,2565067140
 dimwishlist:item=3347946548&perks=1556840489,2594592626,1427256713,2565067140
 dimwishlist:item=3347946548&perks=968510818,1556840489,2594592626,2565067140
@@ -917,166 +965,194 @@ dimwishlist:item=3347946548&perks=1556840489,1427256713,2565067140
 ---
 
 
-//notes:Complete Roll!\nNox Perennial V - Rank 18, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Controlled Burst\nOrigin Trait: Wild Card
+//notes:Complete Roll!\nNox Perennial V - Rank 19, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Controlled Burst\nOrigin Trait: Wild Card
 dimwishlist:item=2767393525&perks=968510818,1556840489,2594592626,1050127423
 
 
-//notes:Nox Perennial V - Rank 18, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Controlled Burst\nOrigin Trait: Wild Card
+//notes:Nox Perennial V - Rank 19, Tier B by TheAegisRelic\nColumn 1: Envious Assassin, Lead from Gold\nColumn 2: Controlled Burst\nOrigin Trait: Wild Card
 dimwishlist:item=2767393525&perks=968510818,2594592626,1050127423
 dimwishlist:item=2767393525&perks=1556840489,2594592626,1050127423
 ---
 
 
-//notes:Complete Roll!\nPressurized Precision - Rank 19, Tier B by TheAegisRelic\nColumn 1: Auto-Loading Holster, Discord\nColumn 2: Vorpal Weapon\nOrigin Trait: Skulking Wolf
+//notes:Complete Roll!\nPressurized Precision - Rank 20, Tier B by TheAegisRelic\nColumn 1: Auto-Loading Holster, Discord\nColumn 2: Vorpal Weapon\nOrigin Trait: Skulking Wolf
 dimwishlist:item=1084190509&perks=3300816228,3978468247,1546637391,3989629871
 
 
-//notes:Pressurized Precision - Rank 19, Tier B by TheAegisRelic\nColumn 1: Auto-Loading Holster, Discord\nColumn 2: Vorpal Weapon\nOrigin Trait: Skulking Wolf
+//notes:Pressurized Precision - Rank 20, Tier B by TheAegisRelic\nColumn 1: Auto-Loading Holster, Discord\nColumn 2: Vorpal Weapon\nOrigin Trait: Skulking Wolf
 dimwishlist:item=1084190509&perks=3300816228,1546637391,3989629871
 dimwishlist:item=1084190509&perks=3978468247,1546637391,3989629871
 ---
 
 
-//notes:Complete Roll!\nDeliverance - Rank 20, Tier C by TheAegisRelic\nColumn 1: Demolitionist\nColumn 2: Chill Clip\nOrigin Trait: Souldrinker
+//notes:Complete Roll!\nDeliverance - Rank 21, Tier C by TheAegisRelic\nColumn 1: Demolitionist\nColumn 2: Chill Clip\nOrigin Trait: Souldrinker
 dimwishlist:item=768621510&perks=3523296417,2978966579,3363267119
 dimwishlist:item=2943293195&perks=3523296417,2978966579,3363267119
 
 
-//notes:Deliverance - Rank 20, Tier C by TheAegisRelic\nColumn 1: Demolitionist\nColumn 2: Chill Clip\nOrigin Trait: Souldrinker
+//notes:Deliverance - Rank 21, Tier C by TheAegisRelic\nColumn 1: Demolitionist\nColumn 2: Chill Clip\nOrigin Trait: Souldrinker
 ---
 
 
-//notes:Complete Roll!\nResounding - Rank 21, Tier C by TheAegisRelic\nColumn 1: Subsistence\nColumn 2: Reservoir Burst\nOrigin Trait: Vanguard's Vindication
+//notes:Complete Roll!\nNox Sidereal IV - Rank 22, Tier C by TheAegisRelic\nColumn 1: Clown Cartridge, Demolitionist\nColumn 2: Reservoir Burst, Discord, Crystalline Corpsebloom\nOrigin Trait: ?
+dimwishlist:item=0&perks=2284787283,3523296417,1427256713,3978468247,2922950962,0
+
+
+//notes:Nox Sidereal IV - Rank 22, Tier C by TheAegisRelic\nColumn 1: Clown Cartridge, Demolitionist\nColumn 2: Reservoir Burst, Discord, Crystalline Corpsebloom\nOrigin Trait: ?
+dimwishlist:item=0&perks=2284787283,1427256713,3978468247,2922950962,0
+dimwishlist:item=0&perks=3523296417,1427256713,3978468247,2922950962,0
+dimwishlist:item=0&perks=2284787283,3523296417,1427256713,3978468247,0
+dimwishlist:item=0&perks=2284787283,3523296417,1427256713,2922950962,0
+dimwishlist:item=0&perks=2284787283,3523296417,3978468247,2922950962,0
+dimwishlist:item=0&perks=2284787283,1427256713,3978468247,0
+dimwishlist:item=0&perks=2284787283,1427256713,2922950962,0
+dimwishlist:item=0&perks=2284787283,3978468247,2922950962,0
+dimwishlist:item=0&perks=3523296417,1427256713,3978468247,0
+dimwishlist:item=0&perks=3523296417,1427256713,2922950962,0
+dimwishlist:item=0&perks=3523296417,3978468247,2922950962,0
+dimwishlist:item=0&perks=2284787283,3523296417,1427256713,0
+dimwishlist:item=0&perks=2284787283,3523296417,3978468247,0
+dimwishlist:item=0&perks=2284787283,3523296417,2922950962,0
+dimwishlist:item=0&perks=2284787283,1427256713,0
+dimwishlist:item=0&perks=2284787283,3978468247,0
+dimwishlist:item=0&perks=2284787283,2922950962,0
+dimwishlist:item=0&perks=3523296417,1427256713,0
+dimwishlist:item=0&perks=3523296417,3978468247,0
+dimwishlist:item=0&perks=3523296417,2922950962,0
+---
+
+
+//notes:Complete Roll!\nResounding - Rank 23, Tier C by TheAegisRelic\nColumn 1: Subsistence\nColumn 2: Reservoir Burst\nOrigin Trait: Vanguard's Vindication
 dimwishlist:item=1824586582&perks=1820235745,1427256713,744217850
 
 
-//notes:Resounding - Rank 21, Tier C by TheAegisRelic\nColumn 1: Subsistence\nColumn 2: Reservoir Burst\nOrigin Trait: Vanguard's Vindication
+//notes:Resounding - Rank 23, Tier C by TheAegisRelic\nColumn 1: Subsistence\nColumn 2: Reservoir Burst\nOrigin Trait: Vanguard's Vindication
 ---
 
 
-//notes:Complete Roll!\nNull Composure - Rank 22, Tier C by TheAegisRelic\nColumn 1: Feeding Frenzy\nColumn 2: Reservoir Burst\nOrigin Trait: None
+//notes:Complete Roll!\nNull Composure - Rank 24, Tier C by TheAegisRelic\nColumn 1: Feeding Frenzy\nColumn 2: Reservoir Burst\nOrigin Trait: None
 dimwishlist:item=1644680957&perks=2779035018,1427256713,0
 
 
-//notes:Null Composure - Rank 22, Tier C by TheAegisRelic\nColumn 1: Feeding Frenzy\nColumn 2: Reservoir Burst\nOrigin Trait: None
+//notes:Null Composure - Rank 24, Tier C by TheAegisRelic\nColumn 1: Feeding Frenzy\nColumn 2: Reservoir Burst\nOrigin Trait: None
 ---
 
 
-//notes:Complete Roll!\nMidha's Reckoning - Rank 23, Tier C by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Reservoir Burst\nOrigin Trait: Runneth Over
+//notes:Complete Roll!\nMidha's Reckoning - Rank 25, Tier C by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Reservoir Burst\nOrigin Trait: Runneth Over
 dimwishlist:item=3904516037&perks=777589559,1427256713,120721526
 dimwishlist:item=3969066556&perks=777589559,1427256713,120721526
 
 
-//notes:Midha's Reckoning - Rank 23, Tier C by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Reservoir Burst\nOrigin Trait: Runneth Over
+//notes:Midha's Reckoning - Rank 25, Tier C by TheAegisRelic\nColumn 1: Field Prep\nColumn 2: Reservoir Burst\nOrigin Trait: Runneth Over
 ---
 
 
-//notes:Complete Roll!\nAurvandil FR6 - Rank 24, Tier D by TheAegisRelic\nColumn 1: Reconstruction\nColumn 2: Chill Clip\nOrigin Trait: Omolon Fluid Dynamics
+//notes:Complete Roll!\nAurvandil FR6 - Rank 26, Tier D by TheAegisRelic\nColumn 1: Reconstruction\nColumn 2: Chill Clip\nOrigin Trait: Omolon Fluid Dynamics
 dimwishlist:item=963710795&perks=1523832109,2978966579,2839173408
 
 
-//notes:Aurvandil FR6 - Rank 24, Tier D by TheAegisRelic\nColumn 1: Reconstruction\nColumn 2: Chill Clip\nOrigin Trait: Omolon Fluid Dynamics
+//notes:Aurvandil FR6 - Rank 26, Tier D by TheAegisRelic\nColumn 1: Reconstruction\nColumn 2: Chill Clip\nOrigin Trait: Omolon Fluid Dynamics
 ---
 
 
-//notes:Complete Roll!\nExile's Curse - Rank 25, Tier D by TheAegisRelic\nColumn 1: Slideshot\nColumn 2: Vorpal Weapon\nOrigin Trait: None
+//notes:Complete Roll!\nExile's Curse - Rank 27, Tier D by TheAegisRelic\nColumn 1: Slideshot\nColumn 2: Vorpal Weapon\nOrigin Trait: None
 dimwishlist:item=276080079&perks=3161816588,1546637391,0
 dimwishlist:item=679281855&perks=3161816588,1546637391,0
 
 
-//notes:Exile's Curse - Rank 25, Tier D by TheAegisRelic\nColumn 1: Slideshot\nColumn 2: Vorpal Weapon\nOrigin Trait: None
+//notes:Exile's Curse - Rank 27, Tier D by TheAegisRelic\nColumn 1: Slideshot\nColumn 2: Vorpal Weapon\nOrigin Trait: None
 ---
 
 
-//notes:Complete Roll!\nIterative Loop - Rank 26, Tier D by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Voltshot, Demolitionist\nOrigin Trait: Nanotech Tracer Missiles
+//notes:Complete Roll!\nIterative Loop - Rank 28, Tier D by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Voltshot, Demolitionist\nOrigin Trait: Nanotech Tracer Missiles
 dimwishlist:item=1289796511&perks=1556840489,2173046394,3523296417,164468655
 
 
-//notes:Iterative Loop - Rank 26, Tier D by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Voltshot, Demolitionist\nOrigin Trait: Nanotech Tracer Missiles
+//notes:Iterative Loop - Rank 28, Tier D by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Voltshot, Demolitionist\nOrigin Trait: Nanotech Tracer Missiles
 dimwishlist:item=1289796511&perks=1556840489,2173046394,164468655
 dimwishlist:item=1289796511&perks=1556840489,3523296417,164468655
 ---
 
 
-//notes:Complete Roll!\nHollow Words - Rank 27, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Vorpal Weapon\nOrigin Trait: Paracausal Fluid
+//notes:Complete Roll!\nHollow Words - Rank 29, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Vorpal Weapon\nOrigin Trait: Paracausal Fluid
 dimwishlist:item=342027677&perks=1556840489,1546637391,1600429811
 dimwishlist:item=607191995&perks=1556840489,1546637391,1600429811
 
 
-//notes:Hollow Words - Rank 27, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Vorpal Weapon\nOrigin Trait: Paracausal Fluid
+//notes:Hollow Words - Rank 29, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Vorpal Weapon\nOrigin Trait: Paracausal Fluid
 ---
 
 
-//notes:Complete Roll!\nThe Wizened Rebuke - Rank 28, Tier E by TheAegisRelic\nColumn 1: Steady Hands\nColumn 2: Vorpal Weapon\nOrigin Trait: Skulking Wolf
+//notes:Complete Roll!\nThe Wizened Rebuke - Rank 30, Tier E by TheAegisRelic\nColumn 1: Steady Hands\nColumn 2: Vorpal Weapon\nOrigin Trait: Skulking Wolf
 dimwishlist:item=2290416&perks=509074078,1546637391,3989629871
 dimwishlist:item=930590127&perks=509074078,1546637391,3989629871
 dimwishlist:item=1999697514&perks=509074078,1546637391,3989629871
 dimwishlist:item=2961807684&perks=509074078,1546637391,3989629871
 
 
-//notes:The Wizened Rebuke - Rank 28, Tier E by TheAegisRelic\nColumn 1: Steady Hands\nColumn 2: Vorpal Weapon\nOrigin Trait: Skulking Wolf
+//notes:The Wizened Rebuke - Rank 30, Tier E by TheAegisRelic\nColumn 1: Steady Hands\nColumn 2: Vorpal Weapon\nOrigin Trait: Skulking Wolf
 ---
 
 
-//notes:Complete Roll!\nIota Draconis - Rank 29, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Frenzy\nOrigin Trait: None
+//notes:Complete Roll!\nIota Draconis - Rank 31, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Frenzy\nOrigin Trait: None
 dimwishlist:item=3044460004&perks=1556840489,4104185692,0
 
 
-//notes:Iota Draconis - Rank 29, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Frenzy\nOrigin Trait: None
+//notes:Iota Draconis - Rank 31, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Frenzy\nOrigin Trait: None
 ---
 
 
-//notes:Complete Roll!\nDream Breaker - Rank 30, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Frenzy\nOrigin Trait: None
+//notes:Complete Roll!\nDream Breaker - Rank 32, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Frenzy\nOrigin Trait: None
 dimwishlist:item=2931957300&perks=1556840489,4104185692,0
 
 
-//notes:Dream Breaker - Rank 30, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Frenzy\nOrigin Trait: None
+//notes:Dream Breaker - Rank 32, Tier E by TheAegisRelic\nColumn 1: Lead from Gold\nColumn 2: Frenzy\nOrigin Trait: None
 ---
 
 
-//notes:Complete Roll!\nSnorri FR5 - Rank 31, Tier E by TheAegisRelic\nColumn 1: Surplus\nColumn 2: Frenzy, Reservoir Burst\nOrigin Trait: Omolon Fluid Dynamics
+//notes:Complete Roll!\nSnorri FR5 - Rank 33, Tier E by TheAegisRelic\nColumn 1: Surplus\nColumn 2: Frenzy, Reservoir Burst\nOrigin Trait: Omolon Fluid Dynamics
 dimwishlist:item=4114929480&perks=3436462433,4104185692,1427256713,2839173408
 
 
-//notes:Snorri FR5 - Rank 31, Tier E by TheAegisRelic\nColumn 1: Surplus\nColumn 2: Frenzy, Reservoir Burst\nOrigin Trait: Omolon Fluid Dynamics
+//notes:Snorri FR5 - Rank 33, Tier E by TheAegisRelic\nColumn 1: Surplus\nColumn 2: Frenzy, Reservoir Burst\nOrigin Trait: Omolon Fluid Dynamics
 dimwishlist:item=4114929480&perks=3436462433,4104185692,2839173408
 dimwishlist:item=4114929480&perks=3436462433,1427256713,2839173408
 ---
 
 
-//notes:Complete Roll!\nLikely Suspect - Rank 32, Tier F by TheAegisRelic\nColumn 1: Slideways\nColumn 2: Golden Tricorn\nOrigin Trait: Psychohack
+//notes:Complete Roll!\nLikely Suspect - Rank 34, Tier F by TheAegisRelic\nColumn 1: Slideways\nColumn 2: Golden Tricorn\nOrigin Trait: Psychohack
 dimwishlist:item=1994645182&perks=2039302152,2610012052,79448657
 
 
-//notes:Likely Suspect - Rank 32, Tier F by TheAegisRelic\nColumn 1: Slideways\nColumn 2: Golden Tricorn\nOrigin Trait: Psychohack
+//notes:Likely Suspect - Rank 34, Tier F by TheAegisRelic\nColumn 1: Slideways\nColumn 2: Golden Tricorn\nOrigin Trait: Psychohack
 ---
 
 
-//notes:Complete Roll!\nTrinary System - Rank 33, Tier F by TheAegisRelic\nColumn 1: Auto-Loading Holster\nColumn 2: High-Impact Reserves, Demolitionist\nOrigin Trait: Gun and Run
+//notes:Complete Roll!\nTrinary System - Rank 35, Tier F by TheAegisRelic\nColumn 1: Auto-Loading Holster\nColumn 2: High-Impact Reserves, Demolitionist\nOrigin Trait: Gun and Run
 dimwishlist:item=3258665412&perks=3300816228,2213355989,3523296417,515704826
 
 
-//notes:Trinary System - Rank 33, Tier F by TheAegisRelic\nColumn 1: Auto-Loading Holster\nColumn 2: High-Impact Reserves, Demolitionist\nOrigin Trait: Gun and Run
+//notes:Trinary System - Rank 35, Tier F by TheAegisRelic\nColumn 1: Auto-Loading Holster\nColumn 2: High-Impact Reserves, Demolitionist\nOrigin Trait: Gun and Run
 dimwishlist:item=3258665412&perks=3300816228,2213355989,515704826
 dimwishlist:item=3258665412&perks=3300816228,3523296417,515704826
 ---
 
 
-//notes:Complete Roll!\nMain Ingredient - Rank 34, Tier F by TheAegisRelic\nColumn 1: Auto-Loading Holster\nColumn 2: High-Impact Reserves\nOrigin Trait: None
+//notes:Complete Roll!\nMain Ingredient - Rank 36, Tier F by TheAegisRelic\nColumn 1: Auto-Loading Holster\nColumn 2: High-Impact Reserves\nOrigin Trait: None
 dimwishlist:item=253196586&perks=3300816228,2213355989,0
 dimwishlist:item=3445437901&perks=3300816228,2213355989,0
 
 
-//notes:Main Ingredient - Rank 34, Tier F by TheAegisRelic\nColumn 1: Auto-Loading Holster\nColumn 2: High-Impact Reserves\nOrigin Trait: None
+//notes:Main Ingredient - Rank 36, Tier F by TheAegisRelic\nColumn 1: Auto-Loading Holster\nColumn 2: High-Impact Reserves\nOrigin Trait: None
 ---
 
 
-//notes:Complete Roll!\nTimelines' Vertex - Rank 35, Tier F by TheAegisRelic\nColumn 1: Lead from Gold, Auto-Loading Holster, Field Prep\nColumn 2: Demolitionist\nOrigin Trait: None
+//notes:Complete Roll!\nTimelines' Vertex - Rank 37, Tier F by TheAegisRelic\nColumn 1: Lead from Gold, Auto-Loading Holster, Field Prep\nColumn 2: Demolitionist\nOrigin Trait: None
 dimwishlist:item=1006783454&perks=1556840489,3300816228,777589559,3523296417,0
 dimwishlist:item=3055192515&perks=1556840489,3300816228,777589559,3523296417,0
 
 
-//notes:Timelines' Vertex - Rank 35, Tier F by TheAegisRelic\nColumn 1: Lead from Gold, Auto-Loading Holster, Field Prep\nColumn 2: Demolitionist\nOrigin Trait: None
+//notes:Timelines' Vertex - Rank 37, Tier F by TheAegisRelic\nColumn 1: Lead from Gold, Auto-Loading Holster, Field Prep\nColumn 2: Demolitionist\nOrigin Trait: None
 dimwishlist:item=1006783454&perks=1556840489,3300816228,3523296417,0
 dimwishlist:item=1006783454&perks=1556840489,777589559,3523296417,0
 dimwishlist:item=1006783454&perks=3300816228,777589559,3523296417,0
@@ -1092,19 +1168,19 @@ dimwishlist:item=3055192515&perks=777589559,3523296417,0
 ---
 
 
-//notes:Complete Roll!\nCoriolis Force - Rank 36, Tier F by TheAegisRelic\nColumn 1: Ambitious Assassin\nColumn 2: One for All\nOrigin Trait: None
+//notes:Complete Roll!\nCoriolis Force - Rank 38, Tier F by TheAegisRelic\nColumn 1: Ambitious Assassin\nColumn 2: One for All\nOrigin Trait: None
 dimwishlist:item=3512349612&perks=2010801679,4049631843,0
 
 
-//notes:Coriolis Force - Rank 36, Tier F by TheAegisRelic\nColumn 1: Ambitious Assassin\nColumn 2: One for All\nOrigin Trait: None
+//notes:Coriolis Force - Rank 38, Tier F by TheAegisRelic\nColumn 1: Ambitious Assassin\nColumn 2: One for All\nOrigin Trait: None
 ---
 
 
-//notes:Complete Roll!\nThe Epicurean - Rank 37, Tier F by TheAegisRelic\nColumn 1: Ensemble\nColumn 2: Repulsor Brace\nOrigin Trait: To Excess
+//notes:Complete Roll!\nThe Epicurean - Rank 39, Tier F by TheAegisRelic\nColumn 1: Ensemble\nColumn 2: Repulsor Brace\nOrigin Trait: To Excess
 dimwishlist:item=2263839058&perks=2621346526,776531651,1905044254
 dimwishlist:item=4124357815&perks=2621346526,776531651,1905044254
 
 
-//notes:The Epicurean - Rank 37, Tier F by TheAegisRelic\nColumn 1: Ensemble\nColumn 2: Repulsor Brace\nOrigin Trait: To Excess
+//notes:The Epicurean - Rank 39, Tier F by TheAegisRelic\nColumn 1: Ensemble\nColumn 2: Repulsor Brace\nOrigin Trait: To Excess
 ---
 

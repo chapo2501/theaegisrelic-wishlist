@@ -1,4 +1,4 @@
-// LFRs - 2025-11-27T13:33:11.363Z
+// LFRs - 2025-12-02T20:24:03.137Z
 //notes:Complete Roll!\nScintillation - Rank 1, Tier S by TheAegisRelic\nColumn 1: Rewind Rounds, Cornered\nColumn 2: Bait and Switch, Surrounded\nOrigin Trait: Veist Stinger
 dimwishlist:item=1492522228&perks=2578928832,1799762209,3078487919,3708227201,3988215619
 dimwishlist:item=2591257541&perks=2578928832,1799762209,3078487919,3708227201,3988215619

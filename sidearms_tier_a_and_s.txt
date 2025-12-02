@@ -1,4 +1,4 @@
-// Sidearms - 2025-11-27T13:33:11.363Z
+// Sidearms - 2025-12-02T20:24:03.137Z
 //notes:Complete Roll!\nCompact Defender - Rank 1, Tier S by TheAegisRelic\nColumn 1: Destabilizing Rounds\nColumn 2: Repulsor Brace, Frenzy\nOrigin Trait: Air-Cooled Core
 dimwishlist:item=0&perks=2048641572,776531651,4104185692,0
 

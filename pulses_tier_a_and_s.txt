@@ -1,4 +1,4 @@
-// Pulses - 2025-11-27T13:33:11.363Z
+// Pulses - 2025-12-02T20:24:03.137Z
 //notes:Complete Roll!\nGridskipper - Rank 1, Tier S by TheAegisRelic\nColumn 1: Repulsor Brace, Demolitionist\nColumn 2: Destabilizing Rounds\nOrigin Trait: Splicer Surge
 dimwishlist:item=1621558458&perks=776531651,3523296417,2048641572,3404929162
 dimwishlist:item=3433930495&perks=776531651,3523296417,2048641572,3404929162
@@ -205,12 +205,68 @@ dimwishlist:item=0&perks=923806249,831391274,0
 dimwishlist:item=2126178511&perks=684456054,777589557,2173046394,253121539
 
 
-//notes:Complete Roll!\nElsie's Rifle - Rank 11, Tier A by TheAegisRelic\nColumn 1: Repulsor Brace, Rewind Rounds, Loose Change\nColumn 2: Destabilizing Rounds, Frenzy\nOrigin Trait: Indomitability
+//notes:Complete Roll!\nHigh Tyrant - Rank 11, Tier A by TheAegisRelic\nColumn 1: Destabilizing Rounds, Repulsor Brace, Loose Change\nColumn 2: Meganeura, Demoralize, Frenzy\nOrigin Trait: Imperial Allegiance
+dimwishlist:item=0&perks=2048641572,776531651,1119449540,1941225610,1464081238,4104185692,0
+
+
+//notes:High Tyrant - Rank 11, Tier A by TheAegisRelic\nColumn 1: Destabilizing Rounds, Repulsor Brace, Loose Change\nColumn 2: Meganeura, Demoralize, Frenzy\nOrigin Trait: Imperial Allegiance
+dimwishlist:item=0&perks=2048641572,776531651,1941225610,1464081238,4104185692,0
+dimwishlist:item=0&perks=2048641572,1119449540,1941225610,1464081238,4104185692,0
+dimwishlist:item=0&perks=776531651,1119449540,1941225610,1464081238,4104185692,0
+dimwishlist:item=0&perks=2048641572,776531651,1119449540,1941225610,1464081238,0
+dimwishlist:item=0&perks=2048641572,776531651,1119449540,1941225610,4104185692,0
+dimwishlist:item=0&perks=2048641572,776531651,1119449540,1464081238,4104185692,0
+dimwishlist:item=0&perks=2048641572,1941225610,1464081238,4104185692,0
+dimwishlist:item=0&perks=776531651,1941225610,1464081238,4104185692,0
+dimwishlist:item=0&perks=1119449540,1941225610,1464081238,4104185692,0
+dimwishlist:item=0&perks=2048641572,776531651,1941225610,1464081238,0
+dimwishlist:item=0&perks=2048641572,776531651,1941225610,4104185692,0
+dimwishlist:item=0&perks=2048641572,776531651,1464081238,4104185692,0
+dimwishlist:item=0&perks=2048641572,1119449540,1941225610,1464081238,0
+dimwishlist:item=0&perks=2048641572,1119449540,1941225610,4104185692,0
+dimwishlist:item=0&perks=2048641572,1119449540,1464081238,4104185692,0
+dimwishlist:item=0&perks=776531651,1119449540,1941225610,1464081238,0
+dimwishlist:item=0&perks=776531651,1119449540,1941225610,4104185692,0
+dimwishlist:item=0&perks=776531651,1119449540,1464081238,4104185692,0
+dimwishlist:item=0&perks=2048641572,776531651,1119449540,1941225610,0
+dimwishlist:item=0&perks=2048641572,776531651,1119449540,1464081238,0
+dimwishlist:item=0&perks=2048641572,776531651,1119449540,4104185692,0
+dimwishlist:item=0&perks=2048641572,1941225610,1464081238,0
+dimwishlist:item=0&perks=2048641572,1941225610,4104185692,0
+dimwishlist:item=0&perks=2048641572,1464081238,4104185692,0
+dimwishlist:item=0&perks=776531651,1941225610,1464081238,0
+dimwishlist:item=0&perks=776531651,1941225610,4104185692,0
+dimwishlist:item=0&perks=776531651,1464081238,4104185692,0
+dimwishlist:item=0&perks=1119449540,1941225610,1464081238,0
+dimwishlist:item=0&perks=1119449540,1941225610,4104185692,0
+dimwishlist:item=0&perks=1119449540,1464081238,4104185692,0
+dimwishlist:item=0&perks=2048641572,776531651,1941225610,0
+dimwishlist:item=0&perks=2048641572,776531651,1464081238,0
+dimwishlist:item=0&perks=2048641572,776531651,4104185692,0
+dimwishlist:item=0&perks=2048641572,1119449540,1941225610,0
+dimwishlist:item=0&perks=2048641572,1119449540,1464081238,0
+dimwishlist:item=0&perks=2048641572,1119449540,4104185692,0
+dimwishlist:item=0&perks=776531651,1119449540,1941225610,0
+dimwishlist:item=0&perks=776531651,1119449540,1464081238,0
+dimwishlist:item=0&perks=776531651,1119449540,4104185692,0
+dimwishlist:item=0&perks=2048641572,1941225610,0
+dimwishlist:item=0&perks=2048641572,1464081238,0
+dimwishlist:item=0&perks=2048641572,4104185692,0
+dimwishlist:item=0&perks=776531651,1941225610,0
+dimwishlist:item=0&perks=776531651,1464081238,0
+dimwishlist:item=0&perks=776531651,4104185692,0
+dimwishlist:item=0&perks=1119449540,1941225610,0
+dimwishlist:item=0&perks=1119449540,1464081238,0
+dimwishlist:item=0&perks=1119449540,4104185692,0
+---
+
+
+//notes:Complete Roll!\nElsie's Rifle - Rank 12, Tier A by TheAegisRelic\nColumn 1: Repulsor Brace, Rewind Rounds, Loose Change\nColumn 2: Destabilizing Rounds, Frenzy\nOrigin Trait: Indomitability
 dimwishlist:item=2372514509&perks=776531651,2578928832,1119449540,2048641572,4104185692,2489430594
 dimwishlist:item=3851176026&perks=776531651,2578928832,1119449540,2048641572,4104185692,2489430594
 
 
-//notes:Elsie's Rifle - Rank 11, Tier A by TheAegisRelic\nColumn 1: Repulsor Brace, Rewind Rounds, Loose Change\nColumn 2: Destabilizing Rounds, Frenzy\nOrigin Trait: Indomitability
+//notes:Elsie's Rifle - Rank 12, Tier A by TheAegisRelic\nColumn 1: Repulsor Brace, Rewind Rounds, Loose Change\nColumn 2: Destabilizing Rounds, Frenzy\nOrigin Trait: Indomitability
 dimwishlist:item=2372514509&perks=776531651,2578928832,2048641572,4104185692,2489430594
 dimwishlist:item=2372514509&perks=776531651,1119449540,2048641572,4104185692,2489430594
 dimwishlist:item=2372514509&perks=2578928832,1119449540,2048641572,4104185692,2489430594
@@ -254,19 +310,19 @@ dimwishlist:item=3851176026&perks=1119449540,4104185692,2489430594
 ---
 
 
-//notes:Complete Roll!\nJurassic Green - Rank 12, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Loose Change\nColumn 2: Incandescent\nOrigin Trait: Field-Tested
+//notes:Complete Roll!\nJurassic Green - Rank 13, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Loose Change\nColumn 2: Incandescent\nOrigin Trait: Field-Tested
 dimwishlist:item=689294985&perks=3017780555,1119449540,4293542123,2120661319
 dimwishlist:item=2261046232&perks=3017780555,1119449540,4293542123,2120661319
 dimwishlist:item=2603335652&perks=3017780555,1119449540,4293542123,2120661319
 dimwishlist:item=3103255595&perks=3017780555,1119449540,4293542123,2120661319
 
 
-//notes:Complete Roll!\nAdhortative - Rank 13, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Attrition Orbs, Shoot to Loot\nColumn 2: Incandescent\nOrigin Trait: Nano-Munitions
+//notes:Complete Roll!\nAdhortative - Rank 14, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Attrition Orbs, Shoot to Loot\nColumn 2: Incandescent\nOrigin Trait: Nano-Munitions
 dimwishlist:item=1167153950&perks=3017780555,243981275,3700496672,4293542123,19542588
 dimwishlist:item=2993554824&perks=3017780555,243981275,3700496672,4293542123,19542588
 
 
-//notes:Adhortative - Rank 13, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Attrition Orbs, Shoot to Loot\nColumn 2: Incandescent\nOrigin Trait: Nano-Munitions
+//notes:Adhortative - Rank 14, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Attrition Orbs, Shoot to Loot\nColumn 2: Incandescent\nOrigin Trait: Nano-Munitions
 dimwishlist:item=1167153950&perks=3017780555,243981275,4293542123,19542588
 dimwishlist:item=1167153950&perks=3017780555,3700496672,4293542123,19542588
 dimwishlist:item=1167153950&perks=243981275,3700496672,4293542123,19542588
@@ -282,18 +338,18 @@ dimwishlist:item=2993554824&perks=3700496672,4293542123,19542588
 ---
 
 
-//notes:Complete Roll!\nDarkest Before - Rank 14, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Attrition Orbs\nColumn 2: Incandescent\nOrigin Trait: Crossing Over
+//notes:Complete Roll!\nDarkest Before - Rank 15, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Attrition Orbs\nColumn 2: Incandescent\nOrigin Trait: Crossing Over
 dimwishlist:item=325519402&perks=3017780555,243981275,4293542123,4129855581
 dimwishlist:item=435821040&perks=3017780555,243981275,4293542123,4129855581
 dimwishlist:item=2481758391&perks=3017780555,243981275,4293542123,4129855581
 
 
-//notes:Complete Roll!\nCruel Mercy - Rank 15, Tier A by TheAegisRelic\nColumn 1: Dragonfly, Eddy Current, Demolitionist\nColumn 2: Rolling Storm, Frenzy\nOrigin Trait: Stunning Recovery
+//notes:Complete Roll!\nCruel Mercy - Rank 16, Tier A by TheAegisRelic\nColumn 1: Dragonfly, Eddy Current, Demolitionist\nColumn 2: Rolling Storm, Frenzy\nOrigin Trait: Stunning Recovery
 dimwishlist:item=233635202&perks=2848615171,684456054,3523296417,3218042543,4104185692,1281216113
 dimwishlist:item=2347178967&perks=2848615171,684456054,3523296417,3218042543,4104185692,1281216113
 
 
-//notes:Cruel Mercy - Rank 15, Tier A by TheAegisRelic\nColumn 1: Dragonfly, Eddy Current, Demolitionist\nColumn 2: Rolling Storm, Frenzy\nOrigin Trait: Stunning Recovery
+//notes:Cruel Mercy - Rank 16, Tier A by TheAegisRelic\nColumn 1: Dragonfly, Eddy Current, Demolitionist\nColumn 2: Rolling Storm, Frenzy\nOrigin Trait: Stunning Recovery
 dimwishlist:item=233635202&perks=2848615171,684456054,3218042543,4104185692,1281216113
 dimwishlist:item=233635202&perks=2848615171,3523296417,3218042543,4104185692,1281216113
 dimwishlist:item=233635202&perks=684456054,3523296417,3218042543,4104185692,1281216113
@@ -337,13 +393,13 @@ dimwishlist:item=2347178967&perks=3523296417,4104185692,1281216113
 ---
 
 
-//notes:Complete Roll!\nBlast Furnace - Rank 16, Tier A by TheAegisRelic\nColumn 1: Kinetic Tremors, Shoot to Loot\nColumn 2: Firefly, One for All, Frenzy\nOrigin Trait: Indomitability
+//notes:Complete Roll!\nBlast Furnace - Rank 17, Tier A by TheAegisRelic\nColumn 1: Kinetic Tremors, Shoot to Loot\nColumn 2: Firefly, One for All, Frenzy\nOrigin Trait: Indomitability
 dimwishlist:item=2372514508&perks=3891536761,3700496672,1561789734,4049631843,4104185692,2489430594
 dimwishlist:item=2533990645&perks=3891536761,3700496672,1561789734,4049631843,4104185692,2489430594
 dimwishlist:item=3843477312&perks=3891536761,3700496672,1561789734,4049631843,4104185692,2489430594
 
 
-//notes:Blast Furnace - Rank 16, Tier A by TheAegisRelic\nColumn 1: Kinetic Tremors, Shoot to Loot\nColumn 2: Firefly, One for All, Frenzy\nOrigin Trait: Indomitability
+//notes:Blast Furnace - Rank 17, Tier A by TheAegisRelic\nColumn 1: Kinetic Tremors, Shoot to Loot\nColumn 2: Firefly, One for All, Frenzy\nOrigin Trait: Indomitability
 dimwishlist:item=2372514508&perks=3891536761,1561789734,4049631843,4104185692,2489430594
 dimwishlist:item=2372514508&perks=3700496672,1561789734,4049631843,4104185692,2489430594
 dimwishlist:item=2372514508&perks=3891536761,3700496672,1561789734,4049631843,2489430594
@@ -407,12 +463,12 @@ dimwishlist:item=3843477312&perks=3700496672,4104185692,2489430594
 ---
 
 
-//notes:Complete Roll!\nStars in Shadow - Rank 17, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Rapid Hit, Impromptu Ammunition\nColumn 2: Incandescent, Burning Ambition\nOrigin Trait: Wild Card
+//notes:Complete Roll!\nStars in Shadow - Rank 18, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Rapid Hit, Impromptu Ammunition\nColumn 2: Incandescent, Burning Ambition\nOrigin Trait: Wild Card
 dimwishlist:item=2050789284&perks=3017780555,247725512,2360347339,4293542123,2890807135,1050127423
 dimwishlist:item=3602242905&perks=3017780555,247725512,2360347339,4293542123,2890807135,1050127423
 
 
-//notes:Stars in Shadow - Rank 17, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Rapid Hit, Impromptu Ammunition\nColumn 2: Incandescent, Burning Ambition\nOrigin Trait: Wild Card
+//notes:Stars in Shadow - Rank 18, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Rapid Hit, Impromptu Ammunition\nColumn 2: Incandescent, Burning Ambition\nOrigin Trait: Wild Card
 dimwishlist:item=2050789284&perks=3017780555,247725512,4293542123,2890807135,1050127423
 dimwishlist:item=2050789284&perks=3017780555,2360347339,4293542123,2890807135,1050127423
 dimwishlist:item=2050789284&perks=247725512,2360347339,4293542123,2890807135,1050127423
