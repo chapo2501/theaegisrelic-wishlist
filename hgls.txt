@@ -1,4 +1,4 @@
-// HGLs - 2025-12-02T20:24:03.137Z
+// HGLs - 2025-12-02T20:27:44.070Z
 //notes:Complete Roll!\nVS Chill Inhibitor - Rank 1, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal, Cascade Point, Attrition Orbs\nColumn 2: Bait and Switch, Explosive Light, Surrounded\nOrigin Trait: Bray Legacy
 dimwishlist:item=1762785662&perks=3987942396,3751912585,243981275,3078487919,3194351027,3708227201,4139916815
 
@@ -310,6 +310,7 @@ dimwishlist:item=2228325504&perks=2396489472,1164602481,2489430594
 //notes:Complete Roll!\nCataphract GL3 - Rank 7, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal, Auto-Loading Holster\nColumn 2: Bait and Switch\nOrigin Trait: Alacrity
 dimwishlist:item=874623537&perks=3987942396,3300816228,3078487919,2988596335
 dimwishlist:item=2738601016&perks=3987942396,3300816228,3078487919,2988596335
+dimwishlist:item=3805679279&perks=3987942396,3300816228,3078487919,2988596335
 
 
 //notes:Cataphract GL3 - Rank 7, Tier A by TheAegisRelic\nColumn 1: Envious Arsenal, Auto-Loading Holster\nColumn 2: Bait and Switch\nOrigin Trait: Alacrity
@@ -317,6 +318,8 @@ dimwishlist:item=874623537&perks=3987942396,3078487919,2988596335
 dimwishlist:item=874623537&perks=3300816228,3078487919,2988596335
 dimwishlist:item=2738601016&perks=3987942396,3078487919,2988596335
 dimwishlist:item=2738601016&perks=3300816228,3078487919,2988596335
+dimwishlist:item=3805679279&perks=3987942396,3078487919,2988596335
+dimwishlist:item=3805679279&perks=3300816228,3078487919,2988596335
 ---
 
 

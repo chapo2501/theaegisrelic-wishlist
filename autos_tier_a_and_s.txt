@@ -1,4 +1,4 @@
-// Autos - 2025-12-02T20:24:03.137Z
+// Autos - 2025-12-02T20:27:44.070Z
 //notes:Complete Roll!\nNo Hesitation - Rank 1, Tier S by TheAegisRelic\nColumn 1: Physic, Demolitionist\nColumn 2: Incandescent, Attrition Orbs, Circle of Life\nOrigin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,3523296417,4293542123,243981275,2298656195,1988485648
 

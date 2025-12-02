@@ -1,4 +1,4 @@
-// Rockets - 2025-12-02T20:24:03.137Z
+// Rockets - 2025-12-02T20:27:44.070Z
 //notes:Complete Roll!\nHezen Vengeance - Rank 1, Tier S by TheAegisRelic\nColumn 1: Envious Arsenal, Cluster Bomb, Overflow\nColumn 2: Bait and Switch, Elemental Honing, Bipod\nOrigin Trait: Timelost Magazine
 dimwishlist:item=1921159786&perks=3987942396,1275731761,3643424744,3078487919,1089671869,1439600632,2589407652
 dimwishlist:item=2265407516&perks=3987942396,1275731761,3643424744,3078487919,1089671869,1439600632,2589407652
