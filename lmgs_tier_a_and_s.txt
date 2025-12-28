@@ -1,4 +1,4 @@
-// LMGs - 2025-12-28T20:44:18.682Z
+// LMGs - 2025-12-28T21:09:24.828Z
 //notes:Complete Roll!\nSong of Ir Yût - Rank 1, Tier S by TheAegisRelic\nColumn 1: Demolitionist, Reconstruction\nColumn 2: High Ground, Bait and Switch\nOrigin Trait: Cursed Thrall
 dimwishlist:item=407511664&perks=3523296417,1523832109,2319119708,3078487919,1156201379
 dimwishlist:item=2828278545&perks=3523296417,1523832109,2319119708,3078487919,1156201379

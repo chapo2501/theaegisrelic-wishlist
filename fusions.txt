@@ -1,4 +1,4 @@
-// Fusions - 2025-12-28T20:44:18.682Z
+// Fusions - 2025-12-28T21:09:24.828Z
 //notes:Complete Roll!\nRiptide - Rank 1, Tier S by TheAegisRelic\nColumn 1: Auto-Loading Holster, Overflow\nColumn 2: Chill Clip, Controlled Burst\nOrigin Trait: Accelerated Assault
 dimwishlist:item=1323862250&perks=3300816228,3643424744,2978966579,2594592626,1847323754
 dimwishlist:item=2297554989&perks=3300816228,3643424744,2978966579,2594592626,1847323754

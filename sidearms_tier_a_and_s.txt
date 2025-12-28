@@ -1,4 +1,4 @@
-// Sidearms - 2025-12-28T20:44:18.682Z
+// Sidearms - 2025-12-28T21:09:24.828Z
 //notes:Complete Roll!\nEvening SI4 - Rank 1, Tier S by TheAegisRelic\nColumn 1: Heal Clip, Impromptu Ammunition\nColumn 2: Incandescent, Burning Ambition, Desperate Measures\nOrigin Trait: Accelerated Assault
 dimwishlist:item=1763361847&perks=3017780555,2360347339,4293542123,2890807135,2109543898,1847323754
 dimwishlist:item=3618823368&perks=3017780555,2360347339,4293542123,2890807135,2109543898,1847323754
