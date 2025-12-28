@@ -1,4 +1,4 @@
-// Autos - 2025-12-14T17:20:55.937Z
+// Autos - 2025-12-28T20:44:18.682Z
 //notes:Complete Roll!\nNo Hesitation - Rank 1, Tier S by TheAegisRelic\nColumn 1: Physic, Demolitionist\nColumn 2: Incandescent, Attrition Orbs, Circle of Life\nOrigin Trait: Dealer's Choice
 dimwishlist:item=1801007332&perks=2980589453,3523296417,4293542123,243981275,2298656195,1988485648
 
@@ -27,11 +27,11 @@ dimwishlist:item=1801007332&perks=3523296417,2298656195,1988485648
 ---
 
 
-//notes:Complete Roll!\nCusp Sempiternal - Rank 2, Tier S by TheAegisRelic\nColumn 1: Reciprocity, Repulsor Brace, Attrition Orbs\nColumn 2: Destabilizing Rounds, Master of Arms, Withering Gaze\nOrigin Trait: Frame of Reference
+//notes:Complete Roll!\nCusp Sempiternal - Rank 2, Tier A by TheAegisRelic\nColumn 1: Reciprocity, Repulsor Brace, Attrition Orbs\nColumn 2: Destabilizing Rounds, Master of Arms, Withering Gaze\nOrigin Trait: Frame of Reference
 dimwishlist:item=2579693381&perks=692399809,776531651,243981275,2048641572,3081867624,1134488199,2597494435
 
 
-//notes:Cusp Sempiternal - Rank 2, Tier S by TheAegisRelic\nColumn 1: Reciprocity, Repulsor Brace, Attrition Orbs\nColumn 2: Destabilizing Rounds, Master of Arms, Withering Gaze\nOrigin Trait: Frame of Reference
+//notes:Cusp Sempiternal - Rank 2, Tier A by TheAegisRelic\nColumn 1: Reciprocity, Repulsor Brace, Attrition Orbs\nColumn 2: Destabilizing Rounds, Master of Arms, Withering Gaze\nOrigin Trait: Frame of Reference
 dimwishlist:item=2579693381&perks=692399809,776531651,2048641572,3081867624,1134488199,2597494435
 dimwishlist:item=2579693381&perks=692399809,243981275,2048641572,3081867624,1134488199,2597494435
 dimwishlist:item=2579693381&perks=776531651,243981275,2048641572,3081867624,1134488199,2597494435
@@ -108,11 +108,27 @@ dimwishlist:item=3385326721&perks=3523296417,4049631843,511914882
 ---
 
 
-//notes:Complete Roll!\nReghusk's Pledge - Rank 4, Tier A by TheAegisRelic\nColumn 1: Destabilizing Rounds, Demoralize\nColumn 2: Repulsor Brace, Golden Tricorn, Attrition Orbs\nOrigin Trait: Skulking Wolf
+//notes:Complete Roll!\nZealous Ideal - Rank 4, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Attrition Orbs\nColumn 2: Incandescent, Burning Ambition\nOrigin Trait: Imperial Allegiance
+dimwishlist:item=1863583117&perks=3017780555,243981275,4293542123,2890807135,1164078247
+
+
+//notes:Zealous Ideal - Rank 4, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Attrition Orbs\nColumn 2: Incandescent, Burning Ambition\nOrigin Trait: Imperial Allegiance
+dimwishlist:item=1863583117&perks=3017780555,4293542123,2890807135,1164078247
+dimwishlist:item=1863583117&perks=243981275,4293542123,2890807135,1164078247
+dimwishlist:item=1863583117&perks=3017780555,243981275,4293542123,1164078247
+dimwishlist:item=1863583117&perks=3017780555,243981275,2890807135,1164078247
+dimwishlist:item=1863583117&perks=3017780555,4293542123,1164078247
+dimwishlist:item=1863583117&perks=3017780555,2890807135,1164078247
+dimwishlist:item=1863583117&perks=243981275,4293542123,1164078247
+dimwishlist:item=1863583117&perks=243981275,2890807135,1164078247
+---
+
+
+//notes:Complete Roll!\nReghusk's Pledge - Rank 5, Tier A by TheAegisRelic\nColumn 1: Destabilizing Rounds, Demoralize\nColumn 2: Repulsor Brace, Golden Tricorn, Attrition Orbs\nOrigin Trait: Skulking Wolf
 dimwishlist:item=2370525224&perks=2048641572,1464081238,776531651,2610012052,243981275,3989629871
 
 
-//notes:Reghusk's Pledge - Rank 4, Tier A by TheAegisRelic\nColumn 1: Destabilizing Rounds, Demoralize\nColumn 2: Repulsor Brace, Golden Tricorn, Attrition Orbs\nOrigin Trait: Skulking Wolf
+//notes:Reghusk's Pledge - Rank 5, Tier A by TheAegisRelic\nColumn 1: Destabilizing Rounds, Demoralize\nColumn 2: Repulsor Brace, Golden Tricorn, Attrition Orbs\nOrigin Trait: Skulking Wolf
 dimwishlist:item=2370525224&perks=2048641572,776531651,2610012052,243981275,3989629871
 dimwishlist:item=2370525224&perks=1464081238,776531651,2610012052,243981275,3989629871
 dimwishlist:item=2370525224&perks=2048641572,1464081238,776531651,2610012052,3989629871
@@ -136,25 +152,9 @@ dimwishlist:item=2370525224&perks=1464081238,243981275,3989629871
 ---
 
 
-//notes:Complete Roll!\nAbyss Defiant - Rank 5, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Enlightened Action\nColumn 2: Incandescent\nOrigin Trait: Cursed Thrall
+//notes:Complete Roll!\nAbyss Defiant - Rank 6, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Enlightened Action\nColumn 2: Incandescent\nOrigin Trait: Cursed Thrall
 dimwishlist:item=833898322&perks=3017780555,777589557,4293542123,1156201379
 dimwishlist:item=3782662983&perks=3017780555,777589557,4293542123,1156201379
-
-
-//notes:Complete Roll!\nZealous Ideal - Rank 6, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Attrition Orbs\nColumn 2: Incandescent, Burning Ambition\nOrigin Trait: Imperial Allegiance
-dimwishlist:item=0&perks=3017780555,243981275,4293542123,2890807135,0
-
-
-//notes:Zealous Ideal - Rank 6, Tier A by TheAegisRelic\nColumn 1: Heal Clip, Attrition Orbs\nColumn 2: Incandescent, Burning Ambition\nOrigin Trait: Imperial Allegiance
-dimwishlist:item=0&perks=3017780555,4293542123,2890807135,0
-dimwishlist:item=0&perks=243981275,4293542123,2890807135,0
-dimwishlist:item=0&perks=3017780555,243981275,4293542123,0
-dimwishlist:item=0&perks=3017780555,243981275,2890807135,0
-dimwishlist:item=0&perks=3017780555,4293542123,0
-dimwishlist:item=0&perks=3017780555,2890807135,0
-dimwishlist:item=0&perks=243981275,4293542123,0
-dimwishlist:item=0&perks=243981275,2890807135,0
----
 
 
 //notes:Complete Roll!\nThe Summoner - Rank 7, Tier A by TheAegisRelic\nColumn 1: Heal Clip\nColumn 2: Incandescent, Onslaught\nOrigin Trait: Wild Card
